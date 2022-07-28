@@ -1,0 +1,31 @@
+{
+  "name": "calls-for-papers",
+  "version": "0.1.0",
+  "description": "Find calls for papers in one location.",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianprester/calls-for-papers.git"
+  },
+  "keywords": [
+    "calls-for-papers",
+    "special-issues",
+    "academia",
+    "research",
+    "science"
+  ],
+  "author": "Julian Prester",
+  "bugs": {
+    "url": "https://github.com/julianprester/calls-for-papers/issues"
+  },
+  "homepage": "https://callsforpapers.org",
+  "dependencies": {
+    "puppeteer": "^15.5.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0"
+  }
+}
