@@ -4,6 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="apple-touch-icon" sizes="120x120" href="https://callsforpapers.org/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://callsforpapers.org/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://callsforpapers.org/assets/favicon-16x16.png">
+    <link rel="manifest" href="https://callsforpapers.org/assets/site.webmanifest">
+    <link rel="mask-icon" href="https://callsforpapers.org/assets/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="https://callsforpapers.org/assets/favicon.ico">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="msapplication-config" content="https://callsforpapers.org/assets/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script defer src="https://unpkg.com/alpinejs@3.10.3/dist/cdn.min.js"></script>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
@@ -15,8 +26,7 @@
             <!-- Header -->
             <nav class="py-2.5 rounded dark:bg-gray-900" x-data="{ isOpen: false }">
                 <div class="flex flex-wrap justify-between items-center">
-                    <a href="/"><span
-                            class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Calls
+                    <a href="/"><span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Calls
                             for Papers</span></a>
                     <button type="button" @click="isOpen = !isOpen"
                         class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600">
@@ -82,7 +92,7 @@
                         href="https://julianprester.com">Julian Prester</a>.
                     Inspired by <a class="text-sky-400" href="https://simonwillison.net/">Simon Willison</a> and his
                     idea of <a class="text-sky-400" href="https://simonwillison.net/2020/Oct/9/git-scraping/">git
-                        scraping</a>.</p>
+                        scraping</a>. Icons by <a href="https://icons8.com">Icons8</a></p>
                 <h1 class="text-3xl py-4">Terms of service</h1>
                 <p class="py-2">Data on Calls for Papers is automatically collected from publishers' websites. By the
                     nature of the data, it's impossible to get it completely accurate. Therefore, we accept no
