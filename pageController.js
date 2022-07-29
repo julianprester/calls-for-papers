@@ -6,6 +6,7 @@ const jitScraper = require('./scrapers/jitScraper');
 const jmisScraper = require('./scrapers/jmisScraper');
 const jsisScraper = require('./scrapers/jsisScraper');
 const misqScraper = require('./scrapers/misqScraper');
+const ioScraper = require('./scrapers/ioScraper');
 const fs = require('fs');
 
 async function scrapeAll(browserInstance) {
@@ -21,6 +22,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await jmisScraper.scraper(browser));
         issues = issues.concat(await jsisScraper.scraper(browser));
         issues = issues.concat(await misqScraper.scraper(browser));
+        issues = issues.concat(await ioScraper.scraper(browser));
         await browser.close();
         fs.writeFile("data.json", JSON.stringify(issues), 'utf8', function (err) {
             if (err) {
