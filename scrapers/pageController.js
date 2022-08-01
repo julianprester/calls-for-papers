@@ -1,15 +1,15 @@
-const jaisScraper = require('./scrapers/jaisScraper');
-const ejisScraper = require('./scrapers/ejisScraper');
-const isjScraper = require('./scrapers/isjScraper');
-const isrScraper = require('./scrapers/isrScraper');
-const jitScraper = require('./scrapers/jitScraper');
-const jmisScraper = require('./scrapers/jmisScraper');
-const jsisScraper = require('./scrapers/jsisScraper');
-const misqScraper = require('./scrapers/misqScraper');
-const ioScraper = require('./scrapers/ioScraper');
-const imScraper = require('./scrapers/imScraper');
-const ijimScraper = require('./scrapers/ijimScraper');
-const dssScraper = require('./scrapers/dssScraper');
+const jaisScraper = require('./journals/jaisScraper');
+const ejisScraper = require('./journals/ejisScraper');
+const isjScraper = require('./journals/isjScraper');
+const isrScraper = require('./journals/isrScraper');
+const jitScraper = require('./journals/jitScraper');
+const jmisScraper = require('./journals/jmisScraper');
+const jsisScraper = require('./journals/jsisScraper');
+const misqScraper = require('./journals/misqScraper');
+const ioScraper = require('./journals/ioScraper');
+const imScraper = require('./journals/imScraper');
+const ijimScraper = require('./journals/ijimScraper');
+const dssScraper = require('./journals/dssScraper');
 const fs = require('fs');
 
 async function scrapeAll(browserInstance) {
@@ -30,7 +30,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await ijimScraper.scraper(browser));
         issues = issues.concat(await dssScraper.scraper(browser));
         await browser.close();
-        fs.writeFile("./src/data.json", JSON.stringify(issues), 'utf8', function (err) {
+        fs.writeFile("./www/data.json", JSON.stringify(issues), 'utf8', function (err) {
             if (err) {
                 return console.log(err);
             }

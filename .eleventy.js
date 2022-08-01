@@ -1,6 +1,6 @@
 module.exports = function (eleventyConfig) {
-    eleventyConfig.addPassthroughCopy('src/data.json');
-    eleventyConfig.addPassthroughCopy('src/favicon');
+    eleventyConfig.addPassthroughCopy('www/data.json');
+    eleventyConfig.addPassthroughCopy('www/favicon');
     eleventyConfig.addPassthroughCopy({
       './node_modules/alpinejs/dist/cdn.min.js': './js/alpine.min.js',
     });
@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
     return {
       htmlTemplateEngine: "njk",
       dir: {
-        input: 'src',
+        input: 'www',
         output: 'public',
         layouts: 'layouts',
         includes: 'includes',
