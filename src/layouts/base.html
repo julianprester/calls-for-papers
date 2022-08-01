@@ -1,0 +1,37 @@
+---
+title: "Calls for Papers | Up-to-date, easily accessible, in one location"
+description: "Calls for Papers shows you the latest calls for papers of academic journals in your discipline, easily accessible, in one location."
+author: Julian Prester
+type: website
+---
+
+
+<!DOCTYPE html>
+<html lang="en" class="antialiased">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
+
+    <link rel="stylesheet" href="{{ '/css/style.css' | url }}" />
+    <script defer src="{{ '/js/alpine.min.js' | url}}"></script>
+    <script defer src="{{ '/js/moment.min.js' | url }}"></script>
+
+    {% include "meta.html" %}
+
+    {% include "favicon.html" %}
+
+</head>
+
+<body>
+    <div class="min-h-screen bg-gray-200 dark:bg-gray-900">
+        <div class="container mx-auto px-8">
+            {% include "header.html" %}
+            {{ content | safe }}
+            {% include "footer.html" %}
+        </div>
+    </div>
+</body>
+
+</html>

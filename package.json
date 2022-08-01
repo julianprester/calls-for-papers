@@ -2,9 +2,10 @@
   "name": "calls-for-papers",
   "version": "0.1.0",
   "description": "Find calls for papers in one location.",
-  "main": "scraper.js",
   "scripts": {
-    "scrape": "node scraper.js",
+    "start": "eleventy --serve & tailwind -i src/styles/tailwind.css -o public/css/style.css --watch",
+    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i src/styles/tailwind.css -o public/css/style.css --minify",
+    "scrape": "node ./calls_for_papers/scraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,5 +28,11 @@
     "puppeteer": "^15.5.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "alpinejs": "^3.10.3",
+    "moment": "^2.29.4",
+    "tailwindcss": "^3.1.7"
   }
 }

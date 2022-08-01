@@ -1,0 +1,107 @@
+---
+layout: base
+permalink: /
+---
+
+<div x-data="{
+        search: '',
+        sortOption: 0,
+        get sortedIssues() {
+            if (this.sortOption == 0) {
+                return this.issues.sort((a,b) => {
+                    if (a.dueDate === null) {
+                        return 1;
+                    }
+                    if (b.dueDate === null) {
+                        return -1;
+                    }
+                    if (a.dueDate === b.dueDate) {
+                        return 0;
+                    }
+                    return a.dueDate < b.dueDate ? -1 : 1;
+                })
+            }
+            if (this.sortOption == 1) {
+                return this.issues.sort((a,b) => (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0))
+            }
+            if (this.sortOption == 2) {
+                return this.issues.sort((a,b) => (a.journal > b.journal) ? 1 : ((b.journal > a.journal) ? -1 : 0))
+            }
+        },
+        get filteredIssues() {
+            return this.sortedIssues.filter(
+                i => i.title.toLowerCase().includes(this.search.toLowerCase())
+            )
+        },
+        issues: []
+    }"
+    x-init="issues = await (await (await fetch('./data.json')).json()).filter(i => i.dueDate > Date.now() || i.dueDate === null);">
+    <!-- Search, sort, filter controls -->
+    <div class="flex justify-between my-4 items-center">
+        <div class="relative grow max-w-xl">
+            <div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
+                <svg class="w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd"
+                        d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+                        clip-rule="evenodd"></path>
+                </svg>
+            </div>
+            <input type="text" x-model="search"
+                class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                placeholder="Search...">
+        </div>
+        <div x-data="{sortOpen: false}" class="relative">
+            <!-- Dropdown toggle button -->
+            <button @click="sortOpen = ! sortOpen"
+                class="block text-gray-900 hover:bg-gray-300 dark:hover:bg-gray-700 rounded-lg dark:text-white  font-medium px-4 py-2.5">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                    class="bi bi-sort-alpha-down" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M10.082 5.629 9.664 7H8.598l1.789-5.332h1.234L13.402 7h-1.12l-.419-1.371h-1.781zm1.57-.785L11 2.687h-.047l-.652 2.157h1.351z" />
+                    <path
+                        d="M12.96 14H9.028v-.691l2.579-3.72v-.054H9.098v-.867h3.785v.691l-2.567 3.72v.054h2.645V14zM4.5 2.5a.5.5 0 0 0-1 0v9.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 1.999.007.007a.497.497 0 0 0 .7-.006l2-2a.5.5 0 0 0-.707-.708L4.5 12.293V2.5z" />
+                </svg>
+            </button>
+            <!-- Dropdown list -->
+            <div x-show="sortOpen" @click.outside="sortOpen = false"
+                class="absolute right-0 py-2 mt-2 bg-white rounded shadow dark:bg-gray-700 text-sm text-gray-700 dark:text-gray-200">
+                <ul>
+                    <li @click="sortOption = 1; sortOpen = false"
+                        class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                        Title</li>
+                    <li @click="sortOption = 2; sortOpen = false"
+                        class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                        Journal</li>
+                    <li @click="sortOption = 0; sortOpen = false"
+                        class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                        Deadline</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Content grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        <template x-for="issue in filteredIssues">
+            <a href="#" :href="issue.url">
+                <div
+                    class="h-full p-4 bg-white rounded-lg border border-gray-400 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+                    <div class="font-medium text-xl text-gray-900 dark:text-white" x-text="issue.title">
+                    </div>
+                    <div class="uppercase text-xs text-gray-700 font-semibold py-2 tracking-widest dark:text-gray-400"
+                        x-text="issue.journal"></div>
+                    <div class="flex">
+                        <svg class="fill-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"
+                            height="24px">
+                            <path
+                                d="M 12 2 C 6.4889971 2 2 6.4889971 2 12 C 2 17.511003 6.4889971 22 12 22 C 17.511003 22 22 17.511003 22 12 C 22 6.4889971 17.511003 2 12 2 z M 12 4 C 16.430123 4 20 7.5698774 20 12 C 20 16.430123 16.430123 20 12 20 C 7.5698774 20 4 16.430123 4 12 C 4 7.5698774 7.5698774 4 12 4 z M 11 6 L 11 12.414062 L 15.292969 16.707031 L 16.707031 15.292969 L 13 11.585938 L 13 6 L 11 6 z" />
+                        </svg>
+                        <div class="ml-2 font-light text-gray-900 dark:text-white"
+                            x-text="issue.dueDate ? moment(issue.dueDate).fromNow() : 'Not available'">
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </template>
+    </div>
+</div>
