@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Find calls for papers in one location.",
   "scripts": {
-    "start": "eleventy --serve",
-    "build": "ELEVENTY_PRODUCTION=true eleventy",
+    "start": "eleventy --serve & tailwind -i src/styles/tailwind.css -o docs/css/style.css --watch",
+    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i src/styles/tailwind.css -o docs/css/style.css --minify",
     "scrape": "node ./calls_for_papers/scraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,6 +30,7 @@
     "puppeteer-extra-plugin-stealth": "^2.11.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^1.0.1",
+    "tailwindcss": "^3.1.7"
   }
 }
