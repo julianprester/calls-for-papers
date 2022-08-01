@@ -2,9 +2,8 @@
   "name": "calls-for-papers",
   "version": "0.1.0",
   "description": "Find calls for papers in one location.",
-  "main": "scraper.js",
   "scripts": {
-    "scrape": "node scraper.js",
+    "scrape": "node ./calls_for_papers/scraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
