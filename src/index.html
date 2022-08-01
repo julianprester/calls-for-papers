@@ -1,0 +1,193 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calls for Papers | Up-to-date, easily accessible, in one location</title>
+    <meta name="description"
+        content="Calls for Papers shows you the latest calls for papers of academic journals in your discipline, easily accessible, in one location.">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://callsforpapers.org" />
+    <meta property="og:title" content="Calls for Papers | Up-to-date, easily accessible, in one location" />
+    <meta property="og:image" content="https://callsforpapers.org/assets/android-chrome-96x96.png" />
+    <meta property="og:description"
+        content="Calls for Papers shows you the latest calls for papers of academic journals in your discipline, easily accessible, in one location." />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Calls for Papers | Up-to-date, easily accessible, in one location" />
+    <meta name="twitter:description"
+        content="Calls for Papers shows you the latest calls for papers of academic journals in your discipline, easily accessible, in one location." />
+    <meta name="twitter:image" content="https://callsforpapers.org/assets/android-chrome-96x96.png" />
+
+    <link rel="apple-touch-icon" sizes="120x120" href="https://callsforpapers.org/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://callsforpapers.org/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://callsforpapers.org/assets/favicon-16x16.png">
+    <link rel="manifest" href="https://callsforpapers.org/assets/site.webmanifest">
+    <link rel="mask-icon" href="https://callsforpapers.org/assets/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="https://callsforpapers.org/assets/favicon.ico">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="msapplication-config" content="https://callsforpapers.org/assets/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://unpkg.com/alpinejs@3.10.3/dist/cdn.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+</head>
+
+<body>
+    <div class="min-h-screen bg-gray-200 dark:bg-gray-900">
+        <div class="container mx-auto px-8">
+            <!-- Header -->
+            <nav class="py-2.5 rounded dark:bg-gray-900" x-data="{ isOpen: false }">
+                <div class="flex flex-wrap justify-between items-center">
+                    <a href="/"><h1 class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Calls
+                            for Papers</h1></a>
+                    <button type="button" @click="isOpen = !isOpen"
+                        class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600">
+                        <span class="sr-only">Open main menu</span>
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd"
+                                d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
+                                clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="w-full md:block md:w-auto" :class="{ 'hidden': !isOpen }">
+                        <ul
+                            class="flex flex-col md:items-center mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
+                            <li>
+                                <a href="/about"
+                                    class="block py-2 px-4 text-gray-700 hover:text-gray-900 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 rounded">About</a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/julianprester/calls-for-papers/issues/new"
+                                    class="block text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Request
+                                    a journal</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- Main -->
+            <div x-data="{
+                search: '',
+                sortOption: 0,
+                get sortedIssues() {
+                    if (this.sortOption == 0) {
+                        return this.issues.sort((a,b) => {
+                            if (a.dueDate === null) {
+                                return 1;
+                            }
+                            if (b.dueDate === null) {
+                                return -1;
+                            }
+                            if (a.dueDate === b.dueDate) {
+                                return 0;
+                            }
+                            return a.dueDate < b.dueDate ? -1 : 1;
+                        })
+                    }
+                    if (this.sortOption == 1) {
+                        return this.issues.sort((a,b) => (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0))
+                    }
+                    if (this.sortOption == 2) {
+                        return this.issues.sort((a,b) => (a.journal > b.journal) ? 1 : ((b.journal > a.journal) ? -1 : 0))
+                    }
+                },
+                get filteredIssues() {
+                    return this.sortedIssues.filter(
+                        i => i.title.toLowerCase().includes(this.search.toLowerCase())
+                    )
+                },
+                issues: []
+            }"
+                x-init="issues = await (await (await fetch('./data.json')).json()).filter(i => i.dueDate > Date.now() || i.dueDate === null);">
+                <!-- Search, sort, filter controls -->
+                <div class="flex justify-between my-4 items-center">
+                    <div class="relative grow max-w-xl">
+                        <div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
+                            <svg class="w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor"
+                                viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                        </div>
+                        <input type="text" x-model="search"
+                            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                            placeholder="Search...">
+                    </div>
+                    <div x-data="{sortOpen: false}" class="relative">
+                        <!-- Dropdown toggle button -->
+                        <button @click="sortOpen = ! sortOpen"
+                            class="block text-gray-900 hover:bg-gray-300 dark:hover:bg-gray-700 rounded-lg dark:text-white  font-medium px-4 py-2.5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                                class="bi bi-sort-alpha-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd"
+                                    d="M10.082 5.629 9.664 7H8.598l1.789-5.332h1.234L13.402 7h-1.12l-.419-1.371h-1.781zm1.57-.785L11 2.687h-.047l-.652 2.157h1.351z" />
+                                <path
+                                    d="M12.96 14H9.028v-.691l2.579-3.72v-.054H9.098v-.867h3.785v.691l-2.567 3.72v.054h2.645V14zM4.5 2.5a.5.5 0 0 0-1 0v9.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 1.999.007.007a.497.497 0 0 0 .7-.006l2-2a.5.5 0 0 0-.707-.708L4.5 12.293V2.5z" />
+                            </svg>
+                        </button>
+                        <!-- Dropdown list -->
+                        <div x-show="sortOpen" @click.outside="sortOpen = false"
+                            class="absolute right-0 py-2 mt-2 bg-white rounded shadow dark:bg-gray-700 text-sm text-gray-700 dark:text-gray-200">
+                            <ul>
+                                <li @click="sortOption = 1; sortOpen = false"
+                                    class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                    Title</li>
+                                <li @click="sortOption = 2; sortOpen = false"
+                                    class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                    Journal</li>
+                                <li @click="sortOption = 0; sortOpen = false"
+                                    class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                    Deadline</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- Content grid -->
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                    <template x-for="issue in filteredIssues">
+                        <a href="#" :href="issue.url">
+                            <div
+                                class="h-full p-4 bg-white rounded-lg border border-gray-400 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+                                <div class="font-medium text-xl text-gray-900 dark:text-white" x-text="issue.title">
+                                </div>
+                                <div class="uppercase text-xs text-gray-700 font-semibold py-2 tracking-widest dark:text-gray-400"
+                                    x-text="issue.journal"></div>
+                                <div class="flex">
+                                    <svg class="fill-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+                                        width="24px" height="24px">
+                                        <path
+                                            d="M 12 2 C 6.4889971 2 2 6.4889971 2 12 C 2 17.511003 6.4889971 22 12 22 C 17.511003 22 22 17.511003 22 12 C 22 6.4889971 17.511003 2 12 2 z M 12 4 C 16.430123 4 20 7.5698774 20 12 C 20 16.430123 16.430123 20 12 20 C 7.5698774 20 4 16.430123 4 12 C 4 7.5698774 7.5698774 4 12 4 z M 11 6 L 11 12.414062 L 15.292969 16.707031 L 16.707031 15.292969 L 13 11.585938 L 13 6 L 11 6 z" />
+                                    </svg>
+                                    <div class="ml-2 font-light text-gray-900 dark:text-white"
+                                        x-text="issue.dueDate ? moment(issue.dueDate).fromNow() : 'Not available'">
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </template>
+                </div>
+            </div>
+            <!-- Footer -->
+            <div class="py-6 space-y-8">
+                <div class="flex justify-evenly font-bold">
+                    <a class="text-gray-700 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                        href="/">Home</a>
+                    <a class="text-gray-700 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                        href="/about">About</a>
+                    <a class="text-gray-700 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                        href="/terms">Terms</a>
+                    <a class="text-gray-700 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                        href="https://github.com/julianprester/calls-for-papers">GitHub</a>
+                </div>
+                <div class="flex justify-center">
+                    <p class="text-gray-700 dark:text-gray-400">Calls for Papers © 2022</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
