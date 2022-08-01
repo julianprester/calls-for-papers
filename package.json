@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Find calls for papers in one location.",
   "scripts": {
-    "start": "eleventy --serve & tailwind -i src/styles/tailwind.css -o docs/css/style.css --watch",
-    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i src/styles/tailwind.css -o docs/css/style.css --minify",
+    "start": "eleventy --serve & tailwind -i src/styles/tailwind.css -o public/css/style.css --watch",
+    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i src/styles/tailwind.css -o public/css/style.css --minify",
     "scrape": "node ./calls_for_papers/scraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
