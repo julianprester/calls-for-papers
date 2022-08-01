@@ -32,6 +32,7 @@ See the [open issues](https://github.com/julianprester/calls-for-papers/issues) 
 - [Alpine.js](https://alpinejs.dev/)
 - [tailwindcss](https://tailwindcss.com/)
 - [Moment.js](https://momentjs.com/)
+- [Netlify](https://www.netlify.com/)
 
 ## Support
 
