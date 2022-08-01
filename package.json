@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Find calls for papers in one location.",
   "scripts": {
+    "clean": "rm -rf public",
     "start": "eleventy --serve & tailwind -i src/styles/tailwind.css -o public/css/style.css --watch",
     "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i src/styles/tailwind.css -o public/css/style.css --minify",
     "scrape": "node ./calls_for_papers/scraper.js",
