@@ -30,6 +30,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await ijimScraper.scraper(browser));
         issues = issues.concat(await dssScraper.scraper(browser));
         await browser.close();
+        issues.forEach(cleanTitle);
         fs.writeFile("./www/data.json", JSON.stringify(issues), 'utf8', function (err) {
             if (err) {
                 return console.log(err);
@@ -40,6 +41,22 @@ async function scrapeAll(browserInstance) {
     catch (err) {
         console.log("Could not resolve the browser instance => ", err);
     }
+}
+
+function cleanTitle(element, index, array) {
+    const patterns = [
+        'DSS Special Issue on ',
+        'Call for Papers on Special Issue: ',
+        /Call for Papers \(Special Section @ ?IJIM\) Theme: /g,
+        /Call for Papers:  ?Special Issue on /g,
+        /Short Title SI: .+/g,
+        /Special Section( Call for Papers)?: /g,
+        '(PDF)',
+        '\'',
+        '"',
+        '”'
+    ]
+    patterns.forEach(pattern => array[index].title = element['title'].replaceAll(pattern, '').trim());
 }
 
 module.exports = (browserInstance) => scrapeAll(browserInstance)
