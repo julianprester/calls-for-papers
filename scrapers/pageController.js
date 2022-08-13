@@ -10,6 +10,7 @@ const ioScraper = require('./journals/ioScraper');
 const imScraper = require('./journals/imScraper');
 const ijimScraper = require('./journals/ijimScraper');
 const dssScraper = require('./journals/dssScraper');
+const dataPreparation = require('./dataPreparation');
 const fs = require('fs');
 
 async function scrapeAll(browserInstance) {
@@ -30,7 +31,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await ijimScraper.scraper(browser));
         issues = issues.concat(await dssScraper.scraper(browser));
         await browser.close();
-        issues.forEach(cleanTitle);
+        issues = dataPreparation(issues);
         fs.writeFile("./www/data.json", JSON.stringify(issues), 'utf8', function (err) {
             if (err) {
                 return console.log(err);
@@ -41,22 +42,6 @@ async function scrapeAll(browserInstance) {
     catch (err) {
         console.log("Could not resolve the browser instance => ", err);
     }
-}
-
-function cleanTitle(element, index, array) {
-    const patterns = [
-        /DSS Special Issue on /g,
-        /Call for Papers on Special Issue: /g,
-        /Call for Papers \(Special Section @ ?IJIM\) Theme: /g,
-        /Call for Papers:  ?Special [I|i]ssue on /g,
-        /(\- )?Short Title SI: .+/g,
-        /Special Section( Call for Papers)?: /g,
-        /\(PDF\)/g,
-        /'/g,
-        /"/g,
-        /”/g
-    ]
-    patterns.forEach(pattern => array[index].title = element['title'].replace(pattern, '').trim());
 }
 
 module.exports = (browserInstance) => scrapeAll(browserInstance)
