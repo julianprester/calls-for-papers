@@ -11,6 +11,7 @@ const imScraper = require('./journals/imScraper');
 const ijimScraper = require('./journals/ijimScraper');
 const dssScraper = require('./journals/dssScraper');
 const dataPreparation = require('./dataPreparation');
+const feedGenerator = require('./feedGenerator');
 const fs = require('fs');
 
 async function scrapeAll(browserInstance) {
@@ -38,6 +39,7 @@ async function scrapeAll(browserInstance) {
             }
             console.log("The data has been scraped and saved successfully! View it at 'data.json'");
         });
+        feedGenerator(issues);
     }
     catch (err) {
         console.log("Could not resolve the browser instance => ", err);
