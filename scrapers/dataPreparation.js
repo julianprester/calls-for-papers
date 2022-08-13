@@ -2,7 +2,11 @@ async function clean(issues) {
     for (let issue of issues) {
         issue = cleanTitles(issue);
     }
-    return await issues;
+    
+    // Filter for outdated issues
+    let filteredIssues = issues.filter(item => item.dueDate > Date.now() || item.dueDate === null);
+
+    return await filteredIssues;
 }
 
 async function cleanTitles(issue) {

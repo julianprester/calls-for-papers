@@ -37,7 +37,7 @@ nav_title: About
         },
         issues: []
     }"
-    x-init="issues = await (await (await fetch('./data.json')).json()).filter(i => i.dueDate > Date.now() || i.dueDate === null);">
+    x-init="issues = await (await fetch('./data.json')).json();">
     <!-- Search, sort, filter controls -->
     <div class="flex justify-between my-4 items-center">
         <div class="relative grow max-w-xl">
