@@ -2,7 +2,7 @@ async function clean(issues) {
     for (let issue of issues) {
         issue = cleanTitles(issue);
     }
-    return issues;
+    return await issues;
 }
 
 async function cleanTitles(issue) {
@@ -22,7 +22,7 @@ async function cleanTitles(issue) {
     for (let pattern of patterns) {
         issue.title = issue.title.replace(pattern, '').trim();
     }
-    return issue;
+    return await issue;
 }
 
 module.exports = (issues) => clean(issues)
