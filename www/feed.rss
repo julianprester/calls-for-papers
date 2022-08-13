@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sat, 13 Aug 2022 07:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 08:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,5 +14,138 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[Digital Responsibility – Social, Ethical, and Ecological Implications of IS]]></title>
+            <link>https://aisel.aisnet.org/jais/SI-DigitalResponsibility.pdf</link>
+            <guid>https://aisel.aisnet.org/jais/SI-DigitalResponsibility.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Managing and Sustaining Digital Transformations]]></title>
+            <link>https://www.callforpapers.co.uk/managing-sustaining-digital-transformations</link>
+            <guid>https://www.callforpapers.co.uk/managing-sustaining-digital-transformations</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>European Journal of Information Systems (EJIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[ICTs and Rural E-Governance]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/CFP-%20e-governance%2020211025-1635874629380.pdf</link>
+            <guid>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/CFP-%20e-governance%2020211025-1635874629380.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digitally Enabled Sharing Economy Models at the Base of the Pyramid]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/DESEMv2-1637687280260.pdf</link>
+            <guid>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/DESEMv2-1637687280260.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[The New Wave of Hybrid Work]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/SI%20HW%20CFP%20FINAL-1-1659455572190.pdf</link>
+            <guid>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/SI%20HW%20CFP%20FINAL-1-1659455572190.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
+            <link>https://pubsonline.informs.org/page/isre/calls-for-papers</link>
+            <guid>https://pubsonline.informs.org/page/isre/calls-for-papers</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Information Systems Research (ISR)</author>
+        </item>
+        <item>
+            <title><![CDATA[Products of Theorizing: Towards Native Theories of Emerging IT]]></title>
+            <link>https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Transformation as Geo-Political, Organizational and Technological Nexus]]></title>
+            <link>https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Fake News on the Internet]]></title>
+            <link>https://www.jmis-web.org/cfps/JMIS_CFP_Fake_News_special_section.pdf</link>
+            <guid>https://www.jmis-web.org/cfps/JMIS_CFP_Fake_News_special_section.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Technologies and Social Justice]]></title>
+            <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/SI_DigitalTechnologies.pdf</link>
+            <guid>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/SI_DigitalTechnologies.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Managing AI]]></title>
+            <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf</link>
+            <guid>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Resilience]]></title>
+            <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf</link>
+            <guid>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[More supportive or more distractive? Investigating the negative effects of technology at the customer interface]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Embracing AI for the Future of Marketing]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-on-special-issue-embracing-ai-for-the-future-of-marketing</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-on-special-issue-embracing-ai-for-the-future-of-marketing</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Future of AI in Marketing]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/future-of-ai-in-marketing</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/future-of-ai-in-marketing</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sustainability: New insights into the role of information systems and digitisation]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-on-special-issue-sustainability-new-insights-into-the-role-of-information-systems-and-digitisation-short-title-si-sustainability-and-information-systems</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-on-special-issue-sustainability-new-insights-into-the-role-of-information-systems-and-digitisation-short-title-si-sustainability-and-information-systems</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Theory Building in Information Systems with Big Data-Driven Research]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/theory-building-in-information-systems-with-big-data-driven-research</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/theory-building-in-information-systems-with-big-data-driven-research</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Platforms and Transformational Entrepreneurship]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-digital-platforms</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-digital-platforms</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Meta-analysis applications in information systems domains]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-meta-analysis-app</link>
+            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-meta-analysis-app</guid>
+            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
     </channel>
 </rss>
