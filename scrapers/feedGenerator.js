@@ -5,6 +5,9 @@ const fs = require('fs/promises');
 async function generateFeed(issues) {
     const now = new Date();
     let existingItems = await readFeed();
+    if (issues.map(issue => issue.url).filter(value => !existingItems.map(item => item.guid).includes(value)).length == 0) {
+        return;
+    }
     const rssFeed = new Feed({
         title: "Calls for Papers",
         description: "Calls for Papers shows you the latest calls for papers of academic journals in your discipline.",
