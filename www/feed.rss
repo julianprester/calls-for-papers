@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sat, 13 Aug 2022 08:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,10 +15,31 @@
         </image>
         <copyright>Calls for Papers © 2022</copyright>
         <item>
-            <title><![CDATA[Digital Responsibility – Social, Ethical, and Ecological Implications of IS]]></title>
+            <title><![CDATA[Digital Responsibility - Social, Ethical, and Ecological Implications of IS]]></title>
             <link>https://aisel.aisnet.org/jais/SI-DigitalResponsibility.pdf</link>
             <guid>https://aisel.aisnet.org/jais/SI-DigitalResponsibility.pdf</guid>
             <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Envisioning Digital Transformation - Advancing Theoretical Diversity]]></title>
+            <link>https://aisel.aisnet.org/jais/CallforPapersJAISAdvancing.pdf</link>
+            <guid>https://aisel.aisnet.org/jais/CallforPapersJAISAdvancing.pdf</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Data Science for Social Good]]></title>
+            <link>https://aisel.aisnet.org/jais/JAISSIonDataScienceforSocialGood.pdf</link>
+            <guid>https://aisel.aisnet.org/jais/JAISSIonDataScienceforSocialGood.pdf</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technology and Social Inclusion]]></title>
+            <link>https://aisel.aisnet.org/jais/SocialInclusionSI.pdf</link>
+            <guid>https://aisel.aisnet.org/jais/SocialInclusionSI.pdf</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
             <author>Journal of the Association for Information Systems (JAIS)</author>
         </item>
         <item>
@@ -55,6 +76,27 @@
             <guid>https://pubsonline.informs.org/page/isre/calls-for-papers</guid>
             <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
+        </item>
+        <item>
+            <title><![CDATA[Regulation in the Age of Digitalization]]></title>
+            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Emerging Technologies and IS Sourcing]]></title>
+            <link>https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ethical Issues and Unintended Consequences of Digitalization and Platformization]]></title>
+            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
             <title><![CDATA[Products of Theorizing: Towards Native Theories of Emerging IT]]></title>
@@ -97,6 +139,34 @@
             <guid>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf</guid>
             <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
             <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Data Governance, Digital Innovation and Grand Challenges]]></title>
+            <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#data-governance-digital-innovation-and-grand-challenges</link>
+            <guid>https://www.journals.elsevier.com/information-and-organization/call-for-papers#data-governance-digital-innovation-and-grand-challenges</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Information and Organization (IO)</author>
+        </item>
+        <item>
+            <title><![CDATA[Research Impact and Contribtutions to Knowledge]]></title>
+            <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#special-section-call-for-papers-research-impact-and-contribt</link>
+            <guid>https://www.journals.elsevier.com/information-and-organization/call-for-papers#special-section-call-for-papers-research-impact-and-contribt</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Information and Organization (IO)</author>
+        </item>
+        <item>
+            <title><![CDATA[Call for papers for a Special Issue of Information & Management]]></title>
+            <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management</link>
+            <guid>https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Information and Management (IM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Social Commerce and Social Media: Behaviors in the New Service Economy]]></title>
+            <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#social-commerce-and-social-media-behaviors-in-the-new-servic</link>
+            <guid>https://www.journals.elsevier.com/information-and-management/call-for-papers#social-commerce-and-social-media-behaviors-in-the-new-servic</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Information and Management (IM)</author>
         </item>
         <item>
             <title><![CDATA[More supportive or more distractive? Investigating the negative effects of technology at the customer interface]]></title>
@@ -146,6 +216,13 @@
             <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-meta-analysis-app</guid>
             <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Explainable AI for Enhanced Decision Making]]></title>
+            <link>https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-explainable-ai-for-enhanced-decision-making</link>
+            <guid>https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-explainable-ai-for-enhanced-decision-making</guid>
+            <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
+            <author>Decision Support Systems (DSS)</author>
         </item>
     </channel>
 </rss>
