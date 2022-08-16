@@ -33,7 +33,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await dssScraper.scraper(browser));
         await browser.close();
         issues = await dataPreparation(issues);
-        fs.writeFile("./www/data.json", JSON.stringify(issues), 'utf8', function (err) {
+        fs.writeFile("./www/data.json", JSON.stringify(issues, null, 2), 'utf8', function (err) {
             if (err) {
                 return console.log(err);
             }
