@@ -11,10 +11,10 @@ nav_title: About
         get sortedIssues() {
             if (this.sortOption == 0) {
                 return this.issues.sort((a,b) => {
-                    if (a.dueDate === null) {
+                    if (a.dueDate === null || a.dueDate < new Date()) {
                         return 1;
                     }
-                    if (b.dueDate === null) {
+                    if (b.dueDate === null || b.dueDate < new Date()) {
                         return -1;
                     }
                     if (a.dueDate === b.dueDate) {
