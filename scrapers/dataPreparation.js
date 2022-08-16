@@ -21,11 +21,13 @@ async function cleanTitles(issue) {
         /\(PDF\)/g,
         /'/g,
         /"/g,
-        /”/g
+        /”/g,
+        /“/g
     ];
     for (let pattern of patterns) {
         issue.title = issue.title.replace(pattern, '').trim();
     }
+    issue.title = issue.title.replace('–', '-').trim();
     return await issue;
 }
 
