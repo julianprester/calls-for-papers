@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 18 Aug 2022 04:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 03:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -204,18 +204,11 @@
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
-            <title><![CDATA[Digital Platforms and Transformational Entrepreneurship]]></title>
-            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-digital-platforms</link>
-            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-digital-platforms</guid>
-            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
-            <author>International Journal of Information Management (IJIM)</author>
-        </item>
-        <item>
-            <title><![CDATA[Meta-analysis applications in information systems domains]]></title>
-            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-meta-analysis-app</link>
-            <guid>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/call-for-papers-special-section-ijim-theme-meta-analysis-app</guid>
-            <pubDate>Sat, 13 Aug 2022 08:25:31 GMT</pubDate>
-            <author>International Journal of Information Management (IJIM)</author>
+            <title><![CDATA[Blockchain Technology and Applications]]></title>
+            <link>https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications</link>
+            <guid>https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications</guid>
+            <pubDate>Sat, 20 Aug 2022 03:43:56 GMT</pubDate>
+            <author>Decision Support Systems (DSS)</author>
         </item>
         <item>
             <title><![CDATA[Explainable AI for Enhanced Decision Making]]></title>
