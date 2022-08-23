@@ -43,7 +43,7 @@ async function generateFeed(issues) {
         });
     });
     try {
-        await fs.writeFile("./www/feed.rss", rssFeed.rss2());
+        await fs.writeFile("./www/rss.xml", rssFeed.rss2());
     } catch (err) {
         console.log(err);
     }
@@ -51,7 +51,7 @@ async function generateFeed(issues) {
 
 async function readFeed() {
     try {
-        const data = await fs.readFile("./www/feed.rss", { encoding: 'utf8' });
+        const data = await fs.readFile("./www/rss.xml", { encoding: 'utf8' });
         let parser = new Parser();
         let feed = await parser.parseString(data);
         return await feed.items;
