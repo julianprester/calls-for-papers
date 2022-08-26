@@ -10,6 +10,7 @@ const ioScraper = require('./journals/ioScraper');
 const imScraper = require('./journals/imScraper');
 const ijimScraper = require('./journals/ijimScraper');
 const dssScraper = require('./journals/dssScraper');
+const jasistScraper = require('./journals/jasistScraper');
 const dataPreparation = require('./dataPreparation');
 const feedGenerator = require('./feedGenerator');
 const fs = require('fs');
@@ -31,6 +32,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await imScraper.scraper(browser));
         issues = issues.concat(await ijimScraper.scraper(browser));
         issues = issues.concat(await dssScraper.scraper(browser));
+        issues = issues.concat(await jasistScraper.scraper(browser));
         await browser.close();
         issues = await dataPreparation(issues);
         fs.writeFile("./www/data.json", JSON.stringify(issues, null, 2), 'utf8', function (err) {
