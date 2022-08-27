@@ -15,7 +15,7 @@ async function cleanTitles(issue) {
         /Call for Papers: /g,
         /Special Issue on /g,
         /(\- )?Short Title SI: .+/g,
-        /Special Section( Call for Papers)?: /g,
+        /Special Section:? /g,
         /\(PDF\)/g,
         /'/g,
         /"/g,
