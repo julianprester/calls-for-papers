@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sat, 20 Aug 2022 03:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 04:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -148,7 +148,7 @@
             <author>Information and Organization (IO)</author>
         </item>
         <item>
-            <title><![CDATA[Research Impact and Contribtutions to Knowledge]]></title>
+            <title><![CDATA[Special Section Research Impact and Contribtutions to Knowledge]]></title>
             <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#</link>
             <guid>https://www.journals.elsevier.com/information-and-organization/call-for-papers#</guid>
             <pubDate>Thu, 18 Aug 2022 04:07:25 GMT</pubDate>
@@ -216,6 +216,34 @@
             <guid>https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-explainable-ai-for-enhanced-decision-making</guid>
             <pubDate>Tue, 16 Aug 2022 10:02:01 GMT</pubDate>
             <author>Decision Support Systems (DSS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Re-orientating%20Search%20Engine-1652992948493.pdf</link>
+            <guid>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Re-orientating%20Search%20Engine-1652992948493.pdf</guid>
+            <pubDate>Sat, 27 Aug 2022 04:06:27 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Conceptual Models of the Sociotechnical]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Conceptual%20Models%20of%20the%20Sociotechnical-1652992792703.pdf</link>
+            <guid>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Conceptual%20Models%20of%20the%20Sociotechnical-1652992792703.pdf</guid>
+            <pubDate>Sat, 27 Aug 2022 04:06:27 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Futures of Work in the Age of Intelligent Machines]]></title>
+            <link>https://www.emeraldgrouppublishing.com/calls-for-papers/futures-work-age-intelligent-machines</link>
+            <guid>https://www.emeraldgrouppublishing.com/calls-for-papers/futures-work-age-intelligent-machines</guid>
+            <pubDate>Sat, 27 Aug 2022 04:06:27 GMT</pubDate>
+            <author>Information Technology &amp; People (ITP)</author>
+        </item>
+        <item>
+            <title><![CDATA[Work from Home (WFH), Employee Productivity and Wellbeing: Lessons from COVID-19 and Future Implications]]></title>
+            <link>https://www.emeraldgrouppublishing.com/journal/itp/work-home-wfh-employee-productivity-and-wellbeing-lessons-covid-19-and-future</link>
+            <guid>https://www.emeraldgrouppublishing.com/journal/itp/work-home-wfh-employee-productivity-and-wellbeing-lessons-covid-19-and-future</guid>
+            <pubDate>Sat, 27 Aug 2022 04:06:27 GMT</pubDate>
+            <author>Information Technology &amp; People (ITP)</author>
         </item>
     </channel>
 </rss>

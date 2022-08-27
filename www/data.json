@@ -133,7 +133,7 @@
     "abbreviation": "io"
   },
   {
-    "title": "Research Impact and Contribtutions to Knowledge",
+    "title": "Special Section Research Impact and Contribtutions to Knowledge",
     "url": "https://www.journals.elsevier.com/information-and-organization/call-for-papers#",
     "dueDate": null,
     "journal": "Information and Organization",
@@ -201,5 +201,33 @@
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss"
+  },
+  {
+    "title": "Re-orientating Search Engine Research in Information Science",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Re-orientating%20Search%20Engine-1652992948493.pdf",
+    "dueDate": null,
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist"
+  },
+  {
+    "title": "Conceptual Models of the Sociotechnical",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Conceptual%20Models%20of%20the%20Sociotechnical-1652992792703.pdf",
+    "dueDate": null,
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist"
+  },
+  {
+    "title": "The Futures of Work in the Age of Intelligent Machines",
+    "url": "https://www.emeraldgrouppublishing.com/calls-for-papers/futures-work-age-intelligent-machines",
+    "dueDate": null,
+    "journal": "Information Technology & People",
+    "abbreviation": "itp"
+  },
+  {
+    "title": "Work from Home (WFH), Employee Productivity and Wellbeing: Lessons from COVID-19 and Future Implications",
+    "url": "https://www.emeraldgrouppublishing.com/journal/itp/work-home-wfh-employee-productivity-and-wellbeing-lessons-covid-19-and-future",
+    "dueDate": null,
+    "journal": "Information Technology & People",
+    "abbreviation": "itp"
   }
 ]
