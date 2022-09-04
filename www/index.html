@@ -9,6 +9,9 @@ home: true
         sortOption: 0,
         get sortedIssues() {
             if (this.sortOption == 0) {
+                return this.issues.sort((a,b) => (a.pubDate < b.pubDate) ? 1 : ((b.pubDate < a.pubDate) ? -1 : 0))
+            }
+            if (this.sortOption == 1) {
                 return this.issues.sort((a,b) => {
                     if (a.dueDate === null || a.dueDate < new Date()) {
                         return 1;
@@ -22,10 +25,10 @@ home: true
                     return a.dueDate < b.dueDate ? -1 : 1;
                 })
             }
-            if (this.sortOption == 1) {
+            if (this.sortOption == 2) {
                 return this.issues.sort((a,b) => (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0))
             }
-            if (this.sortOption == 2) {
+            if (this.sortOption == 3) {
                 return this.issues.sort((a,b) => (a.journal > b.journal) ? 1 : ((b.journal > a.journal) ? -1 : 0))
             }
         },
@@ -67,15 +70,18 @@ home: true
             <div x-show="sortOpen" @click.outside="sortOpen = false"
                 class="absolute right-0 py-2 mt-2 bg-white rounded shadow dark:bg-gray-700 text-sm text-gray-700 dark:text-gray-200">
                 <ul>
-                    <li @click="sortOption = 1; sortOpen = false"
+                    <li @click="sortOption = 2; sortOpen = false"
                         class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
                         Title</li>
-                    <li @click="sortOption = 2; sortOpen = false"
+                    <li @click="sortOption = 3; sortOpen = false"
                         class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
                         Journal</li>
                     <li @click="sortOption = 0; sortOpen = false"
                         class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                        Deadline</li>
+                        Date published</li>
+                    <li @click="sortOption = 1; sortOpen = false"
+                        class="block py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                        Date due</li>
                 </ul>
             </div>
         </div>
