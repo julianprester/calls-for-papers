@@ -3,7 +3,6 @@ const Feed = require('feed').Feed;
 const fs = require('fs/promises');
 
 async function generateFeed(issues) {
-    const now = new Date();
     let existingItems = await readFeed();
     if (issues.map(issue => issue.url).filter(value => !existingItems.map(item => item.guid).includes(value)).length == 0) {
         return;
@@ -17,7 +16,7 @@ async function generateFeed(issues) {
         image: "https://callsforpapers.org/favicon/android-chrome-96x96.png",
         favicon: "https://callsforpapers.org/favicon/favicon.ico",
         copyright: "Calls for Papers © 2022",
-        date: now,
+        date: new Date(),
         feedLinks: {
             json: "https://callsforpapers.org/json",
             atom: "https://callsforpapers.org/atom"
@@ -33,7 +32,7 @@ async function generateFeed(issues) {
             title: issue.title,
             id: issue.url,
             link: issue.url,
-            date: existingItems.find(item => item.guid === issue.url) ? new Date(existingItems.find(item => item.guid === issue.url).pubDate) : now,
+            date: new Date(issue.pubDate),
             author: [
                 {
                     name: issue.abbreviation.toUpperCase(),
