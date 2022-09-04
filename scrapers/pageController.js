@@ -13,6 +13,7 @@ const dssScraper = require('./journals/dssScraper');
 const jasistScraper = require('./journals/jasistScraper');
 const itpScraper = require('./journals/itpScraper');
 const dataPreparation = require('./dataPreparation');
+const dataGenerator = require('./dataGenerator');
 const feedGenerator = require('./feedGenerator');
 const fs = require('fs');
 
@@ -37,12 +38,7 @@ async function scrapeAll(browserInstance) {
         issues = issues.concat(await itpScraper.scraper(browser));
         await browser.close();
         issues = await dataPreparation(issues);
-        fs.writeFile("./www/data.json", JSON.stringify(issues, null, 2), 'utf8', function (err) {
-            if (err) {
-                return console.log(err);
-            }
-            console.log("The data has been scraped and saved successfully! View it at 'data.json'");
-        });
+        dataGenerator(issues);
         feedGenerator(issues);
     }
     catch (err) {
