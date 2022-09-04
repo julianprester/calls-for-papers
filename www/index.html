@@ -35,8 +35,7 @@ home: true
             )
         },
         issues: []
-    }"
-    x-init="issues = await (await fetch('./data.json')).json();">
+    }" x-init="issues = await (await fetch('./data.json')).json();">
     <!-- Search, sort, filter controls -->
     <div class="flex justify-between my-4 items-center">
         <div class="relative grow max-w-xl">
@@ -91,14 +90,22 @@ home: true
                     </div>
                     <div class="uppercase text-xs text-gray-700 font-semibold py-2 tracking-widest dark:text-gray-400"
                         x-text="issue.journal"></div>
+                    <div class="flex">
+                        <svg class="w-6 fill-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path
+                                d="M12 2C6.486 2 2 6.486 2 12C2 17.514 6.486 22 12 22C17.514 22 22 17.514 22 12C22 6.486 17.514 2 12 2 z M 12 4C16.411 4 20 7.589 20 12C20 16.411 16.411 20 12 20C7.589 20 4 16.411 4 12C4 7.589 7.589 4 12 4 z M 11 8L11 11L8 11L8 13L11 13L11 16L13 16L13 13L16 13L16 11L13 11L13 8L11 8 z" />
+                        </svg>
+                        <div class="ml-2 font-light text-gray-900 dark:text-white"
+                            x-text="'added ' + moment(issue.pubDate).fromNow()">
+                        </div>
+                    </div>
                     <div class="flex" x-show="issue.dueDate">
-                        <svg class="fill-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"
-                            height="24px">
+                        <svg class="w-6 fill-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                             <path
                                 d="M 12 2 C 6.4889971 2 2 6.4889971 2 12 C 2 17.511003 6.4889971 22 12 22 C 17.511003 22 22 17.511003 22 12 C 22 6.4889971 17.511003 2 12 2 z M 12 4 C 16.430123 4 20 7.5698774 20 12 C 20 16.430123 16.430123 20 12 20 C 7.5698774 20 4 16.430123 4 12 C 4 7.5698774 7.5698774 4 12 4 z M 11 6 L 11 12.414062 L 15.292969 16.707031 L 16.707031 15.292969 L 13 11.585938 L 13 6 L 11 6 z" />
                         </svg>
                         <div class="ml-2 font-light text-gray-900 dark:text-white"
-                            x-text="moment(issue.dueDate).fromNow()">
+                            x-text="'due ' + moment(issue.dueDate).fromNow()">
                         </div>
                     </div>
                 </div>
