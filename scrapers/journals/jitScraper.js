@@ -5,7 +5,7 @@ const scraperObject = {
         console.log(`Navigating to ${this.url}...`);
         await page.goto(this.url, { waitUntil: 'networkidle2' });
 
-        return await page.$$eval('div.page-body.pagefulltext div.widget.general-rich-text.none.widget-none > div.wrapped > div.widget-body.body.body-none > div.pb-rich-text p a', items => items.map(item => {
+        return await page.$$eval('div.pb-rich-text p a', items => items.map(item => {
             return {
                 title: item.textContent,
                 url: item.href,
