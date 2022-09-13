@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 05:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -76,6 +76,41 @@
             <guid>https://pubsonline.informs.org/page/isre/calls-for-papers</guid>
             <pubDate>Tue, 11 Jan 2022 06:37:25 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
+        </item>
+        <item>
+            <title><![CDATA[Regulation in the Age of Digitalization]]></title>
+            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf</guid>
+            <pubDate>Tue, 13 Sep 2022 05:42:30 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Emerging Technologies and IS Sourcing]]></title>
+            <link>https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf</guid>
+            <pubDate>Tue, 13 Sep 2022 05:42:30 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ethical Issues and Unintended Consequences of Digitalization and Platformization]]></title>
+            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf</guid>
+            <pubDate>Tue, 13 Sep 2022 05:42:30 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Products of Theorizing: Towards Native Theories of Emerging IT]]></title>
+            <link>https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf</guid>
+            <pubDate>Tue, 13 Sep 2022 05:42:30 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Transformation as Geo-Political, Organizational and Technological Nexus]]></title>
+            <link>https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf</link>
+            <guid>https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf</guid>
+            <pubDate>Tue, 13 Sep 2022 05:42:30 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
             <title><![CDATA[Fake News on the Internet]]></title>
