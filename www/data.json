@@ -122,7 +122,7 @@
   {
     "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
     "url": "https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf",
-    "dueDate": 1660521600000,
+    "dueDate": 1681516800000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "pubDate": 1663047750000
@@ -130,10 +130,18 @@
   {
     "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
     "url": "https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf",
-    "dueDate": 1660521600000,
+    "dueDate": 1681516800000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "pubDate": 1663047750000
+  },
+  {
+    "title": "Next-Generation Information Systems Research Methods",
+    "url": "https://journals.sagepub.com/pb-assets/2023%20JIT%20CFP%20SI%20Next%20Generation%20Research%20Methods-1666786463717.pdf",
+    "dueDate": 1681516800000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "pubDate": 1666842734000
   },
   {
     "title": "Fake News on the Internet",
