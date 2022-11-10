@@ -13,6 +13,7 @@ async function cleanTitles(issue) {
         /Call for Papers \(Special Section @ ?IJIM\) Theme: /g,
         /Call for Papers:  ?Special [I|i]ssue on /g,
         /Call for Papers: /g,
+        /Special Issue: /g,
         /Special Issue on /g,
         /(\- )?Short Title SI: .+/g,
         /Special Section:? /g,
