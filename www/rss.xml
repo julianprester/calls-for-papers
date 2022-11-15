@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 10 Nov 2022 03:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 03:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -141,11 +141,18 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
-            <title><![CDATA[Special Issue: Fostering the Design and Governance of the Metaverse]]></title>
+            <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
             <link>https://www.jmis-web.org/cfps/MetaverseCFP.docx</link>
             <guid>https://www.jmis-web.org/cfps/MetaverseCFP.docx</guid>
             <pubDate>Thu, 10 Nov 2022 03:37:38 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Transformation of the Public Sector]]></title>
+            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</link>
+            <guid>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</guid>
+            <pubDate>Tue, 15 Nov 2022 03:21:55 GMT</pubDate>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Digital Technologies and Social Justice]]></title>
@@ -205,9 +212,9 @@
         </item>
         <item>
             <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Re-orientating%20Search%20Engine-1652992948493.pdf</link>
-            <guid>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST%20CFP%20-%20Re-orientating%20Search%20Engine-1652992948493.pdf</guid>
-            <pubDate>Sun, 15 May 2022 06:37:25 GMT</pubDate>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
+            <guid>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</guid>
+            <pubDate>Tue, 15 Nov 2022 03:21:55 GMT</pubDate>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
         </item>
         <item>
