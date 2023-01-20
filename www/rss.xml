@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 18 Jan 2023 02:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 02:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -142,9 +142,16 @@
         </item>
         <item>
             <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
-            <link>https://www.jmis-web.org/cfps/MetaverseCFP.docx</link>
-            <guid>https://www.jmis-web.org/cfps/MetaverseCFP.docx</guid>
-            <pubDate>Thu, 10 Nov 2022 03:37:38 GMT</pubDate>
+            <link>https://www.jmis-web.org/cfps/MetaverseCFP.pdf</link>
+            <guid>https://www.jmis-web.org/cfps/MetaverseCFP.pdf</guid>
+            <pubDate>Fri, 20 Jan 2023 02:52:43 GMT</pubDate>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Information Technology to Foster Mental Health]]></title>
+            <link>https://www.jmis-web.org/cfps/JMIS_special_section_on_mental_health.pdf</link>
+            <guid>https://www.jmis-web.org/cfps/JMIS_special_section_on_mental_health.pdf</guid>
+            <pubDate>Fri, 20 Jan 2023 02:52:43 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
         </item>
         <item>
