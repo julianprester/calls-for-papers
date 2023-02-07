@@ -4,7 +4,7 @@ const fs = require('fs/promises');
 
 async function generateFeed(issues) {
     let existingItems = await readFeed();
-    if (issues.map(issue => issue.url).filter(value => !existingItems.map(item => item.guid).includes(value)).length == 0) {
+    if (issues.map(issue => issue.slug).filter(value => !existingItems.map(item => item.guid).includes(value)).length == 0) {
         return;
     }
     const rssFeed = new Feed({
@@ -30,7 +30,7 @@ async function generateFeed(issues) {
     issues.forEach(issue => {
         rssFeed.addItem({
             title: issue.title,
-            id: issue.url,
+            id: issue.slug,
             link: issue.url,
             date: new Date(issue.pubDate),
             author: [
