@@ -10,7 +10,7 @@ async function clean(issues) {
 }
 
 async function generateSlug(issue) {
-    issue.slug = slugify(issue.abbreviation + " " + issue.title, {lower: true})
+    issue.slug = slugify(issue.abbreviation + " " + issue.title, {lower: true, strict: true})
     return await issue;
 }
 
