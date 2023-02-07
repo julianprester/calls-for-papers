@@ -5,7 +5,7 @@
     "dueDate": 1675209600000,
     "journal": "Journal of the Association for Information Systems",
     "abbreviation": "jais",
-    "pubDate": 1674010243000
+    "slug": "jais-health-analytics-and-theorizing",
   },
   {
     "title": "Digital Responsibility - Social, Ethical, and Ecological Implications of IS",
@@ -13,7 +13,7 @@
     "dueDate": 1698969600000,
     "journal": "Journal of the Association for Information Systems",
     "abbreviation": "jais",
-    "pubDate": 1651041445000
+    "slug": "jais-digital-responsibility-social-ethical-and-ecological-implications-of-is",
   },
   {
     "title": "Envisioning Digital Transformation - Advancing Theoretical Diversity",
@@ -21,7 +21,7 @@
     "dueDate": 1630454400000,
     "journal": "Journal of the Association for Information Systems",
     "abbreviation": "jais",
-    "pubDate": 1612420645000
+    "slug": "jais-envisioning-digital-transformation-advancing-theoretical-diversity",
   },
   {
     "title": "Data Science for Social Good",
@@ -29,7 +29,7 @@
     "dueDate": 1618444800000,
     "journal": "Journal of the Association for Information Systems",
     "abbreviation": "jais",
-    "pubDate": 1616481445000
+    "slug": "jais-data-science-for-social-good",
   },
   {
     "title": "Technology and Social Inclusion",
@@ -37,7 +37,7 @@
     "dueDate": 1617062400000,
     "journal": "Journal of the Association for Information Systems",
     "abbreviation": "jais",
-    "pubDate": 1615617445000
+    "slug": "jais-technology-and-social-inclusion",
   },
   {
     "title": "ICTs and Rural E-Governance",
@@ -45,7 +45,7 @@
     "dueDate": 1680220800000,
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
-    "pubDate": 1675306254000
+    "slug": "isj-icts-and-rural-e-governance",
   },
   {
     "title": "Exploring alternative (non-economic) forms of value engendered by digital platforms",
@@ -53,7 +53,7 @@
     "dueDate": 1682812800000,
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
-    "pubDate": 1675306254000
+    "slug": "isj-exploring-alternative-non-economic-forms-of-value-engendered-by-digital-platforms",
   },
   {
     "title": "Decoloniality in Information Systems Research",
@@ -61,7 +61,7 @@
     "dueDate": 1685491200000,
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
-    "pubDate": 1675306254000
+    "slug": "isj-decoloniality-in-information-systems-research",
   },
   {
     "title": "Analytical Creativity",
@@ -69,7 +69,7 @@
     "dueDate": null,
     "journal": "Information Systems Research",
     "abbreviation": "isr",
-    "pubDate": 1641883045000
+    "slug": "isr-analytical-creativity",
   },
   {
     "title": "Unleashing the Power of Information Technology for Strategic Management of Disasters",
@@ -77,7 +77,7 @@
     "dueDate": null,
     "journal": "Information Systems Research",
     "abbreviation": "isr",
-    "pubDate": 1641883045000
+    "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -85,7 +85,7 @@
     "dueDate": 1612051200000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
-    "pubDate": 1663047750000
+    "slug": "jit-regulation-in-the-age-of-digitalization",
   },
   {
     "title": "Emerging Technologies and IS Sourcing",
@@ -93,7 +93,7 @@
     "dueDate": 1618444800000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
-    "pubDate": 1663047750000
+    "slug": "jit-emerging-technologies-and-is-sourcing",
   },
   {
     "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
@@ -101,7 +101,7 @@
     "dueDate": 1622505600000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
-    "pubDate": 1663047750000
+    "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
   },
   {
     "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
@@ -109,7 +109,7 @@
     "dueDate": 1681516800000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
-    "pubDate": 1663047750000
+    "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
   },
   {
     "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
@@ -117,7 +117,7 @@
     "dueDate": 1681516800000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
-    "pubDate": 1663047750000
+    "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
   },
   {
     "title": "Next-Generation Information Systems Research Methods",
@@ -125,7 +125,7 @@
     "dueDate": 1681516800000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
-    "pubDate": 1666842734000
+    "slug": "jit-next-generation-information-systems-research-methods",
   },
   {
     "title": "Fostering the Design and Governance of the Metaverse",
@@ -133,7 +133,7 @@
     "dueDate": null,
     "journal": "Journal of Management Information Systems",
     "abbreviation": "jmis",
-    "pubDate": 1674183163000
+    "slug": "jmis-fostering-the-design-and-governance-of-the-metaverse",
   },
   {
     "title": "Information Technology to Foster Mental Health",
@@ -141,7 +141,7 @@
     "dueDate": null,
     "journal": "Journal of Management Information Systems",
     "abbreviation": "jmis",
-    "pubDate": 1674183163000
+    "slug": "jmis-information-technology-to-foster-mental-health",
   },
   {
     "title": "Digital Transformation of the Public Sector",
@@ -149,7 +149,7 @@
     "dueDate": null,
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
-    "pubDate": 1668482515000
+    "slug": "jsis-digital-transformation-of-the-public-sector",
   },
   {
     "title": "Digital Technologies and Social Justice",
@@ -157,7 +157,7 @@
     "dueDate": null,
     "journal": "MIS Quarterly",
     "abbreviation": "misq",
-    "pubDate": 1641883045000
+    "slug": "misq-digital-technologies-and-social-justice",
   },
   {
     "title": "Managing AI",
@@ -165,7 +165,7 @@
     "dueDate": null,
     "journal": "MIS Quarterly",
     "abbreviation": "misq",
-    "pubDate": 1590561445000
+    "slug": "misq-managing-ai",
   },
   {
     "title": "Digital Resilience",
@@ -173,7 +173,7 @@
     "dueDate": null,
     "journal": "MIS Quarterly",
     "abbreviation": "misq",
-    "pubDate": 1596177445000
+    "slug": "misq-digital-resilience",
   },
   {
     "title": "Digital Innovation, Platforms, and Global Strategy",
@@ -181,7 +181,7 @@
     "dueDate": null,
     "journal": "Information and Organization",
     "abbreviation": "io",
-    "pubDate": 1674614765000
+    "slug": "io-digital-innovation-platforms-and-global-strategy",
   },
   {
     "title": "Call for papers for a Special Issue of Information & Management",
@@ -189,7 +189,7 @@
     "dueDate": null,
     "journal": "Information and Management",
     "abbreviation": "im",
-    "pubDate": 1653979045000
+    "slug": "im-call-for-papers-for-a-special-issue-of-information-and-management",
   },
   {
     "title": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
@@ -197,7 +197,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
   },
   {
     "title": "Metaverse disruption: Supernatural Transformations of Businesses and their Stakeholders",
@@ -205,7 +205,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-metaverse-disruption-supernatural-transformations-of-businesses-and-their-stakeholders",
   },
   {
     "title": "Innovation Management in the Digital Era",
@@ -213,7 +213,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-innovation-management-in-the-digital-era",
   },
   {
     "title": "Future of AI in Marketing",
@@ -221,7 +221,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-future-of-ai-in-marketing",
   },
   {
     "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
@@ -229,7 +229,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
   },
   {
     "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
@@ -237,7 +237,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
   },
   {
     "title": "Embracing AI for the Future of Marketing",
@@ -245,7 +245,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-embracing-ai-for-the-future-of-marketing",
   },
   {
     "title": "Future of AI in Marketing",
@@ -253,7 +253,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-future-of-ai-in-marketing",
   },
   {
     "title": "Theory Building in Information Systems with Big Data-Driven Research",
@@ -261,7 +261,7 @@
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "pubDate": 1671676979000
+    "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
   },
   {
     "title": "Blockchain Technology and Applications",
@@ -269,7 +269,7 @@
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
-    "pubDate": 1660804645000
+    "slug": "dss-blockchain-technology-and-applications",
   },
   {
     "title": "Explainable AI for Enhanced Decision Making",
@@ -277,7 +277,7 @@
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
-    "pubDate": 1658731045000
+    "slug": "dss-explainable-ai-for-enhanced-decision-making",
   },
   {
     "title": "Re-orientating Search Engine Research in Information Science",
@@ -285,7 +285,7 @@
     "dueDate": null,
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
-    "pubDate": 1668482515000
+    "slug": "jasist-re-orientating-search-engine-research-in-information-science",
   },
   {
     "title": "Healthier Information Ecosystems",
@@ -293,7 +293,7 @@
     "dueDate": null,
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
-    "pubDate": 1662272711000
+    "slug": "jasist-healthier-information-ecosystems",
   },
   {
     "title": "Work from Home (WFH), Employee Productivity and Wellbeing: Lessons from COVID-19 and Future Implications",
@@ -301,6 +301,6 @@
     "dueDate": null,
     "journal": "Information Technology & People",
     "abbreviation": "itp",
-    "pubDate": 1594103845000
+    "slug": "itp-work-from-home-wfh-employee-productivity-and-wellbeing-lessons-from-covid-19-and-future-implications",
   }
 ]
