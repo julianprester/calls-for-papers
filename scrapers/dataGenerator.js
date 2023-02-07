@@ -4,7 +4,7 @@ async function writeData(issues) {
     const now = new Date();
     let existingIssues = await readData();
     issues.forEach(issue => {
-        issue.pubDate = Date.parse(existingIssues.find(item => item.url === issue.url) ? new Date(existingIssues.find(item => item.url === issue.url).pubDate) : now);
+        issue.pubDate = Date.parse(existingIssues.find(item => item.slug === issue.slug) ? new Date(existingIssues.find(item => item.slug === issue.slug).pubDate) : now);
     });
     fs.writeFile("./www/data.json", JSON.stringify(issues, null, 2), err => {
         if (err) {
