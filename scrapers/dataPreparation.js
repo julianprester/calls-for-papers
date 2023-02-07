@@ -1,9 +1,17 @@
+var slugify = require('slugify')
+
 async function clean(issues) {
     for (let issue of issues) {
-        issue = cleanTitles(issue);
+        issue = await cleanTitles(issue);
+        issue = await generateSlug(issue);
     }
 
     return await issues;
+}
+
+async function generateSlug(issue) {
+    issue.slug = slugify(issue.abbreviation + " " + issue.title, {lower: true})
+    return await issue;
 }
 
 async function cleanTitles(issue) {
