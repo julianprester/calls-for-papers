@@ -2,6 +2,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('www/data.json');
     eleventyConfig.addPassthroughCopy('www/rss.xml');
     eleventyConfig.addPassthroughCopy('www/favicon');
+    eleventyConfig.addPassthroughCopy('www/js/plausible.min.js');
     eleventyConfig.addPassthroughCopy({
       './node_modules/alpinejs/dist/cdn.min.js': './js/alpine.min.js',
     });
