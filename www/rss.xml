@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 02:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -169,6 +169,13 @@
             <author>MIS Quarterly (MISQ)</author>
         </item>
         <item>
+            <title><![CDATA[Digital Technology, Societal Change, and Institutional Logics]]></title>
+            <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#digital-technology-societal-change-and-institutional-logics</link>
+            <guid>io-digital-technology-societal-change-and-institutional-logics</guid>
+            <pubDate>Thu, 23 Feb 2023 02:51:58 GMT</pubDate>
+            <author>Information and Organization (IO)</author>
+        </item>
+        <item>
             <title><![CDATA[Digital Innovation, Platforms, and Global Strategy]]></title>
             <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#digital-innovation-platforms-and-global-strategy</link>
             <guid>io-digital-innovation-platforms-and-global-strategy</guid>
@@ -286,13 +293,6 @@
             <guid>jasist-healthier-information-ecosystems</guid>
             <pubDate>Sun, 04 Sep 2022 06:25:11 GMT</pubDate>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Work from Home (WFH), Employee Productivity and Wellbeing: Lessons from COVID-19 and Future Implications]]></title>
-            <link>https://www.emeraldgrouppublishing.com/journal/itp/work-home-wfh-employee-productivity-and-wellbeing-lessons-covid-19-and-future</link>
-            <guid>itp-work-from-home-wfh-employee-productivity-and-wellbeing-lessons-from-covid-19-and-future-implications</guid>
-            <pubDate>Tue, 07 Jul 2020 06:37:25 GMT</pubDate>
-            <author>Information Technology &amp; People (ITP)</author>
         </item>
     </channel>
 </rss>
