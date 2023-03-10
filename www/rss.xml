@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 23 Feb 2023 02:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 03:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -65,7 +65,7 @@
         </item>
         <item>
             <title><![CDATA[Decoloniality in Information Systems Research]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJSIDECv2-1675261335093.pdf</link>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20Decoloniality%20r3-1678284968.pdf</link>
             <guid>isj-decoloniality-in-information-systems-research</guid>
             <pubDate>Thu, 02 Feb 2023 02:50:54 GMT</pubDate>
             <author>Information Systems Journal (ISJ)</author>
@@ -135,7 +135,7 @@
         </item>
         <item>
             <title><![CDATA[Information Technology to Foster Mental Health]]></title>
-            <link>https://www.jmis-web.org/cfps/JMIS_special_section_on_mental_health.pdf</link>
+            <link>https://www.jmis-web.org/cfps/JMIS_Special_Section_Mental_Health_CFP.pdf</link>
             <guid>jmis-information-technology-to-foster-mental-health</guid>
             <pubDate>Fri, 20 Jan 2023 02:52:43 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
@@ -183,10 +183,24 @@
             <author>Information and Organization (IO)</author>
         </item>
         <item>
+            <title><![CDATA[Research Impact and Contribtutions to Knowledge]]></title>
+            <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#</link>
+            <guid>io-research-impact-and-contribtutions-to-knowledge</guid>
+            <pubDate>Fri, 10 Mar 2023 03:02:32 GMT</pubDate>
+            <author>Information and Organization (IO)</author>
+        </item>
+        <item>
             <title><![CDATA[Call for papers for a Special Issue of Information & Management]]></title>
             <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management</link>
             <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
             <pubDate>Tue, 31 May 2022 06:37:25 GMT</pubDate>
+            <author>Information and Management (IM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Social Commerce and Social Media: Behaviors in the New Service Economy]]></title>
+            <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#</link>
+            <guid>im-social-commerce-and-social-media-behaviors-in-the-new-service-economy</guid>
+            <pubDate>Fri, 10 Mar 2023 03:02:32 GMT</pubDate>
             <author>Information and Management (IM)</author>
         </item>
         <item>
@@ -250,6 +264,13 @@
             <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#theory-building-in-information-systems-with-big-data-driven-research</link>
             <guid>ijim-theory-building-in-information-systems-with-big-data-driven-research</guid>
             <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Meta-analysis applications in information systems domains]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#</link>
+            <guid>ijim-meta-analysis-applications-in-information-systems-domains</guid>
+            <pubDate>Fri, 10 Mar 2023 03:02:32 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
