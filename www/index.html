@@ -89,7 +89,7 @@ home: true
     <!-- Content grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         <template x-for="issue in filteredIssues">
-            <a href="#" :href="issue.url">
+            <a href="#" :href="issue.url" target="_blank">
                 <div
                     class="h-full p-4 bg-white rounded-lg border border-gray-400 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
                     <div class="font-medium text-xl text-gray-900 dark:text-white" x-text="issue.title">
