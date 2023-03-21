@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 10 Mar 2023 03:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -138,6 +138,13 @@
             <link>https://www.jmis-web.org/cfps/JMIS_Special_Section_Mental_Health_CFP.pdf</link>
             <guid>jmis-information-technology-to-foster-mental-health</guid>
             <pubDate>Fri, 20 Jan 2023 02:52:43 GMT</pubDate>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Generative AI and its Transformative Value for Digital Platforms]]></title>
+            <link>https://www.jmis-web.org/cfps/JMIS_SI_CfP_Generative_AI.pdf</link>
+            <guid>jmis-generative-ai-and-its-transformative-value-for-digital-platforms</guid>
+            <pubDate>Tue, 21 Mar 2023 02:37:05 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
         </item>
         <item>
