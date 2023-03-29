@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -148,6 +148,13 @@
             <author>Journal of Management Information Systems (JMIS)</author>
         </item>
         <item>
+            <title><![CDATA[Review Articles]]></title>
+            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</link>
+            <guid>jsis-review-articles</guid>
+            <pubDate>Wed, 29 Mar 2023 02:48:23 GMT</pubDate>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+        <item>
             <title><![CDATA[Digital Transformation of the Public Sector]]></title>
             <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</link>
             <guid>jsis-digital-transformation-of-the-public-sector</guid>
@@ -190,24 +197,10 @@
             <author>Information and Organization (IO)</author>
         </item>
         <item>
-            <title><![CDATA[Research Impact and Contribtutions to Knowledge]]></title>
-            <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#</link>
-            <guid>io-research-impact-and-contribtutions-to-knowledge</guid>
-            <pubDate>Fri, 10 Mar 2023 03:02:32 GMT</pubDate>
-            <author>Information and Organization (IO)</author>
-        </item>
-        <item>
             <title><![CDATA[Call for papers for a Special Issue of Information & Management]]></title>
             <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management</link>
             <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
             <pubDate>Tue, 31 May 2022 06:37:25 GMT</pubDate>
-            <author>Information and Management (IM)</author>
-        </item>
-        <item>
-            <title><![CDATA[Social Commerce and Social Media: Behaviors in the New Service Economy]]></title>
-            <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#</link>
-            <guid>im-social-commerce-and-social-media-behaviors-in-the-new-service-economy</guid>
-            <pubDate>Fri, 10 Mar 2023 03:02:32 GMT</pubDate>
             <author>Information and Management (IM)</author>
         </item>
         <item>
@@ -271,13 +264,6 @@
             <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#theory-building-in-information-systems-with-big-data-driven-research</link>
             <guid>ijim-theory-building-in-information-systems-with-big-data-driven-research</guid>
             <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
-            <author>International Journal of Information Management (IJIM)</author>
-        </item>
-        <item>
-            <title><![CDATA[Meta-analysis applications in information systems domains]]></title>
-            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#</link>
-            <guid>ijim-meta-analysis-applications-in-information-systems-domains</guid>
-            <pubDate>Fri, 10 Mar 2023 03:02:32 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
