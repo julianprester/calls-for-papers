@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 02:36:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -124,6 +124,13 @@
             <link>https://journals.sagepub.com/pb-assets/2023%20JIT%20CFP%20SI%20Next%20Generation%20Research%20Methods-1666786463717.pdf</link>
             <guid>jit-next-generation-information-systems-research-methods</guid>
             <pubDate>Thu, 27 Oct 2022 03:52:14 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
+            <link>https://journals.sagepub.com/pb-assets/Microsite/cfp.final-1681465815670.pdf</link>
+            <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
+            <pubDate>Sat, 15 Apr 2023 02:36:21 GMT</pubDate>
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
