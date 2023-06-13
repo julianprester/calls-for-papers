@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 19 Apr 2023 02:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[Managing the Individual, Organizational, and Societal Challenges of Generative AI: Utopian, Dystopian, Neutropian Perspectives]]></title>
+            <link>https://www.dropbox.com/s/r0o32ru3u4i5yy5/JAISGenAISICALLFinal.pdf?dl=0</link>
+            <guid>jais-managing-the-individual-organizational-and-societal-challenges-of-generative-ai-utopian-dystopian-neutropian-perspectives</guid>
+            <pubDate>Tue, 13 Jun 2023 02:46:46 GMT</pubDate>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
         <item>
             <title><![CDATA[Health Analytics and Theorizing]]></title>
             <link>https://cdn.ymaws.com/aisnet.org/resource/resmgr/jais_issues/jais_si_cfp_health_analytics.pdf</link>
@@ -48,20 +55,6 @@
             <guid>jais-technology-and-social-inclusion</guid>
             <pubDate>Sat, 13 Mar 2021 06:37:25 GMT</pubDate>
             <author>Journal of the Association for Information Systems (JAIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Paper Development Workshop (PDW3)]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20PDW3-1681830101.pdf</link>
-            <guid>isj-paper-development-workshop-pdw3</guid>
-            <pubDate>Wed, 19 Apr 2023 02:38:00 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Exploring alternative (non-economic) forms of value engendered by digital platforms]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-SI-Proposal-Chamakiotis-Petrakaki-23SEPT22v2-1675261335133.pdf</link>
-            <guid>isj-exploring-alternative-non-economic-forms-of-value-engendered-by-digital-platforms</guid>
-            <pubDate>Thu, 02 Feb 2023 02:50:54 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Decoloniality in Information Systems Research]]></title>
@@ -128,14 +121,14 @@
         </item>
         <item>
             <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
-            <link>https://journals.sagepub.com/pb-assets/Microsite/cfp.final-1681465815670.pdf</link>
+            <link>https://journals.sagepub.com/pb-assets/Microsite/cfp.final%20(2).pdf</link>
             <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
             <pubDate>Sat, 15 Apr 2023 02:36:21 GMT</pubDate>
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
             <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
-            <link>https://www.jmis-web.org/cfps/MetaverseCFP.pdf</link>
+            <link>https://www.jmis-web.org/cfps/Updated_Metaverse_CFP.pdf</link>
             <guid>jmis-fostering-the-design-and-governance-of-the-metaverse</guid>
             <pubDate>Fri, 20 Jan 2023 02:52:43 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
@@ -200,7 +193,7 @@
             <title><![CDATA[Digital Technology, Societal Change, and Institutional Logics]]></title>
             <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#digital-technology-societal-change-and-institutional-logics</link>
             <guid>io-digital-technology-societal-change-and-institutional-logics</guid>
-            <pubDate>Thu, 23 Feb 2023 02:51:58 GMT</pubDate>
+            <pubDate>Tue, 09 May 2023 02:37:59 GMT</pubDate>
             <author>Information and Organization (IO)</author>
         </item>
         <item>
@@ -310,7 +303,7 @@
         </item>
         <item>
             <title><![CDATA[Healthier Information Ecosystems]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20May1%2023-1662135166840.pdf</link>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
             <guid>jasist-healthier-information-ecosystems</guid>
             <pubDate>Sun, 04 Sep 2022 06:25:11 GMT</pubDate>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
