@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 13 Jun 2023 02:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 03:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -155,13 +155,6 @@
             <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
-            <title><![CDATA[Digital Transformation of the Public Sector]]></title>
-            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</link>
-            <guid>jsis-digital-transformation-of-the-public-sector</guid>
-            <pubDate>Tue, 15 Nov 2022 03:21:55 GMT</pubDate>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
             <title><![CDATA[Digital Technologies and Social Justice]]></title>
             <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/SI_DigitalTechnologies.pdf</link>
             <guid>misq-digital-technologies-and-social-justice</guid>
@@ -202,6 +195,13 @@
             <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
             <pubDate>Tue, 31 May 2022 06:37:25 GMT</pubDate>
             <author>Information and Management (IM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Transforming the Metaverse: Overcoming Challenges and Building a Brighter Future]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#transforming-the-metaverse-overcoming-challenges-and-building-a-brighter-future</link>
+            <guid>ijim-transforming-the-metaverse-overcoming-challenges-and-building-a-brighter-future</guid>
+            <pubDate>Fri, 23 Jun 2023 03:06:17 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
             <title><![CDATA[Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World]]></title>
