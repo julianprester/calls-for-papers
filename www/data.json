@@ -54,13 +54,13 @@
     "pubDate": 1615617445000
   },
   {
-    "title": "Decoloniality in Information Systems Research",
-    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20Decoloniality%20r3-1678284968.pdf",
-    "dueDate": 1685491200000,
+    "title": "Information Systems in and for Practice",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-CFP-SI%20PP-6-1687520433467.pdf",
+    "dueDate": 1719705600000,
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
-    "slug": "isj-decoloniality-in-information-systems-research",
-    "pubDate": 1675306254000
+    "slug": "isj-information-systems-in-and-for-practice",
+    "pubDate": 1687575885000
   },
   {
     "title": "Analytical Creativity",
@@ -232,6 +232,15 @@
     "abbreviation": "im",
     "slug": "im-call-for-papers-for-a-special-issue-of-information-and-management",
     "pubDate": 1653979045000
+  },
+  {
+    "title": "Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future",
+    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "dueDate": null,
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "slug": "ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "pubDate": 1687575885000
   },
   {
     "title": "Transforming the Metaverse: Overcoming Challenges and Building a Brighter Future",

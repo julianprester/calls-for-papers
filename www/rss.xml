@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 23 Jun 2023 03:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 03:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -57,10 +57,10 @@
             <author>Journal of the Association for Information Systems (JAIS)</author>
         </item>
         <item>
-            <title><![CDATA[Decoloniality in Information Systems Research]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20Decoloniality%20r3-1678284968.pdf</link>
-            <guid>isj-decoloniality-in-information-systems-research</guid>
-            <pubDate>Thu, 02 Feb 2023 02:50:54 GMT</pubDate>
+            <title><![CDATA[Information Systems in and for Practice]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-CFP-SI%20PP-6-1687520433467.pdf</link>
+            <guid>isj-information-systems-in-and-for-practice</guid>
+            <pubDate>Sat, 24 Jun 2023 03:04:45 GMT</pubDate>
             <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
@@ -195,6 +195,13 @@
             <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
             <pubDate>Tue, 31 May 2022 06:37:25 GMT</pubDate>
             <author>Information and Management (IM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future</link>
+            <guid>ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future</guid>
+            <pubDate>Sat, 24 Jun 2023 03:04:45 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
             <title><![CDATA[Transforming the Metaverse: Overcoming Challenges and Building a Brighter Future]]></title>
