@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 04 Jul 2023 03:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -183,13 +183,6 @@
             <author>Information and Organization (IO)</author>
         </item>
         <item>
-            <title><![CDATA[Digital Innovation, Platforms, and Global Strategy (1)]]></title>
-            <link>https://www.journals.elsevier.com/information-and-organization/call-for-papers#digital-innovation-platforms-and-global-strategy-1</link>
-            <guid>io-digital-innovation-platforms-and-global-strategy-1</guid>
-            <pubDate>Tue, 18 Apr 2023 02:36:21 GMT</pubDate>
-            <author>Information and Organization (IO)</author>
-        </item>
-        <item>
             <title><![CDATA[Call for papers for a Special Issue of Information & Management]]></title>
             <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management</link>
             <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
@@ -288,11 +281,11 @@
             <author>Decision Support Systems (DSS)</author>
         </item>
         <item>
-            <title><![CDATA[Explainable AI for Enhanced Decision Making]]></title>
-            <link>https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-explainable-ai-for-enhanced-decision-making</link>
-            <guid>dss-explainable-ai-for-enhanced-decision-making</guid>
-            <pubDate>Mon, 25 Jul 2022 06:37:25 GMT</pubDate>
-            <author>Decision Support Systems (DSS)</author>
+            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/Strategic%20Change_CFP%20Template_2023%20_StategicResilience_Innovation_Technology-1689957228933.pdf</link>
+            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
+            <pubDate>Thu, 27 Jul 2023 02:31:14 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
         </item>
         <item>
             <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
