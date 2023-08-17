@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 03 Aug 2023 02:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 02:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -71,10 +71,9 @@
             <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
-            <title><![CDATA[Analytical Creativity]]></title>
             <link>https://pubsonline.informs.org/page/isre/calls-for-papers</link>
-            <guid>isr-analytical-creativity</guid>
-            <pubDate>Tue, 11 Jan 2022 06:37:25 GMT</pubDate>
+            <guid>isr</guid>
+            <pubDate>Thu, 17 Aug 2023 02:23:26 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
         </item>
         <item>
