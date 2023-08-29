@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[Digital Sustainability and Information Systems Research]]></title>
+            <link>https://aisel.aisnet.org/jais/SI-DigitalSustainabilityFINAL.pdf</link>
+            <guid>jais-digital-sustainability-and-information-systems-research</guid>
+            <pubDate>Tue, 29 Aug 2023 02:54:56 GMT</pubDate>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
         <item>
             <title><![CDATA[Managing the Individual, Organizational, and Societal Challenges of Generative AI: Utopian, Dystopian, Neutropian Perspectives]]></title>
             <link>https://www.dropbox.com/s/r0o32ru3u4i5yy5/JAISGenAISICALLFinal.pdf?dl=0</link>
