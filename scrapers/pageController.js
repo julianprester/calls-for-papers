@@ -15,7 +15,6 @@ const itpScraper = require('./journals/itpScraper');
 const dataPreparation = require('./dataPreparation');
 const dataGenerator = require('./dataGenerator');
 const feedGenerator = require('./feedGenerator');
-const fs = require('fs');
 
 async function scrapeAll(browserInstance) {
     let browser;
