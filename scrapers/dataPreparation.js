@@ -5,6 +5,7 @@ async function clean(issues) {
         issue = await cleanTitles(issue);
         issue = await generateSlug(issue);
     }
+    issues = await dropEmpty(issues);
 
     return await issues;
 }
@@ -36,6 +37,10 @@ async function cleanTitles(issue) {
     }
     issue.title = issue.title.replace('–', '-').trim();
     return await issue;
+}
+
+async function dropEmpty(issues) {
+    return await issues.filter(issue => issue.title.length > 0);
 }
 
 module.exports = (issues) => clean(issues)
