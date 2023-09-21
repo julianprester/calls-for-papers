@@ -3,7 +3,7 @@ const scraperObject = {
     async scraper(browser) {
         let page = await browser.newPage();
         console.log(`Navigating to ${this.url}...`);
-        await page.goto(this.url, { waitUntil: 'networkidle2' });
+        await page.goto(this.url);
 
         return await page.$$eval('div.col-sm-9 h2', items => items.map(item => {
             return {
