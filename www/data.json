@@ -180,6 +180,15 @@
     "pubDate": 1679366225000
   },
   {
+    "title": "Registered Reports",
+    "url": "https://misq.umn.edu/call_for_papers/registered-reports",
+    "dueDate": null,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-registered-reports",
+    "pubDate": 1672905364000
+  },
+  {
     "title": "Digital Technologies and Social Justice",
     "url": "https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/SI_DigitalTechnologies.pdf",
     "dueDate": null,
