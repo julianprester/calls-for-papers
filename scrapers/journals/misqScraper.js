@@ -3,8 +3,10 @@ const scraperObject = {
     async scraper(browser) {
         let page = await browser.newPage();
         console.log(`Navigating to ${this.url}...`);
-        await page.goto(this.url, { timeout: 300000 });
-        await page.hover('nav ul li:first-child');
+        await page.goto(this.url, {waitUntil: 'domcontentloaded'});
+        await page.locator('css=nav ul li:first-child').hover();
+        await page.locator('css=nav ul li:first-child section.ammenu-submenu-block p a[href*="/call_for_papers/"]')
+        await page.waitForTimeout(15000)
         
         return await page.$$eval('nav ul li:first-child section.ammenu-submenu-block p a[href*="/call_for_papers/"]', items => items.map(item => {
             return {
