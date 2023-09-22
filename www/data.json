@@ -145,7 +145,7 @@
   },
   {
     "title": "Decentralised Information Systems: New Thinking and New Paradigms",
-    "url": "https://journals.sagepub.com/pb-assets/Microsite/cfp.final%20(2).pdf",
+    "url": "https://journals.sagepub.com/pb-assets/JHT/Decentralised%20Information%20Systems%20New%20Thinking%20and%20New%20Paradigms%20PDF-1694786106943.pdf",
     "dueDate": 1702771200000,
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
@@ -187,33 +187,6 @@
     "abbreviation": "misq",
     "slug": "misq-registered-reports",
     "pubDate": 1672905364000
-  },
-  {
-    "title": "Digital Technologies and Social Justice",
-    "url": "https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/SI_DigitalTechnologies.pdf",
-    "dueDate": null,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-digital-technologies-and-social-justice",
-    "pubDate": 1641883045000
-  },
-  {
-    "title": "Managing AI",
-    "url": "https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf",
-    "dueDate": null,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-managing-ai",
-    "pubDate": 1590561445000
-  },
-  {
-    "title": "Digital Resilience",
-    "url": "https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf",
-    "dueDate": null,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-digital-resilience",
-    "pubDate": 1596177445000
   },
   {
     "title": "ICT for Development, Grand Challenges and Increasing Marginalization: Theoretical, Methodological and Ethical Imperatives",
@@ -334,7 +307,7 @@
   },
   {
     "title": "The Theory and Practice of Informational Transitions",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/Strategic%20Change_CFP%20Template_2023%20_StategicResilience_Innovation_Technology-1689957228933.pdf",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf",
     "dueDate": null,
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
@@ -358,5 +331,14 @@
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
     "pubDate": 1662272711000
+  },
+  {
+    "title": "Work from Home (WFH), Employee Productivity and Wellbeing: Lessons from COVID-19 and Future Implications",
+    "url": "https://www.emeraldgrouppublishing.com/journal/itp/work-home-wfh-employee-productivity-and-wellbeing-lessons-covid-19-and-future",
+    "dueDate": null,
+    "journal": "Information Technology & People",
+    "abbreviation": "itp",
+    "slug": "itp-work-from-home-wfh-employee-productivity-and-wellbeing-lessons-from-covid-19-and-future-implications",
+    "pubDate": 1695354295000
   }
 ]

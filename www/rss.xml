@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 03:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -128,7 +128,7 @@
         </item>
         <item>
             <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
-            <link>https://journals.sagepub.com/pb-assets/Microsite/cfp.final%20(2).pdf</link>
+            <link>https://journals.sagepub.com/pb-assets/JHT/Decentralised%20Information%20Systems%20New%20Thinking%20and%20New%20Paradigms%20PDF-1694786106943.pdf</link>
             <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
             <pubDate>Sat, 15 Apr 2023 02:36:21 GMT</pubDate>
             <author>Journal of Information Technology (JIT)</author>
@@ -155,38 +155,10 @@
             <author>Journal of Management Information Systems (JMIS)</author>
         </item>
         <item>
-            <title><![CDATA[Review Articles]]></title>
-            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</link>
-            <guid>jsis-review-articles</guid>
-            <pubDate>Wed, 29 Mar 2023 02:48:23 GMT</pubDate>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Technologies and Social Justice]]></title>
-            <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/SI_DigitalTechnologies.pdf</link>
-            <guid>misq-digital-technologies-and-social-justice</guid>
-            <pubDate>Tue, 11 Jan 2022 06:37:25 GMT</pubDate>
-            <author>MIS Quarterly (MISQ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Managing AI]]></title>
-            <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf</link>
-            <guid>misq-managing-ai</guid>
-            <pubDate>Wed, 27 May 2020 06:37:25 GMT</pubDate>
-            <author>MIS Quarterly (MISQ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Resilience]]></title>
-            <link>https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf</link>
-            <guid>misq-digital-resilience</guid>
-            <pubDate>Fri, 31 Jul 2020 06:37:25 GMT</pubDate>
-            <author>MIS Quarterly (MISQ)</author>
-        </item>
-        <item>
             <title><![CDATA[Registered Reports]]></title>
             <link>https://misq.umn.edu/call_for_papers/registered-reports</link>
             <guid>misq-registered-reports</guid>
-            <pubDate>Thu, 5 Jan 2023 06:37:25 GMT</pubDate>
+            <pubDate>Thu, 05 Jan 2023 07:56:04 GMT</pubDate>
             <author>MIS Quarterly (MISQ)</author>
         </item>
         <item>
@@ -282,7 +254,7 @@
         </item>
         <item>
             <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/Strategic%20Change_CFP%20Template_2023%20_StategicResilience_Innovation_Technology-1689957228933.pdf</link>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
             <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
             <pubDate>Thu, 27 Jul 2023 02:31:14 GMT</pubDate>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
@@ -300,6 +272,13 @@
             <guid>jasist-healthier-information-ecosystems</guid>
             <pubDate>Sun, 04 Sep 2022 06:25:11 GMT</pubDate>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Work from Home (WFH), Employee Productivity and Wellbeing: Lessons from COVID-19 and Future Implications]]></title>
+            <link>https://www.emeraldgrouppublishing.com/journal/itp/work-home-wfh-employee-productivity-and-wellbeing-lessons-covid-19-and-future</link>
+            <guid>itp-work-from-home-wfh-employee-productivity-and-wellbeing-lessons-from-covid-19-and-future-implications</guid>
+            <pubDate>Fri, 22 Sep 2023 03:44:55 GMT</pubDate>
+            <author>Information Technology &amp; People (ITP)</author>
         </item>
     </channel>
 </rss>
