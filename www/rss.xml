@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 13 Oct 2023 02:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 02:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -181,6 +181,13 @@
             <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
             <pubDate>Tue, 31 May 2022 06:37:25 GMT</pubDate>
             <author>Information and Management (IM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Human-Centered Generative AI]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#human-centered-generative-ai</link>
+            <guid>ijim-human-centered-generative-ai</guid>
+            <pubDate>Tue, 17 Oct 2023 02:28:16 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
             <title><![CDATA[Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future]]></title>
