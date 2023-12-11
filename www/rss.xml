@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sun, 10 Dec 2023 02:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 02:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -153,6 +153,13 @@
             <guid>jmis-generative-ai-and-its-transformative-value-for-digital-platforms</guid>
             <pubDate>Tue, 21 Mar 2023 02:37:05 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Transformation and the Changing Context of Strategy and Work]]></title>
+            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers</link>
+            <guid>jsis-digital-transformation-and-the-changing-context-of-strategy-and-work</guid>
+            <pubDate>Mon, 11 Dec 2023 02:33:57 GMT</pubDate>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms]]></title>
