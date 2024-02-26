@@ -76,17 +76,17 @@
     "journal": "European Journal of Information Systems",
     "abbreviation": "ejis",
     "slug": "ejis-embracing-contrarian-thinking-value-reflexive-research-for-a-digital-world",
-    "active": false,
+    "active": true,
     "pubDate": 1707877591000
   },
   {
     "title": "Information Systems in and for Practice",
-    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-CFP-SI%20PP-6-1687520433467.pdf",
-    "dueDate": 1719705600000,
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%20Information%20Systems%20in%20and%20for%20Practice-1704202459013.pdf",
+    "dueDate": null,
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": false,
+    "active": true,
     "pubDate": 1708136684000
   },
   {
@@ -96,7 +96,7 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -106,7 +106,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -116,7 +116,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -126,7 +126,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -136,7 +136,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -146,7 +146,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -156,7 +156,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -166,7 +166,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "title": "Digital Transformation and the Changing Context of Strategy and Work",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#digital-transformation-and-the-changing-context-of-strategy-and-work",
     "dueDate": null,
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
@@ -211,7 +211,7 @@
   },
   {
     "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
     "dueDate": null,
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
@@ -221,7 +221,7 @@
   },
   {
     "title": "Call for Proposals for Special Issues Review Articles",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#call-for-proposals-for-special-issues-review-articles",
     "dueDate": null,
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
@@ -241,7 +241,7 @@
   },
   {
     "title": "ICT for Development, Grand Challenges and Increasing Marginalization: Theoretical, Methodological and Ethical Imperatives",
-    "url": "https://www.journals.elsevier.com/information-and-organization/call-for-papers#ict-for-development-grand-challenges-and-increasing-marginalization-theoretical-methodological-and-ethical-imperatives",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#ict-for-development-grand-challenges-and-increasing-marginalization-theoretical-methodological-and-ethical-imperatives",
     "dueDate": null,
     "journal": "Information and Organization",
     "abbreviation": "io",
@@ -261,7 +261,7 @@
   },
   {
     "title": "Human-Centered Generative AI",
-    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#human-centered-generative-ai",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#human-centered-generative-ai",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
@@ -271,7 +271,7 @@
   },
   {
     "title": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
-    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
@@ -291,7 +291,7 @@
   },
   {
     "title": "Innovation Management in the Digital Era",
-    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#innovation-management-in-the-digital-era",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#innovation-management-in-the-digital-era",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
@@ -301,7 +301,7 @@
   },
   {
     "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
-    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
@@ -321,7 +321,7 @@
   },
   {
     "title": "Theory Building in Information Systems with Big Data-Driven Research",
-    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#theory-building-in-information-systems-with-big-data-driven-research",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#theory-building-in-information-systems-with-big-data-driven-research",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
@@ -331,7 +331,7 @@
   },
   {
     "title": "Empowering Bright Internet and Bright Artificial Intelligence (AI)",
-    "url": "https://www.journals.elsevier.com/decision-support-systems/call-for-papers#empowering-bright-internet-and-bright-artificial-intelligence-ai",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#empowering-bright-internet-and-bright-artificial-intelligence-ai",
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
@@ -341,7 +341,7 @@
   },
   {
     "title": "Blockchain Technology and Applications",
-    "url": "https://www.journals.elsevier.com/decision-support-systems/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications",
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
@@ -356,7 +356,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -366,7 +366,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -376,7 +376,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -386,7 +386,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-the-covid-19-pandemic-and-global-environmental-change-emerging-research-needs",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -396,7 +396,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-research-on-quantitative-assessment-of-climate-change-risk-at-an-urban-scale-review-of-recent-progress-and-outlook-of-future-direction",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -406,7 +406,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-impact-of-climate-change-on-wetland-ecosystems-a-critical-review-of-experimental-wetlands",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -416,7 +416,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-an-overview-of-climate-change-impacts-on-the-society-in-china",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -426,7 +426,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-public-perception-of-climate-change-and-disaster-preparedness-evidence-from-the-philippines",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -436,7 +436,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-environmental-impacts-of-household-appliances-in-europe-and-scenarios-for-their-impact-reduction",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -446,7 +446,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-the-effect-of-global-warming-on-mortality-april-2021",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -456,7 +456,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-understanding-and-countering-the-motivated-roots-of-climate-change-denial",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -466,7 +466,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-it-starts-at-home-climate-policies-targeting-household-consumption-and-behavioral-decisions-are-key-to-low-carbon-futures",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -476,7 +476,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-climate-change-transformation-a-definition-and-typology-to-guide-decision-making-in-urban-environments",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
@@ -486,17 +486,27 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-global-warming-versus-climate-change-a-replication-on-the-association-between-political-self-identification-question-wording-and-environmental-beliefs",
-    "active": true,
+    "active": false,
     "pubDate": 1708939400000
   },
   {
     "title": "Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future",
-    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
     "active": true,
     "pubDate": 1708939400000
+  },
+  {
+    "title": "4th ISJ Trending Topics Workshop",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%204th%20ISJ%20Trending%20Topics%20Workshop-1708341458120.pdf",
+    "dueDate": null,
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "slug": "isj-4th-isj-trending-topics-workshop",
+    "active": true,
+    "pubDate": 1708942873000
   }
 ]
