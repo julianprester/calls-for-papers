@@ -6,6 +6,7 @@ async function clean(issues) {
         issue = await generateSlug(issue);
     }
     issues = await dropEmpty(issues);
+    issues = await addActive(issues);
 
     return await issues;
 }
@@ -37,6 +38,13 @@ async function cleanTitles(issue) {
     }
     issue.title = issue.title.replace('–', '-').trim();
     return await issue;
+}
+
+async function addActive(issues) {
+    return await issues.map(issue => {
+        issue.active = true;
+        return issue;
+    });
 }
 
 async function dropEmpty(issues) {
