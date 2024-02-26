@@ -76,7 +76,7 @@
     "journal": "European Journal of Information Systems",
     "abbreviation": "ejis",
     "slug": "ejis-embracing-contrarian-thinking-value-reflexive-research-for-a-digital-world",
-    "active": true,
+    "active": false,
     "pubDate": 1707877591000
   },
   {
@@ -86,7 +86,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": true,
+    "active": false,
     "pubDate": 1708136684000
   },
   {
@@ -96,7 +96,7 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -106,7 +106,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -116,7 +116,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -126,7 +126,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -136,7 +136,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -146,7 +146,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -156,7 +156,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -166,7 +166,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -256,7 +256,7 @@
     "journal": "Information and Management",
     "abbreviation": "im",
     "slug": "im-call-for-papers-for-a-special-issue-of-information-and-management",
-    "active": true,
+    "active": false,
     "pubDate": 1653979045000
   },
   {
@@ -286,7 +286,7 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-metaverse-disruption-supernatural-transformations-of-businesses-and-their-stakeholders",
-    "active": true,
+    "active": false,
     "pubDate": 1671676979000
   },
   {
@@ -316,7 +316,7 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-embracing-ai-for-the-future-of-marketing",
-    "active": true,
+    "active": false,
     "pubDate": 1671676979000
   },
   {
@@ -356,7 +356,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -366,7 +366,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -376,7 +376,127 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
+  },
+  {
+    "title": "The COVID-19 pandemic and global environmental change: Emerging research needs",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-the-covid-19-pandemic-and-global-environmental-change-emerging-research-needs",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Research on quantitative assessment of climate change risk at an urban scale: Review of recent progress and outlook of future direction",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-research-on-quantitative-assessment-of-climate-change-risk-at-an-urban-scale-review-of-recent-progress-and-outlook-of-future-direction",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Impact of climate change on wetland ecosystems: A critical review of experimental wetlands",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-impact-of-climate-change-on-wetland-ecosystems-a-critical-review-of-experimental-wetlands",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "An overview of climate change impacts on the society in China",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-an-overview-of-climate-change-impacts-on-the-society-in-china",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Public perception of climate change and disaster preparedness: Evidence from the Philippines",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-public-perception-of-climate-change-and-disaster-preparedness-evidence-from-the-philippines",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Environmental impacts of household appliances in Europe and scenarios for their impact reduction",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-environmental-impacts-of-household-appliances-in-europe-and-scenarios-for-their-impact-reduction",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "The effect of global warming on mortality April 2021",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-the-effect-of-global-warming-on-mortality-april-2021",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Understanding and countering the motivated roots of climate change denial",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-understanding-and-countering-the-motivated-roots-of-climate-change-denial",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "It starts at home? Climate policies targeting household consumption and behavioral decisions are key to low-carbon futures",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-it-starts-at-home-climate-policies-targeting-household-consumption-and-behavioral-decisions-are-key-to-low-carbon-futures",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Climate change transformation: A definition and typology to guide decision making in urban environments",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-climate-change-transformation-a-definition-and-typology-to-guide-decision-making-in-urban-environments",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Global warming versus climate change: A replication on the association between political self-identification, question wording, and environmental beliefs",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#",
+    "dueDate": null,
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-global-warming-versus-climate-change-a-replication-on-the-association-between-political-self-identification-question-wording-and-environmental-beliefs",
+    "active": true,
+    "pubDate": 1708939400000
+  },
+  {
+    "title": "Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future",
+    "url": "https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "dueDate": null,
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "slug": "ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "active": true,
+    "pubDate": 1708939400000
   }
 ]
