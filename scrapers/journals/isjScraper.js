@@ -5,11 +5,11 @@ const scraperObject = {
         console.log(`Navigating to ${this.url}...`);
         await page.goto(this.url);
 
-        return await page.$$eval('table tr', items => items.map(item => {
+        return await page.$$eval('table tr td a', items => items.map(item => {
             return {
-                title: item.querySelectorAll('td')[0].querySelector('a').textContent,
-                url: item.querySelectorAll('td')[0].querySelector('a').href,
-                dueDate: Date.parse(item.querySelectorAll('td')[1].textContent.replace(/([0-9])(st |nd |rd |th )/gi, '$1 ')),
+                title: item.textContent,
+                url: item.href,
+                dueDate: null,
                 journal: 'Information Systems Journal',
                 abbreviation: 'isj'
             }

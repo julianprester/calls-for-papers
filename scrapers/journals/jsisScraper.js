@@ -4,11 +4,14 @@ const scraperObject = {
         let page = await browser.newPage();
         console.log(`Navigating to ${this.url}...`);
         await page.goto(this.url);
+        if (await page.locator('h2.section-heading').count() == 0) {
+            return [];
+        }
 
-        return await page.$$eval('h3 b', items => items.map(item => {
+        return await page.$$eval('main h3', items => items.map(item => {
             return {
                 title: item.textContent,
-                url: 'https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers',
+                url: 'https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#' + item.id,
                 dueDate: null,
                 journal: 'The Journal of Strategic Information Systems',
                 abbreviation: 'jsis'
