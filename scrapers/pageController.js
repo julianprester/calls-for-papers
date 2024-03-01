@@ -38,7 +38,6 @@ async function scrapeAll(browserInstance) {
         await browser.close();
         issues = await dataPreparation(issues);
         dataGenerator(issues);
-        feedGenerator(issues);
     }
     catch (err) {
         console.log("Could not resolve the browser instance => ", err);

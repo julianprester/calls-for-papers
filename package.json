@@ -6,7 +6,8 @@
     "clean": "rm -rf public",
     "start": "eleventy --serve & tailwind -i www/styles/tailwind.css -o public/css/style.css --watch",
     "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i www/styles/tailwind.css -o public/css/style.css --minify",
-    "scrape": "node ./scrapers/scraper.js"
+    "scrape": "node ./scrapers/scraper.js",
+    "rss": "node ./rss/feedgen.js"
   },
   "repository": {
     "type": "git",

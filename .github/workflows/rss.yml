@@ -1,0 +1,27 @@
+name: Generate RSS feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 2 * * *'
+
+jobs:
+  rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 18.x
+          cache: 'npm'
+      - run: npm ci
+      - run: npm run rss --if-present
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Calls for Papers RSS"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "[SCRAPER]: ${timestamp}" || exit 0
+          git push
