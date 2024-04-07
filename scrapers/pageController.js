@@ -14,7 +14,6 @@ const jasistScraper = require('./journals/jasistScraper');
 const itpScraper = require('./journals/itpScraper');
 const dataPreparation = require('./dataPreparation');
 const dataGenerator = require('./dataGenerator');
-const feedGenerator = require('./feedGenerator');
 
 async function scrapeAll(browserInstance) {
     let browser;
