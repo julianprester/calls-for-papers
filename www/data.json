@@ -86,7 +86,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": false,
+    "active": true,
     "pubDate": 1708136684000
   },
   {
@@ -106,7 +106,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -116,7 +116,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -126,7 +126,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -136,7 +136,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -146,7 +146,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -156,7 +156,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -166,7 +166,7 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -356,7 +356,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -366,7 +366,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -376,7 +376,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000
   },
   {
@@ -396,7 +396,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-4th-isj-trending-topics-workshop",
-    "active": false,
+    "active": true,
     "pubDate": 1708942873000
   },
   {
