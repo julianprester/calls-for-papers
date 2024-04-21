@@ -86,7 +86,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": true,
+    "active": false,
     "pubDate": 1708136684000
   },
   {
@@ -96,7 +96,7 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -396,7 +396,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-4th-isj-trending-topics-workshop",
-    "active": true,
+    "active": false,
     "pubDate": 1708942873000
   },
   {
