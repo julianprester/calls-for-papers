@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sun, 28 Apr 2024 02:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 02:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -62,13 +62,6 @@
             <guid>jais-technology-and-social-inclusion</guid>
             <pubDate>Sat, 13 Mar 2021 06:37:25 GMT</pubDate>
             <author>Journal of the Association for Information Systems (JAIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Information Systems in and for Practice]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%20Information%20Systems%20in%20and%20for%20Practice-1713889451737.pdf</link>
-            <guid>isj-information-systems-in-and-for-practice</guid>
-            <pubDate>Sat, 17 Feb 2024 02:24:44 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
@@ -232,18 +225,32 @@
             <author>Decision Support Systems (DSS)</author>
         </item>
         <item>
+            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
+            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
+            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Healthier Information Ecosystems]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
+            <guid>jasist-healthier-information-ecosystems</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
             <title><![CDATA[Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future]]></title>
             <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future</link>
             <guid>ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future</guid>
             <pubDate>Mon, 26 Feb 2024 09:23:20 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
-        </item>
-        <item>
-            <title><![CDATA[4th ISJ Trending Topics Workshop]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%204th%20ISJ%20Trending%20Topics%20Workshop-1708341458120.pdf</link>
-            <guid>isj-4th-isj-trending-topics-workshop</guid>
-            <pubDate>Mon, 26 Feb 2024 10:21:13 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly]]></title>
