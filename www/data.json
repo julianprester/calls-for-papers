@@ -356,7 +356,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -366,7 +366,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
@@ -376,7 +376,7 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000
   },
   {
