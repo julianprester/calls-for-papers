@@ -86,7 +86,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": false,
+    "active": true,
     "pubDate": 1708136684000
   },
   {
@@ -396,7 +396,7 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-4th-isj-trending-topics-workshop",
-    "active": false,
+    "active": true,
     "pubDate": 1708942873000
   },
   {
