@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sun, 05 May 2024 02:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 02:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -62,6 +62,13 @@
             <guid>jais-technology-and-social-inclusion</guid>
             <pubDate>Sat, 13 Mar 2021 06:37:25 GMT</pubDate>
             <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Information Systems in and for Practice]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%20Information%20Systems%20in%20and%20for%20Practice-1713889451737.pdf</link>
+            <guid>isj-information-systems-in-and-for-practice</guid>
+            <pubDate>Sat, 17 Feb 2024 02:24:44 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
@@ -251,6 +258,13 @@
             <guid>ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future</guid>
             <pubDate>Mon, 26 Feb 2024 09:23:20 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[4th ISJ Trending Topics Workshop]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%204th%20ISJ%20Trending%20Topics%20Workshop-1708341458120.pdf</link>
+            <guid>isj-4th-isj-trending-topics-workshop</guid>
+            <pubDate>Mon, 26 Feb 2024 10:21:13 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly]]></title>
