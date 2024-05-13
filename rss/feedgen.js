@@ -3,7 +3,7 @@ const fs = require('fs');
 
 let data = fs.readFileSync("./www/data.json", "utf8");
 let issues = JSON.parse(data);
-issues = issues.filter(issue => issue.active);
+issues = issues.filter(issue => issue.active || (!issue.active && Date.now() < issue.gracePeriod));
 const rssFeed = new Feed({
     title: "Calls for Papers",
     description: "Calls for Papers shows you the latest calls for papers of academic journals in your discipline.",
