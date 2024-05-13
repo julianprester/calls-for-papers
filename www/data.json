@@ -87,9 +87,8 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": false,
-    "pubDate": 1708136684000,
-    "gracePeriod": 1718169814000
+    "active": true,
+    "pubDate": 1708136684000
   },
   {
     "title": "Unleashing the Power of Information Technology for Strategic Management of Disasters",
@@ -98,8 +97,9 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
-    "pubDate": 1705026897000
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1718169960000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -401,9 +401,8 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-4th-isj-trending-topics-workshop",
-    "active": false,
-    "pubDate": 1708942873000,
-    "gracePeriod": 1718169814000
+    "active": true,
+    "pubDate": 1708942873000
   },
   {
     "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
