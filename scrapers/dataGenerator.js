@@ -11,6 +11,7 @@ async function writeData(scrapedIssues) {
     for (let issue of existingIssues) {
         if (existing_not_scraped.find(item => item.slug === issue.slug)) {
             issue.active = false;
+            issue.gracePeriod = Date.parse(now) + 2592000000;
         }
         if (existing_and_scraped.find(item => item.slug === issue.slug)) {
             issue.active = true;
@@ -21,6 +22,7 @@ async function writeData(scrapedIssues) {
 
     for (let issue of scraped_not_existing) {
         issue.pubDate = Date.parse(now);
+        issue.active = true;
     }
     existingIssues = existingIssues.concat(scraped_not_existing);
 
