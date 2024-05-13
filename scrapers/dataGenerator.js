@@ -11,10 +11,13 @@ async function writeData(scrapedIssues) {
     for (let issue of existingIssues) {
         if (existing_not_scraped.find(item => item.slug === issue.slug)) {
             issue.active = false;
-            issue.gracePeriod = Date.parse(now) + 2592000000;
+            if (!issue.gracePeriod) {
+                issue.gracePeriod = Date.parse(now) + 2592000000;
+            }
         }
         if (existing_and_scraped.find(item => item.slug === issue.slug)) {
             issue.active = true;
+            delete issue.gracePeriod;
             issue.url = existing_and_scraped.find(item => item.slug === issue.slug).url;
             issue.dueDate = existing_and_scraped.find(item => item.slug === issue.slug).dueDate;
         }
