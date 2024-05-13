@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Mon, 13 May 2024 02:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 05:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -62,6 +62,20 @@
             <guid>jais-technology-and-social-inclusion</guid>
             <pubDate>Sat, 13 Mar 2021 06:37:25 GMT</pubDate>
             <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Embracing Contrarian Thinking: Value-Reflexive Research for a Digital World]]></title>
+            <link>https://www.callforpapers.co.uk/embracing-contrarian-thinking</link>
+            <guid>ejis-embracing-contrarian-thinking-value-reflexive-research-for-a-digital-world</guid>
+            <pubDate>Wed, 14 Feb 2024 02:26:31 GMT</pubDate>
+            <author>European Journal of Information Systems (EJIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Information Systems in and for Practice]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%20Information%20Systems%20in%20and%20for%20Practice-1713889451737.pdf</link>
+            <guid>isj-information-systems-in-and-for-practice</guid>
+            <pubDate>Sat, 17 Feb 2024 02:24:44 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
@@ -176,6 +190,13 @@
             <author>Information and Organization (IO)</author>
         </item>
         <item>
+            <title><![CDATA[Call for papers for a Special Issue of Information & Management]]></title>
+            <link>https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management</link>
+            <guid>im-call-for-papers-for-a-special-issue-of-information-and-management</guid>
+            <pubDate>Tue, 31 May 2022 06:37:25 GMT</pubDate>
+            <author>Information and Management (IM)</author>
+        </item>
+        <item>
             <title><![CDATA[Human-Centered Generative AI]]></title>
             <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#human-centered-generative-ai</link>
             <guid>ijim-human-centered-generative-ai</guid>
@@ -190,6 +211,13 @@
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
+            <title><![CDATA[Metaverse disruption: Supernatural Transformations of Businesses and their Stakeholders]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#metaverse-disruption-supernatural-transformations-of-businesses-and-their-stakeholders</link>
+            <guid>ijim-metaverse-disruption-supernatural-transformations-of-businesses-and-their-stakeholders</guid>
+            <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
             <title><![CDATA[Innovation Management in the Digital Era]]></title>
             <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#innovation-management-in-the-digital-era</link>
             <guid>ijim-innovation-management-in-the-digital-era</guid>
@@ -200,6 +228,13 @@
             <title><![CDATA[More supportive or more distractive? Investigating the negative effects of technology at the customer interface]]></title>
             <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface</link>
             <guid>ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface</guid>
+            <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
+            <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Embracing AI for the Future of Marketing]]></title>
+            <link>https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers#call-for-papers-on-special-issue-embracing-ai-for-the-future-of-marketing</link>
+            <guid>ijim-embracing-ai-for-the-future-of-marketing</guid>
             <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
         </item>
@@ -251,6 +286,13 @@
             <guid>ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future</guid>
             <pubDate>Mon, 26 Feb 2024 09:23:20 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[4th ISJ Trending Topics Workshop]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%204th%20ISJ%20Trending%20Topics%20Workshop-1708341458120.pdf</link>
+            <guid>isj-4th-isj-trending-topics-workshop</guid>
+            <pubDate>Mon, 26 Feb 2024 10:21:13 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly]]></title>
