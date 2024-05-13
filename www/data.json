@@ -77,7 +77,8 @@
     "abbreviation": "ejis",
     "slug": "ejis-embracing-contrarian-thinking-value-reflexive-research-for-a-digital-world",
     "active": false,
-    "pubDate": 1707877591000
+    "pubDate": 1707877591000,
+    "gracePeriod": 1718168731000
   },
   {
     "title": "Information Systems in and for Practice",
@@ -87,7 +88,8 @@
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
     "active": false,
-    "pubDate": 1708136684000
+    "pubDate": 1708136684000,
+    "gracePeriod": 1718168731000
   },
   {
     "title": "Unleashing the Power of Information Technology for Strategic Management of Disasters",
@@ -257,7 +259,8 @@
     "abbreviation": "im",
     "slug": "im-call-for-papers-for-a-special-issue-of-information-and-management",
     "active": false,
-    "pubDate": 1653979045000
+    "pubDate": 1653979045000,
+    "gracePeriod": 1718168731000
   },
   {
     "title": "Human-Centered Generative AI",
@@ -287,7 +290,8 @@
     "abbreviation": "ijim",
     "slug": "ijim-metaverse-disruption-supernatural-transformations-of-businesses-and-their-stakeholders",
     "active": false,
-    "pubDate": 1671676979000
+    "pubDate": 1671676979000,
+    "gracePeriod": 1718168731000
   },
   {
     "title": "Innovation Management in the Digital Era",
@@ -317,7 +321,8 @@
     "abbreviation": "ijim",
     "slug": "ijim-embracing-ai-for-the-future-of-marketing",
     "active": false,
-    "pubDate": 1671676979000
+    "pubDate": 1671676979000,
+    "gracePeriod": 1718168731000
   },
   {
     "title": "Theory Building in Information Systems with Big Data-Driven Research",
@@ -397,7 +402,8 @@
     "abbreviation": "isj",
     "slug": "isj-4th-isj-trending-topics-workshop",
     "active": false,
-    "pubDate": 1708942873000
+    "pubDate": 1708942873000,
+    "gracePeriod": 1718168731000
   },
   {
     "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
