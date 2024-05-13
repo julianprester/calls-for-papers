@@ -38,7 +38,7 @@ home: true
             )
         },
         issues: []
-    }" x-init="issues = await (await (await fetch('./data.json')).json()).filter(issue => issue.active);" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
+    }" x-init="issues = await (await (await fetch('./data.json')).json()).filter(issue => issue.active || (!issue.active && Date.now() < issue.gracePeriod));" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
     <!-- Search, sort, filter controls -->
     <div class="flex justify-between my-4 items-center">
         <div class="relative grow max-w-xl">
