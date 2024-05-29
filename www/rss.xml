@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 28 May 2024 02:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 02:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -313,6 +313,13 @@
             <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#generative-ai-transforming-human-business-and-organizational-decision-making</link>
             <guid>dss-generative-ai-transforming-human-business-and-organizational-decision-making</guid>
             <pubDate>Sun, 07 Apr 2024 01:36:14 GMT</pubDate>
+            <author>Decision Support Systems (DSS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Decision Support Systems on Improving Societal Outcomes with Design Science Research]]></title>
+            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#decision-support-systems-on-improving-societal-outcomes-with-design-science-research</link>
+            <guid>dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research</guid>
+            <pubDate>Wed, 29 May 2024 02:37:14 GMT</pubDate>
             <author>Decision Support Systems (DSS)</author>
         </item>
     </channel>
