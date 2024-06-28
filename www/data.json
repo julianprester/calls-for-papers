@@ -90,8 +90,9 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-information-systems-in-and-for-practice",
-    "active": true,
-    "pubDate": 1708136684000
+    "active": false,
+    "pubDate": 1708136684000,
+    "gracePeriod": 1722134365000
   },
   {
     "title": "Unleashing the Power of Information Technology for Strategic Management of Disasters",
@@ -415,8 +416,9 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-4th-isj-trending-topics-workshop",
-    "active": true,
-    "pubDate": 1708942873000
+    "active": false,
+    "pubDate": 1708942873000,
+    "gracePeriod": 1722134365000
   },
   {
     "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
