@@ -29,7 +29,11 @@ async function writeData(scrapedIssues) {
     }
     existingIssues = existingIssues.concat(scraped_not_existing);
 
-    fs.writeFile("./www/data.json", JSON.stringify(existingIssues, null, 2), err => {
+    existingIssues.sort((a, b) => {
+        return b.pubDate - a.pubDate;
+    });
+
+    fs.writeFile("./www/data/calls.json", JSON.stringify(existingIssues, null, 2), err => {
         if (err) {
             console.error(err);
         }
@@ -38,7 +42,7 @@ async function writeData(scrapedIssues) {
 
 async function readData() {
     try {
-        const data = await fs.readFile("./www/data.json", { encoding: 'utf8' });
+        const data = await fs.readFile("./www/data/calls.json", { encoding: 'utf8' });
         return await JSON.parse(data);
     } catch (err) {
         console.log(err);
