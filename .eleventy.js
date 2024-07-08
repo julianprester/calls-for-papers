@@ -10,6 +10,8 @@ module.exports = function (eleventyConfig) {
     return calls.filter(call => call.active || (call.gracePeriod && DateTime.now() < DateTime.fromMillis(call.gracePeriod)));
   });
 
+  eleventyConfig.addShortcode("currentYear", () => `${new Date().getFullYear()}`);
+
   eleventyConfig.addPassthroughCopy('www/data.json');
   eleventyConfig.addPassthroughCopy('www/rss.xml');
   eleventyConfig.addPassthroughCopy('www/favicon');
