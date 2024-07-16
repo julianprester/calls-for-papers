@@ -312,8 +312,9 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-innovation-management-in-the-digital-era",
-    "active": true,
-    "pubDate": 1671676979000
+    "active": false,
+    "pubDate": 1671676979000,
+    "gracePeriod": 1723689640000
   },
   {
     "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
