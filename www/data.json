@@ -101,9 +101,8 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -112,9 +111,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Emerging Technologies and IS Sourcing",
@@ -123,9 +121,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
@@ -134,9 +131,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
@@ -145,9 +141,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
@@ -156,9 +151,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Next-Generation Information Systems Research Methods",
@@ -167,9 +161,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Decentralised Information Systems: New Thinking and New Paradigms",
@@ -178,9 +171,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1722393906000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Fostering the Design and Governance of the Metaverse",
@@ -460,5 +452,15 @@
     "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
     "active": true,
     "pubDate": 1716950234000
+  },
+  {
+    "title": "Addressing Refugees and Migration Issues through Critical Information Systems",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf",
+    "dueDate": null,
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
+    "active": true,
+    "pubDate": 1721298883000
   }
 ]
