@@ -1,7 +1,7 @@
 const Feed = require('feed').Feed;
 const fs = require('fs');
 
-let data = fs.readFileSync("./www/data.json", "utf8");
+let data = fs.readFileSync("./www/data/calls.json", "utf8");
 let issues = JSON.parse(data);
 issues = issues.filter(issue => issue.active || (!issue.active && Date.now() < issue.gracePeriod));
 const rssFeed = new Feed({
