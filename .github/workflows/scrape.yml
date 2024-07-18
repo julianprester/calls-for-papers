@@ -18,6 +18,7 @@ jobs:
       - run: npm ci
       - run: npx playwright install chromium
       - run: npm run scrape --if-present
+      - run: npm run rss --if-present
       - name: Commit and push if it changed
         run: |-
           git config user.name "Calls for Papers Scraper"
