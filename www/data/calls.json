@@ -1,87 +1,75 @@
 [
   {
-    "title": "Digital Sustainability and Information Systems Research",
-    "url": "https://aisel.aisnet.org/jais/SI-DigitalSustainabilityFINAL.pdf",
-    "dueDate": 1727827200000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-digital-sustainability-and-information-systems-research",
-    "active": true,
-    "pubDate": 1693277696000
-  },
-  {
-    "title": "Managing the Individual, Organizational, and Societal Challenges of Generative AI: Utopian, Dystopian, Neutropian Perspectives",
-    "url": "https://www.dropbox.com/s/r0o32ru3u4i5yy5/JAISGenAISICALLFinal.pdf?dl=0",
-    "dueDate": 1725062400000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-managing-the-individual-organizational-and-societal-challenges-of-generative-ai-utopian-dystopian-neutropian-perspectives",
-    "active": true,
-    "pubDate": 1686624406000
-  },
-  {
-    "title": "Health Analytics and Theorizing",
-    "url": "https://cdn.ymaws.com/aisnet.org/resource/resmgr/jais_issues/jais_si_cfp_health_analytics.pdf",
-    "dueDate": 1675209600000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-health-analytics-and-theorizing",
-    "active": true,
-    "pubDate": 1674010243000
-  },
-  {
-    "title": "Digital Responsibility - Social, Ethical, and Ecological Implications of IS",
-    "url": "https://aisel.aisnet.org/jais/SI-DigitalResponsibility.pdf",
-    "dueDate": 1700352000000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-digital-responsibility-social-ethical-and-ecological-implications-of-is",
-    "active": true,
-    "pubDate": 1651041445000
-  },
-  {
-    "title": "Envisioning Digital Transformation - Advancing Theoretical Diversity",
-    "url": "https://aisel.aisnet.org/jais/CallforPapersJAISAdvancing.pdf",
-    "dueDate": 1630454400000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-envisioning-digital-transformation-advancing-theoretical-diversity",
-    "active": false,
-    "pubDate": 1612420645000,
-    "gracePeriod": 1718332553000
-  },
-  {
-    "title": "Data Science for Social Good",
-    "url": "https://aisel.aisnet.org/jais/JAISSIonDataScienceforSocialGood.pdf",
-    "dueDate": 1618444800000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-data-science-for-social-good",
-    "active": false,
-    "pubDate": 1616481445000,
-    "gracePeriod": 1718332553000
-  },
-  {
-    "title": "Technology and Social Inclusion",
-    "url": "https://aisel.aisnet.org/jais/SocialInclusionSI.pdf",
-    "dueDate": 1617062400000,
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "slug": "jais-technology-and-social-inclusion",
-    "active": false,
-    "pubDate": 1615617445000,
-    "gracePeriod": 1718332553000
-  },
-  {
-    "title": "Embracing Contrarian Thinking: Value-Reflexive Research for a Digital World",
-    "url": "https://www.callforpapers.co.uk/embracing-contrarian-thinking",
+    "title": "Addressing Refugees and Migration Issues through Critical Information Systems",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf",
     "dueDate": null,
-    "journal": "European Journal of Information Systems",
-    "abbreviation": "ejis",
-    "slug": "ejis-embracing-contrarian-thinking-value-reflexive-research-for-a-digital-world",
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
     "active": false,
-    "pubDate": 1707877591000,
-    "gracePeriod": 1718169032000
+    "pubDate": 1721298883000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
+    "dueDate": null,
+    "journal": "Decision Support Systems",
+    "abbreviation": "dss",
+    "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
+    "active": true,
+    "pubDate": 1716950234000
+  },
+  {
+    "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#organizing-for-emerging-digital-technologies-the-good-the-bad-the-ugly",
+    "dueDate": null,
+    "journal": "Information and Organization",
+    "abbreviation": "io",
+    "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
+    "active": true,
+    "pubDate": 1712453774000
+  },
+  {
+    "title": "Lights and shadows of generative AI for individuals, organizations, and society",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
+    "dueDate": null,
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
+    "active": true,
+    "pubDate": 1712453774000
+  },
+  {
+    "title": "Generative AI: Transforming Human, Business, and Organizational Decision Making",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#generative-ai-transforming-human-business-and-organizational-decision-making",
+    "dueDate": null,
+    "journal": "Decision Support Systems",
+    "abbreviation": "dss",
+    "slug": "dss-generative-ai-transforming-human-business-and-organizational-decision-making",
+    "active": true,
+    "pubDate": 1712453774000
+  },
+  {
+    "title": "4th ISJ Trending Topics Workshop",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%204th%20ISJ%20Trending%20Topics%20Workshop-1708341458120.pdf",
+    "dueDate": null,
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "slug": "isj-4th-isj-trending-topics-workshop",
+    "active": false,
+    "pubDate": 1708942873000,
+    "gracePeriod": 1722393906000
+  },
+  {
+    "title": "Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "dueDate": null,
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "slug": "ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
+    "active": true,
+    "pubDate": 1708939400000
   },
   {
     "title": "Information Systems in and for Practice",
@@ -95,84 +83,15 @@
     "gracePeriod": 1722393906000
   },
   {
-    "title": "Unleashing the Power of Information Technology for Strategic Management of Disasters",
-    "url": "https://pubsonline.informs.org/page/isre/calls-for-papers",
+    "title": "Embracing Contrarian Thinking: Value-Reflexive Research for a Digital World",
+    "url": "https://www.callforpapers.co.uk/embracing-contrarian-thinking",
     "dueDate": null,
-    "journal": "Information Systems Research",
-    "abbreviation": "isr",
-    "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Regulation in the Age of Digitalization",
-    "url": "https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf",
-    "dueDate": 1612051200000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Emerging Technologies and IS Sourcing",
-    "url": "https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf",
-    "dueDate": 1618444800000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
-    "url": "https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf",
-    "dueDate": 1622505600000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
-    "url": "https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf",
-    "dueDate": 1646092800000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
-    "url": "https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf",
-    "dueDate": 1660521600000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Next-Generation Information Systems Research Methods",
-    "url": "https://journals.sagepub.com/pb-assets/2023%20JIT%20CFP%20SI%20Next%20Generation%20Research%20Methods-1666786463717.pdf",
-    "dueDate": 1681516800000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-next-generation-information-systems-research-methods",
-    "active": true,
-    "pubDate": 1705026897000
-  },
-  {
-    "title": "Decentralised Information Systems: New Thinking and New Paradigms",
-    "url": "https://journals.sagepub.com/pb-assets/cmscontent/JIN/Decentralised%20Information%20Systems%20New%20Thinking%20and%20New%20Paradigms%20PDF-1703224919.pdf",
-    "dueDate": 1705276800000,
-    "journal": "Journal of Information Technology",
-    "abbreviation": "jit",
-    "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": true,
-    "pubDate": 1705026897000
+    "journal": "European Journal of Information Systems",
+    "abbreviation": "ejis",
+    "slug": "ejis-embracing-contrarian-thinking-value-reflexive-research-for-a-digital-world",
+    "active": false,
+    "pubDate": 1707877591000,
+    "gracePeriod": 1718169032000
   },
   {
     "title": "Fostering the Design and Governance of the Metaverse",
@@ -205,35 +124,125 @@
     "pubDate": 1706581569000
   },
   {
-    "title": "Digital Transformation and the Changing Context of Strategy and Work",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#digital-transformation-and-the-changing-context-of-strategy-and-work",
+    "title": "Unleashing the Power of Information Technology for Strategic Management of Disasters",
+    "url": "https://pubsonline.informs.org/page/isre/calls-for-papers",
     "dueDate": null,
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "slug": "jsis-digital-transformation-and-the-changing-context-of-strategy-and-work",
+    "journal": "Information Systems Research",
+    "abbreviation": "isr",
+    "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
     "active": false,
-    "pubDate": 1702262037000,
-    "gracePeriod": 1719801623000
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
   },
   {
-    "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
-    "dueDate": null,
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "slug": "jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
-    "active": true,
-    "pubDate": 1701398280000
+    "title": "Regulation in the Age of Digitalization",
+    "url": "https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf",
+    "dueDate": 1612051200000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-regulation-in-the-age-of-digitalization",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
   },
   {
-    "title": "Call for Proposals for Special Issues Review Articles",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#call-for-proposals-for-special-issues-review-articles",
+    "title": "Emerging Technologies and IS Sourcing",
+    "url": "https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf",
+    "dueDate": 1618444800000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-emerging-technologies-and-is-sourcing",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
+    "url": "https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf",
+    "dueDate": 1622505600000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
+    "url": "https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf",
+    "dueDate": 1646092800000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
+    "url": "https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf",
+    "dueDate": 1660521600000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "Next-Generation Information Systems Research Methods",
+    "url": "https://journals.sagepub.com/pb-assets/2023%20JIT%20CFP%20SI%20Next%20Generation%20Research%20Methods-1666786463717.pdf",
+    "dueDate": 1681516800000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-next-generation-information-systems-research-methods",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "Decentralised Information Systems: New Thinking and New Paradigms",
+    "url": "https://journals.sagepub.com/pb-assets/cmscontent/JIN/Decentralised%20Information%20Systems%20New%20Thinking%20and%20New%20Paradigms%20PDF-1703224919.pdf",
+    "dueDate": 1705276800000,
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1723948827000
+  },
+  {
+    "title": "The Theory and Practice of Informational Transitions",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf",
     "dueDate": null,
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "slug": "jsis-call-for-proposals-for-special-issues-review-articles",
-    "active": true,
-    "pubDate": 1696904848000
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist",
+    "slug": "jasist-the-theory-and-practice-of-informational-transitions",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1721702317000
+  },
+  {
+    "title": "Re-orientating Search Engine Research in Information Science",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf",
+    "dueDate": null,
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist",
+    "slug": "jasist-re-orientating-search-engine-research-in-information-science",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1721702317000
+  },
+  {
+    "title": "Healthier Information Ecosystems",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf",
+    "dueDate": null,
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist",
+    "slug": "jasist-healthier-information-ecosystems",
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1721702317000
   },
   {
     "title": "Special Issue",
@@ -246,25 +255,35 @@
     "pubDate": 1702348436000
   },
   {
-    "title": "ICT for Development, Grand Challenges and Increasing Marginalization: Theoretical, Methodological and Ethical Imperatives",
-    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#ict-for-development-grand-challenges-and-increasing-marginalization-theoretical-methodological-and-ethical-imperatives",
+    "title": "Digital Transformation and the Changing Context of Strategy and Work",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#digital-transformation-and-the-changing-context-of-strategy-and-work",
     "dueDate": null,
-    "journal": "Information and Organization",
-    "abbreviation": "io",
-    "slug": "io-ict-for-development-grand-challenges-and-increasing-marginalization-theoretical-methodological-and-ethical-imperatives",
-    "active": true,
-    "pubDate": 1688439922000
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "slug": "jsis-digital-transformation-and-the-changing-context-of-strategy-and-work",
+    "active": false,
+    "pubDate": 1702262037000,
+    "gracePeriod": 1719801623000
   },
   {
-    "title": "Call for papers for a Special Issue of Information & Management",
-    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management",
+    "title": "Empowering Bright Internet and Bright Artificial Intelligence (AI)",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#empowering-bright-internet-and-bright-artificial-intelligence-ai",
     "dueDate": null,
-    "journal": "Information and Management",
-    "abbreviation": "im",
-    "slug": "im-call-for-papers-for-a-special-issue-of-information-and-management",
-    "active": false,
-    "pubDate": 1653979045000,
-    "gracePeriod": 1718169032000
+    "journal": "Decision Support Systems",
+    "abbreviation": "dss",
+    "slug": "dss-empowering-bright-internet-and-bright-artificial-intelligence-ai",
+    "active": true,
+    "pubDate": 1701916405000
+  },
+  {
+    "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
+    "dueDate": null,
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "slug": "jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
+    "active": true,
+    "pubDate": 1701398280000
   },
   {
     "title": "Human-Centered Generative AI",
@@ -275,6 +294,56 @@
     "slug": "ijim-human-centered-generative-ai",
     "active": true,
     "pubDate": 1697509696000
+  },
+  {
+    "title": "Call for Proposals for Special Issues Review Articles",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#call-for-proposals-for-special-issues-review-articles",
+    "dueDate": null,
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "slug": "jsis-call-for-proposals-for-special-issues-review-articles",
+    "active": true,
+    "pubDate": 1696904848000
+  },
+  {
+    "title": "Digital Sustainability and Information Systems Research",
+    "url": "https://aisel.aisnet.org/jais/SI-DigitalSustainabilityFINAL.pdf",
+    "dueDate": 1727827200000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-digital-sustainability-and-information-systems-research",
+    "active": true,
+    "pubDate": 1693277696000
+  },
+  {
+    "title": "ICT for Development, Grand Challenges and Increasing Marginalization: Theoretical, Methodological and Ethical Imperatives",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#ict-for-development-grand-challenges-and-increasing-marginalization-theoretical-methodological-and-ethical-imperatives",
+    "dueDate": null,
+    "journal": "Information and Organization",
+    "abbreviation": "io",
+    "slug": "io-ict-for-development-grand-challenges-and-increasing-marginalization-theoretical-methodological-and-ethical-imperatives",
+    "active": true,
+    "pubDate": 1688439922000
+  },
+  {
+    "title": "Managing the Individual, Organizational, and Societal Challenges of Generative AI: Utopian, Dystopian, Neutropian Perspectives",
+    "url": "https://www.dropbox.com/s/r0o32ru3u4i5yy5/JAISGenAISICALLFinal.pdf?dl=0",
+    "dueDate": 1725062400000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-managing-the-individual-organizational-and-societal-challenges-of-generative-ai-utopian-dystopian-neutropian-perspectives",
+    "active": true,
+    "pubDate": 1686624406000
+  },
+  {
+    "title": "Health Analytics and Theorizing",
+    "url": "https://cdn.ymaws.com/aisnet.org/resource/resmgr/jais_issues/jais_si_cfp_health_analytics.pdf",
+    "dueDate": 1675209600000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-health-analytics-and-theorizing",
+    "active": true,
+    "pubDate": 1674010243000
   },
   {
     "title": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
@@ -340,16 +409,6 @@
     "pubDate": 1671676979000
   },
   {
-    "title": "Empowering Bright Internet and Bright Artificial Intelligence (AI)",
-    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#empowering-bright-internet-and-bright-artificial-intelligence-ai",
-    "dueDate": null,
-    "journal": "Decision Support Systems",
-    "abbreviation": "dss",
-    "slug": "dss-empowering-bright-internet-and-bright-artificial-intelligence-ai",
-    "active": true,
-    "pubDate": 1701916405000
-  },
-  {
     "title": "Blockchain Technology and Applications",
     "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications",
     "dueDate": null,
@@ -360,107 +419,57 @@
     "pubDate": 1660804645000
   },
   {
-    "title": "The Theory and Practice of Informational Transitions",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf",
+    "title": "Call for papers for a Special Issue of Information & Management",
+    "url": "https://www.journals.elsevier.com/information-and-management/call-for-papers#call-for-papers-for-a-special-issue-of-information-management",
     "dueDate": null,
-    "journal": "Journal of the Association for Information Science and Technology",
-    "abbreviation": "jasist",
-    "slug": "jasist-the-theory-and-practice-of-informational-transitions",
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "slug": "im-call-for-papers-for-a-special-issue-of-information-and-management",
     "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1721702317000
+    "pubDate": 1653979045000,
+    "gracePeriod": 1718169032000
   },
   {
-    "title": "Re-orientating Search Engine Research in Information Science",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf",
-    "dueDate": null,
-    "journal": "Journal of the Association for Information Science and Technology",
-    "abbreviation": "jasist",
-    "slug": "jasist-re-orientating-search-engine-research-in-information-science",
+    "title": "Digital Responsibility - Social, Ethical, and Ecological Implications of IS",
+    "url": "https://aisel.aisnet.org/jais/SI-DigitalResponsibility.pdf",
+    "dueDate": 1700352000000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-digital-responsibility-social-ethical-and-ecological-implications-of-is",
+    "active": true,
+    "pubDate": 1651041445000
+  },
+  {
+    "title": "Data Science for Social Good",
+    "url": "https://aisel.aisnet.org/jais/JAISSIonDataScienceforSocialGood.pdf",
+    "dueDate": 1618444800000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-data-science-for-social-good",
     "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1721702317000
+    "pubDate": 1616481445000,
+    "gracePeriod": 1718332553000
   },
   {
-    "title": "Healthier Information Ecosystems",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf",
-    "dueDate": null,
-    "journal": "Journal of the Association for Information Science and Technology",
-    "abbreviation": "jasist",
-    "slug": "jasist-healthier-information-ecosystems",
+    "title": "Technology and Social Inclusion",
+    "url": "https://aisel.aisnet.org/jais/SocialInclusionSI.pdf",
+    "dueDate": 1617062400000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-technology-and-social-inclusion",
     "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1721702317000
+    "pubDate": 1615617445000,
+    "gracePeriod": 1718332553000
   },
   {
-    "title": "Transforming the Metaverse and Spatial Computing: Overcoming Challenges and Building a Brighter Future",
-    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
-    "dueDate": null,
-    "journal": "International Journal of Information Management",
-    "abbreviation": "ijim",
-    "slug": "ijim-transforming-the-metaverse-and-spatial-computing-overcoming-challenges-and-building-a-brighter-future",
-    "active": true,
-    "pubDate": 1708939400000
-  },
-  {
-    "title": "4th ISJ Trending Topics Workshop",
-    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/Call%20for%20Papers%20-%204th%20ISJ%20Trending%20Topics%20Workshop-1708341458120.pdf",
-    "dueDate": null,
-    "journal": "Information Systems Journal",
-    "abbreviation": "isj",
-    "slug": "isj-4th-isj-trending-topics-workshop",
+    "title": "Envisioning Digital Transformation - Advancing Theoretical Diversity",
+    "url": "https://aisel.aisnet.org/jais/CallforPapersJAISAdvancing.pdf",
+    "dueDate": 1630454400000,
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "slug": "jais-envisioning-digital-transformation-advancing-theoretical-diversity",
     "active": false,
-    "pubDate": 1708942873000,
-    "gracePeriod": 1722393906000
-  },
-  {
-    "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
-    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#organizing-for-emerging-digital-technologies-the-good-the-bad-the-ugly",
-    "dueDate": null,
-    "journal": "Information and Organization",
-    "abbreviation": "io",
-    "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
-    "active": true,
-    "pubDate": 1712453774000
-  },
-  {
-    "title": "Lights and shadows of generative AI for individuals, organizations, and society",
-    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "dueDate": null,
-    "journal": "International Journal of Information Management",
-    "abbreviation": "ijim",
-    "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "active": true,
-    "pubDate": 1712453774000
-  },
-  {
-    "title": "Generative AI: Transforming Human, Business, and Organizational Decision Making",
-    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#generative-ai-transforming-human-business-and-organizational-decision-making",
-    "dueDate": null,
-    "journal": "Decision Support Systems",
-    "abbreviation": "dss",
-    "slug": "dss-generative-ai-transforming-human-business-and-organizational-decision-making",
-    "active": true,
-    "pubDate": 1712453774000
-  },
-  {
-    "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
-    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "dueDate": null,
-    "journal": "Decision Support Systems",
-    "abbreviation": "dss",
-    "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "active": true,
-    "pubDate": 1716950234000
-  },
-  {
-    "title": "Addressing Refugees and Migration Issues through Critical Information Systems",
-    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf",
-    "dueDate": null,
-    "journal": "Information Systems Journal",
-    "abbreviation": "isj",
-    "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
-    "active": true,
-    "pubDate": 1721298883000
+    "pubDate": 1612420645000,
+    "gracePeriod": 1718332553000
   }
 ]
