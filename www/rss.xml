@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 01 Aug 2024 02:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 02:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[Empowering Bright Internet and Bright Artificial Intelligence (AI) (1)]]></title>
+            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#empowering-bright-internet-and-bright-artificial-intelligence-ai-1</link>
+            <guid>dss-empowering-bright-internet-and-bright-artificial-intelligence-ai-1</guid>
+            <pubDate>Fri, 02 Aug 2024 02:40:16 GMT</pubDate>
+            <author>Decision Support Systems (DSS)</author>
+        </item>
         <item>
             <title><![CDATA[Addressing Refugees and Migration Issues through Critical Information Systems]]></title>
             <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf</link>
