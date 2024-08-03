@@ -282,9 +282,8 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-empowering-bright-internet-and-bright-artificial-intelligence-ai",
-    "active": false,
-    "pubDate": 1701916405000,
-    "gracePeriod": 1725158416000
+    "active": true,
+    "pubDate": 1701916405000
   },
   {
     "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
