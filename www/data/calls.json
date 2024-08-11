@@ -141,9 +141,8 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725849741000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -152,9 +151,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Emerging Technologies and IS Sourcing",
@@ -163,9 +161,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
@@ -174,9 +171,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
@@ -185,9 +181,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
@@ -196,9 +191,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Next-Generation Information Systems Research Methods",
@@ -207,9 +201,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Decentralised Information Systems: New Thinking and New Paradigms",
@@ -218,9 +211,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1725763405000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "The Theory and Practice of Informational Transitions",
