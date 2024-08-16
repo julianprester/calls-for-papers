@@ -230,8 +230,9 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": true,
-    "pubDate": 1705026897000
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1726368124000
   },
   {
     "title": "Re-orientating Search Engine Research in Information Science",
@@ -240,8 +241,9 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": true,
-    "pubDate": 1705026897000
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1726368124000
   },
   {
     "title": "Healthier Information Ecosystems",
@@ -250,8 +252,9 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": true,
-    "pubDate": 1705026897000
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1726368124000
   },
   {
     "title": "Special Issue",
