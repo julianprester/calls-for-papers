@@ -303,8 +303,9 @@
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
     "slug": "jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
-    "active": true,
-    "pubDate": 1701398280000
+    "active": false,
+    "pubDate": 1701398280000,
+    "gracePeriod": 1727837424000
   },
   {
     "title": "Human-Centered Generative AI",
