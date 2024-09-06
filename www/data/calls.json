@@ -6,8 +6,9 @@
     "journal": "Information and Organization",
     "abbreviation": "io",
     "slug": "io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
-    "active": true,
-    "pubDate": 1723689440000
+    "active": false,
+    "pubDate": 1723689440000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Empowering Bright Internet and Bright Artificial Intelligence (AI) (1)",
@@ -16,8 +17,9 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-empowering-bright-internet-and-bright-artificial-intelligence-ai-1",
-    "active": true,
-    "pubDate": 1722566416000
+    "active": false,
+    "pubDate": 1722566416000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Addressing Refugees and Migration Issues through Critical Information Systems",
@@ -37,8 +39,9 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "active": true,
-    "pubDate": 1716950234000
+    "active": false,
+    "pubDate": 1716950234000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
@@ -47,8 +50,9 @@
     "journal": "Information and Organization",
     "abbreviation": "io",
     "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
-    "active": true,
-    "pubDate": 1712453774000
+    "active": false,
+    "pubDate": 1712453774000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Lights and shadows of generative AI for individuals, organizations, and society",
@@ -57,8 +61,9 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "active": true,
-    "pubDate": 1712453774000
+    "active": false,
+    "pubDate": 1712453774000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Generative AI: Transforming Human, Business, and Organizational Decision Making",
@@ -67,8 +72,9 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-generative-ai-transforming-human-business-and-organizational-decision-making",
-    "active": true,
-    "pubDate": 1712453774000
+    "active": false,
+    "pubDate": 1712453774000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "4th ISJ Trending Topics Workshop",
@@ -151,8 +157,9 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
-    "pubDate": 1705026897000
+    "active": false,
+    "pubDate": 1705026897000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -282,8 +289,9 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-empowering-bright-internet-and-bright-artificial-intelligence-ai",
-    "active": true,
-    "pubDate": 1701916405000
+    "active": false,
+    "pubDate": 1701916405000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
@@ -303,8 +311,9 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-human-centered-generative-ai",
-    "active": true,
-    "pubDate": 1697509696000
+    "active": false,
+    "pubDate": 1697509696000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Call for Proposals for Special Issues Review Articles",
@@ -313,8 +322,9 @@
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
     "slug": "jsis-call-for-proposals-for-special-issues-review-articles",
-    "active": true,
-    "pubDate": 1696904848000
+    "active": false,
+    "pubDate": 1696904848000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Digital Sustainability and Information Systems Research",
@@ -364,8 +374,9 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
-    "active": true,
-    "pubDate": 1671676979000
+    "active": false,
+    "pubDate": 1671676979000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Metaverse disruption: Supernatural Transformations of Businesses and their Stakeholders",
@@ -396,8 +407,9 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
-    "active": true,
-    "pubDate": 1671676979000
+    "active": false,
+    "pubDate": 1671676979000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Embracing AI for the Future of Marketing",
@@ -417,8 +429,9 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
-    "active": true,
-    "pubDate": 1671676979000
+    "active": false,
+    "pubDate": 1671676979000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Blockchain Technology and Applications",
@@ -427,8 +440,9 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-blockchain-technology-and-applications",
-    "active": true,
-    "pubDate": 1660804645000
+    "active": false,
+    "pubDate": 1660804645000,
+    "gracePeriod": 1728182920000
   },
   {
     "title": "Call for papers for a Special Issue of Information & Management",
