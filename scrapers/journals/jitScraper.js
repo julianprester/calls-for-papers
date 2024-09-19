@@ -2,7 +2,7 @@ const scraperObject = {
     url: 'https://journals.sagepub.com/page/jin/call-for-papers',
     async scraper(browser) {
         let page = await browser.newPage();
-        console.log(`Navigating to ${this.url}...`);
+        console.log(`Navigating to ${this.url}`);
         await page.goto(this.url);
 
         return await page.$$eval('div.pb-rich-text p a', items => items.map(item => {

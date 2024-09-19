@@ -2,7 +2,7 @@ const scraperObject = {
     url: 'https://asistdl.onlinelibrary.wiley.com/journal/23301643',
     async scraper(browser) {
         let page = await browser.newPage();
-        console.log(`Navigating to ${this.url}...`);
+        console.log(`Navigating to ${this.url}`);
         await page.goto(this.url);
 
         return await page.$$eval('div.journal-resources ul li a[href^="/pb-assets/"]', items => items.map(item => {

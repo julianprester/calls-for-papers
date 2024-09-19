@@ -2,7 +2,7 @@ const scraperObject = {
     url: 'https://misq.umn.edu/',
     async scraper(browser) {
         let page = await browser.newPage();
-        console.log(`Navigating to ${this.url}...`);
+        console.log(`Navigating to ${this.url}`);
         await page.goto(this.url, {waitUntil: 'domcontentloaded'});
         await page.locator('css=nav ul li:first-child').hover();
         await page.locator('css=nav ul li:first-child section.ammenu-submenu-block p a[href*="/call_for_papers/"]')

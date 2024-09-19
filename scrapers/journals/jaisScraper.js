@@ -2,7 +2,7 @@ const scraperObject = {
     url: 'https://aisel.aisnet.org/jais/specialissues.html',
     async scraper(browser) {
         let page = await browser.newPage();
-        console.log(`Navigating to ${this.url}...`);
+        console.log(`Navigating to ${this.url}`);
         await page.goto(this.url);
 
         return await page.$$eval('div#main > div#breadcrumb + h2 + ul li:not(br ~ li)', items => items.map(item => {
