@@ -5,11 +5,11 @@ const scraperObject = {
         console.log(`Navigating to ${this.url}`);
         await page.goto(this.url);
 
-        return await page.$$eval('table tr td a', items => items.map(item => {
+        return await page.$$eval('table tr', items => items.map(item => {
             return {
-                title: item.textContent,
-                url: item.href,
-                dueDate: null,
+                title: item.querySelector('td:first-child a').textContent,
+                url: item.querySelector('td:first-child a').href,
+                dueDate: Date.parse(item.querySelector('td:last-child').textContent),
                 journal: 'Information Systems Journal',
                 abbreviation: 'isj'
             }
