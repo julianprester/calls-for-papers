@@ -24,13 +24,12 @@
   {
     "title": "Addressing Refugees and Migration Issues through Critical Information Systems",
     "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf",
-    "dueDate": null,
+    "dueDate": 1743292800000,
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
-    "active": false,
-    "pubDate": 1721298883000,
-    "gracePeriod": 1729219836000
+    "active": true,
+    "pubDate": 1721298883000
   },
   {
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
@@ -237,9 +236,8 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1729219836000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Re-orientating Search Engine Research in Information Science",
@@ -248,9 +246,8 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1729219836000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Healthier Information Ecosystems",
@@ -259,9 +256,8 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1729219836000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Special Issue",
