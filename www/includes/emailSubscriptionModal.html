@@ -7,10 +7,12 @@
         </button>
         <div class="p-2">
             <h3 class="mb-4 text-xl font-medium text-gray-900 dark:text-white">Subscribe to email notifications</h3>
-            <form class="space-y-6" name="email-subscription" action="https://callsforpapers.us17.list-manage.com/subscribe/post?u=89c88e5efe473ec473399f017&amp;id=4d59fdf135&amp;f_id=004352e0f0" method="post">
+            <form class="space-y-6" name="email-subscription" action="https://list.callsforpapers.org/subscription/form" method="post">
                 <div>
-                    <label for="mce-EMAIL" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email address</label>
-                    <input id="mce-EMAIL" type="email" name="EMAIL" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="scholar@university.edu" required>
+                    <input type="hidden" name="nonce" />
+                    <input id="a7596" type="hidden" name="l" value="a7596a79-0521-4920-8ac5-617a977beb2e" />
+                    <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email address</label>
+                    <input id="email" type="email" name="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="scholar@university.edu" required>
                 </div>
                 <button type="submit" class="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" aria-label="Subscribe to email newsletter">Subscribe</button>
             </form>
