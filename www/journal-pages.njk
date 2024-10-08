@@ -1,0 +1,15 @@
+---
+pagination:
+  data: journalCalls
+  size: 1
+  alias: journal
+layout: main
+permalink: "journal/{{ journal.journal | slugify }}/"
+eleventyComputed:
+  title: "Calls for Papers | {{ journal.journal }}"
+  description: "Calls for Papers shows you the latest calls for papers of the {{ journal.journal }}, easily accessible, in one location."
+---
+
+{% for call in journal.calls | isActiveCall %}
+{% include "call-card.html" %}
+{% endfor %}

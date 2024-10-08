@@ -1,5 +1,25 @@
 const fs = require('fs/promises');
 
+function groupJournalCalls(calls) {
+    const groupedCalls = calls.reduce((acc, call) => {
+        const key = `${call.journal}-${call.abbreviation}`;
+
+        if (!acc[key]) {
+            acc[key] = {
+                journal: call.journal,
+                abbreviation: call.abbreviation,
+                calls: []
+            };
+        }
+
+        acc[key].calls.push(call);
+
+        return acc;
+    }, {});
+
+    return Object.values(groupedCalls);
+};
+
 async function writeData(scrapedIssues) {
     const now = new Date();
     let existingIssues = await readData();
@@ -33,7 +53,15 @@ async function writeData(scrapedIssues) {
         return b.pubDate - a.pubDate;
     });
 
+    const journalIssues = groupJournalCalls(existingIssues);
+
     fs.writeFile("./www/data/calls.json", JSON.stringify(existingIssues, null, 2), err => {
+        if (err) {
+            console.error(err);
+        }
+    });
+
+    fs.writeFile("./www/data/journalCalls.json", JSON.stringify(journalIssues, null, 2), err => {
         if (err) {
             console.error(err);
         }
