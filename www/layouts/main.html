@@ -1,0 +1,91 @@
+---
+layout: base
+---
+
+<div x-data="{
+    search: '',
+    show_call(el) {
+        return this.search === '' || el.getAttribute('data-title').toLowerCase().includes(this.search.toLowerCase());
+    },
+    sort_calls(order) {
+        const calls = Array.from(this.$refs.calls.children);
+        switch (order) {
+            case 'title':
+            case 'journal':
+                calls.sort((a, b) => {
+                    const aAttribute = a.getAttribute(`data-${order}`);
+                    const bAttribute = b.getAttribute(`data-${order}`);
+                    return aAttribute.localeCompare(bAttribute);
+                });
+                break;
+            case 'pubdate':
+            case 'duedate':
+                calls.sort((a, b) => {
+                    const aAttribute = a.getAttribute(`data-${order}`);
+                    const bAttribute = b.getAttribute(`data-${order}`);
+                    return bAttribute - aAttribute;
+                });
+                break;
+        }
+        calls.forEach(call => this.$refs.calls.appendChild(call));
+    },
+}" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
+{% if journal %}
+<h1 class="text-2xl font-semibold dark:text-white">{{ journal.journal }}</h1>
+{% endif %}
+<!-- Search, sort, filter controls -->
+<div class="flex justify-between my-4 items-center">
+    <div class="relative grow max-w-xl">
+        <div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
+            <svg class="w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd"
+                    d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+                    clip-rule="evenodd"></path>
+            </svg>
+        </div>
+        <input type="text" x-ref="search" x-model="search" @keydown.escape="search = ''; $refs.search.blur()"
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+            placeholder="Search...">
+        <div class="hidden sm:flex space-x-2 absolute inset-y-0 right-0 items-center pr-3 pointer-events-none">
+            <span class="px-1 font-mono text-sm text-gray-400 border border-gray-400 rounded bg-gray-200 dark:bg-gray-600">Ctrl</span>
+            <span class="px-1 font-mono text-sm text-gray-400 border border-gray-400 rounded bg-gray-200 dark:bg-gray-600">K</span>
+        </div>
+    </div>
+    <div x-data="{sortOpen: false}" class="relative">
+        <!-- Dropdown toggle button -->
+        <button @click="sortOpen = ! sortOpen" aria-label="Sort order"
+            class="block text-gray-900 hover:bg-gray-300 dark:hover:bg-gray-700 rounded-lg dark:text-white font-medium px-4 py-2.5">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                class="bi bi-sort-alpha-down" viewBox="0 0 16 16">
+                <path fill-rule="evenodd"
+                    d="M10.082 5.629 9.664 7H8.598l1.789-5.332h1.234L13.402 7h-1.12l-.419-1.371h-1.781zm1.57-.785L11 2.687h-.047l-.652 2.157h1.351z" />
+                <path
+                    d="M12.96 14H9.028v-.691l2.579-3.72v-.054H9.098v-.867h3.785v.691l-2.567 3.72v.054h2.645V14zM4.5 2.5a.5.5 0 0 0-1 0v9.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 1.999.007.007a.497.497 0 0 0 .7-.006l2-2a.5.5 0 0 0-.707-.708L4.5 12.293V2.5z" />
+            </svg>
+        </button>
+        <!-- Dropdown list -->
+        <div x-show="sortOpen" @click.outside="sortOpen = false"
+            class="absolute right-0 py-2 mt-2 bg-white rounded shadow dark:bg-gray-700 text-sm text-gray-700 dark:text-gray-200">
+            <ul>
+                <li @click="sortOpen = false; sort_calls('title')"
+                    class="block cursor-pointer py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                    Title</li>
+                <li @click="sortOpen = false; sort_calls('journal')"
+                    class="block cursor-pointer py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                    Journal</li>
+                <li @click="sortOpen = false; sort_calls('pubdate')"
+                    class="block cursor-pointer py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                    Date published</li>
+                <li @click="sortOpen = false; sort_calls('duedate')"
+                    class="block cursor-pointer py-2 px-4 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                    Date due</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Content grid -->
+<div x-ref="calls" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+    {{ content | safe }}
+</div>
+</div>
