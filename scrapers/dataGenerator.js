@@ -1,6 +1,17 @@
 const fs = require('fs/promises');
+const OpenAI = require('openai');
+const { zodResponseFormat } = require('openai/helpers/zod');
+const { z } = require('zod');
 
-function groupJournalCalls(calls) {
+const openai = new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY,
+});
+
+const Tagging = z.object({
+    tags: z.string().array(),
+});
+
+async function groupJournalCalls(calls) {
     const groupedCalls = calls.reduce((acc, call) => {
         const key = `${call.journal}-${call.abbreviation}`;
 
@@ -19,6 +30,23 @@ function groupJournalCalls(calls) {
 
     return Object.values(groupedCalls);
 };
+
+async function tag(calls) {
+    for (let call of calls) {
+        const completion = await openai.beta.chat.completions.parse({
+            model: "gpt-4o-mini",
+            messages: [
+                { role: "system", content: "You are a world-class text tagging system." },
+                { role: "user", content: `Tag the following text: ${call.title}\nUse as few tags as possible.` },
+            ],
+            response_format: zodResponseFormat(Tagging, "tagging"),
+        });
+
+        const tagging = completion.choices[0].message.parsed;
+        call.tags = tagging.tags.map(tag => tag.toLowerCase());
+    }
+    return calls;
+}
 
 async function writeData(scrapedIssues) {
     const now = new Date();
@@ -47,13 +75,14 @@ async function writeData(scrapedIssues) {
         issue.pubDate = Date.parse(now);
         issue.active = true;
     }
+    scraped_not_existing = await tag(scraped_not_existing);
     existingIssues = existingIssues.concat(scraped_not_existing);
 
     existingIssues.sort((a, b) => {
         return b.pubDate - a.pubDate;
     });
 
-    const journalIssues = groupJournalCalls(existingIssues);
+    const journalIssues = await groupJournalCalls(existingIssues);
 
     fs.writeFile("./www/data/calls.json", JSON.stringify(existingIssues, null, 2), err => {
         if (err) {
