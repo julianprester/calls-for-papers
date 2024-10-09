@@ -7,6 +7,11 @@
         </a>
         <a href="{{ '/journal/' + (call.journal | slug) | url }}"><div class="uppercase text-xs text-gray-700 font-semibold py-2 tracking-widest dark:text-gray-400">{{
             call.journal | safe }}</div></a>
+        <div class="pb-2">
+            {% for tag in call.tags %}
+            <a href="{{ '/tags/' + (tag | slug) | url }}" class="inline-flex items-center rounded-full px-1.5 py-0.5 text-xs text-gray-400 dark:text-gray-400 ring-1 ring-inset ring-gray-400 dark:ring-gray-400">{{ tag }}</a>
+            {% endfor %}
+        </div>
         <div class="flex">
             <svg class="w-6 fill-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                 <path
