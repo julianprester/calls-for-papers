@@ -1,0 +1,40 @@
+---js
+{
+  pagination: {
+    data: "calls",
+    size: 1,
+    alias: "tag",
+    addAllPagesToCollections: true,
+    before: function (paginationData, fullData) {
+      let tagGroups = [];
+      paginationData.forEach(call => {
+        if (!Array.isArray(call.tags)) {
+          console.warn('Warning: Call does not have a valid tags array', call);
+          return;
+        }
+
+        call.tags.forEach(tag => {
+          let tagGroup = tagGroups.find(group => group.name === tag);
+          if (!tagGroup) {
+            tagGroup = { name: tag, calls: [] };
+            tagGroups.push(tagGroup);
+          }
+          const callWithoutTags = { ...call };
+          tagGroup.calls.push(callWithoutTags);
+        });
+      });
+      return tagGroups;
+    }
+  },
+  layout: "main",
+  permalink: "tag/{{ tag.name | slugify }}/",
+  eleventyComputed: {
+    title: "Calls for Papers | {{ tag.name }}",
+    description: "Calls for Papers shows you the latest calls for papers for {{ tag.name }}, easily accessible, in one location."
+  }
+}
+---
+
+{% for call in tag.calls | isActiveCall %}
+{% include "call-card.html" %}
+{% endfor %}

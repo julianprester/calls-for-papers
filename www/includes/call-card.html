@@ -5,11 +5,11 @@
         <a href="{{ call.url | safe }}" target="_blank">
             <div class="font-medium text-xl text-gray-900 dark:text-white">{{ call.title | safe }}</div>
         </a>
-        <a href="{{ '/journal/' + (call.journal | slug) | url }}"><div class="uppercase text-xs text-gray-700 font-semibold py-2 tracking-widest dark:text-gray-400">{{
+        <a href="{{ '/journal/' + (call.journal | slug) | url }}"><div class="uppercase text-xs text-gray-700 hover:text-gray-300 font-semibold py-2 tracking-widest dark:text-gray-400">{{
             call.journal | safe }}</div></a>
         <div class="pb-2">
             {% for tag in call.tags %}
-            <a href="{{ '/tags/' + (tag | slug) | url }}" class="inline-flex items-center rounded-full px-1.5 py-0.5 text-xs text-gray-400 dark:text-gray-400 ring-1 ring-inset ring-gray-400 dark:ring-gray-400">{{ tag }}</a>
+            <a href="{{ '/tag/' + (tag | slug) | url }}" class="inline-flex items-center rounded-full px-1.5 py-0.5 text-xs text-gray-400 dark:text-gray-400 ring-1 ring-inset ring-gray-400 dark:ring-gray-400 hover:bg-gray-600">{{ tag }}</a>
             {% endfor %}
         </div>
         <div class="flex">
