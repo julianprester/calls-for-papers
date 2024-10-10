@@ -27,3 +27,5 @@ jobs:
           timestamp=$(date -u)
           git commit -m "[SCRAPER]: ${timestamp}" || exit 0
           git push
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
