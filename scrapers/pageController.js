@@ -1,17 +1,12 @@
-const jaisScraper = require('./journals/jaisScraper');
-const ejisScraper = require('./journals/ejisScraper');
-const isjScraper = require('./journals/isjScraper');
-const isrScraper = require('./journals/isrScraper');
-const jitScraper = require('./journals/jitScraper');
-const jmisScraper = require('./journals/jmisScraper');
-const jsisScraper = require('./journals/jsisScraper');
-const misqScraper = require('./journals/misqScraper');
-const ioScraper = require('./journals/ioScraper');
-const imScraper = require('./journals/imScraper');
-const ijimScraper = require('./journals/ijimScraper');
-const dssScraper = require('./journals/dssScraper');
-const jasistScraper = require('./journals/jasistScraper');
-const itpScraper = require('./journals/itpScraper');
+const fs = require('fs');
+const path = require('path');
+
+const folderPath = path.join(__dirname, 'journals');
+const files = fs.readdirSync(folderPath);
+const modules = files
+    .filter(file => path.extname(file) === '.js')
+    .map(file => require(path.join(folderPath, file)));
+
 const dataPreparation = require('./dataPreparation');
 const dataGenerator = require('./dataGenerator');
 
@@ -20,20 +15,11 @@ async function scrapeAll(browserInstance) {
     try {
         browser = await browserInstance;
         let issues = [];
-        issues = issues.concat(await jaisScraper.scraper(browser));
-        issues = issues.concat(await ejisScraper.scraper(browser));
-        issues = issues.concat(await isjScraper.scraper(browser));
-        issues = issues.concat(await isrScraper.scraper(browser));
-        issues = issues.concat(await jitScraper.scraper(browser));
-        issues = issues.concat(await jmisScraper.scraper(browser));
-        issues = issues.concat(await jsisScraper.scraper(browser));
-        issues = issues.concat(await misqScraper.scraper(browser));
-        issues = issues.concat(await ioScraper.scraper(browser));
-        issues = issues.concat(await imScraper.scraper(browser));
-        issues = issues.concat(await ijimScraper.scraper(browser));
-        issues = issues.concat(await dssScraper.scraper(browser));
-        issues = issues.concat(await jasistScraper.scraper(browser));
-        issues = issues.concat(await itpScraper.scraper(browser));
+        for (let module of modules) {
+            const calls = await module.scraper(browser);
+            console.log(`Found ${calls.length} calls at ${module.url}`);
+            issues = issues.concat(calls);
+        }
         await browser.close();
         issues = await dataPreparation(issues);
         dataGenerator(issues);
