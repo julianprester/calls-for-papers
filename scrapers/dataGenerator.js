@@ -11,26 +11,6 @@ const Tagging = z.object({
     tags: z.string().array(),
 });
 
-async function groupJournalCalls(calls) {
-    const groupedCalls = calls.reduce((acc, call) => {
-        const key = `${call.journal}-${call.abbreviation}`;
-
-        if (!acc[key]) {
-            acc[key] = {
-                journal: call.journal,
-                abbreviation: call.abbreviation,
-                calls: []
-            };
-        }
-
-        acc[key].calls.push(call);
-
-        return acc;
-    }, {});
-
-    return Object.values(groupedCalls);
-};
-
 async function tag(calls) {
     for (let call of calls) {
         const completion = await openai.beta.chat.completions.parse({
@@ -82,15 +62,7 @@ async function writeData(scrapedIssues) {
         return b.pubDate - a.pubDate;
     });
 
-    const journalIssues = await groupJournalCalls(existingIssues);
-
     fs.writeFile("./www/data/calls.json", JSON.stringify(existingIssues, null, 2), err => {
-        if (err) {
-            console.error(err);
-        }
-    });
-
-    fs.writeFile("./www/data/journalCalls.json", JSON.stringify(journalIssues, null, 2), err => {
         if (err) {
             console.error(err);
         }

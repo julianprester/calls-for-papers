@@ -1,14 +1,37 @@
----
-pagination:
-  data: journalCalls
-  size: 1
-  alias: journal
-  addAllPagesToCollections: true
-layout: main
-permalink: "journal/{{ journal.journal | slugify }}/"
-eleventyComputed:
-  title: "Calls for Papers | {{ journal.journal }}"
-  description: "Calls for Papers shows you the latest calls for papers of the {{ journal.journal }}, easily accessible, in one location."
+---js
+{
+  pagination: {
+    data: "calls",
+    size: 1,
+    alias: "journal",
+    addAllPagesToCollections: true,
+    before: function(paginationData, fullData) {
+        const groupedCalls = paginationData.reduce((acc, call) => {
+            const key = `${call.journal}-${call.abbreviation}`;
+    
+            if (!acc[key]) {
+                acc[key] = {
+                    journal: call.journal,
+                    abbreviation: call.abbreviation,
+                    calls: []
+                };
+            }
+    
+            acc[key].calls.push(call);
+    
+            return acc;
+        }, {});
+    
+        return Object.values(groupedCalls);
+    }
+  },
+  layout: "main",
+  permalink: "journal/{{ journal.journal | slugify }}/",
+  eleventyComputed: {
+    title: "Calls for Papers | {{ journal.journal }}",
+    description: "Calls for Papers shows you the latest calls for papers of the {{ journal.journal }}, easily accessible, in one location."
+  }
+}
 ---
 
 {% for call in journal.calls | isActiveCall %}
