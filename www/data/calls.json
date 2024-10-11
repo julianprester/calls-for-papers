@@ -157,9 +157,8 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": false,
-    "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000
+    "active": true,
+    "pubDate": 1705026897000
   },
   {
     "title": "Regulation in the Age of Digitalization",
