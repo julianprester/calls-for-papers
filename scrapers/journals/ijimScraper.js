@@ -3,7 +3,7 @@ const scraperObject = {
     async scraper(browser) {
         let page = await browser.newPage();
         await page.goto(this.url);
-        if (await page.locator('h2.section-heading').count() == 0) {
+        if (await page.locator('h2[aria-label="Call for papers"]').count() == 0) {
             return [];
         }
 
