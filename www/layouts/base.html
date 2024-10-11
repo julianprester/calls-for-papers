@@ -7,7 +7,7 @@ type: website
 
 
 <!DOCTYPE html>
-<html lang="en" class="antialiased">
+<html lang="en" class="antialiased" data-theme="light">
 
 <head>
     <meta charset="UTF-8" />
@@ -25,7 +25,7 @@ type: website
 </head>
 
 <body x-data="{ requestOpen: false, subscribeOpen: false }">
-    <div class="min-h-screen bg-gray-200 dark:bg-gray-900">
+    <div class="min-h-screen">
         <div class="container mx-auto px-8">
             {% include "header.html" %}
             {{ content | safe }}
