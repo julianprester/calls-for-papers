@@ -1,19 +1,27 @@
-<div class="fixed inset-0 z-30 flex items-center justify-center overflow-auto bg-black bg-opacity-50"
-    x-show="subscribeOpen">
-    <div class="w-full max-w-md p-6 mx-8 text-left bg-white rounded-lg shadow dark:bg-gray-700" @click.away="subscribeOpen = false">
-        <button type="button" class="float-right text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-800 dark:hover:text-white" @click="subscribeOpen = false" aria-label="Close modal">
-            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-            <span class="sr-only">Close modal</span>
-        </button>
-        <div class="p-2">
-            <h3 class="mb-4 text-xl font-medium text-gray-900 dark:text-white">Subscribe to email notifications</h3>
-            <form class="space-y-6" name="email-subscription" action="https://callsforpapers.us17.list-manage.com/subscribe/post?u=89c88e5efe473ec473399f017&amp;id=4d59fdf135&amp;f_id=004352e0f0" method="post">
-                <div>
-                    <label for="mce-EMAIL" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email address</label>
-                    <input id="mce-EMAIL" type="email" name="EMAIL" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="scholar@university.edu" required>
-                </div>
-                <button type="submit" class="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" aria-label="Subscribe to email newsletter">Subscribe</button>
-            </form>
-        </div>
+<dialog id="emailSubscriptionModal" class="modal">
+    <div class="modal-box">
+        <form method="dialog">
+            <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
+        </form>
+        <h3 class="text-lg font-bold mb-6">Subscribe to email notifications</h3>
+        <form class="space-y-6" name="email-subscription"
+            action="https://callsforpapers.us17.list-manage.com/subscribe/post?u=89c88e5efe473ec473399f017&amp;id=4d59fdf135&amp;f_id=004352e0f0"
+            method="post">
+            <label for="mce-EMAIL" class="input input-bordered flex items-center gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                    class="h-4 w-4 opacity-70">
+                    <path
+                        d="M2.5 3A1.5 1.5 0 0 0 1 4.5v.793c.026.009.051.02.076.032L7.674 8.51c.206.1.446.1.652 0l6.598-3.185A.755.755 0 0 1 15 5.293V4.5A1.5 1.5 0 0 0 13.5 3h-11Z" />
+                    <path
+                        d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
+                </svg>
+                <input id="mce-EMAIL" name="EMAIL" type="email" class="grow" placeholder="scholar@university.edu"
+                    required />
+            </label>
+            <button type="submit" class="btn btn-primary" aria-label="Subscribe to email newsletter">Subscribe</button>
+        </form>
     </div>
-</div>
+    <form method="dialog" class="modal-backdrop">
+        <button>close</button>
+    </form>
+</dialog>
