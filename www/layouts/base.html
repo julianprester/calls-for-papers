@@ -7,7 +7,7 @@ type: website
 
 
 <!DOCTYPE html>
-<html lang="en" class="antialiased" data-theme="light">
+<html lang="en" data-theme="night">
 
 <head>
     <meta charset="UTF-8" />
@@ -24,7 +24,9 @@ type: website
 
 </head>
 
-<body x-data="{ requestOpen: false, subscribeOpen: false }">
+<body>
+    {% include "emailSubscriptionModal.html" %}
+    {% include "journalRequestModal.html" %}
     <div class="min-h-screen">
         <div class="container mx-auto px-8">
             {% include "header.html" %}
