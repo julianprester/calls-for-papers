@@ -30,7 +30,7 @@ layout: base
         calls.forEach(call => this.$refs.calls.appendChild(call));
     },
 }" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
-    <article class="prose">
+    <article class="prose max-w-none">
         {% if journal %}
         <h1>{{ journal.journal }}</h1>
         {% endif %}
