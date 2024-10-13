@@ -38,12 +38,10 @@ layout: base
         <h1>Tag: #{{ tag.name }}</h1>
         {% endif %}
     </article>
-    <!-- Search, sort, filter controls -->
     <div class="flex justify-between my-4 items-center">
         {% include "searchBox.html" %}
         {% include "sortDropdown.html" %}
     </div>
-    <!-- Content grid -->
     <div x-ref="calls" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {{ content | safe }}
     </div>
