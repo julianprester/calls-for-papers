@@ -1,52 +1,8 @@
 [
   {
-    "title": "Digital Technologies and Social Justice",
-    "url": "",
-    "dueDate": 1656511200000,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-digital-technologies-and-social-justice",
-    "active": true,
-    "pubDate": 1641014106000,
-    "tags": [
-      "digital technologies",
-      "social justice"
-    ]
-  },
-  {
-    "title": "Registered Reports",
-    "url": "https://misq.umn.edu/call_for_papers/registered-reports",
-    "dueDate": 1693490400000,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-registered-reports",
-    "active": true,
-    "pubDate": 1672895706000,
-    "tags": [
-      "research",
-      "publication",
-      "open science"
-    ]
-  },
-  {
-    "title": "The Institutional Press in the Digital Age",
-    "url": "https://misq.umn.edu/call_for_papers/institutional-press",
-    "dueDate": 1732971600000,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-the-institutional-press-in-the-digital-age",
-    "active": true,
-    "pubDate": 1702358106000,
-    "tags": [
-      "institutional press",
-      "digital age",
-      "media"
-    ]
-  },
-  {
     "title": "AI-IA Nexus",
     "url": "https://misq.umn.edu/call-for-papers-ai-ia",
-    "dueDate": 1693490400000,
+    "dueDate": 1693526400000,
     "journal": "MIS Quarterly",
     "abbreviation": "misq",
     "slug": "misq-ai-ia-nexus",
@@ -64,9 +20,8 @@
     "journal": "Information and Organization",
     "abbreviation": "io",
     "slug": "io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
-    "active": false,
+    "active": true,
     "pubDate": 1723689440000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "design",
       "digital futures",
@@ -100,14 +55,13 @@
     "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
     "active": true,
     "pubDate": 1721298883000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "refugees",
       "migration",
       "information systems",
       "critical issues"
     ]
- },
+  },
   {
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
     "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
@@ -115,9 +69,8 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "active": false,
+    "active": true,
     "pubDate": 1716950234000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "decision support systems",
       "design science research",
@@ -131,9 +84,8 @@
     "journal": "Information and Organization",
     "abbreviation": "io",
     "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
-    "active": false,
+    "active": true,
     "pubDate": 1712453774000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "digital technologies",
       "organizing",
@@ -147,9 +99,8 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "active": false,
+    "active": true,
     "pubDate": 1712453774000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "generative ai",
       "impact",
@@ -163,9 +114,8 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-generative-ai-transforming-human-business-and-organizational-decision-making",
-    "active": false,
+    "active": true,
     "pubDate": 1712453774000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "generative ai",
       "decision making",
@@ -303,9 +253,8 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-   "active": true,
+    "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "regulation",
       "digitalization"
@@ -320,7 +269,6 @@
     "slug": "jit-emerging-technologies-and-is-sourcing",
     "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "emerging technologies",
       "is sourcing"
@@ -335,7 +283,6 @@
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
     "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "ethics",
       "digitalization",
@@ -352,7 +299,6 @@
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
     "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "theorizing",
       "emerging it",
@@ -368,7 +314,6 @@
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
     "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "digital transformation",
       "geo-political",
@@ -385,7 +330,6 @@
     "slug": "jit-next-generation-information-systems-research-methods",
     "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "information systems",
       "research methods",
@@ -401,7 +345,6 @@
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
     "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1731034549000,
     "tags": [
       "decentralisation",
       "information systems",
@@ -416,9 +359,8 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1730775598000,
     "tags": [
       "information theory",
       "transitions",
@@ -432,9 +374,8 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1730775598000,
     "tags": [
       "search engine research",
       "information science",
@@ -448,13 +389,27 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
-    "gracePeriod": 1730775598000,
     "tags": [
       "health",
       "information",
       "ecosystems"
+    ]
+  },
+  {
+    "title": "The Institutional Press in the Digital Age",
+    "url": "https://misq.umn.edu/call_for_papers/institutional-press",
+    "dueDate": 1733011200000,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-the-institutional-press-in-the-digital-age",
+    "active": true,
+    "pubDate": 1702358106000,
+    "tags": [
+      "institutional press",
+      "digital age",
+      "media"
     ]
   },
   {
@@ -514,9 +469,8 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-human-centered-generative-ai",
-    "active": false,
+    "active": true,
     "pubDate": 1697509696000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "generative ai",
       "human-centered"
@@ -602,15 +556,29 @@
     ]
   },
   {
+    "title": "Registered Reports",
+    "url": "https://misq.umn.edu/call_for_papers/registered-reports",
+    "dueDate": 1693526400000,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-registered-reports",
+    "active": true,
+    "pubDate": 1672895706000,
+    "tags": [
+      "research",
+      "publication",
+      "open science"
+    ]
+  },
+  {
     "title": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
     "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
-    "active": false,
+    "active": true,
     "pubDate": 1671676979000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "banking",
       "research",
@@ -659,9 +627,8 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
-    "active": false,
+    "active": true,
     "pubDate": 1671676979000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "technology",
       "customer interface",
@@ -693,9 +660,8 @@
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
-    "active": false,
+    "active": true,
     "pubDate": 1671676979000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "information systems",
       "big data",
@@ -710,9 +676,8 @@
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-blockchain-technology-and-applications",
-    "active": false,
+    "active": true,
     "pubDate": 1660804645000,
-    "gracePeriod": 1728182920000,
     "tags": [
       "blockchain",
       "technology",
@@ -750,6 +715,20 @@
       "ethical implications",
       "ecological implications",
       "information systems"
+    ]
+  },
+  {
+    "title": "Digital Technologies and Social Justice",
+    "url": "",
+    "dueDate": 1656547200000,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-digital-technologies-and-social-justice",
+    "active": true,
+    "pubDate": 1641014106000,
+    "tags": [
+      "digital technologies",
+      "social justice"
     ]
   },
   {
