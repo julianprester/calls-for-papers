@@ -1,5 +1,49 @@
 [
   {
+    "title": "Digital Technologies and Social Justice",
+    "url": "",
+    "dueDate": 1656511200000,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-digital-technologies-and-social-justice",
+    "active": true,
+    "pubDate": 1641014106000,
+    "tags": [
+      "digital technologies",
+      "social justice"
+    ]
+  },
+  {
+    "title": "Registered Reports",
+    "url": "https://misq.umn.edu/call_for_papers/registered-reports",
+    "dueDate": 1693490400000,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-registered-reports",
+    "active": true,
+    "pubDate": 1672895706000,
+    "tags": [
+      "research",
+      "publication",
+      "open science"
+    ]
+  },
+  {
+    "title": "The Institutional Press in the Digital Age",
+    "url": "https://misq.umn.edu/call_for_papers/institutional-press",
+    "dueDate": 1732971600000,
+    "journal": "MIS Quarterly",
+    "abbreviation": "misq",
+    "slug": "misq-the-institutional-press-in-the-digital-age",
+    "active": true,
+    "pubDate": 1702358106000,
+    "tags": [
+      "institutional press",
+      "digital age",
+      "media"
+    ]
+  },
+  {
     "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
     "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
     "dueDate": null,
@@ -397,19 +441,6 @@
       "health",
       "information",
       "ecosystems"
-    ]
-  },
-  {
-    "title": "Special Issue",
-    "url": "https://misq.umn.edu/call_for_papers/institutional-press",
-    "dueDate": null,
-    "journal": "MIS Quarterly",
-    "abbreviation": "misq",
-    "slug": "misq-special-issue",
-    "active": true,
-    "pubDate": 1702348436000,
-    "tags": [
-      "special issue"
     ]
   },
   {

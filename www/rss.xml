@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 11 Oct 2024 02:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 05:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,26 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[Digital Technologies and Social Justice]]></title>
+            <guid>misq-digital-technologies-and-social-justice</guid>
+            <pubDate>Sat, 01 Jan 2022 05:15:06 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Registered Reports]]></title>
+            <link>https://misq.umn.edu/call_for_papers/registered-reports</link>
+            <guid>misq-registered-reports</guid>
+            <pubDate>Thu, 05 Jan 2023 05:15:06 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Institutional Press in the Digital Age]]></title>
+            <link>https://misq.umn.edu/call_for_papers/institutional-press</link>
+            <guid>misq-the-institutional-press-in-the-digital-age</guid>
+            <pubDate>Tue, 12 Dec 2023 05:15:06 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
         <item>
             <title><![CDATA[Addressing Refugees and Migration Issues through Critical Information Systems]]></title>
             <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf</link>
@@ -118,13 +138,6 @@
             <guid>jasist-healthier-information-ecosystems</guid>
             <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Special Issue]]></title>
-            <link>https://misq.umn.edu/call_for_papers/institutional-press</link>
-            <guid>misq-special-issue</guid>
-            <pubDate>Tue, 12 Dec 2023 02:33:56 GMT</pubDate>
-            <author>MIS Quarterly (MISQ)</author>
         </item>
         <item>
             <title><![CDATA[Digital Sustainability and Information Systems Research]]></title>
