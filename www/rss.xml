@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 16 Oct 2024 05:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 05:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -32,6 +32,13 @@
             <link>https://misq.umn.edu/call_for_papers/institutional-press</link>
             <guid>misq-the-institutional-press-in-the-digital-age</guid>
             <pubDate>Tue, 12 Dec 2023 05:15:06 GMT</pubDate>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI-IA Nexus]]></title>
+            <link>https://misq.umn.edu/call-for-papers-ai-ia</link>
+            <guid>misq-ai-ia-nexus</guid>
+            <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
             <author>MIS Quarterly (MISQ)</author>
         </item>
         <item>
