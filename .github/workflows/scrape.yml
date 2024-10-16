@@ -17,7 +17,10 @@ jobs:
           cache: 'npm'
       - run: npm ci
       - run: npx playwright install chromium
-      - run: npm run scrape --if-present
+      - name: Scrape
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run scrape --if-present
       - run: npm run rss --if-present
       - name: Commit and push if it changed
         run: |-
@@ -27,5 +30,3 @@ jobs:
           timestamp=$(date -u)
           git commit -m "[SCRAPER]: ${timestamp}" || exit 0
           git push
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
