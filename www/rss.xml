@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sat, 11 Jan 2025 02:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 11:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,30 +13,9 @@
             <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
             <link>https://callsforpapers.org/</link>
         </image>
-        <copyright>Calls for Papers © 2022</copyright>
+        <copyright>Calls for Papers © 2024</copyright>
         <item>
-            <title><![CDATA[Contemporary Innovation in Information Infrastructures]]></title>
-            <link>https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07</link>
-            <guid>jais-contemporary-innovation-in-information-infrastructures</guid>
-            <pubDate>Fri, 20 Dec 2024 02:55:03 GMT</pubDate>
-            <author>Journal of the Association for Information Systems (JAIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Platform Partnerships]]></title>
-            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#</link>
-            <guid>jsis-platform-partnerships</guid>
-            <pubDate>Sat, 09 Nov 2024 02:48:44 GMT</pubDate>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Future of Information Systems in the Enterprise]]></title>
-            <link>https://journals.sagepub.com/pb-assets/JIT%20SI%20Future%20of%20IS%20in%20the%20Enterprise-1729852404520.pdf</link>
-            <guid>jit-the-future-of-information-systems-in-the-enterprise</guid>
-            <pubDate>Sun, 27 Oct 2024 03:00:38 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI-IA Nexus]]></title>
+            <title><![CDATA[Artificial Intelligence-Information Assurance Nexus: The Future of Information Systems Security, Privacy, and Quality]]></title>
             <link>https://misq.umn.edu/call-for-papers-ai-ia</link>
             <guid>misq-ai-ia-nexus</guid>
             <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
@@ -64,9 +43,9 @@
             <author>Decision Support Systems (DSS)</author>
         </item>
         <item>
-            <title><![CDATA[Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly]]></title>
-            <link>https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#</link>
-            <guid>io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly</guid>
+            <title><![CDATA[Generative AI: Transforming Human, Business, and Organizational Decision Making]]></title>
+            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#generative-ai-transforming-human-business-and-organizational-decision-making</link>
+            <guid>dss-generative-ai-transforming-human-business-and-organizational-decision-making</guid>
             <pubDate>Sun, 07 Apr 2024 01:36:14 GMT</pubDate>
             <author>Decision Support Systems (DSS)</author>
         </item>
@@ -111,6 +90,27 @@
             <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
             <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
+            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
+            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Healthier Information Ecosystems]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
+            <guid>jasist-healthier-information-ecosystems</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
         </item>
         <item>
             <title><![CDATA[Regulation in the Age of Digitalization]]></title>
@@ -162,25 +162,11 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
-            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
-            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
-            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Healthier Information Ecosystems]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
-            <guid>jasist-healthier-information-ecosystems</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+            <title><![CDATA[Analytical Creativity]]></title>
+            <link>https://pubsonline.informs.org/page/isre/calls-for-papers</link>
+            <guid>isr</guid>
+            <pubDate>Fri, 22 Dec 2023 09:02:47 GMT</pubDate>
+            <author>Information Systems Research (ISR)</author>
         </item>
         <item>
             <title><![CDATA[The Institutional Press in the Digital Age]]></title>
@@ -197,7 +183,7 @@
             <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
-            <title><![CDATA[Digital Sustainability and Information Systems Research]]></title>
+            <title><![CDATA[Digital Sustainability and Information Systems Research: New challenges and theoretical perspectives]]></title>
             <link>https://aisel.aisnet.org/jais/SI-DigitalSustainabilityFINAL.pdf</link>
             <guid>jais-digital-sustainability-and-information-systems-research</guid>
             <pubDate>Tue, 29 Aug 2023 02:54:56 GMT</pubDate>
@@ -239,8 +225,8 @@
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
-            <title><![CDATA[Blockchain Technology and Applications]]></title>
-            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#</link>
+            <title><![CDATA[DSS Special Issue on Blockchain Technology and Applications]]></title>
+            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications</link>
             <guid>dss-blockchain-technology-and-applications</guid>
             <pubDate>Thu, 18 Aug 2022 06:37:25 GMT</pubDate>
             <author>Decision Support Systems (DSS)</author>
