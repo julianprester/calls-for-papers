@@ -3,7 +3,7 @@ import { promises as fs } from 'fs';
 
 let data = await fs.readFile("./www/_data/calls.json", "utf8");
 let issues = JSON.parse(data);
-issues = issues.filter(issue => issue.active || (!issue.active && Date.now() < issue.gracePeriod));
+issues = issues.filter(issue => issue.active || (!issue.active && Date.now() < Date.parse(issue.gracePeriod)));
 const rssFeed = new Feed({
     title: "Calls for Papers",
     description: "Calls for Papers shows you the latest calls for papers of academic journals in your discipline.",
