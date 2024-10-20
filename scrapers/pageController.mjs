@@ -19,8 +19,13 @@ export async function scrapeAll(browserInstance) {
                 .map(file => import(path.join(folderPath, file)))
         );
 
-        const issues = await Promise.all(modules.map(module => module.scraperObject.scraper(browser)));
-        await integrateCalls(issues.flat());
+        let issues = []
+        for (let module of modules) {
+            const calls = await module.scraperObject.scraper(browser);
+            console.log(`Found ${calls.length} calls at ${module.scraperObject.url}`);
+            issues = issues.concat(calls);
+        }
+        await integrateCalls(issues);
     }
     catch (err) {
         console.log("Could not resolve the browser instance => ", err);
