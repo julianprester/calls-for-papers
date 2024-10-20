@@ -1,9 +1,10 @@
-const { chromium } = require('playwright-extra')
-const stealth = require('puppeteer-extra-plugin-stealth')()
-stealth.enabledEvasions.delete('iframe.contentWindow')
-chromium.use(stealth)
+import { chromium } from 'playwright-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth'
 
-async function startBrowser() {
+StealthPlugin().enabledEvasions.delete('iframe.contentWindow')
+chromium.use(StealthPlugin())
+
+export async function startBrowser() {
     let browser;
     try {
         console.log("Opening the browser...")
@@ -24,7 +25,3 @@ async function startBrowser() {
     }
     return browser
 }
-
-module.exports = {
-    startBrowser
-};

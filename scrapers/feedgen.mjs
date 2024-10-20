@@ -1,7 +1,7 @@
-const Feed = require('feed').Feed;
-const fs = require('fs');
+import { Feed } from 'feed';
+import { promises as fs } from 'fs';
 
-let data = fs.readFileSync("./www/data/calls.json", "utf8");
+let data = await fs.readFile("./www/_data/calls.json", "utf8");
 let issues = JSON.parse(data);
 issues = issues.filter(issue => issue.active || (!issue.active && Date.now() < issue.gracePeriod));
 const rssFeed = new Feed({
@@ -10,9 +10,9 @@ const rssFeed = new Feed({
     id: "https://callsforpapers.org/",
     link: "https://callsforpapers.org/",
     language: "en",
-    image: "https://callsforpapers.org/favicon/android-chrome-96x96.png",
-    favicon: "https://callsforpapers.org/favicon/favicon.ico",
-    copyright: "Calls for Papers © 2022",
+    image: "https://callsforpapers.org/public/favicon/android-chrome-96x96.png",
+    favicon: "https://callsforpapers.org/public/favicon/favicon.ico",
+    copyright: "Calls for Papers © 2024",
     date: new Date(),
     feedLinks: {
         json: "https://callsforpapers.org/json",
@@ -39,7 +39,7 @@ issues.forEach(issue => {
     });
 });
 try {
-    fs.writeFileSync("./www/rss.xml", rssFeed.rss2());
+    await fs.writeFile("./www/rss.xml", rssFeed.rss2());
 } catch (err) {
     console.log(err);
 }

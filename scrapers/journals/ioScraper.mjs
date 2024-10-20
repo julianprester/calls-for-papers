@@ -1,4 +1,4 @@
-const scraperObject = {
+export const scraperObject = {
     url: 'https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers',
     async scraper(browser) {
         let page = await browser.newPage();
@@ -7,16 +7,15 @@ const scraperObject = {
             return [];
         }
 
-        return await page.$$eval('main h3', items => items.map(item => {
+        return await page.$$eval('main div:has(> h3)', items => items.map(item => {
             return {
-                title: item.textContent,
-                url: 'https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#' + item.id,
-                dueDate: null,
                 journal: 'Information and Organization',
-                abbreviation: 'io'
+                abbreviation: 'io',
+                metaTitle: item.querySelector('h3').textContent,
+                url: 'https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#' + item.querySelector('h3').id,
+                rawContent: item.innerHTML,
             }
         }));
     }
 }
 
-module.exports = scraperObject;
