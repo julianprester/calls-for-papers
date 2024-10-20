@@ -23,7 +23,7 @@ layout: layouts/base.html
                 calls.sort((a, b) => {
                     const aAttribute = a.getAttribute(`data-${order}`);
                     const bAttribute = b.getAttribute(`data-${order}`);
-                    return bAttribute - aAttribute;
+                    return Date.parse(bAttribute) - Date.parse(aAttribute);
                 });
                 break;
         }
