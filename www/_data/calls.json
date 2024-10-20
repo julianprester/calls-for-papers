@@ -1,5 +1,1296 @@
 [
   {
+    "journal": "Decision Support Systems",
+    "abbreviation": "dss",
+    "metaTitle": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
+    "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
+    "contentHash": "94a67cb7620ceb1b35668ec1566ca8f95fa08b9f758285452ec4cfd1de8b0bc2",
+    "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
+    "topics": [
+      "Contributing to sustainable development with DSR",
+      "Designing and deploying innovative information systems for accessible quality education or quality healthcare",
+      "Designing and deploying innovative information systems to improve access to clean water and sanitation",
+      "The role of DSR in social change",
+      "DSR to mitigate misinformation",
+      "Combining social and technical approaches in DSR for social good",
+      "The challenge of evaluating DSR solutions to wicked problems",
+      "DSR for designing and deploying responsible artifacts",
+      "Considering indigenous values in DSR",
+      "Designing information systems for fairness and justice",
+      "DSR for human flourishing"
+    ],
+    "description": {
+      "paragraphs": [
+        "This special issue targets DSR that addresses societal problems. In particular, we encourage submissions linked to any of the 17 sustainable development goals (SDGs) identified by the United Nations, as well as work dealing with technologies that are transforming the world in which we live, such as Artificial Intelligence (AI).",
+        "Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that 'created and evaluates IT artifact intended to solve identified organizational problems' (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that 'serve human purposes' (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.",
+        "Recent DSR publications reflect a growing consensus within the community regarding the imperative to advance sustainable development. Examples such as Strobel, et al. (2023) leveraged AI to translate sign language and improve participation of individuals with hearing difficulties in social activities. With this special issue, we hope to encourage fellow design science researchers to create even greater impacts together.",
+        "This special issue aims to curate and present state-of-the-art design science research on topics related to delivering social good through the design and deployment of information systems. Although conceptual and methodological papers in this vein are welcome, the focus of this special issue on exemplars of DSR. We welcome original research that focuses on a variety of topics and themes."
+      ]
+    },
+    "tags": [
+      "design science research",
+      "social good",
+      "sustainable development goals",
+      "wicked problem"
+    ],
+    "editors": [
+      {
+        "name": "Leona Chandra Kruse",
+        "affiliation": "Department of Information Systems, University of Agder",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Norway"
+        }
+      },
+      {
+        "name": "Jeffrey Parsons",
+        "affiliation": "Faculty of Business Administration, Memorial University of Newfoundland",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Canada"
+        }
+      },
+      {
+        "name": "Jinsoo Park",
+        "affiliation": "College of Business Administration, Seoul National University",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "South Korea"
+        }
+      },
+      {
+        "name": "Thorsten Schoormann",
+        "affiliation": "Business Informatics, TU Braunschweig",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Germany"
+        }
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2024-09-01T02:00:00.000Z",
+        "description": "Submission system opens for submissions to the Special Issue.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-01-31T01:00:00.000Z",
+        "description": "Deadline for manuscript submission.",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "Decision Support Systems",
+    "abbreviation": "dss",
+    "metaTitle": "Generative AI: Transforming Human, Business, and Organizational Decision Making",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#generative-ai-transforming-human-business-and-organizational-decision-making",
+    "slug": "dss-generative-ai-transforming-human-business-and-organizational-decision-making",
+    "contentHash": "0200fe13b7f482eac8c81c499de121173adfb743b3dd1d5728bf728a0ad0d5b5",
+    "title": "Generative AI: Transforming Human, Business, and Organizational Decision Making",
+    "topics": [
+      "Automatic detection of content produced by GenAI technologies",
+      "Techniques and tools to differentiate human- vs. GenAI-generated content",
+      "The impact of GenAI on decision support process and outcomes",
+      "Human-GenAI co-creation",
+      "Human-GenAI collaboration and interaction",
+      "Quality and speed of decision making facilitated by GenAI models",
+      "Impact of GenAI applications in organizations and society",
+      "Best practices in prompt engineering",
+      "Dark sides of GenAI",
+      "Responsible, trustworthy, and ethical GenAI",
+      "Regulation and data protection associated with GenAI",
+      "Prompt-injection attacks and security of GenAI models"
+    ],
+    "description": {
+      "paragraphs": [
+        "Generative Artificial Intelligence (GenAI) represents the next level of machine learning by going beyond recognizing patterns and making inferences to generating new content that mimics the training data of a variety of forms including text, audio, image, video, music, artwork, simulation, and even programming codes. Hence, GenAI uses algorithms to enable users to generate new content based on a variety of inputs (prompts) that can be in multiple forms such as text, audio, image, video, and musical notes. Given that prompts serve as the bridge between human intent and machine understanding, the ability to generate and use effective prompts has become an essential skill for users to maximize the outcomes of the human-GenAI interaction.",
+        "The rapid rise of GenAI technologies has raised both unprecedented opportunities and challenges to human, business, and organizational decision making for the future of work. The impact of GenAI models, such as ChatGPT, is far-reaching, and its applications keep growing, ranging from large language models (LLMs) to learning from available data to predict the response of a target group to advertisements and marketing campaigns to creating new advertisements and marketing campaigns for specific target groups, and from generating a travel itinerary to clinical decision support in screening, prevention, and treatment. Gartner identified GenAI as one of the most impactful and rapidly evolving technologies in the productivity revolution in its report on Emerging Technologies and Trends Impact Radar for 2022. The Gartner report also predicts that by 2026, more than 90% of IT operations management vendors will have embedded GenAI capabilities in their products and/or services, up from less than 5% in 2023. On the one hand, GenAI tools or systems have the potential to transform the way people learn, create multimedia content, perform tasks, and make decisions. They can help simplify organizational tasks and operations with efficiency across a variety of use cases. On the other hand, the newfound capability of GenAI also raises risks and concerns about misinformation, plagiarism, copyright infringements, harmful or offensive content, biases, deepfakes, etc. that may result in significant negative impact on individuals, organizations, and society at large. Hence, responsible, trustworthy, and ethical GenAI regulation and content moderation need to be in place.",
+        "GenAI can transform or revolutionize decision making in a variety of ways. For example, the predictive and generative prowess of GenAI enables not only more accurate forecasts but also accelerates data-driven design and decision making based on trends and discoveries from large datasets. GenAI can help generate innovative solutions to problems and organizational designs that are too complex for traditional analytical methods and reduce repetitive manual processes by automating content creation tasks to enable real-time, on-the-fly decision making that can produce remarkable outcomes."
+      ]
+    },
+    "tags": [
+      "generative ai",
+      "decision making",
+      "technology and society"
+    ],
+    "editors": [
+      {
+        "name": "Dr. Dongsong Zhang",
+        "affiliation": "University of North Carolina at Charlotte",
+        "location": {
+          "city": "Charlotte",
+          "state": "North Carolina",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Dr. Pallab Sanyal",
+        "affiliation": "Costello College of Business, George Mason University",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Dr. Fiona Fui-Hoon Nah",
+        "affiliation": "City University of Hong Kong",
+        "location": {
+          "city": "Hong Kong",
+          "state": null,
+          "country": "Hong Kong SAR"
+        }
+      },
+      {
+        "name": "Dr. Raghava Mukkamala",
+        "affiliation": "Copenhagen Business School",
+        "location": {
+          "city": "Copenhagen",
+          "state": null,
+          "country": "Denmark"
+        }
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2024-05-01T02:00:00.000Z",
+        "description": "Submission start date",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2024-11-30T01:00:00.000Z",
+        "description": "Submission deadline",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "Decision Support Systems",
+    "abbreviation": "dss",
+    "metaTitle": "Blockchain Technology and Applications",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications",
+    "slug": "dss-blockchain-technology-and-applications",
+    "contentHash": "12c3794fc82b7440e76f42bf36fc54ed5645cde266a57a40612587745f6f9b60",
+    "title": "DSS Special Issue on Blockchain Technology and Applications",
+    "topics": [
+      "Process-aware blockchain design and management",
+      "Blockchain applications in metaverse platforms",
+      "Design and implementation issues in the transition from PoW to PoS",
+      "Data management issues on the blockchain",
+      "Security and privacy issues on the blockchain",
+      "Design and implementation issues of Metaverse systems",
+      "Integration of blockchain into existing business infrastructure",
+      "Modeling, design and implementation of trust mechanisms in blockchain-based systems",
+      "New and faster consensus algorithms for blockchain implementation",
+      "NFT analysis and design paradigms in various business sectors",
+      "Blockchain-based NFT casting models and mechanisms"
+    ],
+    "description": {
+      "paragraphs": [
+        "Blockchain technology has received enormous attention since Bitcoin was launched in 2009 and has become the frontier of technology advancements and application innovations in recent years. In particular, blockchain is now recognized as a critical part of the new ABCD of modern technology, that is, Artificial intelligence, Blockchain, Cloud computing, and big Data. However, many research challenges and opportunities remain to be tackled and surmounted in areas such as blockchain infrastructure decentralization, blockchain network governance, blockchain security and privacy, and the nature of machine trust in blockchain-based systems. Because blockchain is an integral part of automated business processes, the implementation of this technology can vary greatly between organizations across different industries.",
+        "The aim of this special issue is to highlight novel and high-quality research in blockchain technology and applications, and to examine the current and future impact of blockchain systems, and related technologies including data verification before block confirmation, authentication of data ownership, and dataflow across blockchain systems. Considering the decision-making focus of DSS publications that bridge the gap between managerial and technical perspectives, this special issue is open to all manuscripts that make a significant research contribution to blockchain systems and applications in business sectors such as finance, insurance, healthcare, manufacturing, supply chain, education, and government.",
+        "In terms of research paradigm, we invite manuscripts with system-based implications that draw on various analytical, empirical, and technical methodologies including, but not limited to, system development, econometrics, decision theory, operations management, experimentation, and engineering. We strongly encourage submissions that follow a design science research perspective, which aims to develop cutting-edge IT artifacts. That is, all technical and quantitative research methods that are helpful in tackling real-world challenges confronted by managers, engineers, and researchers via blockchain technology are welcome."
+      ]
+    },
+    "tags": [
+      "blockchain",
+      "technology",
+      "applications"
+    ],
+    "editors": [
+      {
+        "name": "Dr. Shaokun Fan",
+        "affiliation": "Oregon State University",
+        "location": {
+          "city": "Corvallis",
+          "state": "OR",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Dr. Noyan Ilk",
+        "affiliation": "Florida State University",
+        "location": {
+          "city": "Tallahassee",
+          "state": "FL",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Prof. Akhil Kumar",
+        "affiliation": "Penn State University",
+        "location": null
+      },
+      {
+        "name": "Prof. J. Leon Zhao",
+        "affiliation": "Chinese University of Hong Kong",
+        "location": {
+          "city": "Shenzhen",
+          "state": null,
+          "country": "China"
+        }
+      },
+      {
+        "name": "Dr. Ruiyun “Rayna” Xu",
+        "affiliation": "Chinese University of Hong Kong",
+        "location": {
+          "city": "Shenzhen",
+          "state": null,
+          "country": "China"
+        }
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Michael Adams",
+        "affiliation": "Queensland University of Technology",
+        "location": {
+          "city": "Brisbane",
+          "state": null,
+          "country": "Australia"
+        }
+      },
+      {
+        "name": "Arthur Carvalho",
+        "affiliation": "Miami University",
+        "location": {
+          "city": "Oxford",
+          "state": "Ohio",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Daning Hu",
+        "affiliation": "South University of Science and Technology",
+        "location": {
+          "city": "Shenzhen",
+          "state": "China",
+          "country": "China"
+        }
+      },
+      {
+        "name": "Qiqi Jiang",
+        "affiliation": "Copenhagen Business School",
+        "location": {
+          "city": "Frederiksberg",
+          "state": "Denmark",
+          "country": "Denmark"
+        }
+      },
+      {
+        "name": "Jiewu Leng",
+        "affiliation": "Guangdong University of Technology",
+        "location": {
+          "city": "Guangzhou",
+          "state": "China",
+          "country": "China"
+        }
+      },
+      {
+        "name": "Rong Liu (Emily)",
+        "affiliation": "Stevens Institute",
+        "location": {
+          "city": "Hoboken",
+          "state": "NJ",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Xin Luo (Robert)",
+        "affiliation": "The University of New Mexico",
+        "location": {
+          "city": "Albuquerque",
+          "state": "New Mexico",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Chih-Hung Peng",
+        "affiliation": "National Chengchi University",
+        "location": {
+          "city": "Taipei",
+          "state": "Taiwan",
+          "country": "Taiwan"
+        }
+      },
+      {
+        "name": "Zhe Shan",
+        "affiliation": "Miami University",
+        "location": {
+          "city": "Oxford",
+          "state": "Ohio",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Hemang Subramanian",
+        "affiliation": "Florida International University",
+        "location": {
+          "city": "Miami",
+          "state": "Florida",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Yinliang Tan (Ricky)",
+        "affiliation": "University of Houston",
+        "location": {
+          "city": "Houston",
+          "state": "USA",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Chih-Ping Wei",
+        "affiliation": "National Taiwan University",
+        "location": {
+          "city": "Taiwan",
+          "state": "Taiwan",
+          "country": "Taiwan"
+        }
+      },
+      {
+        "name": "Ling Xue",
+        "affiliation": "Georgia State University",
+        "location": {
+          "city": "USA",
+          "state": "USA",
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Wenping Zhang",
+        "affiliation": "Remin University of China",
+        "location": {
+          "city": "Beijing",
+          "state": "China",
+          "country": "China"
+        }
+      },
+      {
+        "name": "Xi Zhao",
+        "affiliation": "Xi'an Jiaotong University",
+        "location": {
+          "city": "China",
+          "state": null,
+          "country": "China"
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-10-15T01:00:00.000Z",
+        "description": "Submissions System opens",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-01-15T01:00:00.000Z",
+        "description": "Paper Submission Deadline",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2023-01-30T01:00:00.000Z",
+        "description": "Initial Screening of Submissions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-04-15T02:00:00.000Z",
+        "description": "First Review Decisions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-06-30T02:00:00.000Z",
+        "description": "Revision Due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-09-15T02:00:00.000Z",
+        "description": "Acceptance Decisions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-11-15T01:00:00.000Z",
+        "description": "Final Manuscript Due",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "metaTitle": "Lights and shadows of generative AI for individuals, organizations, and society",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
+    "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
+    "contentHash": "d25f08e720654425c654e6dd9b1a792a927eb9113e14e9e527411ea8ead8e08f",
+    "title": "Lights and shadows of generative AI for individuals, organizations, and society",
+    "topics": [
+      "What is the effect of using GenAI and other new AI applications in business practices? Are there differences across industries and sectors (e.g., banking, hospitality and tourism, healthcare)?",
+      "What are the main challenges and long-term benefits of using GenAI and other new AI applications in the contexts of teaching, academic research, and business practice?",
+      "How can GenAI and other new AI applications be used to address global challenges (e.g., Sustainable Development Goals)?",
+      "What are the main determinants and barriers to consumers’ and managers’ adoption of GenAI and other new AI applications? How does the use of GenAI and other new AI applications affect customer and manager decision making?",
+      "How can GenAI contribute to personalization and efficiency in the communication and advertising processes?",
+      "How does the use of GenAI and other new AI applications affect the different stages of the customer journey (e.g., pre-purchase, purchase, and post-purchase)? How can GenAI and other forms of AI improve the customer or user experience?",
+      "How might reliance on GenAI enhance or limit human creativity and critical thinking in different fields?",
+      "How can specific individuals (e.g., people with disabilities) benefit from the use of GenAI and other new AI applications?",
+      "What are the key digital ethical issues (e.g., fairness, biases, privacy, security) caused by the use of GenAI and its algorithms? How could these ethical issues be mitigated?",
+      "How can the use of GenAI applications for manipulation of public opinion and consumer decision making be reduced or even avoided?",
+      "How is GenAI and other new AI applications affecting the labor market? Will employees be replaced by GenAI and how?",
+      "How might differences in access to and use of GenAI exacerbate social and economic inequalities?",
+      "What are potential contextual conditions (e.g., country and organizational cultures) that shape how individuals and organizations use GenAI and other new AI applications?",
+      "What challenges do GenAI applications pose for existing legal and regulatory frameworks, and how might legal frameworks be developed to address GenAI-related risks?"
+    ],
+    "description": {
+      "paragraphs": [
+        "Lights and shadows of generative AI for individuals, organizations, and society\" explores the multifaceted impacts of generative artificial intelligence (GenAI) and related technologies on various domains. This special issue delves into both the advantages and potential pitfalls of GenAI, touching upon its profound influence on individuals, businesses, and society at large. It examines the integration of AI in business strategies across different sectors, highlighting how AI's increasing sophistication is transforming marketplaces and decision-making processes. The issue also addresses the ethical implications and challenges arising from AI adoption, underscoring the need for a balanced approach to harness GenAI's full potential while mitigating its risks.",
+        "This special issue aims to address not only the key benefits but also the major potential drawbacks for individuals, organizations, and societies of recent advances in generative artificial intelligence (GenAI) and other advanced AI-powered technologies (e.g., autonomous robots, predictive analytics) across varied service and consumption contexts.",
+        "The recent rapid development of GenAI and its application in various industries has been unstoppable and is expected to have dramatic impact on individuals, organizations, and societies (Dwivedi et al., 2023a). AI has been incorporated into digital business strategies, including applications such as expert systems, machine learning, robotics, natural language processing, machine vision, or speech recognition (Bornet et al., 2021; Collins et al., 2021). Implementation of AI-powered technologies such as service robots, chatbots, smart speakers, and other intelligent assistants already deliver new services (Borges et al., 2021) and increasingly interact with customers in the frontline (Gursoy et al., 2019; Wirtz et al., 2018) in various sectors such as banking (e.g., Flavián et al., 2022), hospitality and tourism (e.g., Schepers et al., 2022; Dwivedi et al. 2023b), or healthcare (e.g., Wirtz et al., 2021). AI is becoming increasingly more sophisticated, according to the levels proposed by Huang and Rust (2018), includes not only mechanical but also analytical, intuitive, and empathetic skills. As a result, the implementation of AI in business is transforming the marketplace (Bock et al., 2020) and affecting decision-making (Akdim et al., 2023; Duan et al., 2019). GenAI is expected to accelerate these developments.",
+        "From a company perspective, AI implementation can generate value via process automation, improved decision-making, and customer engagement (Borges et al., 2021; Wirtz et al., 2023a). Therefore, the success of AI initiatives is based on their expected benefits, for example, customer experience, service quality, and productivity (Wirtz et al., 2021). However, previous studies have also noted that users can experience not only benefits, but also costs derived from the interaction with AI applications (Puntoni et al., 2021; Wirtz et al., 2023b). Similarly, the use of AI in business strategy still holds several open questions (Borges et al., 2021). Therefore, it is not surprising that previous studies have suggested that the development of new AI applications presents many challenges (Dwivedi et al., 2021; Belk et al. 2023; Mariani et al., 2023).",
+        "Similarly, recent advances in the field of AI (e.g., generative AI) offer not only new opportunities but have also raised several concerns (e.g., Mustak et al. 2023). GenAI produces new content in the form of human-like discourse (Wong et al., 2023), and the use of GenAI models and systems is becoming widespread. ChatGPT, which is probably the most well-known GenAI tool, generates personalized responses to users’ messages or questions based on the user input (Dwivedi et al., 2023a). GenAI may have great implications for business practice (Peres et al., 2023) in several sectors, such as banking (Dwivedi et al., 2023), travel and tourism (Wong et al., 2023), or healthcare (The Lancet Regional Health-Europe, 2023), as well as in activities such as marketing and management (Dwivedi et al., 2023a; Kshetri et al., 2023). Therefore, there is a need to understand GenAI applications and their positive and negative consequences for consumers, companies, and the society.",
+        "In addition, previous literature has identified several ethical implications (e.g., related to fairness, privacy, security, etc.) in the context of AI use (Ashok et al., 2022; Wirtz et al., 2023b) that still require further analysis from several perspectives.",
+        "In summary, the widespread use of GenAI across domains offers opportunities and challenges that need to be effectively understood to take full advantage of its benefits. It also requires implementing measures to mitigate the possible negative effects associated with its potential risks and threats. This dual approach will ensure that the adoption of GenAI remains aligned with ethical, practical and sustainable standards, thereby enabling greater innovation, efficiency, and positive change."
+      ]
+    },
+    "tags": [
+      "generative ai",
+      "ai in business",
+      "ethical implications",
+      "consumer interaction"
+    ],
+    "editors": [
+      {
+        "name": "Dr. Carlos Flavián",
+        "affiliation": "University of Zaragoza",
+        "location": {
+          "city": "Zaragoza",
+          "state": null,
+          "country": "Spain"
+        }
+      },
+      {
+        "name": "Dr. Luis V. Casaló",
+        "affiliation": "University of Zaragoza",
+        "location": {
+          "city": "Zaragoza",
+          "state": null,
+          "country": "Spain"
+        }
+      },
+      {
+        "name": "Dr. Russell Belk",
+        "affiliation": "York University",
+        "location": {
+          "city": "Toronto",
+          "state": null,
+          "country": "Canada"
+        }
+      },
+      {
+        "name": "Dr. Ulrike Gretzel",
+        "affiliation": "University of Southern California",
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States of America"
+        }
+      },
+      {
+        "name": "Dr. Jochen Wirtz",
+        "affiliation": "National University of Singapore",
+        "location": {
+          "city": "Singapore",
+          "state": null,
+          "country": "Singapore"
+        }
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2024-09-01T02:00:00.000Z",
+        "description": "Submission window opens",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2024-11-30T01:00:00.000Z",
+        "description": "Submission window closes",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "metaTitle": "Human-Centered Generative AI",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#human-centered-generative-ai",
+    "slug": "ijim-human-centered-generative-ai",
+    "contentHash": "728e4766bf23d08c025bf1902afc00ce9f83a0780a635257a7bd2e99065271fb",
+    "title": "Human-Centered Generative AI",
+    "topics": [
+      "Designing GAI systems for a positive user experience: What are the principles and best practices for creating generative models that are user-friendly, accessible, and beneficial?",
+      "The role of human-centered design in preventing misuse of GAI: How can a human-centered approach help to prevent the creation and propagation of harmful or misleading content?",
+      "Ensuring inclusivity in human-centered GAI: How can we ensure that these systems are designed to be inclusive and equitable for users from diverse backgrounds and abilities?",
+      "The impact of human-centered GAI on content creation and consumption: How will these systems transform the way we create and consume content, and what are the implications for industries such as media, entertainment, and marketing?",
+      "The role of user feedback and control in human-centered GAI systems: How can we give users more control over the content generated by AI, and how can user feedback be used to improve these systems?",
+      "Regulatory considerations for human-centered GAI: Regulatory challenges associated with the development and deployment of these systems, and how can they be addressed?",
+      "The future of Human-Computer Interaction (HCI) with GAI: How can human-centered GAI transform the way we interact with computers and other digital devices?",
+      "Ethical considerations in the development and deployment of human-centered AI systems: How can we ensure that these systems respect human values, privacy, and autonomy?",
+      "Developing new theories or enhancing existing theoretical frameworks: How humans interact with Generative Artificial Intelligence."
+    ],
+    "description": {
+      "paragraphs": [
+        "The rapid advancement of Generative Artificial Intelligence (GAI) has opened up a plethora of possibilities for how we live, work and learn (Brynjolfsson et al., 2023; Dwivedi et al., 2023a; Nah et al., 2023). GAI are a class of algorithms capable of generating new content. Based on questions and prompts GAI tools can generate text, code (e.g. ChatGPT) or images (e.g., MidJourney). Other GAIs specialize in producing audio and video (e.g., Synthesia). The quality of the output, and the widespread availability of these tools, was unimaginable only a few years ago.",
+        "On the one hand, these developments have spurred a range of innovations, business opportunities and efficiencies (Gartner, 2023), drawing researchers to study its role and impact on business, society, and individuals (Budhwar et al., 2023; Dwivedi et al., 2023b; Richey et al., 2023; Susarla et al., 2023; Van Dis et al., 2023; Wamba et al., 2023). On the other hand, their accelerated pace of development has made it difficult for business and society to adapt, leading to uncertainty and unanticipated dilemmas. These include concerns around the misuse of GAI, issues with data privacy, overreliance on GAI content as fact and the challenges associated with verifying GAI content, as well as the inherent biases and “hallucinations” of such systems (Ji et al., 2023; Mukherjee and Chang, 2023). More broadly, there are significant concerns about the impact of GAI on job displacement and the potential for exacerbating divides between people who can make use of the technology and those who cannot.",
+        "Theorizing these technology-related opportunities and tensions is at the very core of Information Systems scholarship. It comes as no surprise then that there are calls for more research on challenges and opportunities and understanding how it creates new forms of value.",
+        "The goal of this special issue to emphasize Human-Centered AI (HCAI) approaches that prioritize human values, needs, and abilities throughout the design, development, deployment and situated use of GAI. HCAI refers to the prospect in which the digital technologies that tremendously amplify human abilities, also empower people in remarkable ways while ensuring human control (Shneiderman, 2020). HCAI can be seen as a two-dimensional framework of automation and control. It has evolved into an approach that combines AI-based algorithms with human-centered design thinking, and influences methods, processes, and outcomes. Capel and Brereton (2023) provide a mapping of the literature in HCAI, highlighting among others, Shneiderman’s work, which, has been the foundation for many studies that take an HCAI perspective. Based on their review, they define HCAI as:",
+        "Human-Centered Artificial Intelligence utilizes data to empower and enable its human users, while revealing its underlying values, biases, limitations, and the ethics of its data gathering and algorithms to foster ethical, interactive, and contestable use (Capel and Brereton 2023).",
+        "This special issues recognizes that a human centred mindset is crucial for the responsible design, development, and deployment of AI (Vassilakopoulou et al., 2022). GAI can have a dual role, sometimes being part of the problem or facilitating solutions to existing problems (Veit and Thatcher, 2023; Pappas et al., 2023). As HCAI puts humans at the center, it emphasizes that the next frontier of AI is not just technological but also humanistic and ethical (Stahl & Eke, 2024). This ensures that the GAI models developed and deployed are designed with human values, ethics, and user experience in mind, and that they are used in ways that are socially beneficial and responsible. This involves considering the implications of the technology from multiple perspectives, including the user, the developer, and society as a whole. Placing humans at the center allows the creation of AI systems that are more inclusive, trustworthy, and aligned with human values and goals (Schoenherr et al., 2023; Shneiderman, 2020). For research, studying or advancing human-centred GAI ensures that IS research has societal impact, is relevant and meaningful (Burton-Jones et al., 2023; Karanasios, 2022; Majchrzak et al., 2014). Given the nascent stage of GAI in practice, promoting a human-centered approach to GAI allows for IS research to go beyond postliminary institutionalization of technology. Rather it encourages a proactive exploration of the theoretical understanding how to ‘do’ human-centered GAI and its practical applications and benefits.",
+        "We invite researchers, practitioners, and policymakers to submit their articles for a special issue dedicated to exploring the opportunities, challenges, and implications of human-centered GAI."
+      ]
+    },
+    "tags": [
+      "artificial intelligence",
+      "generative ai",
+      "human-centered ai"
+    ],
+    "editors": [
+      {
+        "name": "Ilias Pappas",
+        "affiliation": "University of Agder and Norwegian University of Science and Technology",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Norway"
+        }
+      },
+      {
+        "name": "Stan Karanasios",
+        "affiliation": "University of Queensland",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Australia"
+        }
+      },
+      {
+        "name": "Bonnie Nardi",
+        "affiliation": "University of California Irvine",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Lionel Robert",
+        "affiliation": "University of Michigan",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2024-10-30T01:00:00.000Z",
+        "description": "Initial paper submission deadline",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2024-12-01T01:00:00.000Z",
+        "description": "First round authors notification",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-03-01T01:00:00.000Z",
+        "description": "Invited revisions deadline",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-05-01T02:00:00.000Z",
+        "description": "Second round authors notification",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-07-01T02:00:00.000Z",
+        "description": "Final revision deadline",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-09-01T02:00:00.000Z",
+        "description": "Final authors notification",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "metaTitle": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
+    "slug": "ijim-royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
+    "contentHash": "e87ff6e05eeb819f3977d6418270303d271e911b4b1d9a826cb31feda311bf1c",
+    "title": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
+    "topics": [
+      "Advancing/Building the theory regarding consumption and adoption of new information technologies, e.g., IoT, metaverse, Artificial Intelligence, and blockchain.",
+      "Acculturation and ethnic identity influences on marketing strategies for the wired consumers.",
+      "Understanding the use of mobile technology and wearables in changing shopping and consumption patterns.",
+      "Influences of robotics on families and reference groups across cultures.",
+      "Influence of new technologies on materialism, values, and cultural tendencies across cultures.",
+      "Transcultural, social well-being, and public policy issues regarding new consumption patterns across cultures, especially among teenagers and vulnerable groups.",
+      "Methodological issues relevant to studying the new consumption patterns, especially the use of big data analytics, robotics, and artificial intelligence.",
+      "Role of new information technologies on advertising perceptions and virtual stores across cultures.",
+      "New pricing issues across cultures, especially the influences of models from the new sharing economies.",
+      "Social media and internet based marketing issues across cultures, including social commerce and co-branding issues.",
+      "Multicultural brand communities and global social media.",
+      "New communication channels and their impact on images of products in cross-cultural contexts.",
+      "Impact of new technologies on product quality perceptions across cultures.",
+      "Culture and the role of new information technologies in consumer journeys.",
+      "Understanding cultural differences in the appreciation of digital sensory experiences.",
+      "Human-robot interactions in different cultural contexts."
+    ],
+    "description": {
+      "paragraphs": [
+        "The sixteenth meeting of the Royal Bank International Research Seminar will take place at the John Molson School of Business in Montreal, on September 14-16, 2023. The main topic of this seminar is to explore the role of culture in morphing the real world into the virtual world.",
+        "The main objective of the seminar is to bring together international researchers from different disciplines interested in advancing knowledge on the role of culture in a rapidly changing digital landscape. In recent developments, the digital transformation continues to accelerate; technology affects interpersonal relationships more than ever before requiring researchers to reconsider established paradigms in relation to current and future information technologies. Marketers must now deal with the influence of new information technologies on the increasingly wired consumers and rapidly developing market configurations."
+      ]
+    },
+    "tags": [
+      "culture",
+      "virtual world",
+      "information technology",
+      "marketing"
+    ],
+    "editors": [
+      {
+        "name": "Prof. Michel Laroche",
+        "affiliation": "Department of Marketing, John Molson School of Business",
+        "location": {
+          "city": "Montreal",
+          "state": "Quebec",
+          "country": "Canada"
+        }
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2024-05-31T02:00:00.000Z",
+        "description": "Deadline for submissions",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2023-09-14T02:00:00.000Z",
+        "description": "Seminar dates",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-09-16T02:00:00.000Z",
+        "description": "Seminar dates",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "metaTitle": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
+    "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
+    "contentHash": "28c584b37266a4fd6228d2d871d5a6be9fba35f8768163cd71474cc0e2f8aaeb",
+    "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
+    "topics": [
+      "persuasion attributes and characteristics of supporting customer facing technology vs distracting technology",
+      "mindful approaches for mitigating the distractive and negative effects of technology in consumption experiences (i.e., sensory overload, technostress, motion sickness, frustration, compulsive use, dehumanization and depersonalization of service/tourist experiences, consumer well-being)",
+      "supporting VS distracting technology effects in consumption experiences such as retailing, tourism, services, luxury brands",
+      "incorporating VS reducing multiple sensory cues in customer facing technology with brand experiences",
+      "technology impacts on the threshold of consumer consciousness, and resulting impacts on consumer behaviour",
+      "negative technology impacts on visual attention of consumers towards atmospherics and other environmental brand stimuli within consumption experiences",
+      "consumer responses (cognitive, affective and behavioral) to technology distraction in consumption contexts",
+      "technostress and the relevant negative effects on consumer decision making and their well-being",
+      "the impact of technology distraction on bottom line measures",
+      "the impact of technology distraction on consumers’ post-experience regrets",
+      "the effect of technology distraction on consumers’ perceived brand image/authenticity of luxury brands, services and tourism experiences"
+    ],
+    "description": {
+      "paragraphs": [
+        "Over the past decades, a vast array of technologies has been introduced in the marketplace to improve the customer experience, leading to stimuli-dense consumption environments (Pantano, Pedeliento, Christodoulides, 2022). Such digital transformation has replaced and supplemented traditional face-to-face consumer interactions with digital-enabled assistants (i.e., apps to automatically locate products in stores, self-serve checkout, or to explore cities without a tourism guide). More recently, as a response to COVID-19, many new technologies were launched to limit consumers’ and service personnel’s exposure to the virus. For instance, in hospitality, new technologies like service robots helped reduce guest interactions with employees and enhance cleanliness (Shin and Kang 2020). Furthermore, the hospitality industry is increasing its use of AI in the form of intelligent voice assistants (e.g., Siri, Alexa, Google Assistant) to support tourists from hotel room services to travel planning (Loureiro et al., 2021). In retailing, robots and self-service systems have been introduced to points of sale to facilitate contactless or in-home shopping (e.g., new apps to automatically find the products and pay in the store, or new delivery modalities based on drone technology), and AR and VR to improve consumer engagement with products and the shopping experience (Sung et al., 2021). On the one hand, these technologies safeguard consumers’ health and safety (Rahman et al., 2022a). On the other hand, they compensate for the unavailability of human workers, thus providing more automated experiences that could stimulate satiation (Pala et al. 2021). However, incorporating new technologies (e.g., VR, AR, AI) into today’s consumption experiences could have both positive (e.g., escapism, convenience, efficiency) and negative (e.g., binge watching, isolation, frustration, visually induced motion sickness, well-being) impacts on consumers, and broader society (Nanda & Banerjee 2020; Dwivedi et al., 2022).",
+        "Past research has largely emphasized the benefits of adopting technologies as decision support aids for consumers (Japutra et al., 2021). However, these technologies also influence human-to-human interactions, which lead companies to change their marketing communication strategies in reaching customers (e.g., shift to digital influencers) (Mishra et al. 2021; Hollebeek et al. 2021; Torres et al. 2019); while dramatically changing the nature of relationship experiences (Pera & Viglia 2016), atmospherics (Roggeveen et al. 2020), and the way consumers process and integrate information between the offline and online environments (Rahman et al., 2022b; Yang et al., 2020). Moreover, Kotler and colleagues (2017) described how new technology might change consumers from being informed to becoming distracted. In this sense, technology in the consumption experience may consume too much of a customer’s attention by requiring them to focus on the system where there are many tasks, complex features, unfamiliar or unresponsive user interfaces. Arguably, customer interaction with technology may potentially reduce individual perception of atmospherics or other environmental stimuli, particularly when these are below the consciousness threshold. Thus, technology might move from being a supporting tool for customer to being a distractive mechanism for inhibiting purchase decision-making. For instance, in a luxury store setting, technology may distract prospects from opportunities to interact with employees through which they may learn more about the history, heritage, craftmanship and excellent quality of the product. In other cases, technology is a beneficial facilitator that allows deep access to luxury services or products that would not otherwise be attainable (Christodoulides et al. 2021). Similarly, if tourists’ attention is focused on a mobile app showing the best route to reach a certain attraction, s/he might ignore other tourist attractions on their travel journey. This dual nature of technology is unevenly researched in extant literature. Specifically, the distractive and negative effects of technology at the customer interface are still scarcely investigated and understood. This is a pertinent issue given the importance of new technology developments and innovations aligning to the Sustainable Development Goals (SDGs) prescribed by the UN, including responsible consumption and production in society (Dwivedi et al., 2022). Therefore, this Special Issue will address the interplay between a customer’s experience with technology and its associated distracting mechanisms, as triggered by their interaction with technology in varied consumption contexts. Conceptual, methodological, qualitative, or quantitative contributions that offer insight in this area are equally welcome by the Guest Editors. The Special Issue would accept papers focusing on topics including, but not limited to, the following:"
+      ]
+    },
+    "tags": [
+      "technology",
+      "customer experience",
+      "distraction",
+      "consumer behavior"
+    ],
+    "editors": [
+      {
+        "name": "Dr. Eleonora Pantano",
+        "affiliation": "Bristol University",
+        "location": {
+          "city": "Bristol",
+          "state": null,
+          "country": "UK"
+        }
+      },
+      {
+        "name": "Dr. Jamie Carlson",
+        "affiliation": "Newcastle University",
+        "location": {
+          "city": "Newcastle",
+          "state": null,
+          "country": "UK"
+        }
+      },
+      {
+        "name": "Dr. Konstantina Spanaki",
+        "affiliation": "Audiencia University",
+        "location": null
+      },
+      {
+        "name": "Prof. George Christodoulides",
+        "affiliation": "Australian University of Science",
+        "location": null
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2023-02-01T01:00:00.000Z",
+        "description": "Manuscript Submission Deadline",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "metaTitle": "Theory Building in Information Systems with Big Data-Driven Research",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#theory-building-in-information-systems-with-big-data-driven-research",
+    "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
+    "contentHash": "a67e515e439bf8fd3159363ba59963b4e9109463e6d846fde58349fbe951739a",
+    "title": "Theory Building in Information Systems with Big Data-Driven Research",
+    "topics": [
+      "How can we explain user interactions, consumer experiences, and impacts for emerging business models like digital services, location-based services or platform economy?",
+      "How can big data-driven research be used to explain digital service or emerging technology adoption, usage, and impact behaviour based on mining user generated content (UGC)?",
+      "How can UGC be mined to explain user behaviour in socio-political contexts like opinion polarization, acculturation or communal changes?",
+      "How can user engagement or disengagement in digital platforms or technologies like wearables be measured and explained based on big data analytics?",
+      "How can we explain phenomena surrounding digital service usage, user migration and experiences based on network data (e.g. telecommunication services)?",
+      "How can we develop typology of users or organizations based on UGC from online communities, social media and digital platforms?",
+      "How can we explain relationships between organizations and other stakeholders based on UGC from digital platforms and online marketplaces and their impacts on engagement or disengagement?",
+      "How can we model adverse impacts of disruptive technologies like artificial intelligence, blockchain, internet of things based on usage behaviour or UGC?",
+      "How can we explain user behaviour and impacts based on data derived out of sensor-based data like wearables or other smart technologies used at home?",
+      "How can we explain community driven behaviour for information and misinformation propagation, cascade and changes to the ecosystem?",
+      "How can we model determinants of information quality, misinformation or disinformation based on UGC, social networks, and user attributes?",
+      "How can we model computationally derived attributed of images and videos to study consumer engagement and interaction processes, and outcomes?",
+      "How can theories be developed to explain grand socio-political problems and challenges like pandemic management, sustainable development goals, political harmony, etc?",
+      "How can methods of NeuroIS and facial recognition be used to explain individual and group level behaviour like personality traits and socio-political behavioural inclination?",
+      "How can multi-modal data analysis be used to create knowledge surrounding the process and impacts of use of emerging smart technologies?"
+    ],
+    "description": {
+      "paragraphs": [
+        "The availability of and access to big data has changed, as digital transformation initiatives are increasingly maturing globally, assisted by the growth of computational capabilities (Grover et al., 2020). Whilst data availability and access used to be a major challenge for information systems (IS) research, the current abundance of big data has now resolved this considerably. The theoretical building blocks of IS research come mainly from management theory, organization theory, behavioural theory, computer science theories, and systems theory (Barki, Rivard and Talbot, 1993). Apart from the core computer science theories, the other related theories enable IS researchers to explain how users interact with technology artefacts within individual, organizational, social, and political contexts and the impact of such interaction. Theory building, however, seems to have been disrupted by the current trends in big data-driven research, whereby the essence of contributing to theory is increasingly seen to be lacking at all levels of analysis. Concurrently, big data-driven research may inspire contributions towards design science and action research, whereby innovative solutions may also be created which help to define ideas, capabilities, practices, and innovative products or services through big data analysis (Angelopoulos et al., 2020; Hevner et al., 2004).",
+        "While big data-driven studies are increasingly gaining popularity within IS research, they rarely introspect why a phenomenon is better explained by a theory and limit the analysis to what is happening by merely mining relevant data. Many such studies try to collect data and showcase applications of data science and visualization of unstructured, large volumes of data by demonstrating sentiment analysis, text mining, networks, and communities, without significant contribution to the theoretical context within which the problem is situated (Grover, 2020). Such studies do not attempt to explain why a particular phenomenon is witnessed and the data descriptions rarely contribute towards theory building. Thus, such studies have a weak connection with the relevant theories and IT artefacts, paying greater attention to data collection and analysis (Grover et al., 2020). Furthermore, since the data collection is often dated, such studies lose timeliness and do not attempt to explain causality (Grover, 2020).",
+        "This special issue intends to facilitate theory-focused research, based on the analysis of big data as outlined in the directions provided in a recent opinion paper published in the journal (see Kar and Dwivedi, 2020). We specifically seek for theory building attempts in addressing grand individual, organizational, social or political problems. In particular, studies should demonstrate ample representative elements of big data such as high volume, velocity, variety, variability, veracity, visualization, and leading to value in understanding the phenomenon under examination. Authors need to explain why a phenomenon is happening rather than what is happening. The connection with IT artefacts must be significantly strong, while studies on emerging technologies are also of interest. Units of analysis could be individuals, groups or organizations. Of particular interest are theories explaining the nature of interaction among entities from more than a single unit type. Further, studies which mine more than a single type of unstructured data, and multi-methodology studies are also of interest, provided they contribute to theory building. Data could potentially be extracted from platforms like social media, communication networks, text-based data, images, multi-media, online communities, application-based data, sensor-based data, location-based data, data from smart-phones, smart devices and wearables. Other sources would also be welcome as long as the studies contribute theoretically. For submissions to this special issue, prospective authors are encouraged to revisit recent examples of such endeavours in the IS literature (Oh et al., 2015; Grover et al., 2019a; Grover et al., 2019b; Kar, 2020; Georgiadou et al., 2020; Rao et al., 2020).",
+        "Such explorations would need to ensure that theoretical contributions are well developed to contribute to IS research as highlighted in the editorial note (see Kar and Dwivedi, 2020) developed in context of the special issue. We welcome attempts to address domain, socio-political, structural or ontological, and epistemological questions through the development of management theories, organization theories, behavioural theories, and systems theories."
+      ]
+    },
+    "tags": [
+      "big data",
+      "information systems",
+      "theory building"
+    ],
+    "editors": [
+      {
+        "name": "Dr. Arpan Kumar Kar",
+        "affiliation": "Department of Management Studies",
+        "location": {
+          "city": "Delhi",
+          "state": null,
+          "country": "India"
+        }
+      },
+      {
+        "name": "Dr. Spyros Angelopoulos",
+        "affiliation": "Tilburg School of Economics and Management",
+        "location": {
+          "city": "Tilburg",
+          "state": null,
+          "country": "Netherlands"
+        }
+      },
+      {
+        "name": "Dr. H. Raghav Rao",
+        "affiliation": "College of Business",
+        "location": {
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+        }
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2022-07-31T02:00:00.000Z",
+        "description": "Manuscript submission deadline",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2022-09-30T02:00:00.000Z",
+        "description": "Notification of Review",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2022-11-30T01:00:00.000Z",
+        "description": "Revision due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-01-30T01:00:00.000Z",
+        "description": "Notification of 2nd Review",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-03-31T01:00:00.000Z",
+        "description": "2nd Revision [if needed] due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-04-30T02:00:00.000Z",
+        "description": "Notification of Final Acceptance",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:13:54.934Z",
+    "gracePeriod": 1732011591000
+  },
+  {
+    "journal": "Information and Organization",
+    "abbreviation": "io",
+    "metaTitle": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
+    "slug": "io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
+    "contentHash": "f689126c9650b1efe3e2a706a6115e073369edb62a3420eaeae5928f74638d91",
+    "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
+    "topics": [
+      "Challenge Techno-Centric Narratives: We seek papers that move beyond solution-oriented thinking, instead critically examining the assumptions and values embedded in emerging technologies (such as large language models, blockchain, and augmented reality).",
+      "Center Human Values and Experiences: How can technology prioritize well-being, autonomy, and creativity? We encourage investigations into human-centered design approaches in the face of automation and algorithmic decision-making.",
+      "Explore the Transformative Potential of Design: We invite speculative and participatory design methodologies to envision radically different futures where technology serves humanity, society, and the planet.",
+      "Study how Diverse Perspectives Enable Innovation: How are perspective making and perspective taking combined in technological and technology-enabled innovation? How has digitization through online communities, crowdsourcing, and generative AI tools transformed innovation processes?",
+      "Envisioning alternative futures for technology and organization through speculative design and critical storytelling",
+      "Exploring the role of technology in fostering human creativity, collaboration, and experiential learning in organizations",
+      "Designing technologies that prioritize human autonomy, dignity, and well-being in the face of increasing automation and algorithmic decision-making",
+      "Investigating the potential of participatory and co-design methodologies to democratize technology development and promote inclusive innovation",
+      "Reimagining the relationship between technology, work, and leisure in the post-pandemic era",
+      "Examining the implications of emerging technologies for organizational power dynamics, surveillance, and resistance",
+      "Envisioning new forms of technological citizenship and digital activism in the age of platformization and datafication",
+      "Exploring the role of technology in enabling sustainable, equitable, and resilient organizations and communities",
+      "Proposing new methodological approaches and theoretical frameworks for studying the future of technology and organization, drawing inspiration from fields such as design, art, literature, and philosophy."
+    ],
+    "description": {
+      "paragraphs": [
+        "Information & Organization invites submissions for a special issue celebrating the career and intellectual legacy of the journal’s founding editor, Professor Richard Boland Jr., on the occasion of his retirement.",
+        "Throughout his distinguished career, Professor Boland is known for his innovative and unconventional approach to understanding the role of technology in organizations and society. He challenged traditional paradigms on technology and management, and urged scholars to embrace a more expansive, humanistic, and design-oriented perspective on information systems. Among other things, he is best known for his groundbreaking work on the role of design as a fundamental way of thinking about the future, contrasting design with traditional decision-making paradigms.",
+        "This special issue seeks to honor Professor Boland’s legacy by inspiring submissions that not only build upon his seminal contributions but also push the boundaries of our understanding of technology’s role in shaping the future. Among others, we welcome especially forward-looking contributions that address the profound impact of emerging technologies, such as large language models, blockchain, and augmented reality, across various sectors, including healthcare, finance, manufacturing, sustainability, and education.",
+        "In the spirit of Professor Boland’s commitment to active scholarship, we encourage submissions that position IS research as a world-shaping force, rather than merely a reflective lens on recent history. We particularly welcome contributions that embody Professor Boland’s spirit of critical inquiry, imaginative exploration, and commitment to human-centeredness. We encourage submissions that challenge dominant techno-centric narratives, propose alternative visions for the future of technology and organization, and engage with the ethical, philosophical, and societal implications of emerging technologies. We invite conceptual and empirical submissions that explore a variety of topics. We welcome original research papers, theory development, conceptual papers, empirical studies, essays, and other innovative formats. In the spirit of Professor Boland’s openness to new ideas and his generosity towards junior scholars, we particularly encourage submissions from early-career researchers and doctoral students.",
+        "Join us in celebrating Professor Boland’s enduring contributions and shaping the future of our field through this forward-looking special issue. We look forward to receiving your innovative and thought-provoking submissions."
+      ]
+    },
+    "tags": [
+      "digital futures",
+      "design",
+      "information systems"
+    ],
+    "editors": [
+      {
+        "name": "Dr. Youngjin Yoo",
+        "affiliation": "Case Western Reserve University",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": null
+        }
+      },
+      {
+        "name": "Dr. Natalia N Levina",
+        "affiliation": "New York University",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": null
+        }
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Ulrike Schultze",
+        "affiliation": "University of Groningen",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Netherlands"
+        }
+      },
+      {
+        "name": "Michel Avital",
+        "affiliation": "Copenhagen Business School",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Denmark"
+        }
+      },
+      {
+        "name": "Nick Berente",
+        "affiliation": "University of Notre Dame",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Aron Lindberg",
+        "affiliation": "Steven Institute of Technology",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-03-15T01:00:00.000Z",
+        "description": "First-round submission due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2025-07-31T02:00:00.000Z",
+        "description": "First-round decision expected",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-12-31T01:00:00.000Z",
+        "description": "Second-round submission due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2026-01-31T01:00:00.000Z",
+        "description": "Final decision expected",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:23:59.648Z"
+  },
+  {
+    "journal": "Information and Organization",
+    "abbreviation": "io",
+    "metaTitle": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#organizing-for-emerging-digital-technologies-the-good-the-bad-the-ugly",
+    "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
+    "contentHash": "977418270d10f4bbd9a9fe036b414aecb89f6007137c9f71ce4caf3c4a7d3927",
+    "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
+    "topics": [
+      "Processes, structures, and practices of organizing for and against emerging digital technologies",
+      "The interplay of emerging digital technologies and organizing on multiple levels",
+      "Institutional theory and the impact of emerging digital technologies on social and enterprise systems",
+      "Inter-organizational relationships and digital technologies in collective action",
+      "Collaboration processes among organizations and meta-organizations for emerging digital technologies"
+    ],
+    "description": {
+      "paragraphs": [
+        "The special issue aims to create a forum for state-of-the-art research on the processes, structures, and practices of organizing for and against emerging digital technologies across levels.",
+        "Organizations of the 21st century face a seemingly indeterminable array of emerging digital technologies, which are radically novel and rapidly evolving, with profound transformative potential. Current emerging digital technologies, including artificial intelligence, blockchain, quantum computing, 5G, 3D printing, smart manufacturing and energy, genomics and precision medicine, drones, augmented reality, and autonomous vehicles are transforming markets and societies, as well as the very core of how we organize. These technologies generate such an impact because they are increasingly ‘autonomous’ and ‘intelligent’, which complements, augments, and even replaces human action. Another feature fueling the transformative potential of emerging digital technologies is their connectivity – devices are interwoven in ways previously unthinkable. Furthermore, many of these technologies exhibit broad applicability across domains and in many cases advance to essential infrastructures across markets. The unprecedented pace of diffusion and adoption of many of these technologies marks their evolution; for example, OpenAI's ChatGPT reached one million users in just 5 days, a stark contrast to the several decades it took for non-digital innovations like the telephone to reach a similar level of adoption.",
+        "Building on a rich tradition in innovation theory and organization studies, scholars have examined the interplay of emerging digital technologies and organizing on multiple levels. It has been argued to put relations center stage, thus conceptualizing emerging digital technologies as being made of relations and entwined in relations that are constantly evolving. Additionally, some research perceives the link between emerging digital technologies and organizations as sociomaterial where the social and the material are intertwined and mutually influence each other. At the industry level, institutional theory has emerged as an important lens to explain large-scale changes of enterprise systems, firms, and societies related to emerging digital technologies. Studies have shown that to promote emerging digital technologies, organizations redefine and work institutions by championing standards, and that the meaning and scope of these technologies is shaped through boundary work interwoven with field-configuring events. Recent advances indicate that these organizational efforts to promote and shape emerging digital technologies can lead to redefined institutional infrastructure, which is especially significant in navigating large-scale crises such as the COVID-19 pandemic.",
+        "Focusing on the role of relationships between organizations and other forms of organizing for emerging digital technologies and thus the inter-organizational level, scholars have explored how members of social movements and communities leverage these technologies to coordinate collective action across regional boundaries and mobilize for social impact using digital technologies. Studies have found that to assess their potential impact, organizations establish cross-industry cooperation that enables an open learning climate, preventing intrafirm power struggles, and rendering unnecessary the development of a commonly understood ‘common sense’. There are also indications of the relevance of meta-organizations for emerging digital technologies, which act as legally autonomous entities that coordinate diverse organizations towards a system-level objective.",
+        "Studies situated at the (intra-)organizational level have identified distinct structures and management innovations that co-evolve with technologies in order to benefit from and implement them. Moreover, managerial attention towards these technologies and multiple initiatives are critical to securing enough resources and enabling experimental learning. Despite these advancements, there remains a lack of deep understanding regarding the interrelated processes, structures, and practices through which people and organizations promote and resist these technologies. Research should explore the various ways organizations, independently or collaboratively, organize around emerging digital technologies at varying levels, including how they strategically hinder the development of certain technologies and cope with failures.",
+        "This special issue aims to address these knowledge gaps by inviting research that covers the organizing efforts for and against emerging digital technologies across levels. We welcome diverse conceptual and empirical works situated in different contexts, with a particular emphasis on empirical studies in critical infrastructure sectors such as food and agriculture, healthcare, energy, and information technology. Recognizing the complex nature of emerging digital technologies, submissions are invited across a spectrum of approaches from focused information systems studies to interdisciplinary research integrating insights from management, sociology, and beyond."
+      ]
+    },
+    "tags": [
+      "digital technologies",
+      "emerging technologies",
+      "organization",
+      "management",
+      "inter-organizational studies"
+    ],
+    "editors": [
+      {
+        "name": "Prof. Saeed Akhlaghpour",
+        "affiliation": "The University of Queensland",
+        "location": null
+      },
+      {
+        "name": "Prof. Ali Aslan Gümüşay",
+        "affiliation": "Ludwig Maximilian University of Munich & Humboldt Institute for Internet and Society Berlin (HIIG)",
+        "location": null
+      },
+      {
+        "name": "Prof. Danielle Logue",
+        "affiliation": "UNSW Business School",
+        "location": null
+      },
+      {
+        "name": "Prof. Christine Moser",
+        "affiliation": "Vrije Universiteit Amsterdam",
+        "location": null
+      },
+      {
+        "name": "Prof. Georg Reischauer",
+        "affiliation": "WU Vienna University of Economics and Business & Johannes Kepler University Linz",
+        "location": null
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-02-01T01:00:00.000Z",
+        "description": "Deadline for submission of complete manuscripts",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2025-03-01T01:00:00.000Z",
+        "description": "Reviews are sent to authors. Authors whose papers receive a revise and resubmit will be invited to a hybrid paper development workshop organized by the guest editors.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-07-01T02:00:00.000Z",
+        "description": "Deadline for second versions of manuscripts.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-11-01T01:00:00.000Z",
+        "description": "Potential final version of papers.",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:23:59.648Z"
+  },
+  {
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "metaTitle": "Addressing Refugees and Migration Issues through Critical Information Systems",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf",
+    "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
+    "contentHash": "44e50475f3026001868d847648ba06988b3ce34675e6314f9f4566bc3e100a0b",
+    "title": "Addressing Refugees and Migration Issues through Critical Information Systems",
+    "topics": [
+      "Critical analyses of the interrelated themes of identity, refugeeness, and belonging.",
+      "Exploring the ethics of (forced) migration.",
+      "Analysing the politics of responsibility and the integration of refugees and migrants in digital contexts.",
+      "Technology, racial marginalization and refugees experience.",
+      "Digital biopolitics, identities, and datafication of migrants and refugees.",
+      "Online activism and digital social movements in the context of refugees or migrants.",
+      "Agency, resistance and coping mechanisms of migrants and refugees.",
+      "Examining the issues at the intersections of gender, technology, and migrants/refugees (including queering migration and issues of gender-based violence).",
+      "Digitally-entangled lived experiences of minorities among refugee populations.",
+      "Datafication of borders and algorithmic management of migrants and refugees.",
+      "Decolonial justice and/for migrants and refugees.",
+      "Digital justice and human rights issues affecting migrants and refugees.",
+      "Digital and data surveillance and control on migrants and refugees.",
+      "Issues related to power and exploitation of migrants and refugees.",
+      "Critical narratives of displacement.",
+      "Digital accounts and narratives of refugee experience.",
+      "Technology and the political philosophy of migration and refuge.",
+      "Novel theoretical lenses to study migration and refugee issues such as decolonial theory, spatial and temporal perspectives, Indigenous viewpoints, critical race theory, and feminist approaches.",
+      "Novel methodological approaches to examine refugee issues such as visual ethnography, visual research, and digitally mediated bodily experiences.",
+      "Application of novel technologies such as Blockchain and AI."
+    ],
+    "description": {
+      "paragraphs": [
+        "United Nations High Commissioner for Refugees (UNHCR) reports that there are approximately 110 million forcibly displaced people worldwide, as of mid2023, because of persecution, conflict, war, violence, human rights violations, or events seriously disturbing public order. These include 36.4 million refugees and 62.5 million internally displaced people (IDP), asylum seekers, and several other people in need of international protection. There is a strong history of research highlighting the issues faced by refugees, ranging from accounts of violence in the developing world, exploring the gendered experience of refugees, questioning racist thinking about immigration, case studies of asylum seekers, and philosophical inquiry into the fair treatment of refugees. The global refugee and forced migration crisis and the persistent challenges faced by these vulnerable communities call for an urgent need for innovative solutions that foster social inclusion and empower these populations.",
+        "In our field, information systems (IS) researchers have been acutely aware of the refugee and migrant crises. Researchers have examined the critical issues related to social inclusion of refugees, social inclusion and activation of refugee agency, information and communication technology (ICT) enabled refugee integration, refugees and pedagogy, digitization and refugee settlement, refugee women and information-precarity, and migrant identity. Researchers in sister fields have explored digitally mediated experiences of refugees, building a technology-oriented humanitarian research framework for field researchers, the emergence of a new digital landscape in refugee management, new forms of data colonialism and humanitarian response to refugee crises, data governance and data justice, datafication and refugees' subjectivities, feminist and decolonial approaches to examine displacement issues, and participatory design and decolonization in the context of refugee accounts.",
+        "Nonetheless, recent research in refugee studies has shown that critical areas at the intersection of technology, refugees, and broader migration crises have remained underexplored, for example, social media and device vetting, digitally mediated lived experiences of minority refugees, refugees and a sense of uncertainty in the digital age, refugee aid and digital capitalism, and networked refugees. Technological advances like AI-based refugee settlement applications and Blockchain-based fundraising solutions and identity management solutions have started to emerge, and it is unclear how critical technological advances will shape issues related to technology, power, and control in the sensitive context of refugees and migrants. Further, new forms of sociopolitical digital problems have started to emerge within refugee contexts such as digital colonialism and refugees, gender violence and sexual minority refugees, and critical race issues of refugees and digital coloniality. We observe that despite some progress in our field, much remains underexplored in addressing these pressing issues, underscoring the need for rigorous research. This special issue aims to explore how IS research could contribute to illuminating the refugee crises and alleviating the deterioration of refugee and migrant social circumstances. These sensitive topics are situated within the broader debate on digital inclusion and empowerment and the discussions related to inequality and demarginalization and decolonization in our field. Exploring the critical research questions surrounding IS and migrant/refugee populations is essential for developing comprehensive and ‘good’ IS solutions and making the world a better place for all of us."
+      ]
+    },
+    "tags": [
+      "refugees",
+      "migration",
+      "information systems",
+      "technology"
+    ],
+    "editors": [
+      {
+        "name": "Safa’a AbuJarour",
+        "affiliation": "American University of Sharjah",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "UAE"
+        }
+      },
+      {
+        "name": "Hameed Chughtai",
+        "affiliation": "Lancaster University Management School",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "UK"
+        }
+      },
+      {
+        "name": "Yingqin Zheng",
+        "affiliation": "University of Essex",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "UK"
+        }
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Petros Chamakiotis",
+        "affiliation": "ESCP Business School",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Spain"
+        }
+      },
+      {
+        "name": "Andrea Jimenez",
+        "affiliation": "University of Sheffield",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "UK"
+        }
+      },
+      {
+        "name": "Shirin Madon",
+        "affiliation": "London School of Economics",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "UK"
+        }
+      },
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Carmen Leong",
+        "affiliation": "University of New South Wales",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Australia"
+        }
+      },
+      {
+        "name": "Shaila Miranda",
+        "affiliation": "University of Arkansas",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "USA"
+        }
+      },
+      {
+        "name": "Priyanka Panday",
+        "affiliation": "Kings College London",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "UK"
+        }
+      },
+      {
+        "name": "Israr Qureshi",
+        "affiliation": "Australian National University",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Australia"
+        }
+      },
+      {
+        "name": "Maximilian Schreieck",
+        "affiliation": "University of Innsbruck",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Austria"
+        }
+      },
+      {
+        "name": "Devinder Thapa",
+        "affiliation": "University of Agder",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "Norway"
+        }
+      },
+      {
+        "name": "Ranjan Vaidya",
+        "affiliation": "Auckland University of Technology",
+        "location": {
+          "city": null,
+          "state": null,
+          "country": "New Zealand"
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2024-11-30T01:00:00.000Z",
+        "description": "Submission of extended abstract (optional)",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-03-30T01:00:00.000Z",
+        "description": "Submission of manuscript",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-10-20T10:19:51.894Z"
+  },
+  {
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "metaTitle": "",
@@ -244,7 +1535,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Information Systems Research",
@@ -656,7 +1948,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1598,7 +2891,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -1699,7 +2993,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -1812,7 +3107,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2120,7 +3416,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2228,7 +3525,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2504,7 +3802,7 @@
       {
         "date": "2021-06-01T02:00:00.000Z",
         "description": "First round submission",
-        "is_full_paper_submission_deadline": false
+        "is_full_paper_submission_deadline": true
       },
       {
         "date": "2021-10-01T02:00:00.000Z",
@@ -2523,7 +3821,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2642,7 +3941,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2754,7 +4054,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2873,7 +4174,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Information Technology",
@@ -3151,7 +4453,8 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-20T09:02:47.303Z"
+    "pubDate": "2024-10-20T09:02:47.303Z",
+    "gracePeriod": 1732011591000
   },
   {
     "journal": "Journal of Management Information Systems",
