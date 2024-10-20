@@ -255,12 +255,13 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "regulation",
       "digitalization"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "Emerging Technologies and IS Sourcing",
@@ -269,12 +270,13 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "emerging technologies",
       "is sourcing"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
@@ -283,14 +285,15 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "ethics",
       "digitalization",
       "platformization",
       "unintended consequences"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
@@ -299,13 +302,14 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "theorizing",
       "emerging it",
       "native theories"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
@@ -314,14 +318,15 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "digital transformation",
       "geo-political",
       "organizational",
       "technological"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "Next-Generation Information Systems Research Methods",
@@ -330,13 +335,14 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "information systems",
       "research methods",
       "next-generation"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "Decentralised Information Systems: New Thinking and New Paradigms",
@@ -345,14 +351,15 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "decentralisation",
       "information systems",
       "technology",
       "paradigm shift"
-    ]
+    ],
+    "gracePeriod": 1731985272000
   },
   {
     "title": "The Theory and Practice of Informational Transitions",
@@ -361,14 +368,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "information theory",
       "transitions",
       "practice"
-    ],
-    "gracePeriod": 1731725729000
+    ]
   },
   {
     "title": "Re-orientating Search Engine Research in Information Science",
@@ -377,14 +383,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "search engine research",
       "information science",
       "re-orientating"
-    ],
-    "gracePeriod": 1731725729000
+    ]
   },
   {
     "title": "Healthier Information Ecosystems",
@@ -393,14 +398,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "health",
       "information",
       "ecosystems"
-    ],
-    "gracePeriod": 1731725729000
+    ]
   },
   {
     "title": "The Institutional Press in the Digital Age",
