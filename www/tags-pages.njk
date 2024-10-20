@@ -26,7 +26,7 @@
       return tagGroups;
     }
   },
-  layout: "main",
+  layout: "layouts/main.html",
   permalink: "tag/{{ tag.name | slugify }}/",
   eleventyComputed: {
     title: "Calls for Papers | {{ tag.name }}",
@@ -36,5 +36,5 @@
 ---
 
 {% for call in tag.calls | isActiveCall %}
-{% include "callCard.html" %}
+{% include "call-card.html" %}
 {% endfor %}
