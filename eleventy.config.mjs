@@ -7,7 +7,7 @@ export default async function (eleventyConfig) {
     });
 
     eleventyConfig.addFilter("isActiveCall", function (calls) {
-        return calls.filter(call => call.active || (call.gracePeriod && DateTime.now() < DateTime.fromMillis(call.gracePeriod)));
+        return calls.filter(call => call.active || (!call.active && Date.now() < Date.parse(call.gracePeriod)));
     });
 
     eleventyConfig.addShortcode("currentYear", () => `${new Date().getFullYear()}`);

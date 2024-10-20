@@ -19,21 +19,27 @@ export async function integrateCalls(newCalls) {
     for (let newCall of newCalls) {
         if (oldHashMap.has(newCall.contentHash)) {
             // If hash exists, add existing call as is
-            resultCalls.push({
-                ...oldHashMap.get(newCall.contentHash),
-                active: true // Ensure it's marked as active
-            });
+            let call = oldHashMap.get(newCall.contentHash);
+            call.active = true;
+            if (call.gracePeriod) {
+                delete call.gracePeriod;
+            }
+            resultCalls.push(call);
         } else {
             // Enrich call with unstructured data parsing
             newCall = await parse(newCall);
             
             if (oldSlugMap.has(newCall.slug)) {
                 // If slug exists but hash is different, update the existing call
-                resultCalls.push({
+                let call = {
                     ...oldSlugMap.get(newCall.slug),
                     ...newCall,
                     active: true // Ensure it's marked as active
-                });
+                };
+                if (call.gracePeriod) {
+                    delete call.gracePeriod;
+                }
+                resultCalls.push(call);
             } else {
                 // Completely new call
                 resultCalls.push({
@@ -46,20 +52,20 @@ export async function integrateCalls(newCalls) {
     }
 
     // Handle existing calls that are no longer present in new calls
-    for (const oldCall of oldCalls) {
+    for (let oldCall of oldCalls) {
         if (!newHashMap.has(oldCall.contentHash) &&
             !newSlugMap.has(oldCall.slug)) {
             // Call is not in new data, add it with active set to false
-            resultCalls.push({
-                ...oldCall,
-                active: false,
-                gracePeriod: Date.parse(now) + 2592000000
-            });
+            oldCall.active = false;
+            if (!oldCall.gracePeriod) {
+                oldCall.gracePeriod = (new Date(now.setMonth(now.getMonth() + 1))).toISOString();
+            }
+            resultCalls.push(oldCall);
         }
     }
 
     resultCalls.sort((a, b) => {
-        return b.pubDate - a.pubDate;
+        return Date.parse(b.pubDate) - Date.parse(a.pubDate);
     });
 
     await fs.writeFile("./www/_data/calls.json", JSON.stringify(resultCalls, null, 2), err => {
