@@ -26,7 +26,7 @@
     }
   },
   layout: "layouts/main.html",
-  permalink: "journal/{{ journal.journal | slugify }}/",
+  permalink: "journal/{{ journal.journal | slug }}/",
   eleventyComputed: {
     title: "Calls for Papers | {{ journal.journal }}",
     description: "Calls for Papers shows you the latest calls for papers of the {{ journal.journal }}, easily accessible, in one location."
