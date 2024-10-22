@@ -34,15 +34,11 @@ layout: layouts/base.html
         {% include "searchBox.html" %}
         {% include "sortDropdown.html" %}
     </div>
-    {% if journal or tag %}
-    <article class="prose max-w-none mb-8">
-        {% if journal %}
-        <h1>{{ journal.journal }}</h1>
-        {% endif %}
-        {% if tag %}
-        <h1>Tag: #{{ tag.name }}</h1>
-        {% endif %}
-    </article>
+    {% if journal %}
+    <h1 class="text-4xl font-extrabold leading-tight mb-8">{{ journal.journal }}</h1>
+    {% endif %}
+    {% if tag %}
+    <h1 class="text-4xl font-extrabold leading-tight mb-8">Tag: #{{ tag.name }}</h1>
     {% endif %}
     <div x-ref="calls" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {{ content | safe }}
