@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sat, 26 Oct 2024 02:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 03:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[The Future of Information Systems in the Enterprise]]></title>
+            <link>https://journals.sagepub.com/pb-assets/JIT%20SI%20Future%20of%20IS%20in%20the%20Enterprise-1729852404520.pdf</link>
+            <guid>jit-the-future-of-information-systems-in-the-enterprise</guid>
+            <pubDate>Sun, 27 Oct 2024 03:00:38 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
         <item>
             <title><![CDATA[AI-IA Nexus]]></title>
             <link>https://misq.umn.edu/call-for-papers-ai-ia</link>
