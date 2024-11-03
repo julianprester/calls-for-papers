@@ -6,6 +6,17 @@ export default async function (eleventyConfig) {
         return dateTime.toRelative();
     });
 
+    eleventyConfig.addFilter("dateOnly", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        return dateTime.setLocale('en-us').toLocaleString(DateTime.DATE_FULL);
+    });
+
+    eleventyConfig.addFilter("isInPast", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        const today = DateTime.now();
+        return dateTime < today;
+    });
+
     eleventyConfig.addFilter("isActiveCall", function (calls) {
         return calls.filter(call => call.active || (!call.active && Date.now() < Date.parse(call.gracePeriod)));
     });
