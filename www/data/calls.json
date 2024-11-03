@@ -69,14 +69,15 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
-    "active": true,
+    "active": false,
     "pubDate": 1721298883000,
     "tags": [
       "refugees",
       "migration",
       "information systems",
       "critical issues"
-    ]
+    ],
+    "gracePeriod": 1733194846000
   },
   {
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
