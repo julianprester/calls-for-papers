@@ -3,7 +3,7 @@
     data-journal="{{ call.journal | safe }}" data-pubdate="{{ call.pubDate | safe }}"
     data-duedate="{{ dueDate.date | safe }}" class="card bg-base-200 hover:bg-base-300 border border-neutral">
     <div class="card-body p-4">
-        <a href="{{ call.url | safe }}" target="_blank">
+        <a href="{{ '/call/' + ((call.title if call.title else call.metaTitle) | slug) | url }}">
             <h2 class="card-title">{{ call.title if call.title else call.metaTitle | safe }}</h2>
         </a>
         <a href="{{ '/journal/' + (call.journal | slug) | url }}">
