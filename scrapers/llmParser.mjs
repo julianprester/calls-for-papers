@@ -2,22 +2,14 @@ import OpenAI from 'openai';
 import { zodResponseFormat } from 'openai/helpers/zod';
 import { z } from 'zod';
 import * as chrono from 'chrono-node';
-import slugify from 'slugify';
 
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY,
 });
 
-const Location = z.object({
-    city: z.string().describe("The city of the affiliation").nullable(),
-    state: z.string().describe("The state of the affiliation").nullable(),
-    country: z.string().describe("The country of the affiliation").nullable(),
-});
-
 const Academic = z.object({
-    name: z.string().describe("The academic's name"),
-    affiliation: z.string().describe("The academic's university affiliation").nullable(),
-    location: Location.describe("The location of the academic's affiliation").nullable(),
+    name: z.string().describe("The academic's name. Do NOT include titles such as doctor (dr.) or professor (prof.) here."),
+    affiliation: z.string().describe("The academic's university affiliation. Only include the university or organization here. Do NOT include departments, cities, states or countries.").nullable(),
 });
 
 const Date = z.object({
