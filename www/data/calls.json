@@ -31,12 +31,12 @@
   },
   {
     "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
-    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#",
     "dueDate": null,
     "journal": "Information and Organization",
     "abbreviation": "io",
     "slug": "io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
-    "active": false,
+    "active": true,
     "pubDate": 1723689440000,
     "tags": [
       "design",
@@ -44,8 +44,7 @@
       "richard boland jr.",
       "legacy",
       "career"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Empowering Bright Internet and Bright Artificial Intelligence (AI) (1)",
@@ -82,68 +81,64 @@
   },
   {
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
-    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#",
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "active": false,
+    "active": true,
     "pubDate": 1716950234000,
     "tags": [
       "decision support systems",
       "design science research",
       "societal outcomes"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
-    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#organizing-for-emerging-digital-technologies-the-good-the-bad-the-ugly",
+    "url": "https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#",
     "dueDate": null,
     "journal": "Information and Organization",
     "abbreviation": "io",
     "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
-    "active": false,
+    "active": true,
     "pubDate": 1712453774000,
     "tags": [
       "digital technologies",
       "organizing",
       "challenges"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Lights and shadows of generative AI for individuals, organizations, and society",
-    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "active": false,
+    "active": true,
     "pubDate": 1712453774000,
     "tags": [
       "generative ai",
       "impact",
       "society"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Generative AI: Transforming Human, Business, and Organizational Decision Making",
-    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#generative-ai-transforming-human-business-and-organizational-decision-making",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#",
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-generative-ai-transforming-human-business-and-organizational-decision-making",
-    "active": false,
+    "active": true,
     "pubDate": 1712453774000,
     "tags": [
       "generative ai",
       "decision making",
       "business transformation",
       "human-computer interaction"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "4th ISJ Trending Topics Workshop",
@@ -260,13 +255,14 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "information technology",
       "strategic management",
       "disasters"
-    ]
+    ],
+    "gracePeriod": 1733453518000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -479,14 +475,13 @@
   },
   {
     "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
-    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#",
     "dueDate": null,
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
     "slug": "jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
-    "active": false,
+    "active": true,
     "pubDate": 1701398280000,
-    "gracePeriod": 1727837424000,
     "tags": [
       "ethics",
       "dei",
@@ -605,20 +600,19 @@
   },
   {
     "title": "Royal Bank International Research Seminar, Culture and Morphing the Real World into the Virtual World",
-    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-royal-bank-international-research-seminar-culture-and-morphing-the-real-world-into-the-virtual-world",
-    "active": false,
+    "active": true,
     "pubDate": 1671676979000,
     "tags": [
       "banking",
       "research",
       "cultural studies",
       "virtual reality"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Metaverse disruption: Supernatural Transformations of Businesses and their Stakeholders",
@@ -656,12 +650,12 @@
   },
   {
     "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
-    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
-    "active": false,
+    "active": true,
     "pubDate": 1671676979000,
     "tags": [
       "technology",
@@ -669,8 +663,7 @@
       "negative effects",
       "supportive",
       "distractive"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Embracing AI for the Future of Marketing",
@@ -690,36 +683,34 @@
   },
   {
     "title": "Theory Building in Information Systems with Big Data-Driven Research",
-    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#theory-building-in-information-systems-with-big-data-driven-research",
+    "url": "https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#",
     "dueDate": null,
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
     "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
-    "active": false,
+    "active": true,
     "pubDate": 1671676979000,
     "tags": [
       "information systems",
       "big data",
       "research",
       "theory building"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Blockchain Technology and Applications",
-    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#dss-special-issue-on-blockchain-technology-and-applications",
+    "url": "https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#",
     "dueDate": null,
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "slug": "dss-blockchain-technology-and-applications",
-    "active": false,
+    "active": true,
     "pubDate": 1660804645000,
     "tags": [
       "blockchain",
       "technology",
       "applications"
-    ],
-    "gracePeriod": 1732330494000
+    ]
   },
   {
     "title": "Call for papers for a Special Issue of Information & Management",
