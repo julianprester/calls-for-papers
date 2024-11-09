@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 08 Nov 2024 02:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 02:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2022</copyright>
+        <item>
+            <title><![CDATA[Platform Partnerships]]></title>
+            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#</link>
+            <guid>jsis-platform-partnerships</guid>
+            <pubDate>Sat, 09 Nov 2024 02:48:44 GMT</pubDate>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
         <item>
             <title><![CDATA[The Future of Information Systems in the Enterprise]]></title>
             <link>https://journals.sagepub.com/pb-assets/JIT%20SI%20Future%20of%20IS%20in%20the%20Enterprise-1729852404520.pdf</link>
