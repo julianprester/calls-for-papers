@@ -20,13 +20,14 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-the-future-of-information-systems-in-the-enterprise",
-    "active": true,
+    "active": false,
     "pubDate": 1729998038000,
     "tags": [
       "information systems",
       "enterprise",
       "future"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "AI-IA Nexus",
@@ -268,13 +269,14 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "information technology",
       "strategic management",
       "disasters"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -283,12 +285,13 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-regulation-in-the-age-of-digitalization",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "regulation",
       "digitalization"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Emerging Technologies and IS Sourcing",
@@ -297,12 +300,13 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-emerging-technologies-and-is-sourcing",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "emerging technologies",
       "is sourcing"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Ethical Issues and Unintended Consequences of Digitalization and Platformization",
@@ -311,14 +315,15 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "ethics",
       "digitalization",
       "platformization",
       "unintended consequences"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Products of Theorizing: Towards Native Theories of Emerging IT",
@@ -327,13 +332,14 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-products-of-theorizing-towards-native-theories-of-emerging-it",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "theorizing",
       "emerging it",
       "native theories"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Digital Transformation as Geo-Political, Organizational and Technological Nexus",
@@ -342,14 +348,15 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-digital-transformation-as-geo-political-organizational-and-technological-nexus",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "digital transformation",
       "geo-political",
       "organizational",
       "technological"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Next-Generation Information Systems Research Methods",
@@ -358,13 +365,14 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-next-generation-information-systems-research-methods",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "information systems",
       "research methods",
       "next-generation"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "Decentralised Information Systems: New Thinking and New Paradigms",
@@ -373,14 +381,15 @@
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "slug": "jit-decentralised-information-systems-new-thinking-and-new-paradigms",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "decentralisation",
       "information systems",
       "technology",
       "paradigm shift"
-    ]
+    ],
+    "gracePeriod": 1734404737000
   },
   {
     "title": "The Theory and Practice of Informational Transitions",
