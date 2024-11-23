@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 02:58:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -197,14 +197,7 @@
             <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
-            <title><![CDATA[Human-Centered Generative AI]]></title>
-            <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#human-centered-generative-ai</link>
-            <guid>ijim-human-centered-generative-ai</guid>
-            <pubDate>Tue, 17 Oct 2023 02:28:16 GMT</pubDate>
-            <author>International Journal of Information Management (IJIM)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Sustainability and Information Systems Research: New challenges and theoretical perspectives]]></title>
+            <title><![CDATA[Digital Sustainability and Information Systems Research]]></title>
             <link>https://aisel.aisnet.org/jais/SI-DigitalSustainabilityFINAL.pdf</link>
             <guid>jais-digital-sustainability-and-information-systems-research</guid>
             <pubDate>Tue, 29 Aug 2023 02:54:56 GMT</pubDate>
