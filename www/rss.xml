@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Mon, 16 Dec 2024 03:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 03:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -22,14 +22,7 @@
             <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
-            <title><![CDATA[The Future of Information Systems in the Enterprise]]></title>
-            <link>https://journals.sagepub.com/pb-assets/JIT%20SI%20Future%20of%20IS%20in%20the%20Enterprise-1729852404520.pdf</link>
-            <guid>jit-the-future-of-information-systems-in-the-enterprise</guid>
-            <pubDate>Sun, 27 Oct 2024 03:00:38 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Intelligence-Information Assurance Nexus: The Future of Information Systems Security, Privacy, and Quality]]></title>
+            <title><![CDATA[AI-IA Nexus]]></title>
             <link>https://misq.umn.edu/call-for-papers-ai-ia</link>
             <guid>misq-ai-ia-nexus</guid>
             <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
@@ -97,76 +90,6 @@
             <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
             <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
-            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
-            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Healthier Information Ecosystems]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
-            <guid>jasist-healthier-information-ecosystems</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Regulation in the Age of Digitalization]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf</link>
-            <guid>jit-regulation-in-the-age-of-digitalization</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Emerging Technologies and IS Sourcing]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf</link>
-            <guid>jit-emerging-technologies-and-is-sourcing</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ethical Issues and Unintended Consequences of Digitalization and Platformization]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf</link>
-            <guid>jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Products of Theorizing: Towards Native Theories of Emerging IT]]></title>
-            <link>https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf</link>
-            <guid>jit-products-of-theorizing-towards-native-theories-of-emerging-it</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Transformation as Geo-Political, Organizational and Technological Nexus]]></title>
-            <link>https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf</link>
-            <guid>jit-digital-transformation-as-geo-political-organizational-and-technological-nexus</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next-Generation Information Systems Research Methods]]></title>
-            <link>https://journals.sagepub.com/pb-assets/2023%20JIT%20CFP%20SI%20Next%20Generation%20Research%20Methods-1666786463717.pdf</link>
-            <guid>jit-next-generation-information-systems-research-methods</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/Decentralised%20Information%20Systems%20New%20Thinking%20and%20New%20Paradigms%20PDF-1703224919.pdf</link>
-            <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
             <title><![CDATA[The Institutional Press in the Digital Age]]></title>
