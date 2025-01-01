@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Tue, 31 Dec 2024 02:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 03:01:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -48,6 +48,13 @@
             <guid>io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</guid>
             <pubDate>Thu, 15 Aug 2024 02:37:20 GMT</pubDate>
             <author>Information and Organization (IO)</author>
+        </item>
+        <item>
+            <title><![CDATA[Addressing Refugees and Migration Issues through Critical Information Systems]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-Special-Issue-on-Refugees-CFP-Updated-1733230198493.pdf</link>
+            <guid>isj-addressing-refugees-and-migration-issues-through-critical-information-systems</guid>
+            <pubDate>Thu, 18 Jul 2024 10:34:43 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Decision Support Systems on Improving Societal Outcomes with Design Science Research]]></title>
