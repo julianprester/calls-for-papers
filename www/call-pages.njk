@@ -40,25 +40,21 @@ eleventyComputed:
   </ul>
   <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Description</h2>
   {% for paragraph in call.description.paragraphs %}
-  {% if loop.last %}
-  <div tabindex="0" class="collapse collapse-arrow border-base-300 bg-base-200 border mb-4">
-    <h3 class="collapse-title text-xl font-bold leading-snug">Potential topics</h3>
-    <div class="collapse-content">
-      <ul class="list-disc ps-7">
-        {% for topic in call.topics %}
-        <li class="ps-1.5">{{ topic }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  {% endif %}
   <p class="text-justify mb-4">{{ paragraph }}</p>
   {% endfor %}
+  {% if call.topics | length > 0 %}
+  <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Potential topics</h2>
+  <ul class="list-disc ps-7">
+    {% for topic in call.topics %}
+    <li class="ps-1.5">{{ topic }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
   {% if call.associate_editors | length > 0 %}
   <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Associate editors</h2>
-  <div class="grid grid-cols-4 gap-4">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
     {% for associate_editor in call.associate_editors %}
-    <div class="w-fit">{{ associate_editor.name }}, {{ associate_editor.affiliation }}</div>
+    <div class="w-fit"><strong>{{ associate_editor.name }}</strong>, {{ associate_editor.affiliation }}</div>
     {% endfor %}
   </div>
   {% endif %}
