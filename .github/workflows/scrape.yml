@@ -11,16 +11,12 @@ jobs:
     steps:
       - name: Checkout this repository
         uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          node-version: 18.x
-          cache: 'npm'
       - run: npm ci
-      - run: npx playwright install chromium
       - name: Scrape
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: npm run scrape --if-present
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+        run: xvfb-run npm run scrape --if-present
       - run: npm run rss --if-present
       - name: Commit and push if it changed
         run: |-
