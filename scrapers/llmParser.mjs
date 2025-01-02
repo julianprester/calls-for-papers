@@ -4,6 +4,7 @@ import { z } from 'zod';
 import * as chrono from 'chrono-node';
 
 const openai = new OpenAI({
+    baseURL: process.env.OPENAI_BASE_URL,
     apiKey: process.env.OPENAI_API_KEY,
 });
 
@@ -43,7 +44,7 @@ export async function parse(call) {
         return call;
     }
     const completion = await openai.beta.chat.completions.parse({
-        model: "gpt-4o-mini",
+        model: "gemini-2.0-flash",
         messages: [
             { role: "system", content: "You are an expert parser of calls for papers for special issues of academic journals. You do NOT make up any information. You only copy information from the call directly." },
             { role: "user", content: `Parse the following call for papers:\n\n${call.rawContent}` },
