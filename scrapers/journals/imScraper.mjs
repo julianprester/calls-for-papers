@@ -3,7 +3,8 @@ export const scraperObject = {
     async scraper(browser) {
         let page = await browser.newPage();
         await page.goto(this.url);
-        if (await page.locator('h2[aria-label="Call for papers"]').count() == 0) {
+        const correctPage = await page.$$eval('h2[aria-label="Call for papers"]', elements => elements.length > 0);
+        if (!correctPage) {
             return [];
         }
 
