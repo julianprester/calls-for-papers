@@ -4,6 +4,7 @@ const { zodResponseFormat } = require('openai/helpers/zod');
 const { z } = require('zod');
 
 const openai = new OpenAI({
+    baseUrl: process.env.OPENAI_BASE_URL,
     apiKey: process.env.OPENAI_API_KEY,
 });
 
@@ -14,7 +15,7 @@ const Tagging = z.object({
 async function tag(calls) {
     for (let call of calls) {
         const completion = await openai.beta.chat.completions.parse({
-            model: "gpt-4o-mini",
+            model: "gemini-2.0-flash",
             messages: [
                 { role: "system", content: "You are a world-class text tagging system." },
                 { role: "user", content: `Tag the following text: ${call.title}\nUse as few tags as possible.` },
