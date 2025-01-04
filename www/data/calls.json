@@ -405,14 +405,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "information theory",
       "transitions",
       "practice"
-    ],
-    "gracePeriod": 1737946266000
+    ]
   },
   {
     "title": "Re-orientating Search Engine Research in Information Science",
@@ -421,14 +420,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "search engine research",
       "information science",
       "re-orientating"
-    ],
-    "gracePeriod": 1737946266000
+    ]
   },
   {
     "title": "Healthier Information Ecosystems",
@@ -437,14 +435,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "health",
       "information",
       "ecosystems"
-    ],
-    "gracePeriod": 1737946266000
+    ]
   },
   {
     "title": "The Institutional Press in the Digital Age",
