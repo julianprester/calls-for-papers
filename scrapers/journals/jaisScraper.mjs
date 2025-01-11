@@ -4,8 +4,9 @@ export const scraperObject = {
     url: 'https://aisel.aisnet.org/jais/specialissues.html',
     async scraper(browser) {
         let page = await browser.newPage();
-        await page.goto(this.url);
-        if (await page.locator('div#main h2').count() == 0) {
+        await page.goto(this.url, { waitUntil: 'domcontentloaded' });
+        const correctPage = await page.$$eval('div#main h2', elements => elements.length > 0);
+        if (!correctPage) {
             return [];
         }
 

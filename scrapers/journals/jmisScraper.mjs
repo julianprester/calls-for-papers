@@ -4,8 +4,9 @@ export const scraperObject = {
     url: 'https://www.jmis-web.org/cfp',
     async scraper(browser) {
         let page = await browser.newPage();
-        await page.goto(this.url);
-        if (await page.locator('h2').count() == 0) {
+        await page.goto(this.url, { waitUntil: 'domcontentloaded' });
+        const correctPage = await page.$$eval('h2', elements => elements.length > 0);
+        if (!correctPage) {
             return [];
         }
 

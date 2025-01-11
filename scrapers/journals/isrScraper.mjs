@@ -2,8 +2,9 @@ export const scraperObject = {
     url: 'https://pubsonline.informs.org/page/isre/calls-for-papers',
     async scraper(browser) {
         let page = await browser.newPage();
-        await page.goto(this.url);
-        if (await page.locator('h1').count() == 0) {
+        await page.goto(this.url, { waitUntil: 'domcontentloaded' });
+        const correctPage = await page.$$eval('h1', elements => elements.length > 0);
+        if (!correctPage) {
             return [];
         }
 

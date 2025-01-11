@@ -3,7 +3,8 @@ export const scraperObject = {
     async scraper(browser) {
         let page = await browser.newPage();
         await page.goto(this.url, { waitUntil: 'domcontentloaded' });
-        if (await page.locator('h2').count() == 0) {
+        const correctPage = await page.$$eval('h2', elements => elements.length > 0);
+        if (!correctPage) {
             return [];
         }
 

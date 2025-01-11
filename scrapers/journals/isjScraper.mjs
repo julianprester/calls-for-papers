@@ -4,8 +4,9 @@ export const scraperObject = {
     url: 'https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm',
     async scraper(browser) {
         let page = await browser.newPage();
-        await page.goto(this.url);
-        if (await page.locator('div.pb-rich-text h4').count() == 0) {
+        await page.goto(this.url, { waitUntil: 'domcontentloaded' });
+        const correctPage = await page.$$eval('div.pb-rich-text h4', elements => elements.length > 0);
+        if (!correctPage) {
             return [];
         }
 
