@@ -97,14 +97,15 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
-    "active": true,
+    "active": false,
     "pubDate": 1721298883000,
     "tags": [
       "refugees",
       "migration",
       "information systems",
       "critical issues"
-    ]
+    ],
+    "gracePeriod": 1739329194000
   },
   {
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
@@ -283,14 +284,13 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "information technology",
       "strategic management",
       "disasters"
-    ],
-    "gracePeriod": 1739242923000
+    ]
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -405,14 +405,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "information theory",
       "transitions",
       "practice"
-    ],
-    "gracePeriod": 1739242923000
+    ]
   },
   {
     "title": "Re-orientating Search Engine Research in Information Science",
@@ -421,14 +420,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "search engine research",
       "information science",
       "re-orientating"
-    ],
-    "gracePeriod": 1739242923000
+    ]
   },
   {
     "title": "Healthier Information Ecosystems",
@@ -437,14 +435,13 @@
     "journal": "Journal of the Association for Information Science and Technology",
     "abbreviation": "jasist",
     "slug": "jasist-healthier-information-ecosystems",
-    "active": false,
+    "active": true,
     "pubDate": 1705026897000,
     "tags": [
       "health",
       "information",
       "ecosystems"
-    ],
-    "gracePeriod": 1739242923000
+    ]
   },
   {
     "title": "The Institutional Press in the Digital Age",
