@@ -97,15 +97,14 @@
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
-    "active": false,
+    "active": true,
     "pubDate": 1721298883000,
     "tags": [
       "refugees",
       "migration",
       "information systems",
       "critical issues"
-    ],
-    "gracePeriod": 1739329194000
+    ]
   },
   {
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
@@ -284,13 +283,14 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
+    "active": false,
     "pubDate": 1705026897000,
     "tags": [
       "information technology",
       "strategic management",
       "disasters"
-    ]
+    ],
+    "gracePeriod": 1739414945000
   },
   {
     "title": "Regulation in the Age of Digitalization",
