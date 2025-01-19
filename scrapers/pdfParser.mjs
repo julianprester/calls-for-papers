@@ -1,53 +1,55 @@
 import { promises as fs } from 'fs';
-import pdf2md from '@opendocsg/pdf2md';
+import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf.mjs';
 
 async function getPdfBuffer(browser, url) {
-    const pdfPage = await browser.newPage();
+    const page = await browser.newPage();
+    if (url.includes('sharepoint.com')) {
+        return null;
+    }
+    if (url.includes('dropbox.com')) {
+        url = url + '&dl=1';
+    }
     try {
+        const downloadPromise = page.waitForEvent('download');
         try {
-            const response = await pdfPage.goto(url, { waitUntil: 'networkidle' });
-
-            // Check if the response is a PDF
-            const contentType = response.headers()['content-type'];
-            if (contentType && contentType.includes('application/pdf')) {
-                const buffer = await response.body();
-                return buffer;
-            }
-        } catch (e) {}
-
-        const downloadPromise = pdfPage.waitForEvent('download');
-        // Dropbox specific handling
-        if (url.includes("dropbox.com")) {
-            url = url + "&dl=1"
-        }
-        try {
-            await pdfPage.goto(url, { waitUntil: 'networkidle' });
-        } catch (e) { }
+            await page.goto(url);
+        } catch (error) { }
         const download = await downloadPromise;
-        const path = await download.path();
-        const buffer = await fs.readFile(path);
-        await fs.unlink(path);
-        return buffer;
+        await download.saveAs(download.suggestedFilename());
+        const pdfBuffer = await fs.readFile(download.suggestedFilename());
+        await page.close();
+        await fs.unlink(download.suggestedFilename());
+        return pdfBuffer;
     } catch (error) {
         console.error(`Error downloading PDF from ${url}:`, error);
         throw error;
     } finally {
-        await pdfPage.close();
+        await page.close();
     }
 }
 
-async function getMdContent(buffer) {
+async function getPdfContent(buffer) {
     try {
-        const text = await pdf2md(new Uint8Array(buffer));
-        return text;
+        const uint8Array = new Uint8Array(buffer);
+        const pdf = await pdfjsLib.getDocument(uint8Array).promise;
+        let content = '';
+        for (let i = 1; i <= pdf.numPages; i++) {
+            const page = await pdf.getPage(i);
+            const textContent = await page.getTextContent();
+            content += textContent.items.map(item => item.str).join(' ') + '\n';
+        }
+        return content;
     } catch (error) {
-        console.error('Error converting PDF to Markdown:', error);
+        console.error('Error reading PDF content:', error);
         throw error;
     }
 }
 
 export async function parse(browser, url) {
     const buffer = await getPdfBuffer(browser, url);
-    const content = await getMdContent(buffer);
+    if (!buffer) {
+        return '';
+    }
+    const content = await getPdfContent(buffer);
     return content;
 }
