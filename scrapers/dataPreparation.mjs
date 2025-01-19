@@ -16,7 +16,11 @@ async function generateSlug(issue) {
 }
 
 async function hash(issue) {
-    issue.contentHash = await createHash('sha256').update(issue.rawContent).digest('hex');
+    if (!issue.rawContent || issue.rawContent.trim() === '') {
+        issue.contentHash = '';
+    } else {
+        issue.contentHash = await createHash('sha256').update(issue.rawContent).digest('hex');
+    }
     return issue;
 }
 
