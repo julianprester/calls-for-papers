@@ -58,6 +58,7 @@ export async function parse(call) {
         date.date = await parseFuzzyDate(date.date);
         return date;
     }));
+    call.dates.sort((a, b) => a.date - b.date);
     call.tags = await Promise.all(call.tags.map(async tag => {
         return tag.toLowerCase();
     }));
