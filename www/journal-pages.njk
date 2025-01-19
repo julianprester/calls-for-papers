@@ -25,8 +25,8 @@
         return Object.values(groupedCalls);
     }
   },
-  layout: "main",
-  permalink: "journal/{{ journal.journal | slugify }}/",
+  layout: "layouts/main.html",
+  permalink: "journal/{{ journal.journal | slug }}/",
   eleventyComputed: {
     title: "Calls for Papers | {{ journal.journal }}",
     description: "Calls for Papers shows you the latest calls for papers of the {{ journal.journal }}, easily accessible, in one location."
@@ -35,5 +35,5 @@
 ---
 
 {% for call in journal.calls | isActiveCall %}
-{% include "callCard.html" %}
+{% include "call-card.html" %}
 {% endfor %}

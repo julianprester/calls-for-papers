@@ -1,8 +1,8 @@
 ---
-layout: main
+layout: layouts/main.html
 permalink: /
 ---
 
 {% for call in calls | isActiveCall %}
-{% include "callCard.html" %}
+{% include "call-card.html" %}
 {% endfor %}

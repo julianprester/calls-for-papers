@@ -1,0 +1,46 @@
+---
+layout: layouts/base.html
+---
+
+<div x-data="{
+    search: '',
+    show_call(el) {
+        return this.search === '' || el.getAttribute('data-title').toLowerCase().includes(this.search.toLowerCase());
+    },
+    sort_calls(order) {
+        const calls = Array.from(this.$refs.calls.children);
+        switch (order) {
+            case 'title':
+            case 'journal':
+                calls.sort((a, b) => {
+                    const aAttribute = a.getAttribute(`data-${order}`);
+                    const bAttribute = b.getAttribute(`data-${order}`);
+                    return aAttribute.localeCompare(bAttribute);
+                });
+                break;
+            case 'pubdate':
+            case 'duedate':
+                calls.sort((a, b) => {
+                    const aAttribute = a.getAttribute(`data-${order}`);
+                    const bAttribute = b.getAttribute(`data-${order}`);
+                    return Date.parse(bAttribute) - Date.parse(aAttribute);
+                });
+                break;
+        }
+        calls.forEach(call => this.$refs.calls.appendChild(call));
+    },
+}" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
+    <div class="flex justify-between items-center mb-8">
+        {% include "searchBox.html" %}
+        {% include "sortDropdown.html" %}
+    </div>
+    {% if journal %}
+    <h1 class="text-4xl font-extrabold leading-tight mb-8">{{ journal.journal }}</h1>
+    {% endif %}
+    {% if tag %}
+    <h1 class="text-4xl font-extrabold leading-tight mb-8">Tag: #{{ tag.name }}</h1>
+    {% endif %}
+    <div x-ref="calls" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {{ content | safe }}
+    </div>
+</div>

@@ -1,0 +1,51 @@
+<ul class="timeline timeline-vertical">
+    <li>
+        <div class="timeline-start timeline-box border-base-300 bg-base-200 max-w-full">{{ call.pubDate | dateOnly }}</div>
+        <div class="timeline-middle">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="text-primary h-5 w-5">
+                <path fill-rule="evenodd"
+                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                    clip-rule="evenodd" />
+            </svg>
+        </div>
+        <div class="timeline-end max-w-36">Call for papers published</div>
+        <hr class="bg-primary" />
+    </li>
+    {% for date in call.dates %}
+    <li>
+        {% if date.date | isInPast %}
+        <hr class="bg-primary" />
+        {% else %}
+        <hr />
+        {% endif %}
+        {% if date.date %}
+        <div class="timeline-start timeline-box border-base-300 bg-base-200 max-w-full">{{ date.date | dateOnly }}</div>
+        {% endif %}
+        <div class="timeline-middle">
+            {% if date.date | isInPast %}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="{{ 'text-primary ' if date.date | isInPast }}h-5 w-5">
+                <path fill-rule="evenodd"
+                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                    clip-rule="evenodd" />
+            </svg>
+            {% else %}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="{{ 'text-primary ' if date.date | isInPast }}h-5 w-5">
+                <path fill-rule="evenodd"
+                    d="M 10 18 C 16.158 18 20.007 11.333 16.928 6 C 15.499 3.525 12.858 2 10 2 C 3.842 2 -0.007 8.667 3.072 14 C 4.501 16.475 7.142 18 10 18 Z"
+                    clip-rule="evenodd"/>
+            </svg>
+            {% endif %}
+        </div>
+        {% if date.description %}
+        <div class="timeline-end max-w-36">{{ date.description }}</div>
+        {% endif %}
+        {% if not loop.last %}
+            {% if date.date | isInPast %}
+            <hr class="bg-primary" />
+            {% else %}
+            <hr />
+            {% endif %}
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>

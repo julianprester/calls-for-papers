@@ -1,0 +1,61 @@
+---
+pagination:
+  data: calls
+  size: 1
+  alias: call
+  addAllPagesToCollections: true
+layout: layouts/base.html
+permalink: "call/{{ (call.title if call.title else call.metaTitle) | slug }}/"
+eleventyComputed:
+  title: "Calls for Papers | {{ call.title if call.title else call.metaTitle | safe }}"
+  description: "Calls for Papers shows you the latest calls for papers for {{ call.title }}, easily accessible, in one location."
+---
+
+<h1 class="text-4xl font-extrabold leading-tight mb-3.5">{{ call.title if call.title else call.metaTitle | safe }}</h1>
+<div class="flex">
+  <div>
+    {% for tag in call.tags %}
+    <a href="{{ '/tag/' + (tag | slug) | url }}" class="badge badge-outline hover:bg-neutral-400">{{ tag }}</a>
+    {% endfor %}
+  </div>
+</div>
+<div class="flex justify-between items-center my-3.5">
+  <a href="{{ '/journal/' + (call.journal | slug) | url }}"><h2 class="text-2xl uppercase font-bold text-gray-600 hover:text-gray-500 leading-snug mt-4 mb-4">{{ call.journal }}</h2></a>
+  <a class="btn btn-primary" href="{{ call.url | url }}">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
+      </svg>
+      Find out more
+  </a>
+</div>
+<div>
+  <div class="float-none md:float-end w-96 md:ms-8 mb-8">
+    {% include "timeline.html" %}
+  </div>
+  <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Editors</h2>
+  <ul>
+    {% for editor in call.editors %}
+    <li><strong>{{ editor.name }}</strong>, {{ editor.affiliation }}</li>
+    {% endfor %}
+  </ul>
+  <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Description</h2>
+  {% for paragraph in call.description.paragraphs %}
+  <p class="text-justify mb-4">{{ paragraph }}</p>
+  {% endfor %}
+  {% if call.topics | length > 0 %}
+  <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Potential topics</h2>
+  <ul class="list-disc ps-7">
+    {% for topic in call.topics %}
+    <li class="ps-1.5">{{ topic }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% if call.associate_editors | length > 0 %}
+  <h2 class="text-2xl font-bold leading-snug mt-8 mb-4">Associate editors</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+    {% for associate_editor in call.associate_editors %}
+    <div class="w-fit"><strong>{{ associate_editor.name }}</strong>, {{ associate_editor.affiliation }}</div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>

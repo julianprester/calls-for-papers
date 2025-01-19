@@ -4,16 +4,23 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sun, 19 Jan 2025 02:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 10:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
             <title>Calls for Papers</title>
-            <url>https://callsforpapers.org/favicon/android-chrome-96x96.png</url>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
             <link>https://callsforpapers.org/</link>
         </image>
-        <copyright>Calls for Papers © 2022</copyright>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/cfp/ISJ-CFP-Theorising-the-Impact-of-Generative-Artificial-Intelligence-1734959512827.pdf</link>
+            <guid>isj-theorising-the-impacts-of-generative-artificial-intelligence</guid>
+            <pubDate>Wed, 25 Dec 2024 07:52:15 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
+        </item>
         <item>
             <title><![CDATA[Contemporary Innovation in Information Infrastructures]]></title>
             <link>https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07</link>
@@ -23,7 +30,7 @@
         </item>
         <item>
             <title><![CDATA[Platform Partnerships]]></title>
-            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/316559/platform-partnerships</link>
             <guid>jsis-platform-partnerships</guid>
             <pubDate>Sat, 09 Nov 2024 02:48:44 GMT</pubDate>
             <author>The Journal of Strategic Information Systems (JSIS)</author>
@@ -44,7 +51,7 @@
         </item>
         <item>
             <title><![CDATA[Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.]]></title>
-            <link>https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/313589/designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</link>
             <guid>io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</guid>
             <pubDate>Thu, 15 Aug 2024 02:37:20 GMT</pubDate>
             <author>Information and Organization (IO)</author>
@@ -58,24 +65,24 @@
         </item>
         <item>
             <title><![CDATA[Decision Support Systems on Improving Societal Outcomes with Design Science Research]]></title>
-            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/306480/decision-support-systems-on-improving-societal-outcomes-with-design-science-research</link>
             <guid>dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research</guid>
             <pubDate>Wed, 29 May 2024 02:37:14 GMT</pubDate>
             <author>Decision Support Systems (DSS)</author>
         </item>
         <item>
-            <title><![CDATA[Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly]]></title>
-            <link>https://www.sciencedirect.com/journal/information-and-organization/about/call-for-papers#</link>
-            <guid>io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly</guid>
-            <pubDate>Sun, 07 Apr 2024 01:36:14 GMT</pubDate>
-            <author>Information and Organization (IO)</author>
-        </item>
-        <item>
             <title><![CDATA[Lights and shadows of generative AI for individuals, organizations, and society]]></title>
-            <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/299513/lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society</link>
             <guid>ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society</guid>
             <pubDate>Sun, 07 Apr 2024 01:36:14 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
+        </item>
+        <item>
+            <title><![CDATA[Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly]]></title>
+            <link>https://www.sciencedirect.com/special-issue/297482/organizing-for-emerging-digital-technologies-the-good-the-bad-the-ugly</link>
+            <guid>io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly</guid>
+            <pubDate>Sun, 07 Apr 2024 01:36:14 GMT</pubDate>
+            <author>Information and Organization (IO)</author>
         </item>
         <item>
             <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
@@ -104,6 +111,27 @@
             <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
             <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
+            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
+            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+        <item>
+            <title><![CDATA[Healthier Information Ecosystems]]></title>
+            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
+            <guid>jasist-healthier-information-ecosystems</guid>
+            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
         </item>
         <item>
             <title><![CDATA[Regulation in the Age of Digitalization]]></title>
@@ -155,25 +183,11 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
-            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
-            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
-            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Healthier Information Ecosystems]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
-            <guid>jasist-healthier-information-ecosystems</guid>
-            <pubDate>Fri, 12 Jan 2024 02:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+            <title><![CDATA[Analytical Creativity]]></title>
+            <link>https://pubsonline.informs.org/page/isre/calls-for-papers</link>
+            <guid>isr</guid>
+            <pubDate>Tue, 02 Jan 2024 01:00:00 GMT</pubDate>
+            <author>Information Systems Research (ISR)</author>
         </item>
         <item>
             <title><![CDATA[The Institutional Press in the Digital Age]]></title>
@@ -184,7 +198,7 @@
         </item>
         <item>
             <title><![CDATA[Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms]]></title>
-            <link>https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/286816/ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms</link>
             <guid>jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms</guid>
             <pubDate>Fri, 01 Dec 2023 02:38:00 GMT</pubDate>
             <author>The Journal of Strategic Information Systems (JSIS)</author>
@@ -219,21 +233,21 @@
         </item>
         <item>
             <title><![CDATA[More supportive or more distractive? Investigating the negative effects of technology at the customer interface]]></title>
-            <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/229889/more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface</link>
             <guid>ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface</guid>
             <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
             <title><![CDATA[Theory Building in Information Systems with Big Data-Driven Research]]></title>
-            <link>https://www.sciencedirect.com/journal/international-journal-of-information-management/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/198507/theory-building-in-information-systems-with-big-data-driven-research</link>
             <guid>ijim-theory-building-in-information-systems-with-big-data-driven-research</guid>
             <pubDate>Thu, 22 Dec 2022 02:42:59 GMT</pubDate>
             <author>International Journal of Information Management (IJIM)</author>
         </item>
         <item>
             <title><![CDATA[Blockchain Technology and Applications]]></title>
-            <link>https://www.sciencedirect.com/journal/decision-support-systems/about/call-for-papers#</link>
+            <link>https://www.sciencedirect.com/special-issue/239002/dss-special-issue-on-blockchain-technology-and-applications</link>
             <guid>dss-blockchain-technology-and-applications</guid>
             <pubDate>Thu, 18 Aug 2022 06:37:25 GMT</pubDate>
             <author>Decision Support Systems (DSS)</author>
