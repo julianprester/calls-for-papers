@@ -12,7 +12,7 @@ const rssFeed = new Feed({
     language: "en",
     image: "https://callsforpapers.org/public/favicon/android-chrome-96x96.png",
     favicon: "https://callsforpapers.org/public/favicon/favicon.ico",
-    copyright: "Calls for Papers © 2024",
+    copyright: "Calls for Papers © 2025",
     date: new Date(),
     feedLinks: {
         json: "https://callsforpapers.org/json",
@@ -26,7 +26,7 @@ const rssFeed = new Feed({
 });
 issues.forEach(issue => {
     rssFeed.addItem({
-        title: issue.title,
+        title: issue.metaTitle ? issue.metaTitle : issue.title,
         id: issue.slug,
         link: issue.url,
         date: new Date(issue.pubDate),
