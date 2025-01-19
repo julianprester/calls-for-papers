@@ -5,12 +5,12 @@ export const scraperObject = {
     async scraper(browser) {
         let page = await browser.newPage();
         await page.goto(this.url, { waitUntil: 'domcontentloaded' });
-        const correctPage = await page.$$eval('div.pb-rich-text h4', elements => elements.length > 0);
+        const correctPage = await page.$$eval('div.pb-rich-text h2', elements => elements.length > 0);
         if (!correctPage) {
             return [];
         }
 
-        let calls = await page.$$eval('table tr td:first-child', items => items.map(item => {
+        let calls = await page.$$eval('table tr td:first-child p', items => items.map(item => {
             return {
                 journal: 'Information Systems Journal',
                 abbreviation: 'isj',

@@ -1,14 +1,164 @@
 [
   {
-    "journal": "Journal of the Association for Information Systems",
-    "abbreviation": "jais",
-    "metaTitle": "Contemporary Innovation in Information Infrastructures",
-    "url": "https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07",
-    "slug": "jais-contemporary-innovation-in-information-infrastructures",
-    "contentHash": "",
-    "tags": [],
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "metaTitle": "Theorising the Impacts of Generative Artificial Intelligence",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/cfp/ISJ-CFP-Theorising-the-Impact-of-Generative-Artificial-Intelligence-1734959512827.pdf",
+    "slug": "isj-theorising-the-impacts-of-generative-artificial-intelligence",
+    "contentHash": "71463c859363894ac5350042a26e51ad044a6c443b69d22500c450970f2e9a4a",
+    "title": "Theorising the Impacts of Generative Artificial Intelligence",
+    "topics": [
+      "Human - GAI Relationships and Collaboration (e.g., Anthropomorphism in AI and human identity; Dehumanized interactions; Relationships with robots or chatbots; Power dynamics in human - AI collaboration and hegemonic interactions)",
+      "Human Agency, Creativity, and Cognition (e.g., Erosion of human agency and GAI dependency; Challenges to human creativity in the era of AI - driven pattern generation; Mediocrity as a new norm, and the struggle for excellence; Cognitive enhancement, deterioration, and dependence in GAI - mediated environments)",
+      "Social Inequalities and Marginalization (e.g., Impacts on marginalized populations and inequality by design; Educational equity and impact on learning; Global and cultural distortions and digital exclusion; Data colonialism and global inequalities)",
+      "Work and Organizational Shifts (e.g., Transformation, decline and disappearance of professions; Deskilling and disempowering of individuals; Disruptions to work, routines, and shifts in organizational dynamics)",
+      "Governance and Policy (e.g., Implications of strong or absent governance frameworks; Regulation and policy development by governments and organizations; National policies and their differences; Environmental and societal trade-offs)",
+      "Disinformation and Trust (Development & dissemination of disinformation, misinformation, and conspiracy theories; Erosion of trust in human and organizational communication)",
+      "Fundamental Risks (e.g., Systemic risk, resilience, and dependencies in AI - enhanced infrastructure; Vulnerabilities and data poisoning; Misuse of intellectual property; Warfare automation)"
+    ],
+    "description": {
+      "paragraphs": [
+        "Since 2022, we have witnessed an inexorable flood of information about Generative Artificial Intelligence (GAI) and its various components and manifestations. As hypes go, this one seems overdue for a cyclical correction; however, the enthusiasm for GAI across a wide range of contexts still rises. The euphoria permeates not just mainstream society and popular culture, but also business, politics, warfare and, of course, academia. The tone of inevitability about GAI and its benefits is fervent and the passion of many (notably academics, tech pundits and businesspeople) is abundant. This is not to say that there are no critical voices: there are, but their concerns risk being submerged by the tide of optimism and it may seem heretical to critique, let alone excoriate, the GAI phenomenon. For example, at some institutions, even measured critiques of GAI are viewed as misaligned with their forward-looking visions, creating an environment where scholars may feel pressured to conform to a predominantly positive narrative.",
+        "Almost as soon as GAI was released and became a topic of discussion, we quickly saw a spate of opinions, accompanied by the wisdom of pundits and some speculative analyses of what the impact on a variety of societal and organizational functions might be. These early discussions lacked grounding in robust empirical or theoretical insights, instead reflecting speculative or overly generalized narratives. In many ways, these initial reactions paralleled the reactions to Artificial Intelligence almost forty years earlier (Sheil, 1987). Some academic publishers quickly outlawed the use of GAI by submitting authors and other notes of caution were expressed regarding the potential negative impacts. However, as the technology evolved, so in parallel did the restrictions on academic use, most of which were just as quickly retracted and replaced with more nuanced advisories. Academic institutions, journal publishers, and universities started to promulgate guidelines, essentially legitimizing GAI application, yet also unleashing peer and institutional pressure to take advantage of this new opportunity.",
+        "In parallel to these academic perspectives, business organizations have expressed both enthusiasm for the technology and concerns about such issues as data protection, truth, trust, and errors, as well as how to train people to use GAI correctly. Today we see that AI-themed programmes and research centres are being created in profusion. This proliferation is worrisome not because of the exploration of GAI itself, but because it often lacks critical engagement with the potential harms and adverse consequences. At the ISJ, we have already seen both submissions and reviews where GAI appears to have played a role not so far from either co-author or some form of assistant. In response, we have published cautionary editorials (Davison et al., 2023, 2024). When it comes to AI-themed research submissions, our sense is that we are at the stage of the trickle before the deluge.",
+        "Given the normative process of empirical (qualitative or quantitative) research, it is not surprising that few such AI-themed articles (e.g., Susarla et al., 2023; Grover, 2024) have been published. However, in a pre-GAI special issue (Mikalef et al., 2022), a more critical tone was adopted with an explicit focus on the dark side of AI. At the ISJ, the vast majority of GAI-themed submissions to date tend to emphasise the novelty of application area yet actually have little to do with IS and fail to engage with its broader sociotechnical axis. This reflects an ongoing challenge for IS scholars: how to meaningfully situate GAI research within the discipline's core concerns. Nevertheless, this also presents an opportunity for IS researchers to engage critically with GAI through theoretical and methodological innovation and empirical rigor.",
+        "What we also find to be absent from much of the GAI-related work done so far is either a more critical stance or attempts to engage in rigorous and novel theoretical development on the impacts of GAI. This is troubling because of the risks that GAI poses to individuals, organizations, society more broadly, and the natural environment. In fact, poorly vetted applications of GAI run the risk of such negative outcomes as violating privacy, facilitating research misconduct, insulting customers, and discriminating unfairly against specific groups. Given this backdrop, we argue that the time is now ripe for researchers to critically investigate the diverse impacts of GAI. Analysing these impacts through a sociotechnical lens is essential to bridge the gap between technological advancements and their broader implications.",
+        "We can expect that a wide variety of impacts may be experienced globally, some of which will be legal in one jurisdiction even as they are illegal elsewhere; this heightens concerns about widening digital and AI-related divides. To explain these phenomena and anticipate their future trajectories, researchers must employ appropriate theoretical frameworks and remain open to innovative forms of theorizing. GAI's emergence necessitates both the adaptation of existing theories and the development of new theoretical arguments that reflect its distinctive characteristics, such as its effects on human agency and the contextual nuances of its applications. We encourage the application of grounded research, given that GAI is still an emerging phenomenon. For example, theories of disruption, given the undeniably disruptive nature of GAI, may offer more fruitful opportunities for theoretical innovation, while critical design approaches rooted in theories of emancipation could illuminate issues of AI oppression.",
+        "A robust theoretical foundation that explores the ‘dark side’ of GAI is indispensable for advancing sociotechnical research and addressing its complex, often adverse, societal impacts. In a positive sense, the research that we aim to publish in this special issue should contribute to our understanding of the potential negative impacts of GAI, with the hope that we can also mitigate them. In-depth ethnographic fieldwork, critical case studies, and grounded theory can help reveal and address the otherwise hidden aspects of GAI in practice. Action Researchers may go a step further to propose and even enact those mitigation strategies in particular contexts, thus subjecting their theoretical ideas to empirical tests. For this special issue, we specifically solicit research that draws on primary data. Primary data allows for a deeper understanding of GAI’s real-world impact and enables researchers to engage directly with stakeholders, such as individuals and organizations affected by GAI. We aim to foster research that is grounded in real-world experiences and produces theoretically innovative, methodologically rigorous work that can truly advance our understanding of GAI's sociotechnical consequences.",
+        "We expect that authors will make a direct contribution to knowledge by developing a new theory or theorizations that acknowledge the unique characteristics of GAI. We welcome interdisciplinary work. We also welcome action research and design science studies if they empirically demonstrate how the negative impacts of GAI can be mitigated, and in addition develop theory. For this special issue, we do not accept the submission of stand-alone reviews of the technology, opinion papers and purely conceptual papers. Submissions to this special issue must align closely with the sociotechnical axis central to IS research. Specifically, we seek studies that explore the interplay between human, technological, environmental and organizational dimensions of GAI in real-world contexts. The range of topics and contexts that may be suitable is clearly extensive, and thus we only provide a partial list below. As we indicate above, we are particularly interested in the dark side of GAI."
+      ]
+    },
+    "tags": [
+      "generative artificial intelligence",
+      "sociotechnical research",
+      "information systems"
+    ],
+    "editors": [
+      {
+        "name": "Robert Davison",
+        "affiliation": "City University of Hong Kong"
+      },
+      {
+        "name": "Antonio Díaz Andrade",
+        "affiliation": "University of Agder, Norway"
+      },
+      {
+        "name": "Manuel Trenz",
+        "affiliation": "University of Gottingen, Germany"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Angsana Techatassanasoontorn",
+        "affiliation": "AUT University, New Zealand"
+      },
+      {
+        "name": "Carla Bonina",
+        "affiliation": "University of Surrey, UK"
+      },
+      {
+        "name": "Christoph Breidbach",
+        "affiliation": "University of Queensland, Australia"
+      },
+      {
+        "name": "Dimitra Petrakaki",
+        "affiliation": "University of Sussex, UK"
+      },
+      {
+        "name": "Efpraxia Zamani",
+        "affiliation": "Durham University, UK"
+      },
+      {
+        "name": "Gilbert Fridgen",
+        "affiliation": "University of Luxembourg, Luxembourg"
+      },
+      {
+        "name": "Hameed Chughtai",
+        "affiliation": "University of Lancaster, UK"
+      },
+      {
+        "name": "Han-fen Hu",
+        "affiliation": "University of Nevada Las Vegas, USA"
+      },
+      {
+        "name": "Harminder Singh",
+        "affiliation": "AUT University, New Zealand"
+      },
+      {
+        "name": "Johan Sæbo",
+        "affiliation": "University of Oslo, Norway"
+      },
+      {
+        "name": "Luiz Joia",
+        "affiliation": "Getulio Vargas Foundation, Brazil"
+      },
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University, USA"
+      },
+      {
+        "name": "Martin Adam",
+        "affiliation": "University of Göttingen, Germany"
+      },
+      {
+        "name": "Maximilian Schreieck",
+        "affiliation": "University of Innsbruck, Austria"
+      },
+      {
+        "name": "Mike Lee",
+        "affiliation": "University of Nevada Las Vegas, USA"
+      },
+      {
+        "name": "Mira Slavova",
+        "affiliation": "Warwick Business School, UK"
+      },
+      {
+        "name": "Mylene Struijk",
+        "affiliation": "University of Sydney, Australia"
+      },
+      {
+        "name": "Nancy Deng",
+        "affiliation": "California State University Dominguez Hills, USA"
+      },
+      {
+        "name": "Petros Chamakiotis",
+        "affiliation": "ESCP, Spain"
+      },
+      {
+        "name": "Petter Nielsen",
+        "affiliation": "University of Oslo, Norway"
+      },
+      {
+        "name": "Phil Zhou",
+        "affiliation": "Tongji University, China"
+      },
+      {
+        "name": "Pierre-Emmanuel Arduin",
+        "affiliation": "Paris Dauphine University, France"
+      },
+      {
+        "name": "Sven Laumer",
+        "affiliation": "Friedrich-Alexander University, Germany"
+      },
+      {
+        "name": "Tommy Chan",
+        "affiliation": "University of Manchester, UK"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-06-30T02:00:00.000Z",
+        "description": "Extended abstract submission for early feedback",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-12-31T01:00:00.000Z",
+        "description": "Full paper submission deadline",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
     "active": true,
-    "pubDate": "2024-12-12T00:38:34.845Z"
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -677,6 +827,125 @@
     "pubDate": "2024-08-15T02:37:20.000Z"
   },
   {
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "metaTitle": "Addressing Refugees and Migration Issues through Critical Information Systems",
+    "url": "https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-Special-Issue-on-Refugees-CFP-Updated-1733230198493.pdf",
+    "slug": "isj-addressing-refugees-and-migration-issues-through-critical-information-systems",
+    "contentHash": "0fa9864a10de3562dd777103ca64704578442892f3ff93019c010f7ccd2740e2",
+    "title": "Addressing Refugees and Migration Issues through Critical Information Systems Research",
+    "topics": [
+      "Critical analyses of the interrelated themes of identity, refugeeness, and belonging.",
+      "Exploring the ethics of (forced) migration.",
+      "Analysing the politics of responsibility and the integration of refugees and migrants in digital contexts.",
+      "Technology, racial marginalization and refugees experience.",
+      "Digital biopolitics, identities, and datafication of migrants and refugees.",
+      "Online activism and digital social movements in the context of refugees or migrants.",
+      "Agency, resistance and coping mechanisms of migrants and refugees.",
+      "Examining the issues at the intersections of gender, technology, and migrants/refugees (including queering migration and issues of gender-based violence).",
+      "Digitally-entangled lived experiences of minorities among refugee populations.",
+      "Datafication of borders and algorithmic management of migrants and refugees.",
+      "Decolonial justice and/or for migrants and refugees.",
+      "Digital justice and human rights issues affecting migrants and refugees.",
+      "Digital and data surveillance and control on migrants and refugees.",
+      "Issues related to power and exploitation of migrants and refugees.",
+      "Critical narratives of displacement.",
+      "Digital accounts and narratives of refugee experience.",
+      "Technology and the political philosophy of migration and refuge.",
+      "Novel theoretical lenses to study migration and refugee issues such as decolonial theory, spatial and temporal perspectives, Indigenous viewpoints, critical race theory, and feminist approaches.",
+      "Novel methodological approaches to examine refugee issues such as visual ethnography, visual research, and digitally mediated bodily experiences.",
+      "Application of novel technologies such as Blockchain and AI."
+    ],
+    "description": {
+      "paragraphs": [
+        "United Nations High Commissioner for Refugees (UNHCR) reports that there are approximately 110 million forcibly displaced people worldwide, as of mid-2023, because of persecution, conflict, war, violence, human rights violations or events seriously disturbing public order. These include 36.4 million refugees and 62.5 million internally displaced people (IDP), asylum seekers, and several other people in need of international protection. There is a strong history of research highlighting the issues faced by refugees, ranging from accounts of violence in the developing world, exploring the gendered experience of refugees, questioning racist thinking about immigration, case studies of asylum seekers, and philosophical inquiry into the fair treatment of refugees. The global refugee and forced migration crisis and the persistent challenges faced by these vulnerable communities call for an urgent need for innovative solutions that foster social inclusion and empower these populations.",
+        "In our field, information systems (IS) researchers have been acutely aware of the refugee and migrant crises. Researchers have examined the critical issues related to social inclusion of refugees, social inclusion and activation of refugee agency, information and communication technology (ICT) enabled refugee integration, refugees and pedagogy, digitization and refugee settlement, refugee women and information-precarity, and migrant identity. Researchers in sister fields have explored digitally mediated experiences of refugees, building a technology-oriented humanitarian research framework for field researchers, the emergence of new digital landscape in refugee management, new forms of data colonialism and humanitarian response to refugee crises, data governance and data justice, datafication and refugees subjectivities, feminist and decolonial approaches to examine displacement issues, and participatory design and decolonization in the context of refugee account.",
+        "Nonetheless, recent research in refugee studies has shown that critical areas at the intersection of technology, refugees, and broader migration crises have remained underexamined, for example, social media and device vetting, digitally mediated lived experiences of minority refugees, refugees and a sense of uncertainty in the digital age, refugee aid and digital capitalism, and networked refugees. Technological advances like AI-based refugee settlement applications and Blockchain-based fundraising solutions and identity management solutions have started to emerge, and it is unclear how critical technological advances will shape issues related to technology, power, and control in the sensitive context of refugees and migrants. Further, new forms of sociopolitical digital problems have started to emerge within refugee contexts such as digital colonialism and refugees, gender violence and sexual minority refugees, and critical race issues of refugees and digital coloniality. We observe that despite some progress in our field, much remains underexplored in addressing these pressing issues, underscoring the need for rigorous research. This special issue aims to explore how IS research could contribute to illuminating the refugee crises and alleviating the deterioration of refugee and migrant social circumstances.",
+        "These sensitive topics are situated within the broader debate on digital inclusion and empowerment and the discussions related to inequality and demarginalization and decolonization in our field. Exploring the critical research questions surrounding IS and migrant/refugee populations is essential for developing comprehensive and ‘good’ IS solutions and making the world a better place for all of us. This special issue aims to provide valuable theoretical and practical contributions to scholars, researchers, practitioners, and policymakers by delving into the multifaceted dimensions of technologies and their role in addressing specific issues related to refugees and migrant populations. We invite high-quality research papers that shed light on the innovative applications, challenges, and opportunities presented by technology in the context of refugees and migrant communities."
+      ]
+    },
+    "tags": [
+      "refugees",
+      "migration",
+      "information systems",
+      "technology"
+    ],
+    "editors": [
+      {
+        "name": "Safa’a AbuJarour",
+        "affiliation": "An-Najah National University"
+      },
+      {
+        "name": "Hameed Chughtai",
+        "affiliation": "Lancaster University Management School"
+      },
+      {
+        "name": "Yingqin Zheng",
+        "affiliation": "University of Essex"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Petros Chamakiotis",
+        "affiliation": "ESCP Business School"
+      },
+      {
+        "name": "Andrea Jimenez",
+        "affiliation": "University of Sheffield"
+      },
+      {
+        "name": "Shirin Madon",
+        "affiliation": "London School of Economics"
+      },
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Carmen Leong",
+        "affiliation": "University of New South Wales"
+      },
+      {
+        "name": "Shaila Miranda",
+        "affiliation": "University of Arkansas"
+      },
+      {
+        "name": "Priyanka Panday",
+        "affiliation": "Kings College London"
+      },
+      {
+        "name": "Israr Qureshi",
+        "affiliation": "Australian National University"
+      },
+      {
+        "name": "Maximilian Schreieck",
+        "affiliation": "University of Innsbruck"
+      },
+      {
+        "name": "Devinder Thapa",
+        "affiliation": "University of Agder"
+      },
+      {
+        "name": "Ranjan Vaidya",
+        "affiliation": "Auckland University of Technology"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2024-11-30T01:00:00.000Z",
+        "description": "Submission of extended abstract (optional)",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-03-30T01:00:00.000Z",
+        "description": "Submission of manuscript",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2024-07-18T10:34:43.000Z"
+  },
+  {
     "journal": "Decision Support Systems",
     "abbreviation": "dss",
     "metaTitle": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
@@ -757,27 +1026,29 @@
     "metaTitle": "Lights and shadows of generative AI for individuals, organizations, and society",
     "url": "https://www.sciencedirect.com/special-issue/299513/lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
     "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "contentHash": "47fe2fe1b6fa21d5a5c0b188b08a0b1b778e40f546703992a54de88e61d79c63",
+    "contentHash": "735960612fb79c07fb4ffd89d8685df639d4e6442aba4d61be1a699e18f18c86",
     "title": "Lights and shadows of generative AI for individuals, organizations, and society",
     "topics": [
-      "Opportunities and challenges",
-      "Risks and threats"
+      "Advantages and potential pitfalls of generative AI",
+      "Integration of AI in business strategies",
+      "Ethical implications of AI adoption",
+      "Transformation of marketplaces due to AI",
+      "Impact of AI on individual and organizational decision-making"
     ],
     "description": {
       "paragraphs": [
-        "\"Lights and shadows of generative AI for individuals, organizations, and society\" explores the multifaceted impacts of generative artificial intelligence (GenAI) and related technologies on various domains. This special issue delves into both the advantages and potential pitfalls of GenAI, touching upon its profound influence on individuals, businesses, and society at large. It examines the integration of AI in business strategies across different sectors, highlighting how AI's increasing sophistication is transforming marketplaces and decision-making processes. The issue also addresses the ethical implications and challenges arising from AI adoption, underscoring the need for a balanced approach to harness GenAI's full potential while mitigating its risks.",
-        "This special issue aims to address not only the key benefits but also the major potential drawbacks for individuals, organizations, and societies of recent advances in generative artificial intelligence (GenAI) and other advanced AI-powered technologies (e.g., autonomous robots, predictive analytics) across varied service and consumption contexts.",
-        "The recent rapid development of GenAI and its application in various industries has been unstoppable and is expected to have dramatic impact on individuals, organizations, and societies. AI has been incorporated into digital business strategies, including applications such as expert systems, machine learning, robotics, natural language processing, machine vision, or speech recognition. Implementation of AI-powered technologies such as service robots, chatbots, smart speakers, and other intelligent assistants already deliver new services and increasingly interact with customers in the frontline in various sectors such as banking, hospitality and tourism, or healthcare. AI is becoming increasingly more sophisticated, according to the levels proposed by Huang and Rust, includes not only mechanical but also analytical, intuitive, and empathetic skills. As a result, the implementation of AI in business is transforming the marketplace and affecting decision-making. GenAI is expected to accelerate these developments.",
-        "From a company perspective, AI implementation can generate value via process automation, improved decision-making, and customer engagement. Therefore, the success of AI initiatives is based on their expected benefits, for example, customer experience, service quality, and productivity. However, previous studies have also noted that users can experience not only benefits, but also costs derived from the interaction with AI applications. Similarly, the use of AI in business strategy still holds several open questions. Therefore, it is not surprising that previous studies have suggested that the development of new AI applications presents many challenges.",
-        "Similarly, recent advances in the field of AI (e.g., generative AI) offer not only new opportunities but have also raised several concerns. GenAI produces new content in the form of human-like discourse, and the use of GenAI models and systems is becoming widespread. GenAI may have great implications for business practice in several sectors, such as banking, travel and tourism, or health care, as well as in activities such as marketing and management. Therefore, there is a need to understand GenAI applications and their positive and negative consequences for consumers, companies, and society.",
-        "In addition, previous literature has identified several ethical implications (e.g., related to fairness, privacy, security, etc.) in the context of AI use that still require further analysis from several perspectives.",
-        "In summary, the widespread use of GenAI across domains offers opportunities and challenges that need to be effectively understood to take full advantage of its benefits. It also requires implementing measures to mitigate the possible negative effects associated with its potential risks and threats. This dual approach will ensure that the adoption of GenAI remains aligned with ethical, practical and sustainable standards, thereby enabling greater innovation, efficiency, and positive change."
+        "This special issue explores the multifaceted impacts of generative artificial intelligence (GenAI) and related technologies on various domains. It delves into both the advantages and potential pitfalls of GenAI, highlighting its profound influence on individuals, businesses, and society at large. The issue examines the integration of AI in business strategies across different sectors, underscoring how AI's increasing sophistication is transforming marketplaces and decision-making processes.",
+        "The recent rapid development of GenAI and its application in various industries is expected to have a dramatic impact on individuals, organizations, and societies. AI has been incorporated into digital business strategies, including applications such as expert systems, machine learning, robotics, natural language processing, machine vision, or speech recognition. The implementation of AI-powered technologies, such as service robots, chatbots, smart speakers, and other intelligent assistants, is already delivering new services and increasingly interacting with customers in various sectors such as banking, hospitality, tourism, and healthcare. AI is becoming increasingly sophisticated and is transforming the marketplace and affecting decision-making as a result.",
+        "From a company perspective, AI implementation can generate value via process automation, improved decision-making, and customer engagement. Therefore, the success of AI initiatives is based on their expected benefits, such as customer experience, service quality, and productivity. However, users may also experience costs from interacting with AI applications. The use of AI in business strategy still holds several open questions, and previous studies have suggested that the development of new AI applications presents many challenges.",
+        "Recent advances in AI, including generative AI, offer new opportunities but have also raised several concerns. GenAI produces new content in the form of human-like discourse, and its widespread use is becoming more common. GenAI may have significant implications for business practice across several sectors, as well as in activities such as marketing and management. Thus, there is a need to understand GenAI applications and their positive and negative consequences for consumers, companies, and society.",
+        "Previous literature has identified several ethical implications in the context of AI use that require further analysis from various perspectives. The widespread use of GenAI across domains presents opportunities and challenges that need to be effectively understood to maximize benefits while mitigating negative effects. This dual approach will help ensure that the adoption of GenAI aligns with ethical, practical, and sustainable standards."
       ]
     },
     "tags": [
       "generative ai",
       "ai in business",
-      "ethical implications"
+      "consumer interaction",
+      "ethics in ai"
     ],
     "editors": [
       {
@@ -3128,7 +3399,7 @@
     "metaTitle": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
     "url": "https://www.sciencedirect.com/special-issue/286816/ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
     "slug": "jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
-    "contentHash": "6cdbd1f7657b80e37d3b1f3cb7ecd8fc8df4058b447af6c1cf204f24eb6e2ef1",
+    "contentHash": "cde91d4dc758e478084bbcf6c750197bd292b889b1c46a39bf595d92789b9145",
     "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
     "topics": [
       "People analytics in organizations, leveraging virtual realities with a focus on privacy/discriminations",
@@ -3142,26 +3413,24 @@
     "description": {
       "paragraphs": [
         "In this call for papers, we seek manuscripts that explore the future of work with respect to immersive platforms enabling innovative work practices and ask perspective authors specifically to consider the potential pitfalls (i.e., concerning ethics and DEI) of all this.",
-        "In the spring of 2020, the COVID-19 pandemic triggered the operations of most companies worldwide to move online. The education systems along with several other services for citizens, including public administration, healthcare etc. followed suit. In a sense, the COVID-19 pandemic served as an unintended natural experiment, testing the extent to which current technologies are able to support remote/virtual interactions via immersive platforms. At the same time, the pandemic also exposed limitations of these arrangements, setting the groundwork for novel ways (and technologies) to promote further such interactions in the future.",
-        "Most knowledge workers were already used to working remotely, at least occasionally, working from home, in virtual teams and on-line communities. Engagement in on-line meetings for prolonged periods of time, and sometimes overnight, was a disruptive change that left knowledge workers longing for a return to more in-person interactions. In healthcare, telecare was seldom used before the pandemic. Yet, when regular in-person visits became impossible, the industry adapted to the new realities and, as an example, in the US in 2021, telehealth services had been used 38 times more often than before the start of the pandemic. Since then, most in-person healthcare operations have resumed. Similarly in the education sector, primary and secondary schools resumed in-person classes in most countries (China being a partial exception), as vaccines became available, and the effects of the pandemic faded. Higher education institutions, however, behaved differently. The already diffused offering of remote classes and curricula saw the pandemic as an opportunity to consolidate the on-line education industry, a development that is most likely here to stay. Looking at higher education from a researcher perspective, on-line meetings are certainly more common in the aftermath of the pandemic, along with conferences and workshops often being run in hybrid mode, albeit with mixed results.",
-        "In sum, COVID-19 forced several industries to systematically adopt technologies and practices to work, interact and collaborate remotely. The pandemic also gave high-tech companies the push to develop new systems supporting on-line interactions in a supposedly more effective fashion. For instance, Meta, in 2021, had already invested over $10B in metaverse-related projects. In January 2022, Microsoft invested $68.7B in the metaverse by acquiring Activision Blizzard Inc., a gaming and virtual reality company. According to Matthew Ball’s definition, the metaverse is “a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments.” The metaverse is different from other collaborative platforms because of its immersiveness, meaning that the 3D technical features, along with the use of avatars and devices such as headsets and other types of sensors, make users sense that they are in a place in which they are not (i.e., the office, the doctor’s office, or a vacation resort). These sociotechnical systems represent a break from the mainstream. Along with the metaverse, other initiatives aimed at making up for the lack of immersive experience of traditional technologies for synchronous remote collaborations, such as Zoom, are surfacing. Examples include Apple’s augmented and mixed reality. While employing different devices, marketing approaches and strategies, they all represent sociotechnical systems aimed at overcoming the 2D limitations of current collaborative technologies. Yet, it remains to be seen whether they will actually be able to fill the gap between in-person and on-line interactions by providing immersive user experience. And, if so, at what cost?",
-        "Marabelli and Newell, in a recent JSIS opinion paper, fleshed out several strategic opportunities and challenges of the future of on-line interactions, focusing on DEI issues, and on the metaverse. In this call for papers, we seek manuscripts that explore the future of work with respect to immersive platforms enabling innovative work practices and ask perspective authors specifically to consider the potential pitfalls (i.e., concerning ethics and DEI) of all this.",
-        "For instance, concerning remote working, on-line data on interactions are often harvested by analytics systems, as employee performance is assessed by automated systems such as AI. Such surveillance leaves certain segments susceptible to unfair assessment such as people with disabilities (who might not be able to access immersive platforms), women (notably less prone to speak up in on-line interactions) and unfair treatment of non-White people (for instance, when technologies involve facial recognition systems to enter buildings and in accessing organizational resources). A further discriminatory factor concerns those excluded from remote work, such as some task workers (bus drivers, grocery store cashiers, carpenters, etc.) for whom it is impossible to perform their jobs remotely, and who often include disadvantaged people and people at the margin.",
+        "In the spring of 2020, the COVID-19 pandemic triggered the operations of most companies worldwide to move online. The education systems along with several other services for citizens, including public administration, healthcare etc. followed suit (Marabelli et al. 2021). In a sense, the COVID-19 pandemic served as an unintended natural experiment, testing the extent to which current technologies are able to support remote/virtual interactions via immersive platforms. At the same time, the pandemic also exposed limitations of these arrangements, setting the groundwork for novel ways (and technologies) to promote further such interactions in the future.",
+        "Most knowledge workers were already used to working remotely, at least occasionally, working from home, in virtual teams and on-line communities. Engagement in on-line meetings for prolonged periods of time, and sometimes overnight, was a disruptive change that left knowledge workers longing for a return to more in-person interactions. In healthcare, telecare was seldom used before the pandemic. Yet, when regular in-person visits became impossible, the industry adapted to the new realities and, as an example, in the US in 2021, telehealth services had been used 38 times more often than before the start of the pandemic (Marr 2022). Since then, most in-person healthcare operations have resumed. Similarly in the education sector, primary and secondary schools resumed in-person classes in most countries (China being a partial exception), as vaccines became available, and the effects of the pandemic faded. Higher education institutions, however, behaved differently. The already diffused offering of remote classes and curricula saw the pandemic as an opportunity to consolidate the on-line education industry, a development that is most likely here to stay (Lockee 2021). Looking at higher education from a researcher perspective, on-line meetings are certainly more common in the aftermath of the pandemic, along with conferences and workshops often being run in hybrid mode, albeit with mixed results (Marabelli et al. 2023).",
+        "In sum, COVID-19 forced several industries to systematically adopt technologies and practices to work, interact and collaborate remotely. The pandemic also gave high-tech companies the push to develop new systems supporting on-line interactions in a supposedly more effective fashion. For instance, Meta, in 2021, had already invested over $10B in metaverse-related projects (Brown 2021). In January 2022, Microsoft invested $68.7B in the metaverse by acquiring Activision Blizzard Inc. (Nasdaq: ATVI), a gaming and virtual reality company (Microsoft 2022). According to Matthew Ball’s (2021) definition, the metaverse is “a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments.” The metaverse is different from other collaborative platforms because of its immersiveness, meaning that the 3D technical features, along with the use of avatars and devices such as headsets and other types of sensors, make users sense that they are in a place in which they are not (i.e., the office, the doctor’s office, or a vacation resort). These sociotechnical systems represent a break from the mainstream. Along with the metaverse, other initiatives aimed at making up for the lack of immersive experience of traditional technologies for synchronous remote collaborations, such as Zoom, are surfacing. Examples include Apple’s augmented and mixed reality. While employing different devices, marketing approaches and strategies, they all represent sociotechnical systems aimed at overcoming the 2D limitations of current collaborative technologies. Yet, it remains to be seen whether they will actually be able to fill the gap between in-person and on-line interactions by providing immersive user experience. And, if so, at what cost?",
+        "Marabelli and Newell (2023), in a recent JSIS opinion paper, fleshed out several strategic opportunities and challenges of the future of on-line interactions, focusing on DEI (diversity, equity and inclusion) issues, and on the metaverse. In this call for papers, we seek manuscripts that explore the future of work with respect to immersive platforms enabling innovative work practices and ask perspective authors specifically to consider the potential pitfalls (i.e., concerning ethics and DEI) of all this.",
+        "For instance, concerning remote working, on-line data on interactions are often harvested by analytics systems, as employee performance is assessed by automated systems such as AI. Such surveillance leaves certain segments susceptible to unfair assessment such as people with disabilities (who might not be able to access immersive platforms), women (notably less prone to speak up in on-line interactions ) and unfair treatment of non-White people (for instance, when technologies involve facial recognition systems to enter buildings and in accessing organizational resources). A further discriminatory factor concerns those excluded from remote work, such as some task workers (bus drivers, grocery store cashiers, carpenters, etc.) for whom it is impossible to perform their jobs remotely, and who often include disadvantaged people and people at the margin.",
         "In healthcare, remotization might lead to unequal access to care, especially if telehealth becomes immersive, with remote patients required to wear devices (e.g., bodysuits) allowing clinicians to capture vitals. These devices are expensive and, for a long time, will not be available for everyone. For instance, it is foreseeable that in the US (a private/public healthcare system where private health is prevalent and very expensive), only people with private health insurance will be able to access immersive remote care. In addition, while telehealth is supposed to reach populations in rural areas and minimize travel for the elderly and people with limited mobility, remote immersive care requires broadband, which might be unavailable in these areas.",
-        "Higher education is prone to exclusions similar to those present in healthcare settings, with potential discriminations against financially weak students, students living in rural areas, students with disabilities etc. If the focus is shifted from students to professors, along with the aforementioned issues related to remote work, academics are and will be challenged by attending conferences in hybrid mode. On the one hand, expensive equipment to “attend” remotely using virtual reality may lead to the exclusion of people from under-represented regions and universities lacking resources for example. These issues will make it difficult to use hybrid techniques to include participants from the Global South (even though it might allow the participation of people who otherwise might not be able to travel, such as pregnant women). On the other hand, hybrid conferences might lead to a two-tier system of first and second class citizens, with the former enjoying social events after paper sessions, with the latter simply logging off. In a debate on hybrid conferences, Ahuja discusses the role of hybrid and on-line conferences in developing a sense of belonging to the AIS community, as experienced by members of different regions. It is certainly possible that hybrid conferences intended to enhance diversity (allowing more participation from underrepresented regions for instance) end up being detrimental to inclusion. We thus invite theorizing on whether the constructs of diversity and inclusion should be decoupled in certain settings.",
+        "Higher education is prone to exclusions similar to those present in healthcare settings, with potential discriminations against financially weak students, students living in rural areas, students with disabilities etc. If the focus is shifted from students to professors, along with the aforementioned issues related to remote work, academics are and will be challenged by attending conferences in hybrid mode. On the one hand, expensive equipment to “attend” remotely using virtual reality may lead to the exclusion of people from under-represented regions and universities lacking resources for example. These issues will make it difficult to use hybrid techniques to include participants from the Global South (even though it might allow the participation of people who otherwise might not be able to travel, such as pregnant women). On the other hand, hybrid conferences might lead to a two-tier system of first and second class citizens, with the former enjoying social events after paper sessions, with the latter simply logging off (cf. Marabelli et al. 2023). In a debate on hybrid conferences, Ahuja (2023, Forthcoming), discusses the role of hybrid and on-line conferences in developing a sense of belonging (to the AIS community), as experienced by members of different regions. It is certainly possible that hybrid conferences intended to enhance diversity (allowing more participation from underrepresented regions for instance) end up being detrimental to inclusion. We thus invite theorizing on whether the constructs of diversity and inclusion should be decoupled in certain settings.",
         "We have discussed remote work, healthcare and higher education as but three examples of the unequal impact that novel technologies, involving virtual, augmented and mixed reality, may involve. Other examples include the use of these technologies by law enforcement, which might collect user behavior data on such platforms and draw conclusions on what individuals could do in off-line settings – leading to predictive policing not based on data about crimes and neighborhoods but instead on inferences on behavioral data happening in virtual environments enabled by immersive platforms. We welcome papers discussing remotization – and its dark side – in the above mentioned settings and more.",
-        "Importantly, along with the problems associated with remotization, authors should be able to point to solutions that are strategic for companies. While it is an obligation for every company to uphold ethical standards, thereby preventing discrimination, promoting inclusion and fairness (i.e., DEI), often company ethical standards coincide with the requirements of the law. It is therefore strategic for companies (and organizations more generally) to use novel immersive platforms in a responsible manner, for ethical as well as compliance reasons. Laws and regulations on privacy and the use of algorithmic-based systems demand strategic actions aimed at ensuring the respect of current laws, also considering the international breadth of these laws and the global competitive environment in which we live. To this end, papers specifically tackling subjects concerning coercive forces, under the umbrella of institutional theories, are very welcome.",
-        "Another important point to consider is that of the environmental impact associated with the intense use of virtual realities in various settings of the workplace. The need for computational capabilities and storage will require heavy use of electricity (and cooling systems), which will contribute to the global warming. Yet, global warming has uneven consequences across populations. These and other issues – and associated potential for theorizing – are summarized by Marabelli and Newell. We look for papers that either build on these issues or go beyond, given the broad landscape of industries and settings that are and will be affected by remotization, with a particular focus on emerging technologies related to virtual, augmented, and mixed reality enabled by immersive platforms.",
-        "Overall, we welcome empirical, theoretical, review and perspective/position papers. While we are inclined to recommend that papers with empirical data are preferred, we understand that we are discussing a phenomenon in its becoming. Yet, papers with primary data or those that systematically analyze secondary data on organizations using novel technologies for remotization are strongly encouraged. JSIS, while specific in its focus on strategy and strategizing, is inclusive as to the use of methods of any kind. Qualitative, quantitative, archival/historical analyses, mixed method papers, and experiments are all welcome, as long as rigor leads the collection of data (if applicable) and its analysis. Importantly, conclusions, critical reflections and impacts should result. Strong theoretical contributions are required for empirical and theoretical papers. Perspective/position papers should also contribute to theory, by developing a research agenda, with implications for practice also being highlighted. We will give priority to empirical, theoretical and review submissions, and encourage authors planning to submit a perspective/position paper to contact us directly, prior to submitting their work."
+        "Importantly, along with the problems associated with remotization, authors should be able to point to solutions that are strategic for companies. While it is an obligation for every company to uphold ethical standards, thereby preventing discrimination, promoting inclusion and fairness (i.e., DEI), often company ethical standards coincide with the requirements of the law. It is therefore strategic for companies (and organizations more generally) to use novel immersive platforms in a responsible manner, for ethical as well as compliance reasons. Laws and regulations on privacy (cf. GDPR in Europe and PIPL in China) and the use of algorithmic-based systems (cf. AI Act in Europe), demand strategic actions aimed at ensuring the respect of current laws, also considering the international breadth of these laws and the global competitive environment in which we live. To this end, papers specifically tackling subjects concerning coercive forces, under the umbrella of institutional theories, are very welcome.",
+        "Another important point to consider is that of the environmental impact associated with the intense use of virtual realities in various settings of the workplace. The need for computational capabilities and storage will require heavy use of electricity (and cooling systems), which will contribute to the global warming. Yet, global warming has uneven consequences across populations. For instance, India (nearly 18% of the world population), generates 3% of the world pollution but pays a high price because of global warming, with temperatures having risen to 110F in June and July 2022 (Williams 2022). These and other issues – and associated potential for theorizing – are summarized by Marabelli and Newell (2023). We look for papers that either build on these issues or go beyond, given the broad landscape of industries and settings that are and will be affected by remotization, with a particular focus on emerging technologies related to virtual, augmented, and mixed reality enabled by immersive platforms.",
+        "Overall, we welcome empirical, theoretical, review and perspective/position papers. While we are inclined to recommend that papers with empirical data are preferred, we understand that we are discussing a phenomenon in its becoming. Yet, papers with primary data or those that systematically analyze secondary data on organizations using novel technologies for remotization are strongly encouraged. JSIS, while specific in its focus on strategy and strategizing (cf. Gable 2020) is inclusive as to the use of methods of any kind. Qualitative, quantitative, archival/historical analyses, mixed method papers, and experiments are all welcome, as long as rigor leads the collection of data (if applicable) and its analysis. Importantly, conclusions, critical reflections and impacts should result. Strong theoretical contributions are required for empirical and theoretical papers. Perspective/position papers should also contribute to theory, by developing a research agenda, with implications for practice also being highlighted. We will give priority to empirical, theoretical and review submissions, and encourage authors planning to submit a perspective/position paper to contact us directly, prior to submitting their work."
       ]
     },
     "tags": [
-      "diversity",
-      "equity",
-      "inclusion",
-      "ethics",
+      "future of work",
       "immersive platforms",
-      "future of work"
+      "dei",
+      "ethics"
     ],
     "editors": [
       {
@@ -3799,7 +4068,7 @@
     "metaTitle": "Theory Building in Information Systems with Big Data-Driven Research",
     "url": "https://www.sciencedirect.com/special-issue/198507/theory-building-in-information-systems-with-big-data-driven-research",
     "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
-    "contentHash": "2ce58ba1fbce8be91e2ca9717feba5e5e9e5a303277b648243063e0890f6ecd5",
+    "contentHash": "dd9193c412620b2b7112426130f1f80323c20dfe05e6a3d1a06fd3b1344d6dbe",
     "title": "Theory Building in Information Systems with Big Data-Driven Research",
     "topics": [
       "How can we explain user interactions, consumer experiences, and impacts for emerging business models like digital services, location-based services or platform economy?",
@@ -3821,15 +4090,14 @@
     "description": {
       "paragraphs": [
         "The availability of and access to big data has changed, as digital transformation initiatives are increasingly maturing globally, assisted by the growth of computational capabilities. Whilst data availability and access used to be a major challenge for information systems (IS) research, the current abundance of big data has now resolved this considerably. The theoretical building blocks of IS research come mainly from management theory, organization theory, behavioural theory, computer science theories, and systems theory. Apart from the core computer science theories, the other related theories enable IS researchers to explain how users interact with technology artefacts within individual, organizational, social, and political contexts and the impact of such interaction. Theory building, however, seems to have been disrupted by the current trends in big data-driven research, whereby the essence of contributing to theory is increasingly seen to be lacking at all levels of analysis. Concurrently, big data-driven research may inspire contributions towards design science and action research, whereby innovative solutions may also be created which help to define ideas, capabilities, practices, and innovative products or services through big data analysis.",
-        "While big data-driven studies are increasingly gaining popularity within IS research, they rarely introspect why a phenomenon is better explained by a theory and limit the analysis to what is happening by merely mining relevant data. Many such studies try to collect data and showcase applications of data science and visualization of unstructured, large volumes of data by demonstrating sentiment analysis, text mining, networks, and communities, without significant contribution to the theoretical context within which the problem is situated. Such studies do not attempt to explain why a particular phenomenon is witnessed and the data descriptions rarely contributes towards theory building. Thus, such studies have a weak connection with the relevant theories and IT artefacts, paying greater attention to data collection and analysis. Furthermore, since the data collection is often dated, such studies lose timeliness and do not attempt to explain causality.",
-        "This special issue intends to facilitate theory-focused research, based on the analysis of big data as outlined in the directions provided in a recent opinion paper published in the journal. We specifically seek for theory building attempts in addressing grand individual, organizational, social or political problems. In particular, studies should demonstrate ample representative elements of big data such as high volume, velocity, variety, variability, veracity, visualization, and leading to value in understanding the phenomenon under examination. Authors need to explain why a phenomenon is happening rather than what is happening. The connection with IT artefacts must be significantly strong, while studies on emerging technologies are also of interest. Units of analysis could be individuals, groups or organizations. Of particular interest are theories explaining the nature of interaction among entities from more than a single unit type. Further, studies which mine more than a single type of unstructured data, and multi-methodology studies are also of interest, provided they contribute to theory building. Data could potentially be extracted from platforms like social media, communication networks, text-based data, images, multi-media, online communities, application-based data, sensor-based data, location-based data, data from smart-phones, smart devices and wearables. Other sources would also be welcome as long as the studies contribute theoretically. For submissions to this special issue, prospective authors are encouraged to revisit recent examples of such endeavours in the IS literature.",
-        "Such explorations would need to ensure that theoretical contributions are well developed to contribute to IS research as highlighted in the editorial note developed in context of the special issue. We welcome attempts to address domain, socio-political, structural or ontological, and epistemological questions through the development of management theories, organization theories, behavioural theories, and systems theories."
+        "While big data-driven studies are increasingly gaining popularity within IS research, they rarely introspect why a phenomenon is better explained by a theory and limit the analysis to what is happening by merely mining relevant data. Many such studies try to collect data and showcase applications of data science and visualization of unstructured, large volumes of data by demonstrating sentiment analysis, text mining, networks, and communities, without significant contribution to the theoretical context within which the problem is situated. Such studies do not attempt to explain why a particular phenomenon is witnessed and the data descriptions rarely contribute towards theory building. Thus, such studies have a weak connection with the relevant theories and IT artefacts, paying greater attention to data collection and analysis. Furthermore, since the data collection is often dated, such studies lose timeliness and do not attempt to explain causality.",
+        "This special issue intends to facilitate theory-focused research, based on the analysis of big data as outlined in the directions provided in a recent opinion paper published in the journal. We specifically seek for theory building attempts in addressing grand individual, organizational, social or political problems. In particular, studies should demonstrate ample representative elements of big data such as high volume, velocity, variety, variability, veracity, visualization, and leading to value in understanding the phenomenon under examination. Authors need to explain why a phenomenon is happening rather that what is happening. The connection with IT artefacts must be significantly strong, while studies on emerging technologies are also of interest. Units of analysis could be individuals, groups or organizations. Of particular interest are theories explaining the nature of interaction among entities from more than a single unit type. Further, studies which mine more than a single type of unstructured data, and multi-methodology studies are also of interest, provided they contribute to theory building. Data could potentially be extracted from platforms like social media, communication networks, text-based data, images, multi-media, online communities, application-based data, sensor-based data, location-based data, data from smart-phones, smart devices and wearables. Other sources would also be welcome as long as the studies contribute theoretically. For submissions to this special issue, prospective authors are encouraged to revisit recent examples of such endeavours in the IS literature."
       ]
     },
     "tags": [
-      "information systems",
       "big data",
-      "theory building"
+      "theory building",
+      "information systems"
     ],
     "editors": [
       {
