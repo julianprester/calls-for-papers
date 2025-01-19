@@ -17,7 +17,7 @@ async function generateSlug(issue) {
 
 async function hash(issue) {
     if (!issue.rawContent || issue.rawContent.trim() === '') {
-        issue.contentHash = '';
+        issue.contentHash = await createHash('sha256').update(issue.slug).digest('hex');
     } else {
         issue.contentHash = await createHash('sha256').update(issue.rawContent).digest('hex');
     }
