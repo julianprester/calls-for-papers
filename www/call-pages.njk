@@ -5,7 +5,7 @@ pagination:
   alias: call
   addAllPagesToCollections: true
 layout: layouts/base.html
-permalink: "call/{{ call.title if call.title else call.metaTitle | slug }}/"
+permalink: "call/{{ (call.title if call.title else call.metaTitle) | slug }}/"
 eleventyComputed:
   title: "Calls for Papers | {{ call.title if call.title else call.metaTitle | safe }}"
   description: "Calls for Papers shows you the latest calls for papers for {{ call.title }}, easily accessible, in one location."
