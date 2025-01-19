@@ -59,7 +59,7 @@ export async function integrateCalls(newCalls) {
     }
 
     resultCalls.sort((a, b) => {
-        return b.pubDate - a.pubDate;
+        return new Date(b.pubDate) - new Date(a.pubDate);
     });
 
     await fs.writeFile("./www/_data/calls.json", JSON.stringify(resultCalls, null, 2), err => {
