@@ -22,6 +22,7 @@ export const scraperObject = {
             }))
         );
 
+        await page.close();
         return calls;
     }
 }

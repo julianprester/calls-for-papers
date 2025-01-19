@@ -8,7 +8,7 @@ export const scraperObject = {
             return [];
         }
 
-        return await page.evaluate(() => {
+        let calls = await page.evaluate(() => {
             const cfps = [];
             const h2Elements = document.querySelectorAll('div.col-sm-9 h2');
 
@@ -62,6 +62,9 @@ export const scraperObject = {
 
             return cfps;
         });
+
+        await page.close();
+        return calls;
     }
 }
 
