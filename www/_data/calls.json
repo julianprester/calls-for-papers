@@ -161,6 +161,17 @@
     "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
+    "journal": "Journal of the Association for Information Systems",
+    "abbreviation": "jais",
+    "metaTitle": "Contemporary Innovation in Information Infrastructures",
+    "url": "https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07",
+    "slug": "jais-contemporary-innovation-in-information-infrastructures",
+    "contentHash": "e053bee15c37a5bf6d6de7691161d425fd346957fc45ecc67f342e60d688d6d3",
+    "tags": [],
+    "active": true,
+    "pubDate": "2024-12-20T02:55:03.000Z"
+  },
+  {
     "journal": "The Journal of Strategic Information Systems",
     "abbreviation": "jsis",
     "metaTitle": "Platform Partnerships",
@@ -4481,7 +4492,7 @@
     "metaTitle": "Digital Technologies and Social Justice",
     "url": "",
     "slug": "misq-digital-technologies-and-social-justice",
-    "contentHash": "",
+    "contentHash": "eef93e6288fe70352902c84a45a6404452afcb460bfba986c2d7b36b91833479",
     "tags": [],
     "active": true,
     "pubDate": "2022-01-01T05:15:06.000Z"
