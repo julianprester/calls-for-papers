@@ -1,17 +1,28 @@
 import slugify from 'slugify';
 import { createHash } from 'crypto';
+import TurndownService from 'turndown';
 
 export async function clean(issues) {
     for (let issue of issues) {
         issue = await cleanTitles(issue);
         issue = await generateSlug(issue);
+            issue = await parseHTML(issue);
         issue = await hash(issue);
     }
     return issues;
 }
 
 async function generateSlug(issue) {
-    issue.slug = await slugify(issue.abbreviation + " " + issue.metaTitle, {lower: true, strict: true})
+    issue.slug = await slugify(issue.abbreviation + " " + issue.metaTitle, { lower: true, strict: true })
+return issue;
+}
+
+async function parseHTML(issue) {
+    if (!issue.rawContent || typeof issue.rawContent !== 'string') {
+        return issue;
+    }
+    var turndownService = new TurndownService();
+    issue.rawContent = turndownService.turndown(issue.rawContent);
     return issue;
 }
 
