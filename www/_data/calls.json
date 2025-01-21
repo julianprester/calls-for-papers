@@ -947,7 +947,7 @@
     "metaTitle": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
     "url": "https://www.sciencedirect.com/special-issue/306480/decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
     "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "contentHash": "dc025acf19b664bfb1e03e542c01f379b9d7631932b698ed160937dc2f1e204f",
+    "contentHash": "d7fe752c7621338961595e6a2c3c0216c9cd3b74b4ae91b136842024898151de",
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
     "topics": [
       "Contributing to sustainable development with DSR",
@@ -965,8 +965,8 @@
     "description": {
       "paragraphs": [
         "This special issue targets DSR that addresses societal problems. In particular, we encourage submissions linked to any of the 17 sustainable development goals (SDGs) identified by the United Nations, as well as work dealing with technologies that are transforming the world in which we live, such as Artificial Intelligence (AI).",
-        "Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that “created and evaluates IT artifact intended to solve identified organizational problems” (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that “serve human purposes” (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.",
-        "Examples such as these demonstrate the promise of DSR as a research paradigm for tangible societal impacts. With this special issue, we hope to encourage fellow design science researchers to create even greater impacts together. This special issue aims to curate and present state-of-the-art design science research on topics related to delivering social good through the design and deployment of information systems. Although conceptual and methodological papers in this vein are welcome, the focus of this special issue is on exemplars of DSR. We welcome original research that focuses on a variety of topics and themes, including, but not limited to:"
+        "Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that 'created and evaluates IT artifact intended to solve identified organizational problems' (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that 'serve human purposes' (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.",
+        "Recent DSR publications reflect a growing consensus within the community regarding the imperative to advance sustainable development. Examples such as these demonstrate the promise of DSR as a research paradigm for tangible societal impacts. With this special issue, we hope to encourage fellow design science researchers to create even greater impacts together. This special issue aims to curate and present state-of-the-art design science research on topics related to delivering social good through the design and deployment of information systems. Although conceptual and methodological papers in this vein are welcome, the focus of this special issue is on exemplars of DSR. We welcome original research that focuses on a variety of topics and themes."
       ]
     },
     "tags": [
@@ -996,6 +996,11 @@
     "associate_editors": [],
     "dates": [
       {
+        "date": "2024-05-28T12:00:00.000Z",
+        "description": "Announcement of special issue",
+        "is_full_paper_submission_deadline": false
+      },
+      {
         "date": "2024-09-01T12:00:00.000Z",
         "description": "Submission system opens",
         "is_full_paper_submission_deadline": false
@@ -1015,32 +1020,40 @@
     "metaTitle": "Lights and shadows of generative AI for individuals, organizations, and society",
     "url": "https://www.sciencedirect.com/special-issue/299513/lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
     "slug": "ijim-lights-and-shadows-of-generative-ai-for-individuals-organizations-and-society",
-    "contentHash": "47fe2fe1b6fa21d5a5c0b188b08a0b1b778e40f546703992a54de88e61d79c63",
+    "contentHash": "735960612fb79c07fb4ffd89d8685df639d4e6442aba4d61be1a699e18f18c86",
     "title": "Lights and shadows of generative AI for individuals, organizations, and society",
     "topics": [
-      "Advantages and pitfalls of generative AI",
-      "Integration of AI in business strategies",
-      "Ethical implications and challenges of AI",
-      "AI's impact on decision-making processes",
-      "Opportunities and challenges for individuals and organizations"
+      "Effects of using GenAI and other new AI applications in business practices across industries (e.g., banking, hospitality and tourism, healthcare)",
+      "Main challenges and long-term benefits of using GenAI in teaching, academic research, and business practice",
+      "Using GenAI to address global challenges (e.g., Sustainable Development Goals)",
+      "Determinants and barriers to adoption of GenAI",
+      "Impact of GenAI on personalization and efficiency in communication and advertising processes",
+      "Effects of GenAI on different stages of the customer journey",
+      "Impact of reliance on GenAI on human creativity and critical thinking",
+      "Benefits of GenAI for specific individuals (e.g., people with disabilities)",
+      "Key digital ethical issues (e.g., fairness, biases, privacy, security) caused by GenAI",
+      "Mitigation strategies for the manipulation of public opinion using GenAI",
+      "Impact of GenAI on the labor market and employment",
+      "Social and economic inequalities exacerbated by access to GenAI",
+      "Contextual conditions shaping use of GenAI",
+      "Challenges posed by GenAI for existing legal and regulatory frameworks"
     ],
     "description": {
       "paragraphs": [
-        "\"Lights and shadows of generative AI for individuals, organizations, and society\" explores the multifaceted impacts of generative artificial intelligence (GenAI) and related technologies on various domains. This special issue delves into both the advantages and potential pitfalls of GenAI, touching upon its profound influence on individuals, businesses, and society at large. It examines the integration of AI in business strategies across different sectors, highlighting how AI's increasing sophistication is transforming marketplaces and decision-making processes. The issue also addresses the ethical implications and challenges arising from AI adoption, underscoring the need for a balanced approach to harness GenAI's full potential while mitigating its risks.",
+        "Lights and shadows of generative AI for individuals, organizations, and society explores the multifaceted impacts of generative artificial intelligence (GenAI) and related technologies on various domains. This special issue delves into both the advantages and potential pitfalls of GenAI, touching upon its profound influence on individuals, businesses, and society at large. It examines the integration of AI in business strategies across different sectors, highlighting how AI's increasing sophistication is transforming marketplaces and decision-making processes. The issue also addresses the ethical implications and challenges arising from AI adoption, underscoring the need for a balanced approach to harness GenAI's full potential while mitigating its risks.",
         "This special issue aims to address not only the key benefits but also the major potential drawbacks for individuals, organizations, and societies of recent advances in generative artificial intelligence (GenAI) and other advanced AI-powered technologies (e.g., autonomous robots, predictive analytics) across varied service and consumption contexts.",
-        "The recent rapid development of GenAI and its application in various industries has been unstoppable and is expected to have dramatic impact on individuals, organizations, and societies. AI has been incorporated into digital business strategies, including applications such as expert systems, machine learning, robotics, natural language processing, machine vision, or speech recognition. Implementation of AI-powered technologies such as service robots, chatbots, smart speakers, and other intelligent assistants already deliver new services and increasingly interact with customers in the frontline in various sectors such as banking, hospitality and tourism, or healthcare. AI is becoming increasingly more sophisticated, and as a result, the implementation of AI in business is transforming the marketplace and affecting decision-making. GenAI is expected to accelerate these developments.",
+        "The recent rapid development of GenAI and its application in various industries has been unstoppable and is expected to have dramatic impact on individuals, organizations, and societies. AI has been incorporated into digital business strategies, including applications such as expert systems, machine learning, robotics, natural language processing, machine vision, or speech recognition. Implementation of AI-powered technologies such as service robots, chatbots, smart speakers, and other intelligent assistants already deliver new services and increasingly interact with customers in the frontline in various sectors such as banking, hospitality and tourism, or healthcare. AI is becoming increasingly more sophisticated, according to the levels proposed by Huang and Rust, includes not only mechanical but also analytical, intuitive, and empathetic skills. As a result, the implementation of AI in business is transforming the marketplace and affecting decision-making. GenAI is expected to accelerate these developments.",
         "From a company perspective, AI implementation can generate value via process automation, improved decision-making, and customer engagement. Therefore, the success of AI initiatives is based on their expected benefits, for example, customer experience, service quality, and productivity. However, previous studies have also noted that users can experience not only benefits, but also costs derived from the interaction with AI applications. Similarly, the use of AI in business strategy still holds several open questions. Therefore, it is not surprising that previous studies have suggested that the development of new AI applications presents many challenges.",
-        "Similarly, recent advances in the field of AI (e.g., generative AI) offer not only new opportunities but have also raised several concerns. GenAI produces new content in the form of human-like discourse, and the use of GenAI models and systems is becoming widespread. GenAI may have great implications for business practice in several sectors, such as banking, travel and tourism, or health care, as well as in activities such as marketing and management. Therefore, there is a need to understand GenAI applications and their positive and negative consequences for consumers, companies, and society.",
-        "In addition, previous literature has identified several ethical implications (e.g., related to fairness, privacy, security, etc.) in the context of AI use that still require further analysis from several perspectives.",
+        "Similarly, recent advances in the field of AI offer not only new opportunities but have also raised several concerns. GenAI produces new content in the form of human-like discourse, and the use of GenAI models and systems is becoming widespread. ChatGPT, which is probably the most well-known GenAI tool, generates personalized responses to users’ messages or questions based on the user input. GenAI may have great implications for business practice in several sectors, such as banking, travel and tourism, or healthcare, as well as in activities such as marketing and management. Therefore, there is a need to understand GenAI applications and their positive and negative consequences for consumers, companies, and society.",
+        "In addition, previous literature has identified several ethical implications in the context of AI use that still require further analysis from several perspectives.",
         "In summary, the widespread use of GenAI across domains offers opportunities and challenges that need to be effectively understood to take full advantage of its benefits. It also requires implementing measures to mitigate the possible negative effects associated with its potential risks and threats. This dual approach will ensure that the adoption of GenAI remains aligned with ethical, practical and sustainable standards, thereby enabling greater innovation, efficiency, and positive change."
       ]
     },
     "tags": [
       "generative ai",
-      "ai applications",
-      "ethical implications",
-      "business impact",
-      "societal concerns"
+      "ai in business",
+      "ethics in ai",
+      "ai technology"
     ],
     "editors": [
       {
@@ -1068,12 +1081,12 @@
     "dates": [
       {
         "date": "2024-09-01T12:00:00.000Z",
-        "description": "Submission window opens",
+        "description": "Submission window starts",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2024-12-30T12:00:00.000Z",
-        "description": "Submission window closes",
+        "description": "Submission window ends",
         "is_full_paper_submission_deadline": false
       },
       {
@@ -1091,33 +1104,41 @@
     "metaTitle": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
     "url": "https://www.sciencedirect.com/special-issue/297482/organizing-for-emerging-digital-technologies-the-good-the-bad-the-ugly",
     "slug": "io-organizing-for-emerging-digital-technologies-the-good-the-bad-and-the-ugly",
-    "contentHash": "627e2d7f63a6402c3f437d9a0dacaa266a902ee42e31824f52b5fa770fd562e1",
+    "contentHash": "85266404bd827d7ab3a64d0474a938941a274b74bc860dbf99f517d3ef5765ec",
     "title": "Organizing for Emerging Digital Technologies: The Good, the Bad & the Ugly",
     "topics": [
-      "Processes, structures, and practices of organizing for emerging digital technologies",
-      "Interplay between emerging digital technologies and organizing on multiple levels",
-      "Sociomaterial link between emerging digital technologies and organizations",
-      "Institutional theory in relation to emerging digital technologies",
-      "Role of relationships in organizing for emerging digital technologies",
-      "Intra-organizational structures and management innovations related to emerging technologies",
-      "Understanding processes to push forward or hinder emerging digital technologies"
+      "Processes, structures, and practices of organizing for and against emerging digital technologies",
+      "Affordances of emerging digital technologies",
+      "Orchestration of resources to push and push back emerging digital technologies",
+      "Impact of institutions on the evolution of emerging digital technologies",
+      "Social evaluations driving emerging digital technologies",
+      "Discourses that push or inhibit emerging digital technologies",
+      "Response to changed expectations tied to emerging digital technologies",
+      "Creating desirable futures considering emerging digital technologies",
+      "Impact of crises on emerging digital technologies",
+      "Leveraging technologies for societal grand challenges",
+      "Enterprise systems navigation in the face of emerging digital technologies",
+      "Organizational structures and governance modes affecting technology implementation",
+      "Paradoxes faced when organizing for and against emerging digital technologies",
+      "Mobilization regarding emerging digital technologies by organizations and communities",
+      "Role of meta-organizations in promoting or inhibiting emerging digital technologies",
+      "Collaboration processes supporting meta-organizations for emerging digital technologies",
+      "Responses of third parties to organizational efforts regarding emerging digital technologies"
     ],
     "description": {
       "paragraphs": [
-        "The special issue aims to create a forum for state-of-the-art research on the processes, structures, and practices of organizing for and against emerging digital technologies across levels. Organizations of the 21st century face a seemingly indeterminable array of emerging digital technologies, which are radically novel and rapidly evolving, with profound transformative potential. Like past non-digital examples such as the steam engine or the electric motor, current emerging digital technologies, including artificial intelligence, blockchain, quantum computing, 5G, 3D printing, smart manufacturing and energy, genomics and precision medicine, drones, augmented reality, and autonomous vehicles are transforming markets and societies, as well as the very core of how we organize. These technologies generate such an impact because they are increasingly ‘autonomous’ and ‘intelligent’, which complements, augments, and even replaces human action. Another feature fueling the transformative potential of emerging digital technologies is their connectivity – devices are interwoven in ways previously unthinkable. In addition, many current emerging digital technologies exhibit broad applicability across domains. They are thus general-purpose technologies and in many cases advance to essential infrastructures across markets. Finally, many of these emerging technologies exhibit an unprecedented pace of diffusion and adoption. Notably, OpenAI's ChatGPT reached one million users in a mere 5 days – compared with the several decades it took for non-digital innovations like the telephone to gain a similar level of user adoption.",
-        "Building on a rich tradition in innovation theory and organization studies, scholars have examined the interplay of emerging digital technologies and organizing on multiple levels. Across levels, it has been argued to put relations center stage, thus conceptualize emerging digital technologies as being made of relations and entwined in relations that are constantly evolving. In addition, an emerging stream of research perceives the link between emerging digital technologies and organizations as sociomaterial where the social and the material are intertwined and mutually influence each other. At the industry level, institutional theory has emerged as an important lens to explain large-scale changes of enterprise systems, firms, and societies related to emerging digital technologies.",
-        "Focusing on the role of relationships between organizations and other forms of organizing for emerging digital technologies and thus the inter-organizational level, scholars have shown how members of social movements and (online) communities draw upon fluid sets of these technologies to coordinate collective action across regional boundaries and to mobilize digital technologies to connect and cultivate markets for social impact and investment. Moreover, studies found that, to assess their potential impact, organizations set up cross-industry cooperation that enabled an open learning climate, prevented intrafirm power struggles, and rendered the development of ‘common sense’ unnecessary due to a focus on parallel perspectives on potential impacts. Likewise, there are first indications of the relevance of meta-organizations for emerging digital technologies.",
-        "Studies situated at the (intra-)organizational level identified distinct structures and management innovations that co-evolve with technologies as to profit from and implement them. Moreover, attention of managers to these technologies and multiple initiatives in different units are key to secure sufficient resources to the technology and to enable experimental learning.",
-        "Despite these advances, we yet don’t have an in-depth understanding of the interrelated processes, structures, and practices through which people, collectives, organizations, and other forms of organizing push these technologies forward and, even more interestingly, try to push back. Specifically, there is a need for studies explore the various ways that organizations – alone or by collaborating with others – organize for and around constantly evolving emerging digital technologies on and across various levels. In addition, we need to better understand how organizations attempt to hinder certain emerging digital technologies in their further development or cope with the failure of collectively backed emerging technologies.",
-        "To overcome these limits, this special issue aims to create a forum for state-of-the-art research on the processes, structures, and practices of organizing for and against emerging digital technologies across levels. We invite different types of conceptual and empirical work situated in various contexts, including but not limited to for-profit organizations, public administration, politics, and social movements. Given the potential impact of emerging digital technologies, we especially welcome empirical work situated in critical infrastructure sectors (such as food and agriculture, healthcare, energy, water, waste, communications sector, and information technology).",
-        "Recognizing the multifaceted nature of emerging digital technologies, we invite submissions that span a spectrum of approaches, from focused information systems studies to interdisciplinary research integrating insights from management, sociology, psychology, law, and other relevant fields. Next, we provide a non-exhaustive list of questions that would be of interest for this special issue."
+        "The special issue aims to create a forum for state-of-the-art research on the processes, structures, and practices of organizing for and against emerging digital technologies across levels.",
+        "Organizations of the 21st century face a seemingly indeterminable array of emerging digital technologies, which are radically novel and rapidly evolving, with profound transformative potential. Current emerging digital technologies, including artificial intelligence, blockchain, quantum computing, 5G, 3D printing, smart manufacturing and energy, genomics and precision medicine, drones, augmented reality, and autonomous vehicles are transforming markets and societies, as well as the very core of how we organize. These technologies generate significant impact because they are increasingly ‘autonomous’ and ‘intelligent’, complementing, augmenting, and even replacing human action. Another feature fueling the transformative potential of emerging digital technologies is their connectivity – devices are interwoven in ways previously unthinkable. Many of these technologies exhibit broad applicability across domains and are thus considered general-purpose technologies, advancing to essential infrastructures across markets. Moreover, these technologies exhibit an unprecedented pace of diffusion and adoption.",
+        "Building on a rich tradition in innovation theory and organization studies, scholars have examined the interplay of emerging digital technologies and organizing on multiple levels. While relations take center stage, it is essential to conceptualize emerging digital technologies as being intertwined in constantly evolving relations. Institutional theory has emerged as an important lens to explain large-scale changes related to these technologies. Studies have shown that organizations redefine institutions to promote these technologies and that the meaning and scope of these technologies are shaped by boundary work.",
+        "Focusing on the inter-organizational level, scholars have illustrated how social movements and online communities leverage these technologies to coordinate collective action and impact markets. Collaborations across industries create open learning climates and facilitate cooperation around emerging technologies, with indications of the increasing relevance of meta-organizations in this context. At the intra-organizational level, distinct structures and management innovations emerge alongside technologies, necessitating organizational attention to secure resources.",
+        "Despite our advances in understanding these dynamics, in-depth analyses are needed regarding how collectives and organizations organize for and around emerging digital technologies on various levels. This includes examining how organizations attempt to hinder certain technologies or cope with failures. To overcome these limits, this special issue invites submissions that explore the rich spectrum of organizing for and against these technologies across different contexts, particularly in critical infrastructure sectors where their impact is most profound.",
+        "Recognizing the multifaceted nature of emerging digital technologies, we invite submissions that span various approaches, from focused information systems studies to interdisciplinary research integrating insights from management, sociology, psychology, law, and other fields. A non-exhaustive list of questions is provided to guide potential submissions."
       ]
     },
     "tags": [
       "digital technologies",
-      "emerging technologies",
-      "organization",
-      "management"
+      "organizing",
+      "emerging technologies"
     ],
     "editors": [
       {
@@ -1126,7 +1147,7 @@
       },
       {
         "name": "Ali Aslan Gümüşay",
-        "affiliation": "Ludwig Maximilian University of Munich & Humboldt Institute for Internet and Society Berlin (HIIG)"
+        "affiliation": "Ludwig Maximilian University of Munich"
       },
       {
         "name": "Danielle Logue",
@@ -1138,7 +1159,7 @@
       },
       {
         "name": "Georg Reischauer",
-        "affiliation": "WU Vienna University of Economics and Business & Johannes Kepler University Linz"
+        "affiliation": "WU Vienna University of Economics and Business"
       }
     ],
     "associate_editors": [],
@@ -3392,14 +3413,14 @@
     "metaTitle": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
     "url": "https://www.sciencedirect.com/special-issue/286816/ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
     "slug": "jsis-ethical-and-dei-implications-of-the-future-of-work-the-role-of-immersive-platforms",
-    "contentHash": "cde91d4dc758e478084bbcf6c750197bd292b889b1c46a39bf595d92789b9145",
+    "contentHash": "6cdbd1f7657b80e37d3b1f3cb7ecd8fc8df4058b447af6c1cf204f24eb6e2ef1",
     "title": "Ethical and DEI Implications of the Future of Work: The Role of Immersive Platforms",
     "topics": [
       "People analytics in organizations, leveraging virtual realities with a focus on privacy/discriminations",
       "The present and future of telehealth with the support of immersive platforms",
       "The present and future of higher education with the support of immersive platforms",
       "Predictive policing using behavioral data stemming from immersive platforms",
-      "Immersive platforms and academic conferences",
+      "Immersive platforms and academic conferences (cf. Ahuja 2023, Forthcoming; Marabelli et al. 2023)",
       "Laws and regulations landscape concerning DEI and immersive platforms (and challenges for companies)",
       "Immersive platforms and the environment"
     ],
@@ -3421,8 +3442,11 @@
     },
     "tags": [
       "future of work",
-      "immersive platforms",
-      "dei",
+      "virtual reality",
+      "metaverse",
+      "diversity",
+      "equity",
+      "inclusion",
       "ethics"
     ],
     "editors": [
@@ -3507,37 +3531,37 @@
     ],
     "dates": [
       {
-        "date": "2024-01-31T01:00:00.000Z",
+        "date": "2024-01-31T12:00:00.000Z",
         "description": "Submission of extended abstracts (~1,000 words including references). Feedback will be given by February 14th, 2024. Not required to submit a full paper, but strongly suggested.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-08-01T02:00:00.000Z",
+        "date": "2024-08-01T12:00:00.000Z",
         "description": "Deadline for full papers submission.",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-11-15T01:00:00.000Z",
+        "date": "2024-11-15T12:00:00.000Z",
         "description": "Feedback to authors (reject, revisions)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-02-28T01:00:00.000Z",
+        "date": "2025-02-28T12:00:00.000Z",
         "description": "Resubmission deadline for paper granted a revision.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-06-15T02:00:00.000Z",
+        "date": "2025-06-15T12:00:00.000Z",
         "description": "Feedback to authors (reject, conditional acceptance)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-07-01T02:00:00.000Z",
+        "date": "2025-07-01T12:00:00.000Z",
         "description": "Resubmission deadline for papers granted conditional acceptance (camera ready)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-08-01T02:00:00.000Z",
+        "date": "2025-08-01T12:00:00.000Z",
         "description": "Accepted papers published online.",
         "is_full_paper_submission_deadline": false
       }
@@ -4061,7 +4085,7 @@
     "metaTitle": "Theory Building in Information Systems with Big Data-Driven Research",
     "url": "https://www.sciencedirect.com/special-issue/198507/theory-building-in-information-systems-with-big-data-driven-research",
     "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
-    "contentHash": "dd9193c412620b2b7112426130f1f80323c20dfe05e6a3d1a06fd3b1344d6dbe",
+    "contentHash": "2ce58ba1fbce8be91e2ca9717feba5e5e9e5a303277b648243063e0890f6ecd5",
     "title": "Theory Building in Information Systems with Big Data-Driven Research",
     "topics": [
       "How can we explain user interactions, consumer experiences, and impacts for emerging business models like digital services, location-based services or platform economy?",
@@ -4082,9 +4106,10 @@
     ],
     "description": {
       "paragraphs": [
-        "The availability of and access to big data has changed, as digital transformation initiatives are increasingly maturing globally, assisted by the growth of computational capabilities. Whilst data availability and access used to be a major challenge for information systems (IS) research, the current abundance of big data has now resolved this considerably. The theoretical building blocks of IS research come mainly from management theory, organization theory, behavioural theory, computer science theories, and systems theory. Apart from the core computer science theories, the other related theories enable IS researchers to explain how users interact with technology artefacts within individual, organizational, social, and political contexts and the impact of such interaction. Theory building, however, seems to have been disrupted by the current trends in big data-driven research, whereby the essence of contributing to theory is increasingly seen to be lacking at all levels of analysis. Concurrently, big data-driven research may inspire contributions towards design science and action research, whereby innovative solutions may also be created which help to define ideas, capabilities, practices, and innovative products or services through big data analysis.",
-        "While big data-driven studies are increasingly gaining popularity within IS research, they rarely introspect why a phenomenon is better explained by a theory and limit the analysis to what is happening by merely mining relevant data. Many such studies try to collect data and showcase applications of data science and visualization of unstructured, large volumes of data by demonstrating sentiment analysis, text mining, networks, and communities, without significant contribution to the theoretical context within which the problem is situated. Such studies do not attempt to explain why a particular phenomenon is witnessed and the data descriptions rarely contribute towards theory building. Thus, such studies have a weak connection with the relevant theories and IT artefacts, paying greater attention to data collection and analysis. Furthermore, since the data collection is often dated, such studies lose timeliness and do not attempt to explain causality.",
-        "This special issue intends to facilitate theory-focused research, based on the analysis of big data as outlined in the directions provided in a recent opinion paper published in the journal. We specifically seek for theory building attempts in addressing grand individual, organizational, social or political problems. In particular, studies should demonstrate ample representative elements of big data such as high volume, velocity, variety, variability, veracity, visualization, and leading to value in understanding the phenomenon under examination. Authors need to explain why a phenomenon is happening rather that what is happening. The connection with IT artefacts must be significantly strong, while studies on emerging technologies are also of interest. Units of analysis could be individuals, groups or organizations. Of particular interest are theories explaining the nature of interaction among entities from more than a single unit type. Further, studies which mine more than a single type of unstructured data, and multi-methodology studies are also of interest, provided they contribute to theory building. Data could potentially be extracted from platforms like social media, communication networks, text-based data, images, multi-media, online communities, application-based data, sensor-based data, location-based data, data from smart-phones, smart devices and wearables. Other sources would also be welcome as long as the studies contribute theoretically. For submissions to this special issue, prospective authors are encouraged to revisit recent examples of such endeavours in the IS literature."
+        "The availability of and access to big data has changed, as digital transformation initiatives are increasingly maturing globally, assisted by the growth of computational capabilities (Grover et al., 2020). Whilst data availability and access used to be a major challenge for information systems (IS) research, the current abundance of big data has now resolved this considerably. The theoretical building blocks of IS research come mainly from management theory, organization theory, behavioural theory, computer science theories, and systems theory (Barki, Rivard and Talbot, 1993). Apart from the core computer science theories, the other related theories enable IS researchers to explain how users interact with technology artefacts within individual, organizational, social, and political contexts and the impact of such interaction. Theory building, however, seems to have been disrupted by the current trends in big data-driven research, whereby the essence of contributing to theory is increasingly seen to be lacking at all levels of analysis. Concurrently, big data-driven research may inspire contributions towards design science and action research, whereby innovative solutions may also be created which help to define ideas, capabilities, practices, and innovative products or services through big data analysis (Angelopoulos et al., 2020; Hevner et al., 2004).",
+        "While big data-driven studies are increasingly gaining popularity within IS research, they rarely introspect why a phenomenon is better explained by a theory and limit the analysis to what is happening by merely mining relevant data. Many such studies try to collect data and showcase applications of data science and visualization of unstructured, large volumes of data by demonstrating sentiment analysis, text mining, networks, and communities, without significant contribution to the theoretical context within which the problem is situated (Grover, 2020). Such studies do not attempt to explain why a particular phenomenon is witnessed and the data descriptions rarely contributes towards theory building. Thus, such studies have a weak connection with the relevant theories and IT artefacts, paying greater attention to data collection and analysis (Grover et al., 2020). Furthermore, since the data collection is often dated, such studies lose timeliness and do not attempt to explain causality (Grover, 2020).",
+        "This special issue intends to facilitate theory-focused research, based on the analysis of big data as outlined in the directions provided in a recent opinion paper published in the journal (see Kar and Dwivedi, 2020). We specifically seek for theory building attempts in addressing grand individual, organizational, social or political problems. In particular, studies should demonstrate ample representative elements of big data such as high volume, velocity, variety, variability, veracity, visualization, and leading to value in understanding the phenomenon under examination. Authors need to explain why a phenomenon is happening rather that what is happening. The connection with IT artefacts must be significantly strong, while studies on emerging technologies are also of interest. Units of analysis could be individuals, groups or organizations. Of particular interest are theories explaining the nature of interaction among entities from more than a single unit type. Further, studies which mine more than a single type of unstructured data, and multi-methodology studies are also of interest, provided they contribute to theory building. Data could potentially be extracted from platforms like social media, communication networks, text-based data, images, multi-media, online communities, application-based data, sensor-based data, location-based data, data from smart-phones, smart devices and wearables. Other sources would also be welcome as long as the studies contribute theoretically. For submissions to this special issue, prospective authors are encouraged to revisit recent examples of such endeavours in the IS literature (Oh et al., 2015; Grover et al., 2019a; Grover et al., 2019b; Kar, 2020; Georgiadou et al., 2020; Rao et al., 2020).",
+        "Such explorations would need to ensure that theoretical contributions are well developed to contribute to IS research as highlighted in the editorial note (see Kar and Dwivedi, 2020) developed in context of the special issue. We welcome attempts to address domain, socio-political, structural or ontological, and epistemological questions through the development of management theories, organization theories, behavioural theories, and systems theories."
       ]
     },
     "tags": [
@@ -4109,32 +4134,32 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2022-07-31T02:00:00.000Z",
+        "date": "2022-07-31T12:00:00.000Z",
         "description": "Manuscript submission deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-09-30T02:00:00.000Z",
+        "date": "2022-09-30T12:00:00.000Z",
         "description": "Notification of Review",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-11-30T01:00:00.000Z",
+        "date": "2022-11-30T12:00:00.000Z",
         "description": "Revision due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-01-30T01:00:00.000Z",
+        "date": "2023-01-30T12:00:00.000Z",
         "description": "Notification of 2nd Review",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-03-31T01:00:00.000Z",
+        "date": "2023-03-31T12:00:00.000Z",
         "description": "2nd Revision [if needed] due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-04-30T02:00:00.000Z",
+        "date": "2023-04-30T12:00:00.000Z",
         "description": "Notification of Final Acceptance",
         "is_full_paper_submission_deadline": false
       }
