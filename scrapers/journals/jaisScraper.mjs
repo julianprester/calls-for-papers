@@ -7,6 +7,7 @@ export const scraperObject = {
         await page.goto(this.url, { waitUntil: 'domcontentloaded' });
         const correctPage = await page.$$eval('div#main h2', elements => elements.length > 0);
         if (!correctPage) {
+            await page.close();
             return [];
         }
 

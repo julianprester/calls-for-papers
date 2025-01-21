@@ -5,6 +5,7 @@ export const scraperObject = {
         await page.goto(this.url, { waitUntil: 'domcontentloaded' });
         const correctPage = await page.$$eval('h2[aria-label="Call for papers"]', elements => elements.length > 0);
         if (!correctPage) {
+            await page.close();
             return [];
         }
 
