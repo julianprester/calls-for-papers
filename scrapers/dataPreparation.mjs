@@ -3,18 +3,20 @@ import { createHash } from 'crypto';
 import TurndownService from 'turndown';
 
 export async function clean(issues) {
-    for (let issue of issues) {
-        issue = await cleanTitles(issue);
-        issue = await generateSlug(issue);
+    return await Promise.all(
+        issues.map(async (issue) => {
+            issue = await cleanTitles(issue);
+            issue = await generateSlug(issue);
             issue = await parseHTML(issue);
-        issue = await hash(issue);
-    }
-    return issues;
+            issue = await hash(issue);
+            return issue;
+        })
+    );
 }
 
 async function generateSlug(issue) {
     issue.slug = await slugify(issue.abbreviation + " " + issue.metaTitle, { lower: true, strict: true })
-return issue;
+    return issue;
 }
 
 async function parseHTML(issue) {
