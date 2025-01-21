@@ -147,12 +147,12 @@
     ],
     "dates": [
       {
-        "date": "2025-06-30T02:00:00.000Z",
+        "date": "2025-06-30T12:00:00.000Z",
         "description": "Extended abstract submission for early feedback",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-12-31T01:00:00.000Z",
+        "date": "2025-12-31T12:00:00.000Z",
         "description": "Full paper submission deadline",
         "is_full_paper_submission_deadline": true
       }
@@ -169,7 +169,7 @@
     "contentHash": "e053bee15c37a5bf6d6de7691161d425fd346957fc45ecc67f342e60d688d6d3",
     "tags": [],
     "active": true,
-    "pubDate": "2024-12-20T02:55:03.000Z"
+    "pubDate": "2024-12-20T12:55:03.000Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -288,7 +288,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-11-09T02:48:44.000Z"
+    "pubDate": "2024-11-09T12:48:44.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -426,42 +426,42 @@
     ],
     "dates": [
       {
-        "date": "2024-11-01T01:00:00.000Z",
+        "date": "2024-11-01T12:00:00.000Z",
         "description": "Extended abstract submissions via email to the corresponding special issue editor for early feedback and invitation to the special issue paper development workshop.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-11-15T01:00:00.000Z",
+        "date": "2024-11-15T12:00:00.000Z",
         "description": "Results are announced.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-12-15T01:00:00.000Z",
+        "date": "2024-12-15T12:00:00.000Z",
         "description": "Special issue paper development workshop at ICIS 2024.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-04-01T01:00:00.000Z",
+        "date": "2025-04-01T12:00:00.000Z",
         "description": "First-round submissions.",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2025-08-01T02:00:00.000Z",
+        "date": "2025-08-01T12:00:00.000Z",
         "description": "First-round decisions.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-12-01T01:00:00.000Z",
+        "date": "2025-12-01T12:00:00.000Z",
         "description": "Second-round submissions.",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2026-02-01T01:00:00.000Z",
+        "date": "2026-02-01T12:00:00.000Z",
         "description": "Second-round decisions (Papers are either acceptable with minor changes or rejected).",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-05-01T02:00:00.000Z",
+        "date": "2026-05-01T12:00:00.000Z",
         "description": "Final versions (Final decisions and online publication soon afterwards).",
         "is_full_paper_submission_deadline": true
       }
@@ -682,57 +682,57 @@
     ],
     "dates": [
       {
-        "date": "2024-11-15T01:00:00.000Z",
+        "date": "2024-11-15T12:00:00.000Z",
         "description": "Optional introductory workshops (virtual): informational sessions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-01-20T01:00:00.000Z",
+        "date": "2025-01-20T12:00:00.000Z",
         "description": "Two-page abstracts",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2025-03-31T01:00:00.000Z",
+        "date": "2025-03-31T12:00:00.000Z",
         "description": "Feedback on abstracts",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-05-10T02:00:00.000Z",
+        "date": "2025-05-10T12:00:00.000Z",
         "description": "Paper development workshop (virtual)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-10-31T01:00:00.000Z",
+        "date": "2025-10-31T12:00:00.000Z",
         "description": "First-round paper submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2026-01-31T01:00:00.000Z",
+        "date": "2026-01-31T12:00:00.000Z",
         "description": "First-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-02-01T01:00:00.000Z",
+        "date": "2026-02-01T12:00:00.000Z",
         "description": "Workshop for authors with first-round revise-and-resubmit",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-05-31T02:00:00.000Z",
+        "date": "2026-05-31T12:00:00.000Z",
         "description": "Second-round revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-08-31T02:00:00.000Z",
+        "date": "2026-08-31T12:00:00.000Z",
         "description": "Second-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-11-30T01:00:00.000Z",
+        "date": "2026-11-30T12:00:00.000Z",
         "description": "Final revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2027-02-28T01:00:00.000Z",
+        "date": "2027-02-28T12:00:00.000Z",
         "description": "Final revisions",
         "is_full_paper_submission_deadline": false
       }
@@ -820,7 +820,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-08-15T02:37:20.000Z"
+    "pubDate": "2024-08-15T12:37:20.000Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -928,12 +928,12 @@
     ],
     "dates": [
       {
-        "date": "2024-11-30T01:00:00.000Z",
+        "date": "2024-11-30T12:00:00.000Z",
         "description": "Submission of extended abstract (optional)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-03-30T01:00:00.000Z",
+        "date": "2025-03-30T12:00:00.000Z",
         "description": "Submission of manuscript",
         "is_full_paper_submission_deadline": true
       }
@@ -1012,7 +1012,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-05-29T02:37:14.000Z"
+    "pubDate": "2024-05-29T12:37:14.000Z"
   },
   {
     "journal": "International Journal of Information Management",
@@ -1096,7 +1096,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-04-07T01:36:14.000Z"
+    "pubDate": "2024-04-07T12:36:14.000Z"
   },
   {
     "journal": "Information and Organization",
@@ -1186,7 +1186,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-04-07T01:36:14.000Z"
+    "pubDate": "2024-04-07T12:36:14.000Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -1359,38 +1359,38 @@
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-06-30T02:00:00.000Z",
+        "date": "2023-06-30T12:00:00.000Z",
         "description": "First round submissions due date",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-09-15T02:00:00.000Z",
+        "date": "2023-09-15T12:00:00.000Z",
         "description": "First round decisions provided by",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-01-15T01:00:00.000Z",
+        "date": "2024-01-15T12:00:00.000Z",
         "description": "Second round submissions due date",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-03-15T01:00:00.000Z",
+        "date": "2024-03-15T12:00:00.000Z",
         "description": "Second round decisions provided by",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-05-15T02:00:00.000Z",
+        "date": "2024-05-15T12:00:00.000Z",
         "description": "Third round submissions due date",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-07-30T02:00:00.000Z",
+        "date": "2024-07-30T12:00:00.000Z",
         "description": "Final decisions on papers provided by",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-30T02:26:09.000Z"
+    "pubDate": "2024-01-30T12:26:09.000Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -1452,43 +1452,43 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2023-03-01T01:00:00.000Z",
+        "date": "2023-03-01T12:00:00.000Z",
         "description": "Expression of Interest: two-page abstract, single spaced, 12 point font",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-07-31T02:00:00.000Z",
+        "date": "2023-07-31T12:00:00.000Z",
         "description": "Initial Submission Due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-11-30T01:00:00.000Z",
+        "date": "2023-11-30T12:00:00.000Z",
         "description": "Notification of First Round Decision",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-03-30T01:00:00.000Z",
+        "date": "2024-03-30T12:00:00.000Z",
         "description": "1st Resubmission Due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-06-30T02:00:00.000Z",
+        "date": "2024-06-30T12:00:00.000Z",
         "description": "Notification of Second Round Decision",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-09-30T02:00:00.000Z",
+        "date": "2024-09-30T12:00:00.000Z",
         "description": "2nd Resubmission Due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-12-30T01:00:00.000Z",
+        "date": "2024-12-30T12:00:00.000Z",
         "description": "Final Decision",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-30T02:26:09.000Z"
+    "pubDate": "2024-01-30T12:26:09.000Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -1623,38 +1623,38 @@
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-09-15T02:00:00.000Z",
+        "date": "2023-09-15T12:00:00.000Z",
         "description": "Optional extended abstract deadline",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-01-15T01:00:00.000Z",
+        "date": "2024-01-15T12:00:00.000Z",
         "description": "Full paper submission deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-04-15T02:00:00.000Z",
+        "date": "2024-04-15T12:00:00.000Z",
         "description": "First round of reviews completed",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-08-15T02:00:00.000Z",
+        "date": "2024-08-15T12:00:00.000Z",
         "description": "Paper revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-10-15T01:00:00.000Z",
+        "date": "2024-10-15T12:00:00.000Z",
         "description": "Second round of reviews completed",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-12-15T01:00:00.000Z",
+        "date": "2024-12-15T12:00:00.000Z",
         "description": "Second paper revisions due",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-30T02:26:09.000Z"
+    "pubDate": "2024-01-30T12:26:09.000Z"
   },
   {
     "journal": "Information Systems Research",
@@ -1840,63 +1840,63 @@
     ],
     "dates": [
       {
-        "date": "2021-06-30T02:00:00.000Z",
+        "date": "2021-06-30T12:00:00.000Z",
         "description": "Two-page Abstract",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-07-30T02:00:00.000Z",
+        "date": "2021-07-30T12:00:00.000Z",
         "description": "Feedback on Abstracts",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-09-15T02:00:00.000Z",
+        "date": "2021-09-15T12:00:00.000Z",
         "description": "Five-page Extended Abstract",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-10-09T01:00:00.000Z",
+        "date": "2021-10-09T12:00:00.000Z",
         "description": "UT San Antonio Workshop",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-02-15T01:00:00.000Z",
+        "date": "2022-02-15T12:00:00.000Z",
         "description": "Full Paper Submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-05-15T02:00:00.000Z",
+        "date": "2022-05-15T12:00:00.000Z",
         "description": "First Round of Editorial Decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-06-30T02:00:00.000Z",
+        "date": "2022-06-30T12:00:00.000Z",
         "description": "Virtual Meeting with the SI Editors to Discuss Revision Plans",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-08-30T02:00:00.000Z",
+        "date": "2022-08-30T12:00:00.000Z",
         "description": "Revisions Due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-11-30T01:00:00.000Z",
+        "date": "2022-11-30T12:00:00.000Z",
         "description": "Second Round of Editorial Decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-01-30T01:00:00.000Z",
+        "date": "2023-01-30T12:00:00.000Z",
         "description": "Final Revisions Due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-04-30T02:00:00.000Z",
+        "date": "2023-04-30T12:00:00.000Z",
         "description": "Final Editorial Decisions",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -1956,28 +1956,28 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2023-09-13T02:00:00.000Z",
+        "date": "2023-09-13T12:00:00.000Z",
         "description": "Paper development workshop",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-06-13T02:00:00.000Z",
+        "date": "2024-06-13T12:00:00.000Z",
         "description": "Submissions due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-09-11T02:00:00.000Z",
+        "date": "2024-09-11T12:00:00.000Z",
         "description": "Decisions after first round of reviews",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-11-01T01:00:00.000Z",
+        "date": "2025-11-01T12:00:00.000Z",
         "description": "Special Issue to be published",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -2046,23 +2046,23 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2022-11-30T01:00:00.000Z",
+        "date": "2022-11-30T12:00:00.000Z",
         "description": "Submissions due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-02-28T01:00:00.000Z",
+        "date": "2023-02-28T12:00:00.000Z",
         "description": "Decision after first round of reviews",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-09-01T02:00:00.000Z",
+        "date": "2023-09-01T12:00:00.000Z",
         "description": "Special Issue to be published",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -2139,28 +2139,28 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2023-05-01T02:00:00.000Z",
+        "date": "2023-05-01T12:00:00.000Z",
         "description": "Submissions due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-05-15T02:00:00.000Z",
+        "date": "2023-05-15T12:00:00.000Z",
         "description": "Extended deadline for submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-08-01T02:00:00.000Z",
+        "date": "2023-08-01T12:00:00.000Z",
         "description": "Decisions after first round of reviews",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-01-01T01:00:00.000Z",
+        "date": "2024-01-01T12:00:00.000Z",
         "description": "Special Issue to be published",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2312,38 +2312,38 @@
     ],
     "dates": [
       {
-        "date": "2021-01-31T01:00:00.000Z",
+        "date": "2021-01-31T12:00:00.000Z",
         "description": "First round submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2021-03-01T01:00:00.000Z",
+        "date": "2021-03-01T12:00:00.000Z",
         "description": "Round 1 decision to authors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-07-01T02:00:00.000Z",
+        "date": "2021-07-01T12:00:00.000Z",
         "description": "Second round submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2021-09-01T02:00:00.000Z",
+        "date": "2021-09-01T12:00:00.000Z",
         "description": "Second round decision to authors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-11-01T01:00:00.000Z",
+        "date": "2021-11-01T12:00:00.000Z",
         "description": "Third and Final Round submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2021-12-01T01:00:00.000Z",
+        "date": "2021-12-01T12:00:00.000Z",
         "description": "Final decision to authors",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2398,38 +2398,38 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2021-04-15T02:00:00.000Z",
+        "date": "2021-04-15T12:00:00.000Z",
         "description": "First round submission deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2021-07-25T02:00:00.000Z",
+        "date": "2021-07-25T12:00:00.000Z",
         "description": "First round decision to authors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-10-25T01:00:00.000Z",
+        "date": "2021-10-25T12:00:00.000Z",
         "description": "Second round submission deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-01-28T01:00:00.000Z",
+        "date": "2022-01-28T12:00:00.000Z",
         "description": "Second round decision to authors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-04-15T02:00:00.000Z",
+        "date": "2022-04-15T12:00:00.000Z",
         "description": "Third and final round submissions deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-06-15T02:00:00.000Z",
+        "date": "2022-06-15T12:00:00.000Z",
         "description": "Final decision to authors",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2580,28 +2580,28 @@
     ],
     "dates": [
       {
-        "date": "2021-06-01T02:00:00.000Z",
+        "date": "2021-06-01T12:00:00.000Z",
         "description": "First round submission",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-10-01T02:00:00.000Z",
+        "date": "2021-10-01T12:00:00.000Z",
         "description": "First round decision to authors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-02-01T01:00:00.000Z",
+        "date": "2022-02-01T12:00:00.000Z",
         "description": "Second round submission",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-04-01T01:00:00.000Z",
+        "date": "2022-04-01T12:00:00.000Z",
         "description": "Second round decision to authors (reject or accept w minor revision)",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2661,48 +2661,48 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2021-10-24T01:00:00.000Z",
+        "date": "2021-10-24T12:00:00.000Z",
         "description": "Submission of extended abstracts for feedback",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2021-12-12T01:00:00.000Z",
+        "date": "2021-12-12T12:00:00.000Z",
         "description": "Workshop at ICIS 2021 (hybrid mode)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-03-01T01:00:00.000Z",
+        "date": "2022-03-01T12:00:00.000Z",
         "description": "First-round submissions version due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-05-15T02:00:00.000Z",
+        "date": "2022-05-15T12:00:00.000Z",
         "description": "First-round reviews returned",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-07-15T02:00:00.000Z",
+        "date": "2022-07-15T12:00:00.000Z",
         "description": "Second-round submissions due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-08-30T02:00:00.000Z",
+        "date": "2022-08-30T12:00:00.000Z",
         "description": "Second-round reviews returned",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-10-01T02:00:00.000Z",
+        "date": "2022-10-01T12:00:00.000Z",
         "description": "Final versions due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-10-01T02:00:00.000Z",
+        "date": "2022-10-01T12:00:00.000Z",
         "description": "Final decisions and publication online",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2759,38 +2759,38 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2022-04-15T02:00:00.000Z",
+        "date": "2022-04-15T12:00:00.000Z",
         "description": "Optional; authors are invited to submit extended abstracts of papers for early reactions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2022-08-15T02:00:00.000Z",
+        "date": "2022-08-15T12:00:00.000Z",
         "description": "First-round submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2022-10-20T01:00:00.000Z",
+        "date": "2022-10-20T12:00:00.000Z",
         "description": "First-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-02-01T01:00:00.000Z",
+        "date": "2023-02-01T12:00:00.000Z",
         "description": "Second-round submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-04-15T02:00:00.000Z",
+        "date": "2023-04-15T12:00:00.000Z",
         "description": "Second-round decisions (papers are either acceptable with minor changes or rejected at this stage)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-07-01T02:00:00.000Z",
+        "date": "2023-07-01T12:00:00.000Z",
         "description": "Final versions due (final decisions and online publication soon afterwards)",
         "is_full_paper_submission_deadline": true
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2848,38 +2848,38 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2022-11-20T01:00:00.000Z",
+        "date": "2022-11-20T12:00:00.000Z",
         "description": "Abstract submissions (optional; authors are invited to submit extended abstracts of papers for early reactions)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-04-15T02:00:00.000Z",
+        "date": "2023-04-15T12:00:00.000Z",
         "description": "First - round submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-07-15T02:00:00.000Z",
+        "date": "2023-07-15T12:00:00.000Z",
         "description": "First - round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-12-15T01:00:00.000Z",
+        "date": "2023-12-15T12:00:00.000Z",
         "description": "Second - round submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-02-15T01:00:00.000Z",
+        "date": "2024-02-15T12:00:00.000Z",
         "description": "Second - round decisions (papers are either acceptable with minor changes or rejected at this stage)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-05-15T02:00:00.000Z",
+        "date": "2024-05-15T12:00:00.000Z",
         "description": "Final versions due (final decisions and online publication soon afterwards)",
         "is_full_paper_submission_deadline": true
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3005,43 +3005,43 @@
     ],
     "dates": [
       {
-        "date": "2024-01-15T01:00:00.000Z",
+        "date": "2024-01-15T12:00:00.000Z",
         "description": "Manuscript submission deadline: Late submissions cannot be accepted. Only submissions made through the submission system will be considered.",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-04-19T02:00:00.000Z",
+        "date": "2024-04-19T12:00:00.000Z",
         "description": "First round reviews and decisions.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-08-30T02:00:00.000Z",
+        "date": "2024-08-30T12:00:00.000Z",
         "description": "Second round (revision) submission deadline.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-11-29T01:00:00.000Z",
+        "date": "2024-11-29T12:00:00.000Z",
         "description": "Second round reviews and decisions: Manuscripts will not undergo more than two rounds of review (i.e., one major revision).",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-02-07T01:00:00.000Z",
+        "date": "2025-02-07T12:00:00.000Z",
         "description": "Final submission deadline: For accepted manuscripts (subject to minor revisions).",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-05-09T02:00:00.000Z",
+        "date": "2025-05-09T12:00:00.000Z",
         "description": "Final approval of manuscripts.",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-03-31T01:00:00.000Z",
+        "date": "2026-03-31T12:00:00.000Z",
         "description": "Online publication of special issue (anticipated date).",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T02:34:57.000Z"
+    "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
     "journal": "Information Systems Research",
@@ -3158,48 +3158,48 @@
     ],
     "dates": [
       {
-        "date": "2024-01-02T01:00:00.000Z",
+        "date": "2024-01-02T12:00:00.000Z",
         "description": "Submissions will be accepted beginning on",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-02-29T01:00:00.000Z",
+        "date": "2024-02-29T12:00:00.000Z",
         "description": "Full Paper Submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-06-15T02:00:00.000Z",
+        "date": "2024-06-15T12:00:00.000Z",
         "description": "First Round of Editorial Decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-08-01T02:00:00.000Z",
+        "date": "2024-08-01T12:00:00.000Z",
         "description": "Workshop at University of Warwick",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-10-30T01:00:00.000Z",
+        "date": "2024-10-30T12:00:00.000Z",
         "description": "Revisions Due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-01-31T01:00:00.000Z",
+        "date": "2025-01-31T12:00:00.000Z",
         "description": "Second Round of Editorial Decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-03-28T01:00:00.000Z",
+        "date": "2025-03-28T12:00:00.000Z",
         "description": "Final Revisions Due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-05-30T02:00:00.000Z",
+        "date": "2025-05-30T12:00:00.000Z",
         "description": "Final Editorial Decisions",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2024-01-02T01:00:00.000Z"
+    "pubDate": "2024-01-02T12:00:00.000Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -3349,57 +3349,57 @@
     ],
     "dates": [
       {
-        "date": "2024-04-30T02:00:00.000Z",
+        "date": "2024-04-30T12:00:00.000Z",
         "description": "Optional Two-page Abstract Submission",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-05-30T02:00:00.000Z",
+        "date": "2024-05-30T12:00:00.000Z",
         "description": "Optional abstract feedback via email",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-08-05T02:00:00.000Z",
+        "date": "2024-08-05T12:00:00.000Z",
         "description": "Invited five-page abstract for AOM Workshop due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-08-09T02:00:00.000Z",
+        "date": "2024-08-09T12:00:00.000Z",
         "description": "Paper Development Workshop at AOM",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-12-01T01:00:00.000Z",
+        "date": "2024-12-01T12:00:00.000Z",
         "description": "Full Paper Submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2025-03-15T01:00:00.000Z",
+        "date": "2025-03-15T12:00:00.000Z",
         "description": "First-round decisions expected",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-05-30T02:00:00.000Z",
+        "date": "2025-05-30T12:00:00.000Z",
         "description": "Revision Plan Meeting with SI Editors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-07-15T02:00:00.000Z",
+        "date": "2025-07-15T12:00:00.000Z",
         "description": "Second-round revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-10-15T01:00:00.000Z",
+        "date": "2025-10-15T12:00:00.000Z",
         "description": "Second-round decisions expected",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-02-15T01:00:00.000Z",
+        "date": "2026-02-15T12:00:00.000Z",
         "description": "Third- and final revisions submissions due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-05-15T02:00:00.000Z",
+        "date": "2026-05-15T12:00:00.000Z",
         "description": "Final decisions expected",
         "is_full_paper_submission_deadline": false
       }
@@ -3567,7 +3567,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2023-12-01T02:38:00.000Z"
+    "pubDate": "2023-12-01T12:38:00.000Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -3622,48 +3622,48 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2024-02-19T01:00:00.000Z",
+        "date": "2024-02-19T12:00:00.000Z",
         "description": "Online information session (we invite potential authors to send us specific questions to address during this session)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-10-01T02:00:00.000Z",
+        "date": "2024-10-01T12:00:00.000Z",
         "description": "Deadline for paper submission",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2025-02-01T01:00:00.000Z",
+        "date": "2025-02-01T12:00:00.000Z",
         "description": "First-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-06-01T02:00:00.000Z",
+        "date": "2025-06-01T12:00:00.000Z",
         "description": "Deadline to submit revised papers",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-09-15T02:00:00.000Z",
+        "date": "2025-09-15T12:00:00.000Z",
         "description": "Second-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-02-01T01:00:00.000Z",
+        "date": "2026-02-01T12:00:00.000Z",
         "description": "Deadline to submit revised papers",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-06-01T02:00:00.000Z",
+        "date": "2026-06-01T12:00:00.000Z",
         "description": "Provisional/Final decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-07-01T02:00:00.000Z",
+        "date": "2026-07-01T12:00:00.000Z",
         "description": "Deadline to submit final paper (if minor revision is required)",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2023-08-29T02:54:56.000Z"
+    "pubDate": "2023-08-29T12:54:56.000Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -3731,23 +3731,23 @@
     ],
     "dates": [
       {
-        "date": "2024-08-31T02:00:00.000Z",
+        "date": "2024-08-31T12:00:00.000Z",
         "description": "Article Submission Deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-11-30T01:00:00.000Z",
+        "date": "2024-11-30T12:00:00.000Z",
         "description": "First Review",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2026-07-31T02:00:00.000Z",
+        "date": "2026-07-31T12:00:00.000Z",
         "description": "Article Final Decision",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2023-06-13T02:46:46.000Z"
+    "pubDate": "2023-06-13T12:46:46.000Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -3879,38 +3879,38 @@
     ],
     "dates": [
       {
-        "date": "2023-02-01T01:00:00.000Z",
+        "date": "2023-02-01T12:00:00.000Z",
         "description": "Extended abstract due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-03-01T01:00:00.000Z",
+        "date": "2023-03-01T12:00:00.000Z",
         "description": "Extended abstract decision",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-08-01T02:00:00.000Z",
+        "date": "2023-08-01T12:00:00.000Z",
         "description": "1st round submission due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-10-01T01:00:00.000Z",
+        "date": "2023-10-01T12:00:00.000Z",
         "description": "1st round full paper decision",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-01-15T01:00:00.000Z",
+        "date": "2024-01-15T12:00:00.000Z",
         "description": "2nd round submission due",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-03-01T01:00:00.000Z",
+        "date": "2024-03-01T12:00:00.000Z",
         "description": "2nd round full paper decision",
         "is_full_paper_submission_deadline": false
       }
     ],
     "active": true,
-    "pubDate": "2023-01-18T02:50:43.000Z"
+    "pubDate": "2023-01-18T12:50:43.000Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -3979,37 +3979,37 @@
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-02-20T01:00:00.000Z",
+        "date": "2023-02-20T12:00:00.000Z",
         "description": "Introductory Workshop (optional)",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-07-01T02:00:00.000Z",
+        "date": "2023-07-01T12:00:00.000Z",
         "description": "Proposal Deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-08-01T02:00:00.000Z",
+        "date": "2023-08-01T12:00:00.000Z",
         "description": "Proposal submissions decisions expected",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-10-01T01:00:00.000Z",
+        "date": "2023-10-01T12:00:00.000Z",
         "description": "Stage 1 Submission Deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-12-15T01:00:00.000Z",
+        "date": "2023-12-15T12:00:00.000Z",
         "description": "Stage 1 initial decisions expected",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-01-01T01:00:00.000Z",
+        "date": "2024-01-01T12:00:00.000Z",
         "description": "Special Issue workshop for Stage 1 authors",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-10-01T02:00:00.000Z",
+        "date": "2024-10-01T12:00:00.000Z",
         "description": "Stage 1 submissions must receive a conditional acceptance no later than",
         "is_full_paper_submission_deadline": false
       }
@@ -4071,13 +4071,13 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2023-02-01T01:00:00.000Z",
+        "date": "2023-02-01T12:00:00.000Z",
         "description": "Manuscript Submission Deadline",
         "is_full_paper_submission_deadline": true
       }
     ],
     "active": true,
-    "pubDate": "2022-12-22T02:42:59.000Z"
+    "pubDate": "2022-12-22T12:42:59.000Z"
   },
   {
     "journal": "International Journal of Information Management",
@@ -4165,7 +4165,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2022-12-22T02:42:59.000Z"
+    "pubDate": "2022-12-22T12:42:59.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -4286,37 +4286,37 @@
     ],
     "dates": [
       {
-        "date": "2022-10-15T01:00:00.000Z",
+        "date": "2022-10-15T12:00:00.000Z",
         "description": "Submissions System opens",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-01-15T01:00:00.000Z",
+        "date": "2023-01-15T12:00:00.000Z",
         "description": "Paper Submission Deadline",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2023-01-30T01:00:00.000Z",
+        "date": "2023-01-30T12:00:00.000Z",
         "description": "Initial Screening of Submissions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-04-15T02:00:00.000Z",
+        "date": "2023-04-15T12:00:00.000Z",
         "description": "First Review Decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-06-30T02:00:00.000Z",
+        "date": "2023-06-30T12:00:00.000Z",
         "description": "Revision Due",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-09-15T02:00:00.000Z",
+        "date": "2023-09-15T12:00:00.000Z",
         "description": "Acceptance Decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2023-11-15T01:00:00.000Z",
+        "date": "2023-11-15T12:00:00.000Z",
         "description": "Final Manuscript Due",
         "is_full_paper_submission_deadline": false
       }
@@ -4445,47 +4445,47 @@
     ],
     "dates": [
       {
-        "date": "2023-11-03T01:00:00.000Z",
+        "date": "2023-11-03T12:00:00.000Z",
         "description": "Deadline for paper submissions",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2024-03-01T01:00:00.000Z",
+        "date": "2024-03-01T12:00:00.000Z",
         "description": "First-round review decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-05-01T02:00:00.000Z",
+        "date": "2024-05-01T12:00:00.000Z",
         "description": "Hybrid Paper development workshop",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-07-11T02:00:00.000Z",
+        "date": "2024-07-11T12:00:00.000Z",
         "description": "Deadline for submission of revised papers",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-10-01T02:00:00.000Z",
+        "date": "2024-10-01T12:00:00.000Z",
         "description": "Second-round review decisions",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2024-12-08T01:00:00.000Z",
+        "date": "2024-12-08T12:00:00.000Z",
         "description": "Deadline for submission of revised papers",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-02-01T01:00:00.000Z",
+        "date": "2025-02-01T12:00:00.000Z",
         "description": "Provisional decision and final round of comments",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-02-27T01:00:00.000Z",
+        "date": "2025-02-27T12:00:00.000Z",
         "description": "Deadline for submission of revised papers",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-03-01T01:00:00.000Z",
+        "date": "2025-03-01T12:00:00.000Z",
         "description": "Notification of final decisions",
         "is_full_paper_submission_deadline": false
       }
