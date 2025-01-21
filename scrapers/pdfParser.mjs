@@ -31,7 +31,7 @@ async function getPdfBuffer(browser, url) {
 async function getPdfContent(buffer) {
     try {
         const uint8Array = new Uint8Array(buffer);
-        const pdf = await pdfjsLib.getDocument(uint8Array).promise;
+        const pdf = await pdfjsLib.getDocument({ data: uint8Array, verbosity: pdfjsLib.VerbosityLevel.ERRORS }).promise;
         let content = '';
         for (let i = 1; i <= pdf.numPages; i++) {
             const page = await pdf.getPage(i);
