@@ -460,8 +460,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "MIS Quarterly",
@@ -886,7 +887,7 @@
     "metaTitle": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
     "url": "https://www.sciencedirect.com/special-issue/306480/decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
     "slug": "dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research",
-    "contentHash": "5554ec09b830e9c35ffcb8b882cc98b3a4114fa70009db41726e3cf530dd4ed7",
+    "contentHash": "e74073deca05fb02beb642106c0becdfcc2f09b8a041c58c042cf46b128bb984",
     "title": "Decision Support Systems on Improving Societal Outcomes with Design Science Research",
     "topics": [
       "Contributing to sustainable development with DSR",
@@ -903,16 +904,16 @@
     ],
     "description": {
       "paragraphs": [
-        "Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that “creates and evaluates IT artifact intended to solve identified organizational problems” (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that “serve human purposes” (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.",
-        "This special issue targets DSR that addresses societal problems. In particular, we encourage submissions linked to any of the 17 sustainable development goals (SDGs) identified by the United Nations, as well as work dealing with technologies that are transforming the world in which we live, such as Artificial Intelligence (AI). Recent studies in Decision Support Systems (DSS) have notably contributed to SDGs, spanning from enhancing healthcare quality to optimizing resource efficiency. Transparency is pivotal in advocating responsible DSR practices and design artifacts.",
-        "Recent DSR publications reflect a growing consensus within the community regarding the imperative to advance sustainable development. Examples such as these demonstrate the promise of DSR as a research paradigm for tangible societal impacts. With this special issue, we hope to encourage fellow design science researchers to create even greater impacts together."
+        "Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that 'created and evaluates IT artifact intended to solve identified organizational problems' (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that 'serve human purposes' (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.",
+        "This special issue targets DSR that addresses societal problems. In particular, we encourage submissions linked to any of the 17 sustainable development goals (SDGs) identified by the United Nations, as well as work dealing with technologies that are transforming the world in which we live, such as Artificial Intelligence (AI). Recent studies in Decision Support Systems (DSS) have notably contributed to SDGs, spanning from enhancing healthcare quality (e.g., Ojo et al., 2024) to optimizing resource efficiency (e.g., Ge et al., 2024). Storey et al. (2024) emphasized the significance of integrating human-AI synergies in sociotechnical DSS design. Transparency is pivotal in advocating responsible DSR practices and design artifacts (Hevner et al., 2024).",
+        "Recent DSR publications reflect a growing consensus within the community regarding the imperative to advance sustainable development. Strobel, et al. (2023) leveraged AI to translate sign language and improve participation of individuals with hearing difficulties in social activities. Wass, Thygesen, and Purao (2023) designed and deployed information systems to promote the social inclusion of people with intellectual and developmental disabilities. With both DSR projects, the authors improved access to quality healthcare and equality. Other examples focus on promoting ecological sustainability, such as Schoormann, Stadtländer, and Knackstedt (2022) and Seidel, et al. (2018). Pan, et al. (2021) conducted an Action Design Research to support wildlife management for the purpose of environmental protection.",
+        "Examples such as these demonstrate the promise of DSR as a research paradigm for tangible societal impacts. With this special issue, we hope to encourage fellow design science researchers to create even greater impacts together."
       ]
     },
     "tags": [
       "design science research",
-      "social good",
-      "sustainable development goals",
-      "wicked problem"
+      "societal problems",
+      "sustainable development"
     ],
     "editors": [
       {
@@ -928,7 +929,7 @@
         "affiliation": "Seoul National University"
       },
       {
-        "name": "Thorsten Schoormann",
+        "name": "Thorsten Shoormann",
         "affiliation": "TU Braunschweig"
       }
     ],
@@ -936,12 +937,12 @@
     "dates": [
       {
         "date": "2024-09-01T12:00:00.000Z",
-        "description": "Submission system opens",
+        "description": "Submission system opens for Special Issue",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-01-31T12:00:00.000Z",
-        "description": "Submission deadline",
+        "date": "2025-02-28T12:00:00.000Z",
+        "description": "Submission deadline for manuscripts",
         "is_full_paper_submission_deadline": true
       }
     ],
@@ -2258,8 +2259,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2345,8 +2347,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2514,8 +2517,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2611,8 +2615,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2700,8 +2705,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2793,8 +2799,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Journal of Information Technology",
@@ -2956,8 +2963,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740192645000
   },
   {
     "journal": "Information Systems Research",
