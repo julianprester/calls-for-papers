@@ -1,4 +1,4 @@
-import { parse} from '../pdfParser.mjs';
+import { parse} from '../fileParser.mjs';
 
 export const scraperObject = {
     url: 'https://journals.sagepub.com/page/jin/call-for-papers',

@@ -1,4 +1,4 @@
-import { parse} from '../pdfParser.mjs';
+import { parse} from '../fileParser.mjs';
 
 export const scraperObject = {
     url: 'https://aisel.aisnet.org/jais/specialissues.html',

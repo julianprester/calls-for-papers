@@ -1,4 +1,4 @@
-import { parse} from '../pdfParser.mjs';
+import { parse} from '../fileParser.mjs';
 
 export const scraperObject = {
     url: 'https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm',
