@@ -161,8 +161,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z"
+    "active": false,
+    "pubDate": "2024-12-25T07:52:15.170Z",
+    "gracePeriod": 1740292843000
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1066,8 +1067,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z"
+    "active": false,
+    "pubDate": "2024-07-18T10:34:43.000Z",
+    "gracePeriod": 1740292843000
   },
   {
     "journal": "Decision Support Systems",
