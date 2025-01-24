@@ -19,12 +19,14 @@ export async function scrapeAll(browserInstance) {
                 .map(file => import(path.join(folderPath, file)))
         );
 
-        let issues = []
-        for (let module of modules) {
-            const calls = await module.scraperObject.scraper(browser);
-            console.log(`Found ${calls.length} calls at ${module.scraperObject.url}`);
-            issues = issues.concat(calls);
-        }
+        const issues = await Promise.all(
+            modules.map(async module => {
+                const calls = await module.scraperObject.scraper(browser);
+                console.log(`Found ${calls.length} calls at ${module.scraperObject.url}`);
+                return calls;
+            })
+        ).then(results => results.flat());
+
         await integrateCalls(issues);
     }
     catch (err) {
