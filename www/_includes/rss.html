@@ -1,0 +1,29 @@
+<div>
+    {% for paragraph in call.description.paragraphs %}
+    <p>{{ paragraph }}</p>
+    {% endfor %}
+    {% if call.topics | length > 0 %}
+    <h2>Potential topics</h2>
+    <ul>
+        {% for topic in call.topics %}
+        <li>{{ topic }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% if call.dates | length > 0 %}
+    <h2>Timeline</h2>
+    <ul>
+        {% for date in call.dates %}
+        <li>{{ date.date | dateOnly }}: {{ date.description }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% if call.associate_editors | length > 0 %}
+    <h2>Associate editors</h2>
+    <ul>
+        {% for associate_editor in call.associate_editors %}
+        <li><strong>{{ associate_editor.name }}</strong>, {{ associate_editor.affiliation }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>
