@@ -170,10 +170,198 @@
     "metaTitle": "Contemporary Innovation in Information Infrastructures",
     "url": "https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07",
     "slug": "jais-contemporary-innovation-in-information-infrastructures",
-    "contentHash": "e053bee15c37a5bf6d6de7691161d425fd346957fc45ecc67f342e60d688d6d3",
-    "tags": [],
+    "contentHash": "a3ada022d24aa112ab8b097796bd0889934747809c1376d200e88b351576a924",
+    "tags": [
+      "information infrastructure",
+      "innovation",
+      "ai",
+      "blockchain",
+      "iot"
+    ],
     "active": true,
-    "pubDate": "2024-12-20T12:55:03.000Z"
+    "pubDate": "2024-12-20T12:55:03.000Z",
+    "title": "Contemporary Innovation in Information Infrastructures",
+    "topics": [
+      "Infrastructuring of Platforms, Platformisation of Infrastructures: Studies of architectural strategies related to digital platforms and governance in data-intensive ecosystems.",
+      "Governance of/by Information Infrastructures: Understanding the relationship between information infrastructures and governance in various institutions.",
+      "Societal Challenges addressed through Information Infrastructures: Investigating how infrastructures facilitate coordination to tackle societal grand challenges such as climate or health.",
+      "Approaches to Data & AI Informed by Information Infrastructure Perspectives: Examining AI as an infrastructural assemblage and its implications for society.",
+      "Theoretical Frames and Methodologies Salient to Infrastructure Studies: Debating theoretical and methodological concerns in infrastructure studies."
+    ],
+    "description": {
+      "paragraphs": [
+        "This call for a special issue focuses on contemporary innovation in information infrastructures, especially the emergence of new technological capabilities such as block-chain, big data, Artificial Intelligence (AI), and Internet of Things (IoT) technologies, and consequent emerging new (inter)organizational forms and processes encompassing contemporary infrastructuring.",
+        "The special issue builds on and expands the earlier stream of studies on information infrastructures to garner a deeper understanding of the new, emerging forms of digitally enabled infrastructural formations and their design, growth patterns, and local, organizational, societal and institutional uses and impacts.",
+        "We encourage multi-level analyses, studies of infrastructures in heterogeneous contexts, and analyses that give due consideration to both organizational and societal level relevance and significance, including double-edged effects that have often been missed in previous analyses of infrastructural formations. These effects include changes in social justice, climate change, immigration, and personal rights.",
+        "We invite original papers that engage with, scrutinize and highlight contemporary developments in a world composed of increasingly pervasive and rapidly changing information infrastructures and their component systems integrated into daily routines and widely shared services provided across time and space.",
+        "The expected contributions are not confined to any particular 'school' or position of infrastructure studies and can take any feasible theoretical and methodological stance towards the subject matter. Our scope is highly inclusive: we wish to recruit all scholarly work showing an interest in building upon, extending, or modifying current streams of work focused on information infrastructures."
+      ]
+    },
+    "editors": [
+      {
+        "name": "Margunn Aanestad",
+        "affiliation": "University of Oslo"
+      },
+      {
+        "name": "Ahmed Abbasi",
+        "affiliation": "University of Notre Dame"
+      },
+      {
+        "name": "Dubravka Cecez-Kecmanovic",
+        "affiliation": "UNSW Sydney"
+      },
+      {
+        "name": "Robert Gregory",
+        "affiliation": "University of Miami"
+      },
+      {
+        "name": "Kalle Lyytinen",
+        "affiliation": "Case Western Reserve University"
+      },
+      {
+        "name": "Annalisa Pelizza",
+        "affiliation": "University of Bologna"
+      },
+      {
+        "name": "Joan Rodon",
+        "affiliation": "Esade Business School"
+      },
+      {
+        "name": "Robin Williams",
+        "affiliation": "University of Edinburgh"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Roberta Bernardi",
+        "affiliation": "University of Bristol"
+      },
+      {
+        "name": "Claudio Coletta",
+        "affiliation": "University of Bologna"
+      },
+      {
+        "name": "Morgan Currie",
+        "affiliation": "University of Edinburgh"
+      },
+      {
+        "name": "Miria Grisot",
+        "affiliation": "University of Oslo"
+      },
+      {
+        "name": "Ole Hanseth",
+        "affiliation": "University of Oslo"
+      },
+      {
+        "name": "Ole Hendfridsson",
+        "affiliation": "University of Miami"
+      },
+      {
+        "name": "Ola Michalec",
+        "affiliation": "University of Bristol"
+      },
+      {
+        "name": "Eric Monteiro",
+        "affiliation": "Norwegian University of Science and Technology NTNU"
+      },
+      {
+        "name": "Marko Niemimaa",
+        "affiliation": "University of Agder"
+      },
+      {
+        "name": "David Ribes",
+        "affiliation": "University of Washington"
+      },
+      {
+        "name": "Alain Sandoz",
+        "affiliation": "Université de Neuchâtel"
+      },
+      {
+        "name": "Pankaj Setia",
+        "affiliation": "Indian Institute of Management, Ahmedabad"
+      },
+      {
+        "name": "Franz Strich",
+        "affiliation": "Deakin University"
+      },
+      {
+        "name": "Maha Shaikh",
+        "affiliation": "Esade Business School"
+      },
+      {
+        "name": "Antti Silvasti",
+        "affiliation": "LUT University"
+      },
+      {
+        "name": "Carsten Sorensen",
+        "affiliation": "Copenhagen Business School"
+      },
+      {
+        "name": "Léa Stiefel",
+        "affiliation": "University of Lausanne"
+      },
+      {
+        "name": "Stefan Tams",
+        "affiliation": "HEC Montréal"
+      },
+      {
+        "name": "David Tilson",
+        "affiliation": "Rochester Institute of Technology"
+      },
+      {
+        "name": "Jonathan Wareham",
+        "affiliation": "Esade Business School"
+      },
+      {
+        "name": "Will Venters",
+        "affiliation": "London School of Economics"
+      },
+      {
+        "name": "Adrian Yeow Yong Kwang",
+        "affiliation": "Singapore University of Social Sciences"
+      },
+      {
+        "name": "Aljona Zorina",
+        "affiliation": "IESEG School of Management"
+      }
+    ],
+    "dates": [
+      {
+        "date": null,
+        "description": "Publication of the special issue",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-07-30T12:00:00.000Z",
+        "description": "Initial submissions",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2025-11-30T12:00:00.000Z",
+        "description": "1st Round Decision on Submission",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-05-30T12:00:00.000Z",
+        "description": "Revised submission",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-09-30T12:00:00.000Z",
+        "description": "2nd Round Decision",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-01-15T12:00:00.000Z",
+        "description": "Revised Submission",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-06-15T12:00:00.000Z",
+        "description": "Final decision",
+        "is_full_paper_submission_deadline": false
+      }
+    ]
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -460,7 +648,7 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-10-27T03:00:38.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2259,7 +2447,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2347,7 +2535,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2517,7 +2705,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2615,7 +2803,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2705,7 +2893,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2799,7 +2987,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
@@ -2963,7 +3151,7 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
   },
