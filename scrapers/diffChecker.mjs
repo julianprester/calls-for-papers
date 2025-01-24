@@ -36,8 +36,6 @@ export async function integrateCalls(newCalls) {
                 });
             } else {
                 // Completely new call
-                const slugParts = newCall.slug.split('-');
-                newCall.slug = `${slugParts[0]}-${now.getFullYear()}-${slugParts.slice(1).join('-')}`;
                 resultCalls.push({
                     ...newCall,
                     active: true, // Ensure new calls are marked as active
