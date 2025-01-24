@@ -4,7 +4,7 @@
     data-duedate="{{ dueDate.date | safe }}" class="card bg-base-200 hover:bg-base-300 border border-neutral">
     <div class="card-body p-4">
         {% if call.title %}
-        <a href="{{ '/call/' + (call.title | slug) | url }}">
+        <a href="{{ ('/call/' + call.slug) | url }}">
             <h2 class="card-title">{{ call.title | safe }}</h2>
         </a>
         {% else %}
