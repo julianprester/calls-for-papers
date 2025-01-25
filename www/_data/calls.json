@@ -161,7 +161,7 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-12-25T07:52:15.170Z",
     "gracePeriod": 1740292843000
   },
@@ -1067,7 +1067,7 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
+    "active": true,
     "pubDate": "2024-07-18T10:34:43.000Z",
     "gracePeriod": 1740292843000
   },
@@ -2020,267 +2020,6 @@
     "pubDate": "2024-01-12T12:34:57.000Z"
   },
   {
-    "journal": "Journal of the Association for Information Science and Technology",
-    "abbreviation": "jasist",
-    "metaTitle": "The Theory and Practice of Informational Transitions",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf",
-    "slug": "jasist-the-theory-and-practice-of-informational-transitions",
-    "contentHash": "8c86e17f8775bcbb0fc839209a195c33af8b399bd68ba46f7149e866d799322c",
-    "title": "The Theory and Practice of Informational Transitions",
-    "topics": [
-      "How should transition be conceptualised, studied, evaluated within the field of information behaviour, information practice or information literacy?",
-      "What is the role of information and information activities, including information avoidance, in a transition?",
-      "What models, theories and concepts from Information Science and beyond are useful for studying transitions?",
-      "What research methods/methodologies can we use to study transition?",
-      "What types of life transitions exist and how can they be conceptualised in information behaviour, information practice or information literacy?",
-      "What informational strategies might support transitions?"
-    ],
-    "description": {
-      "paragraphs": [
-        "Life transitions forms a rich area of scholarship for Information Science research. The last five years have seen a steady growth in the publication of empirical studies related to transition, including PhD work and longitudinal studies, in a variety of areas including health, social, academic and employment contexts. At the same time, emerging conceptual work has also started to re-examine transition through a historical lens, including how change and adjustment has been treated in historical Information Science scholarship. This adds significant scope for complex conceptual work. The breadth of interest further means that transition has the potential to unify various related fields of study, including information behaviour, practice, and literacy research as well as various disciplinary fields. This Special Issue will provide a platform for the exploration of life transitions from an information behaviour, information practice, or information literacy perspective.",
-        "Transitions are a natural state in everyday life. In a broader sense, individuals could be said to be in a constant state of transition, or 'transitioning' with every passage in life. According to the Oxford English Dictionary, transition is defined both as a noun and adverb: 'A passing or passage from one condition, action, or (rarely) place, to another; change' and, 'To make or undergo a transition (from one state, system, etc. to or into another); to change over or switch.' From a research perspective, transition is a complex topic that has been variously conceptualised and defined. Transitions can be personal (changes due to changes in life cycle), situational (changes in circumstances in personal or professional life), or environmental (changes in the organisational environment impacting individuals). These emphases mean that transition has been most comprehensively explored to date within the field of Education and Nursing.",
-        "Conceptual work in these areas has focused on the process through which people in transition move beyond a disrupted reality to construct a new reality. Information has been found to be a strong trigger in the transition process. Transitions fracture the individual’s information landscapes and require them to learn new 'ways of knowing', a process that often requires both seeking and avoiding information as a coping mechanism to reduce uncertainty.",
-        "Although transitions are permeated with information practices of many kinds, information behaviour/practices/literacy research has engaged only peripherally with ideas of transition and the concept remains underexplored. Consequently, the aim of this special issue is to extend these initial explorations of transition through an information lens. We invite empirical, conceptual or methodological submissions for this special issue that address one or more of these questions:"
-      ]
-    },
-    "tags": [
-      "information science",
-      "transitions",
-      "information behaviour",
-      "information literacy",
-      "research methods"
-    ],
-    "editors": [
-      {
-        "name": "Jenny Bronstein",
-        "affiliation": "Bar-Ilan University"
-      },
-      {
-        "name": "Alison Hicks",
-        "affiliation": "University College London"
-      },
-      {
-        "name": "Jette Hyldegård",
-        "affiliation": "University of Copenhagen"
-      },
-      {
-        "name": "Pam McKenzie",
-        "affiliation": "The University of Western Ontario"
-      },
-      {
-        "name": "Ian Ruthven",
-        "affiliation": "University of Strathclyde"
-      },
-      {
-        "name": "Gunilla Widén",
-        "affiliation": "Åbo Akademi"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2023-09-13T12:00:00.000Z",
-        "description": "Paper development workshop",
-        "is_full_paper_submission_deadline": false
-      },
-      {
-        "date": "2024-06-13T12:00:00.000Z",
-        "description": "Submissions due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2024-09-11T12:00:00.000Z",
-        "description": "Decisions after first round of reviews",
-        "is_full_paper_submission_deadline": false
-      },
-      {
-        "date": "2025-11-01T12:00:00.000Z",
-        "description": "Special Issue to be published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
-  },
-  {
-    "journal": "Journal of the Association for Information Science and Technology",
-    "abbreviation": "jasist",
-    "metaTitle": "Re-orientating Search Engine Research in Information Science",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf",
-    "slug": "jasist-re-orientating-search-engine-research-in-information-science",
-    "contentHash": "543aa7c194f73603a7cd6c573e5f26f6d8482d1800d03f4c3ccfb0187edd52f8",
-    "title": "Re-orientating Search Engine Research in Information Science",
-    "topics": [
-      "Social and cultural aspects of relevance",
-      "Epistemic implications of search-engine use",
-      "Search engine bias (e.g., in terms of race, gender, class) and marginalization",
-      "Fair search",
-      "Search engine providers’ responsibility and accountability",
-      "Search engines as multi-sided platforms",
-      "History of web search and web search engines",
-      "Ethical considerations related to search engines",
-      "Affect and emotional aspects of search engine use",
-      "Information literacy related to search engines",
-      "Search engines and specific groups (children, elderly,...)",
-      "Search engines and studies of ignorance and information avoidance",
-      "Search engines in everyday life and in social practices",
-      "Search engines in educational settings",
-      "Alternative approaches to concepts of indexing in search engines",
-      "Search engines and the role of data voids",
-      "Negotiations of search results (search engine optimization, paid search advertising)",
-      "Search engine comparisons (e.g., comparing results tailored to different locations, comparing results from different search engines)",
-      "Methods for search engine research",
-      "Data collection for search engine studies",
-      "Approaches to 'opening the Black Box of search engine rankings'"
-    ],
-    "description": {
-      "paragraphs": [
-        "General web search engines are an essential part of today's information infrastructure. They have made it possible to find almost anything on the Internet by typing a few keywords into an empty search box. In fact, search engines have become so integrated into devices and practices that you can get an answer before you even knew how to phrase the question. Search engines shape our lives and at the same time shape the society and culture we live in. We use them at work, in school, in research, in planning our vacations, in finding products, and in politics – just to name a few important areas.",
-        "The search engine market is dominated by a few companies that have divided the market into regions: Baidu in China, Yandex in Russia and Google in much of the Western world. More competition between search engines is often called for, but is very difficult to achieve. On the other side, we find the content providers doing everything they can by employing various types of search engine optimization (SEO) to achieve the highest rank in the search engine results page when people search for information.",
-        "In information science, search engines have been studied mainly in the subfield of information retrieval and information behaviour. The study of search engines has thus been a core task of information science since the discipline's beginnings in the 1960s and even before (Saracevic, 2009). With concepts such as relevance or precision and recall, the evaluation of effectiveness has often been the focus of research.",
-        "While general web search engines play an extremely important role in today's information infrastructure - economically, culturally, politically, technically, etc. - and have become an integral part of daily life at many levels, information science has only partially embraced the role of general web search engines in society. Research is fragmented into different subfields of information science and these fields do not always communicate well with each other.",
-        "In this special issue, we call on information science researchers to join us in the investigation of general web search engines, also from outside Information Retrieval. Why information science? Information science can look back on a long and rich tradition of studying search and search systems. Relevance, one of the most central concepts for even contemporary search engines, has its origin in the field (Saracevic, 1975). Still, there are some blind spots, especially what role different types of relevance play when it comes to search engines (cf. Sundin, Lewandowski & Haider, 2021).",
-        "These search engines index a plethora of content and have a very low quality threshold when it comes to including documents in their indexes. Therefore, ranking results in a way that benefits users and at the same time provides societal relevance is paramount. From a technical viewpoint, information retrieval research has contributed to search engines by developing indexing methods (e.g., Sparck Jones, 1972) and ranking algorithms, with link-based algorithms being based on central ideas from information science, namely citation analysis (Garfield, 1979).",
-        "Evaluation campaigns such as TREC (Haarman & Voorhees, 2006) and CLEF (Ferro & Peters, 2019) have developed solid methods and procedures to thoroughly test search engines. On the user side, information science research has contributed to the development and understanding of search engines through developing information-seeking models (e.g., Bates, 1989; Kuhlthau, 2003; Belkin, Oddy & Brooks, 1982) that are used in system development (White, 2016).",
-        "Information behaviour research has also produced a large body of empirical work on people's behaviour when looking for and using information. Information science, with its rich tradition of studying these topics, provides a good starting point for investigating today's search engines (Haider & Sundin, 2019; Lewandowski, Sünkler & Schultheiß, 2020; Lewandowski et al., 2021). As the field is interdisciplinary, it can also can serve as a hub for integrating research from other fields.",
-        "Search engines and their use (search) are studied in different disciplines and from different theoretical perspectives. In addition to information science, information studies, and LIS, the topic has been addressed in disciplines as diverse as science and technology studies (STS), media and communication studies, political science, economics, education, psychology, HCI, or informatics, to name a few. Media-centred and device-centered research exists alongside people-centred studies and research that focuses on society, economics, or politics.",
-        "While some focus on search engine use in general (e.g., Halavais 2018), others examine specific commercial search engines such as Google (e.g., Hillis et al. 2012), as well as Yandex, Baidu, or various regional services (e.g., Zavadski & Toepfl 2019). Some studies focus on specific groups such as teenagers (e.g., Andersson 2017) or the elderly (Sanchiz et al. 2017), settings, or professions (e.g., Gudmundsdottir and Hartlevik 2020), and others focus on search engine use in relation to other platforms such as social media (e.g., Delmastro & Splendore 2021).",
-        "More recently, with the emergence of critical algorithm studies and critical AI, the focus has been on the various ways in which Google in particular may be implicated in society's information disorders and problems with misinformation and algorithmic biases that reinforce prejudice and injustice (e.g., Noble, 2018; Puschmann 2019). Another angle has been the central role of Google in capitalism (Bilić 2018; Mager, 2012), while others have examined the role of commercial search engines in reinforcing confirmation biases, partisanship, or hostile media effects (e.g., Tripodi 2018).",
-        "Although search engines have been studied from many different angles and for a relatively long time, the field is extremely scattered. Not only is there little awareness of each other's work across disciplines, but even across subfields there are few connections. Different disciplinary investigations run in parallel and rarely meet in a productive way. Furthermore, the more commercial search engines fade into the background, the more difficult it becomes to perceive and study them. Moreover, their functioning is largely opaque and beyond the control of society, which in many cases means that the data available for research remains speculative. This may require creative approaches to data collection and methodology, as well as research designs that are open to new influences and experimental tactics.",
-        "This Call for Papers is based on the premise that different approaches need to benefit from each other. We are looking for contributions that broaden the respective disciplinary, methodological, or empirical perspectives to identify and explore commercial search engines and their use and role in society from new angles, or that bring together different approaches in original ways. In particular, we would like to encourage information science/information studies, broadly understood, to reposition themselves and contribute the discipline's expertise to shed light on the ever more powerful role of commercial search engines in almost all areas of society and everyday life, influencing not only how we know and what we know, but increasingly also how knowledge and information are created and communicated, to begin with. The guest-editors welcome papers representing a variety of approaches. Papers can be theoretical, conceptual or empirical or combinations thereof."
-      ]
-    },
-    "tags": [
-      "information science",
-      "search engines",
-      "research"
-    ],
-    "editors": [
-      {
-        "name": "Dirk Lewandowski",
-        "affiliation": "Hamburg University of Applied Sciences"
-      },
-      {
-        "name": "Jutta Haider",
-        "affiliation": "Swedish School of Library and Information Science, University of Borås"
-      },
-      {
-        "name": "Olof Sundin",
-        "affiliation": "Department of Arts and Cultural Sciences, Lund University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2022-11-30T12:00:00.000Z",
-        "description": "Submissions due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2023-02-28T12:00:00.000Z",
-        "description": "Decision after first round of reviews",
-        "is_full_paper_submission_deadline": false
-      },
-      {
-        "date": "2023-09-01T12:00:00.000Z",
-        "description": "Special Issue to be published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
-  },
-  {
-    "journal": "Journal of the Association for Information Science and Technology",
-    "abbreviation": "jasist",
-    "metaTitle": "Healthier Information Ecosystems",
-    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf",
-    "slug": "jasist-healthier-information-ecosystems",
-    "contentHash": "14d787782155968c76ad62639613131d3af66528c8781a2d7028c542c4fc7fd1",
-    "title": "Healthier Information Ecosystems",
-    "topics": [
-      "Definitions of healthy ecosystems",
-      "Ethical models for evaluating the health of online information ecosystems",
-      "Multilevel metrics for evaluating the health of online information ecosystems",
-      "Strategies for creating healthy ecosystems",
-      "Design and collective human dynamics",
-      "Disrupting systems of mis- and dis-information in politics and democracy, including national, state, and local politics",
-      "Educational interventions",
-      "Information as a social, political, economic, and cultural phenomenon",
-      "Interdisciplinary perspectives and approaches to information and media",
-      "The role of information ecosystems in conspiracy theories",
-      "Interactions between online and offline decision making and behavior",
-      "Information architecture, interface design and psychological biases of information consumers",
-      "Engaging with systems of power; who is advantaged and who is disadvantaged from current or future systems",
-      "Complex dynamics of information, social interaction and cognition",
-      "Social dynamics and digital media ecosystems",
-      "How policy, economic, and market forces shape algorithm design and development",
-      "Big data, open science, and their socio-cultural impacts",
-      "Hijacking of user-generated content and/or AI-generated content",
-      "Mis- and dis-information transference during the COVID-19 pandemic"
-    ],
-    "description": {
-      "paragraphs": [
-        "This special issue, \"Healthier Information Ecosystems,\" will focus on the interconnected nature of online pathologies, draw attention to the socio-technical aspects of information technology, and animate interdisciplinary approaches to addressing these problems. Similar to Buckminster Fuller’s mission of “World Game,” we want to aid in developing a wide variety of solutions (including but not limited to technical, political, social, and educational) to the wicked problems of our time to make “the world work for 100% of humanity, in the shortest period of time… without ecological offense or the disadvantage of anyone.”",
-        "We invite contributions that address the socio-cultural embeddedness of the problems plaguing information ecosystems and provide new ways of thinking about and strategies to achieve a healthier global information environment. We are actively seeking a broad approach to issues of healthier information ecosystems, including both theoretical and applied, qualitative and quantitative, as well as inside and outside the discipline of information science and technology.",
-        "As Rong Tang (Tang et al., 2021) and colleagues mentioned in their 2021 JASIST piece, information science is experiencing a paradigm shift and the need to better understand the socio-technical side of information technology is central to this change. There is no shortage of research examining the pathological aspects of our modern information ecosystems, covering a broad spectrum of socio-technical phenomena including (but not limited to) misinformation, toxicity, polarization, and extremism. Together, these phenomena might be considered to be a sign of an “unhealthy” information ecosystem. However, our collective understanding of the problem remains fragmented and incomplete, impeding our ability to identify and implement successful solutions.",
-        "For this special issue, we seek papers that take an interdisciplinary approach to expanding our understanding of information ecosystems by answering such vital questions as: What does it mean to live in an unhealthy information ecosystem, is it possible to envision a healthier one, and how do we get from here to there?",
-        "Papers should speak to the information science community, but do so in an interdisciplinary manner that centers on the interplay of information, technology, and society. We are eager to receive contributions from disciplines that might lend new perspectives, including (but not limited to) statistical physics, complex systems, biology, environmental science, economics, management science, organization science, communication, psychology, anthropology, sociology, and philosophy. All contributions should clarify how they can be used to help our information ecosystems work for the betterment of society at large, developing an inclusive and thus “healthy” ecosystem."
-      ]
-    },
-    "tags": [
-      "information ecosystems",
-      "interdisciplinary research",
-      "socio-technical aspects"
-    ],
-    "editors": [
-      {
-        "name": "Josh Introne",
-        "affiliation": "Syracuse University"
-      },
-      {
-        "name": "Charisse L’Pree Corsbie-Massay",
-        "affiliation": "Syracuse University"
-      },
-      {
-        "name": "Brian McKernan",
-        "affiliation": "Syracuse University"
-      },
-      {
-        "name": "Deana Rohlinger",
-        "affiliation": "Florida State University"
-      },
-      {
-        "name": "Olof Sundin",
-        "affiliation": "Lund University"
-      },
-      {
-        "name": "Francesa Tripodi",
-        "affiliation": "UNC - Chapel Hill"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2023-05-15T12:00:00.000Z",
-        "description": "Deadline Extended for submissions",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2023-08-01T12:00:00.000Z",
-        "description": "Decisions after first round of reviews",
-        "is_full_paper_submission_deadline": false
-      },
-      {
-        "date": "2024-01-01T12:00:00.000Z",
-        "description": "Special Issue to be published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2024-01-12T12:34:57.000Z"
-  },
-  {
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "metaTitle": "Regulation in the Age of Digitalization",
@@ -3156,6 +2895,270 @@
     "active": true,
     "pubDate": "2024-01-12T12:34:57.000Z",
     "gracePeriod": 1740192645000
+  },
+  {
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist",
+    "metaTitle": "The Theory and Practice of Informational Transitions",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf",
+    "slug": "jasist-the-theory-and-practice-of-informational-transitions",
+    "contentHash": "8c86e17f8775bcbb0fc839209a195c33af8b399bd68ba46f7149e866d799322c",
+    "title": "The Theory and Practice of Informational Transitions",
+    "topics": [
+      "How should transition be conceptualised, studied, evaluated within the field of information behaviour, information practice or information literacy?",
+      "What is the role of information and information activities, including information avoidance, in a transition?",
+      "What models, theories and concepts from Information Science and beyond are useful for studying transitions?",
+      "What research methods/methodologies can we use to study transition?",
+      "What types of life transitions exist and how can they be conceptualised in information behaviour, information practice or information literacy?",
+      "What informational strategies might support transitions?"
+    ],
+    "description": {
+      "paragraphs": [
+        "Life transitions forms a rich area of scholarship for Information Science research. The last five years have seen a steady growth in the publication of empirical studies related to transition, including PhD work and longitudinal studies, in a variety of areas including health, social, academic and employment contexts. At the same time, emerging conceptual work has also started to re-examine transition through a historical lens, including how change and adjustment has been treated in historical Information Science scholarship. This adds significant scope for complex conceptual work. The breadth of interest further means that transition has the potential to unify various related fields of study, including information behaviour, practice, and literacy research as well as various disciplinary fields. This Special Issue will provide a platform for the exploration of life transitions from an information behaviour, information practice, or information literacy perspective.",
+        "Transitions are a natural state in everyday life. In a broader sense, individuals could be said to be in a constant state of transition, or 'transitioning' with every passage in life. According to the Oxford English Dictionary, transition is defined both as a noun and adverb: 'A passing or passage from one condition, action, or (rarely) place, to another; change' and, 'To make or undergo a transition (from one state, system, etc. to or into another); to change over or switch.' From a research perspective, transition is a complex topic that has been variously conceptualised and defined. Transitions can be personal (changes due to changes in life cycle), situational (changes in circumstances in personal or professional life), or environmental (changes in the organisational environment impacting individuals). These emphases mean that transition has been most comprehensively explored to date within the field of Education and Nursing.",
+        "Conceptual work in these areas has focused on the process through which people in transition move beyond a disrupted reality to construct a new reality. Information has been found to be a strong trigger in the transition process. Transitions fracture the individual’s information landscapes and require them to learn new 'ways of knowing', a process that often requires both seeking and avoiding information as a coping mechanism to reduce uncertainty.",
+        "Although transitions are permeated with information practices of many kinds, information behaviour/practices/literacy research has engaged only peripherally with ideas of transition and the concept remains underexplored. Consequently, the aim of this special issue is to extend these initial explorations of transition through an information lens. We invite empirical, conceptual or methodological submissions for this special issue that address one or more of these questions:"
+      ]
+    },
+    "tags": [
+      "information science",
+      "transitions",
+      "information behaviour",
+      "information literacy",
+      "research methods"
+    ],
+    "editors": [
+      {
+        "name": "Jenny Bronstein",
+        "affiliation": "Bar-Ilan University"
+      },
+      {
+        "name": "Alison Hicks",
+        "affiliation": "University College London"
+      },
+      {
+        "name": "Jette Hyldegård",
+        "affiliation": "University of Copenhagen"
+      },
+      {
+        "name": "Pam McKenzie",
+        "affiliation": "The University of Western Ontario"
+      },
+      {
+        "name": "Ian Ruthven",
+        "affiliation": "University of Strathclyde"
+      },
+      {
+        "name": "Gunilla Widén",
+        "affiliation": "Åbo Akademi"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2023-09-13T12:00:00.000Z",
+        "description": "Paper development workshop",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2024-06-13T12:00:00.000Z",
+        "description": "Submissions due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2024-09-11T12:00:00.000Z",
+        "description": "Decisions after first round of reviews",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-11-01T12:00:00.000Z",
+        "description": "Special Issue to be published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740365161000
+  },
+  {
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist",
+    "metaTitle": "Re-orientating Search Engine Research in Information Science",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf",
+    "slug": "jasist-re-orientating-search-engine-research-in-information-science",
+    "contentHash": "543aa7c194f73603a7cd6c573e5f26f6d8482d1800d03f4c3ccfb0187edd52f8",
+    "title": "Re-orientating Search Engine Research in Information Science",
+    "topics": [
+      "Social and cultural aspects of relevance",
+      "Epistemic implications of search-engine use",
+      "Search engine bias (e.g., in terms of race, gender, class) and marginalization",
+      "Fair search",
+      "Search engine providers’ responsibility and accountability",
+      "Search engines as multi-sided platforms",
+      "History of web search and web search engines",
+      "Ethical considerations related to search engines",
+      "Affect and emotional aspects of search engine use",
+      "Information literacy related to search engines",
+      "Search engines and specific groups (children, elderly,...)",
+      "Search engines and studies of ignorance and information avoidance",
+      "Search engines in everyday life and in social practices",
+      "Search engines in educational settings",
+      "Alternative approaches to concepts of indexing in search engines",
+      "Search engines and the role of data voids",
+      "Negotiations of search results (search engine optimization, paid search advertising)",
+      "Search engine comparisons (e.g., comparing results tailored to different locations, comparing results from different search engines)",
+      "Methods for search engine research",
+      "Data collection for search engine studies",
+      "Approaches to 'opening the Black Box of search engine rankings'"
+    ],
+    "description": {
+      "paragraphs": [
+        "General web search engines are an essential part of today's information infrastructure. They have made it possible to find almost anything on the Internet by typing a few keywords into an empty search box. In fact, search engines have become so integrated into devices and practices that you can get an answer before you even knew how to phrase the question. Search engines shape our lives and at the same time shape the society and culture we live in. We use them at work, in school, in research, in planning our vacations, in finding products, and in politics – just to name a few important areas.",
+        "The search engine market is dominated by a few companies that have divided the market into regions: Baidu in China, Yandex in Russia and Google in much of the Western world. More competition between search engines is often called for, but is very difficult to achieve. On the other side, we find the content providers doing everything they can by employing various types of search engine optimization (SEO) to achieve the highest rank in the search engine results page when people search for information.",
+        "In information science, search engines have been studied mainly in the subfield of information retrieval and information behaviour. The study of search engines has thus been a core task of information science since the discipline's beginnings in the 1960s and even before (Saracevic, 2009). With concepts such as relevance or precision and recall, the evaluation of effectiveness has often been the focus of research.",
+        "While general web search engines play an extremely important role in today's information infrastructure - economically, culturally, politically, technically, etc. - and have become an integral part of daily life at many levels, information science has only partially embraced the role of general web search engines in society. Research is fragmented into different subfields of information science and these fields do not always communicate well with each other.",
+        "In this special issue, we call on information science researchers to join us in the investigation of general web search engines, also from outside Information Retrieval. Why information science? Information science can look back on a long and rich tradition of studying search and search systems. Relevance, one of the most central concepts for even contemporary search engines, has its origin in the field (Saracevic, 1975). Still, there are some blind spots, especially what role different types of relevance play when it comes to search engines (cf. Sundin, Lewandowski & Haider, 2021).",
+        "These search engines index a plethora of content and have a very low quality threshold when it comes to including documents in their indexes. Therefore, ranking results in a way that benefits users and at the same time provides societal relevance is paramount. From a technical viewpoint, information retrieval research has contributed to search engines by developing indexing methods (e.g., Sparck Jones, 1972) and ranking algorithms, with link-based algorithms being based on central ideas from information science, namely citation analysis (Garfield, 1979).",
+        "Evaluation campaigns such as TREC (Haarman & Voorhees, 2006) and CLEF (Ferro & Peters, 2019) have developed solid methods and procedures to thoroughly test search engines. On the user side, information science research has contributed to the development and understanding of search engines through developing information-seeking models (e.g., Bates, 1989; Kuhlthau, 2003; Belkin, Oddy & Brooks, 1982) that are used in system development (White, 2016).",
+        "Information behaviour research has also produced a large body of empirical work on people's behaviour when looking for and using information. Information science, with its rich tradition of studying these topics, provides a good starting point for investigating today's search engines (Haider & Sundin, 2019; Lewandowski, Sünkler & Schultheiß, 2020; Lewandowski et al., 2021). As the field is interdisciplinary, it can also can serve as a hub for integrating research from other fields.",
+        "Search engines and their use (search) are studied in different disciplines and from different theoretical perspectives. In addition to information science, information studies, and LIS, the topic has been addressed in disciplines as diverse as science and technology studies (STS), media and communication studies, political science, economics, education, psychology, HCI, or informatics, to name a few. Media-centred and device-centered research exists alongside people-centred studies and research that focuses on society, economics, or politics.",
+        "While some focus on search engine use in general (e.g., Halavais 2018), others examine specific commercial search engines such as Google (e.g., Hillis et al. 2012), as well as Yandex, Baidu, or various regional services (e.g., Zavadski & Toepfl 2019). Some studies focus on specific groups such as teenagers (e.g., Andersson 2017) or the elderly (Sanchiz et al. 2017), settings, or professions (e.g., Gudmundsdottir and Hartlevik 2020), and others focus on search engine use in relation to other platforms such as social media (e.g., Delmastro & Splendore 2021).",
+        "More recently, with the emergence of critical algorithm studies and critical AI, the focus has been on the various ways in which Google in particular may be implicated in society's information disorders and problems with misinformation and algorithmic biases that reinforce prejudice and injustice (e.g., Noble, 2018; Puschmann 2019). Another angle has been the central role of Google in capitalism (Bilić 2018; Mager, 2012), while others have examined the role of commercial search engines in reinforcing confirmation biases, partisanship, or hostile media effects (e.g., Tripodi 2018).",
+        "Although search engines have been studied from many different angles and for a relatively long time, the field is extremely scattered. Not only is there little awareness of each other's work across disciplines, but even across subfields there are few connections. Different disciplinary investigations run in parallel and rarely meet in a productive way. Furthermore, the more commercial search engines fade into the background, the more difficult it becomes to perceive and study them. Moreover, their functioning is largely opaque and beyond the control of society, which in many cases means that the data available for research remains speculative. This may require creative approaches to data collection and methodology, as well as research designs that are open to new influences and experimental tactics.",
+        "This Call for Papers is based on the premise that different approaches need to benefit from each other. We are looking for contributions that broaden the respective disciplinary, methodological, or empirical perspectives to identify and explore commercial search engines and their use and role in society from new angles, or that bring together different approaches in original ways. In particular, we would like to encourage information science/information studies, broadly understood, to reposition themselves and contribute the discipline's expertise to shed light on the ever more powerful role of commercial search engines in almost all areas of society and everyday life, influencing not only how we know and what we know, but increasingly also how knowledge and information are created and communicated, to begin with. The guest-editors welcome papers representing a variety of approaches. Papers can be theoretical, conceptual or empirical or combinations thereof."
+      ]
+    },
+    "tags": [
+      "information science",
+      "search engines",
+      "research"
+    ],
+    "editors": [
+      {
+        "name": "Dirk Lewandowski",
+        "affiliation": "Hamburg University of Applied Sciences"
+      },
+      {
+        "name": "Jutta Haider",
+        "affiliation": "Swedish School of Library and Information Science, University of Borås"
+      },
+      {
+        "name": "Olof Sundin",
+        "affiliation": "Department of Arts and Cultural Sciences, Lund University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2022-11-30T12:00:00.000Z",
+        "description": "Submissions due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2023-02-28T12:00:00.000Z",
+        "description": "Decision after first round of reviews",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2023-09-01T12:00:00.000Z",
+        "description": "Special Issue to be published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740365161000
+  },
+  {
+    "journal": "Journal of the Association for Information Science and Technology",
+    "abbreviation": "jasist",
+    "metaTitle": "Healthier Information Ecosystems",
+    "url": "https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf",
+    "slug": "jasist-healthier-information-ecosystems",
+    "contentHash": "14d787782155968c76ad62639613131d3af66528c8781a2d7028c542c4fc7fd1",
+    "title": "Healthier Information Ecosystems",
+    "topics": [
+      "Definitions of healthy ecosystems",
+      "Ethical models for evaluating the health of online information ecosystems",
+      "Multilevel metrics for evaluating the health of online information ecosystems",
+      "Strategies for creating healthy ecosystems",
+      "Design and collective human dynamics",
+      "Disrupting systems of mis- and dis-information in politics and democracy, including national, state, and local politics",
+      "Educational interventions",
+      "Information as a social, political, economic, and cultural phenomenon",
+      "Interdisciplinary perspectives and approaches to information and media",
+      "The role of information ecosystems in conspiracy theories",
+      "Interactions between online and offline decision making and behavior",
+      "Information architecture, interface design and psychological biases of information consumers",
+      "Engaging with systems of power; who is advantaged and who is disadvantaged from current or future systems",
+      "Complex dynamics of information, social interaction and cognition",
+      "Social dynamics and digital media ecosystems",
+      "How policy, economic, and market forces shape algorithm design and development",
+      "Big data, open science, and their socio-cultural impacts",
+      "Hijacking of user-generated content and/or AI-generated content",
+      "Mis- and dis-information transference during the COVID-19 pandemic"
+    ],
+    "description": {
+      "paragraphs": [
+        "This special issue, \"Healthier Information Ecosystems,\" will focus on the interconnected nature of online pathologies, draw attention to the socio-technical aspects of information technology, and animate interdisciplinary approaches to addressing these problems. Similar to Buckminster Fuller’s mission of “World Game,” we want to aid in developing a wide variety of solutions (including but not limited to technical, political, social, and educational) to the wicked problems of our time to make “the world work for 100% of humanity, in the shortest period of time… without ecological offense or the disadvantage of anyone.”",
+        "We invite contributions that address the socio-cultural embeddedness of the problems plaguing information ecosystems and provide new ways of thinking about and strategies to achieve a healthier global information environment. We are actively seeking a broad approach to issues of healthier information ecosystems, including both theoretical and applied, qualitative and quantitative, as well as inside and outside the discipline of information science and technology.",
+        "As Rong Tang (Tang et al., 2021) and colleagues mentioned in their 2021 JASIST piece, information science is experiencing a paradigm shift and the need to better understand the socio-technical side of information technology is central to this change. There is no shortage of research examining the pathological aspects of our modern information ecosystems, covering a broad spectrum of socio-technical phenomena including (but not limited to) misinformation, toxicity, polarization, and extremism. Together, these phenomena might be considered to be a sign of an “unhealthy” information ecosystem. However, our collective understanding of the problem remains fragmented and incomplete, impeding our ability to identify and implement successful solutions.",
+        "For this special issue, we seek papers that take an interdisciplinary approach to expanding our understanding of information ecosystems by answering such vital questions as: What does it mean to live in an unhealthy information ecosystem, is it possible to envision a healthier one, and how do we get from here to there?",
+        "Papers should speak to the information science community, but do so in an interdisciplinary manner that centers on the interplay of information, technology, and society. We are eager to receive contributions from disciplines that might lend new perspectives, including (but not limited to) statistical physics, complex systems, biology, environmental science, economics, management science, organization science, communication, psychology, anthropology, sociology, and philosophy. All contributions should clarify how they can be used to help our information ecosystems work for the betterment of society at large, developing an inclusive and thus “healthy” ecosystem."
+      ]
+    },
+    "tags": [
+      "information ecosystems",
+      "interdisciplinary research",
+      "socio-technical aspects"
+    ],
+    "editors": [
+      {
+        "name": "Josh Introne",
+        "affiliation": "Syracuse University"
+      },
+      {
+        "name": "Charisse L’Pree Corsbie-Massay",
+        "affiliation": "Syracuse University"
+      },
+      {
+        "name": "Brian McKernan",
+        "affiliation": "Syracuse University"
+      },
+      {
+        "name": "Deana Rohlinger",
+        "affiliation": "Florida State University"
+      },
+      {
+        "name": "Olof Sundin",
+        "affiliation": "Lund University"
+      },
+      {
+        "name": "Francesa Tripodi",
+        "affiliation": "UNC - Chapel Hill"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2023-05-15T12:00:00.000Z",
+        "description": "Deadline Extended for submissions",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2023-08-01T12:00:00.000Z",
+        "description": "Decisions after first round of reviews",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2024-01-01T12:00:00.000Z",
+        "description": "Special Issue to be published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": false,
+    "pubDate": "2024-01-12T12:34:57.000Z",
+    "gracePeriod": 1740365161000
   },
   {
     "journal": "Information Systems Research",
