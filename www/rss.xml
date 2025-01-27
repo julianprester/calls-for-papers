@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sun, 26 Jan 2025 02:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 02:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/cfp/ISJ-CFP-Theorising-the-Impact-of-Generative-Artificial-Intelligence-1734959512827.pdf</link>
+            <guid>isj-theorising-the-impacts-of-generative-artificial-intelligence</guid>
+            <pubDate>Wed, 25 Dec 2024 07:52:15 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
+        </item>
         <item>
             <title><![CDATA[Contemporary Innovation in Information Infrastructures]]></title>
             <link>https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07</link>
@@ -48,6 +55,13 @@
             <guid>io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</guid>
             <pubDate>Thu, 15 Aug 2024 12:37:20 GMT</pubDate>
             <author>Information and Organization (IO)</author>
+        </item>
+        <item>
+            <title><![CDATA[Addressing Refugees and Migration Issues through Critical Information Systems]]></title>
+            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-Special-Issue-on-Refugees-CFP-Updated-1733230198493.pdf</link>
+            <guid>isj-addressing-refugees-and-migration-issues-through-critical-information-systems</guid>
+            <pubDate>Thu, 18 Jul 2024 10:34:43 GMT</pubDate>
+            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Decision Support Systems on Improving Societal Outcomes with Design Science Research]]></title>
@@ -97,27 +111,6 @@
             <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
             <pubDate>Fri, 12 Jan 2024 12:34:57 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
-            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
-            <pubDate>Fri, 12 Jan 2024 12:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
-            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
-            <pubDate>Fri, 12 Jan 2024 12:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Healthier Information Ecosystems]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
-            <guid>jasist-healthier-information-ecosystems</guid>
-            <pubDate>Fri, 12 Jan 2024 12:34:57 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
         </item>
         <item>
             <title><![CDATA[Regulation in the Age of Digitalization]]></title>
