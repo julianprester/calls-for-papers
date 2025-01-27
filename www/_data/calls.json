@@ -4232,67 +4232,6 @@
   {
     "journal": "International Journal of Information Management",
     "abbreviation": "ijim",
-    "metaTitle": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
-    "url": "https://www.sciencedirect.com/special-issue/229889/more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
-    "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
-    "contentHash": "0f52295da8c9f92a7531cda2d06bbab54a545ced5ab92fc2b79a1ba1eb90f0d1",
-    "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
-    "topics": [
-      "persuasion attributes and characteristics of supporting customer facing technology vs distracting technology",
-      "mindful approaches for mitigating the distractive and negative effects of technology in consumption experiences (i.e., sensory overload, technostress, motion sickness, frustration, compulsive use, dehumanization and depersonalization of service/tourist experiences, consumer well-being)",
-      "supporting VS distracting technology effects in consumption experiences such as retailing, tourism, services, luxury brands",
-      "incorporating VS reducing multiple sensory cues in customer facing technology with brand experiences",
-      "technology impacts on the threshold of consumer consciousness, and resulting impacts on consumer behaviour",
-      "negative technology impacts on visual attention of consumers towards atmospherics and other environmental brand stimuli within consumption experiences",
-      "consumer responses (cognitive, affective and behavioral) to technology distraction in consumption contexts",
-      "technostress and the relevant negative effects on consumer decision making and their well-being",
-      "the impact of technology distraction on bottom line measures",
-      "the impact of technology distraction on consumers’ post-experience regrets",
-      "the effect of technology distraction on consumers’ perceived brand image/authenticity of luxury brands, services and tourism experiences"
-    ],
-    "description": {
-      "paragraphs": [
-        "Over the past decades, a vast array of technologies has been introduced in the marketplace to improve the customer experience, leading to stimuli-dense consumption environments. Such digital transformation has replaced and supplemented traditional face-to-face consumer interactions with digital-enabled assistants (i.e., apps to automatically locate products in stores, self-serve checkout, or to explore cities without a tourism guide). More recently, as a response to COVID-19, many new technologies were launched to limit consumers’ and service personnel’s exposure to the virus. For instance, in hospitality, new technologies like service robots helped reduce guest interactions with employees and enhance cleanliness. Furthermore, the hospitality industry is increasing its use of AI in the form of intelligent voice assistants (e.g., Siri, Alexa, Google Assistant) to support tourists from hotel room services to travel planning. In retailing, robots and self-service systems have been introduced to points of sale to facilitate contactless or in-home shopping, and AR and VR to improve consumer engagement with products and the shopping experience. On the one hand, these technologies safeguard consumers’ health and safety. On the other hand, they compensate for the unavailability of human workers, thus providing more automated experiences that could stimulate satiation. However, incorporating new technologies (e.g., VR, AR, AI) into today’s consumption experiences could have both positive (e.g., escapism, convenience, efficiency) and negative (e.g., binge watching, isolation, frustration, visually induced motion sickness, well-being) impacts on consumers, and broader society.",
-        "Past research has largely emphasized the benefits of adopting technologies as decision support aids for consumers. However, these technologies also influence human-to-human interactions, which lead companies to change their marketing communication strategies in reaching customers (e.g., shift to digital influencers); while dramatically changing the nature of relationship experiences, atmospherics, and the way consumers process and integrate information between the offline and online environments. Moreover, Kotler and colleagues described how new technology might change consumers from being informed to becoming distracted. In this sense, technology in the consumption experience may consume too much of a customer’s attention by requiring them to focus on the system where there are many tasks, complex features, unfamiliar or unresponsive user interfaces. Arguably, customer interaction with technology may potentially reduce individual perception of atmospherics or other environmental stimuli, particularly when these are below the consciousness threshold. Thus, technology might move from being a supporting tool for customer to being a distractive mechanism for inhibiting purchase decision-making. For instance, in a luxury store setting, technology may distract prospects from opportunities to interact with employees through which they may learn more about the history, heritage, craftsmanship and excellent quality of the product. In other cases, technology is a beneficial facilitator that allows deep access to luxury services or products that would not otherwise be attainable. Similarly, if tourists’ attention is focused on a mobile app showing the best route to reach a certain attraction, they might ignore other tourist attractions on their travel journey. This dual nature of technology is unevenly researched in extant literature. Specifically, the distractive and negative effects of technology at the customer interface are still scarcely investigated and understood. This is a pertinent issue given the importance of new technology developments and innovations aligning to the Sustainable Development Goals (SDGs) prescribed by the UN, including responsible consumption and production in society. Therefore, this Special Issue will address the interplay between a customer’s experience with technology and its associated distracting mechanisms, as triggered by their interaction with technology in varied consumption contexts. Conceptual, methodological, qualitative, or quantitative contributions that offer insight in this area are equally welcome by the Guest Editors."
-      ]
-    },
-    "tags": [
-      "technology",
-      "customer experience",
-      "consumer behavior"
-    ],
-    "editors": [
-      {
-        "name": "Eleonora Pantano",
-        "affiliation": "Bristol"
-      },
-      {
-        "name": "Jamie Carlson",
-        "affiliation": "Newcastle"
-      },
-      {
-        "name": "Konstantina Spanaki",
-        "affiliation": "Audiencia"
-      },
-      {
-        "name": "George Christodoulides",
-        "affiliation": "AUS"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2023-02-01T12:00:00.000Z",
-        "description": "Manuscript Submission Deadline",
-        "is_full_paper_submission_deadline": true
-      }
-    ],
-    "active": true,
-    "pubDate": "2022-12-22T12:41:59.000Z"
-  },
-  {
-    "journal": "International Journal of Information Management",
-    "abbreviation": "ijim",
     "metaTitle": "Theory Building in Information Systems with Big Data-Driven Research",
     "url": "https://www.sciencedirect.com/special-issue/198507/theory-building-in-information-systems-with-big-data-driven-research",
     "slug": "ijim-theory-building-in-information-systems-with-big-data-driven-research",
@@ -4377,6 +4316,67 @@
     ],
     "active": true,
     "pubDate": "2022-12-22T12:42:59.000Z"
+  },
+  {
+    "journal": "International Journal of Information Management",
+    "abbreviation": "ijim",
+    "metaTitle": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
+    "url": "https://www.sciencedirect.com/special-issue/229889/more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
+    "slug": "ijim-more-supportive-or-more-distractive-investigating-the-negative-effects-of-technology-at-the-customer-interface",
+    "contentHash": "0f52295da8c9f92a7531cda2d06bbab54a545ced5ab92fc2b79a1ba1eb90f0d1",
+    "title": "More supportive or more distractive? Investigating the negative effects of technology at the customer interface",
+    "topics": [
+      "persuasion attributes and characteristics of supporting customer facing technology vs distracting technology",
+      "mindful approaches for mitigating the distractive and negative effects of technology in consumption experiences (i.e., sensory overload, technostress, motion sickness, frustration, compulsive use, dehumanization and depersonalization of service/tourist experiences, consumer well-being)",
+      "supporting VS distracting technology effects in consumption experiences such as retailing, tourism, services, luxury brands",
+      "incorporating VS reducing multiple sensory cues in customer facing technology with brand experiences",
+      "technology impacts on the threshold of consumer consciousness, and resulting impacts on consumer behaviour",
+      "negative technology impacts on visual attention of consumers towards atmospherics and other environmental brand stimuli within consumption experiences",
+      "consumer responses (cognitive, affective and behavioral) to technology distraction in consumption contexts",
+      "technostress and the relevant negative effects on consumer decision making and their well-being",
+      "the impact of technology distraction on bottom line measures",
+      "the impact of technology distraction on consumers’ post-experience regrets",
+      "the effect of technology distraction on consumers’ perceived brand image/authenticity of luxury brands, services and tourism experiences"
+    ],
+    "description": {
+      "paragraphs": [
+        "Over the past decades, a vast array of technologies has been introduced in the marketplace to improve the customer experience, leading to stimuli-dense consumption environments. Such digital transformation has replaced and supplemented traditional face-to-face consumer interactions with digital-enabled assistants (i.e., apps to automatically locate products in stores, self-serve checkout, or to explore cities without a tourism guide). More recently, as a response to COVID-19, many new technologies were launched to limit consumers’ and service personnel’s exposure to the virus. For instance, in hospitality, new technologies like service robots helped reduce guest interactions with employees and enhance cleanliness. Furthermore, the hospitality industry is increasing its use of AI in the form of intelligent voice assistants (e.g., Siri, Alexa, Google Assistant) to support tourists from hotel room services to travel planning. In retailing, robots and self-service systems have been introduced to points of sale to facilitate contactless or in-home shopping, and AR and VR to improve consumer engagement with products and the shopping experience. On the one hand, these technologies safeguard consumers’ health and safety. On the other hand, they compensate for the unavailability of human workers, thus providing more automated experiences that could stimulate satiation. However, incorporating new technologies (e.g., VR, AR, AI) into today’s consumption experiences could have both positive (e.g., escapism, convenience, efficiency) and negative (e.g., binge watching, isolation, frustration, visually induced motion sickness, well-being) impacts on consumers, and broader society.",
+        "Past research has largely emphasized the benefits of adopting technologies as decision support aids for consumers. However, these technologies also influence human-to-human interactions, which lead companies to change their marketing communication strategies in reaching customers (e.g., shift to digital influencers); while dramatically changing the nature of relationship experiences, atmospherics, and the way consumers process and integrate information between the offline and online environments. Moreover, Kotler and colleagues described how new technology might change consumers from being informed to becoming distracted. In this sense, technology in the consumption experience may consume too much of a customer’s attention by requiring them to focus on the system where there are many tasks, complex features, unfamiliar or unresponsive user interfaces. Arguably, customer interaction with technology may potentially reduce individual perception of atmospherics or other environmental stimuli, particularly when these are below the consciousness threshold. Thus, technology might move from being a supporting tool for customer to being a distractive mechanism for inhibiting purchase decision-making. For instance, in a luxury store setting, technology may distract prospects from opportunities to interact with employees through which they may learn more about the history, heritage, craftsmanship and excellent quality of the product. In other cases, technology is a beneficial facilitator that allows deep access to luxury services or products that would not otherwise be attainable. Similarly, if tourists’ attention is focused on a mobile app showing the best route to reach a certain attraction, they might ignore other tourist attractions on their travel journey. This dual nature of technology is unevenly researched in extant literature. Specifically, the distractive and negative effects of technology at the customer interface are still scarcely investigated and understood. This is a pertinent issue given the importance of new technology developments and innovations aligning to the Sustainable Development Goals (SDGs) prescribed by the UN, including responsible consumption and production in society. Therefore, this Special Issue will address the interplay between a customer’s experience with technology and its associated distracting mechanisms, as triggered by their interaction with technology in varied consumption contexts. Conceptual, methodological, qualitative, or quantitative contributions that offer insight in this area are equally welcome by the Guest Editors."
+      ]
+    },
+    "tags": [
+      "technology",
+      "customer experience",
+      "consumer behavior"
+    ],
+    "editors": [
+      {
+        "name": "Eleonora Pantano",
+        "affiliation": "Bristol"
+      },
+      {
+        "name": "Jamie Carlson",
+        "affiliation": "Newcastle"
+      },
+      {
+        "name": "Konstantina Spanaki",
+        "affiliation": "Audiencia"
+      },
+      {
+        "name": "George Christodoulides",
+        "affiliation": "AUS"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2023-02-01T12:00:00.000Z",
+        "description": "Manuscript Submission Deadline",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2022-12-22T12:41:59.000Z"
   },
   {
     "journal": "Decision Support Systems",
