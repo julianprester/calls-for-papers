@@ -162,8 +162,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": 1740451940000
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -650,8 +649,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-10-27T03:00:38.000Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -1068,8 +1066,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": 1740451940000
+    "pubDate": "2024-07-18T10:34:43.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -2189,8 +2186,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:32:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2277,8 +2273,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:31:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2447,8 +2442,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:30:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2545,8 +2539,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:29:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2635,8 +2628,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:28:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2729,8 +2721,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:27:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2893,8 +2884,7 @@
       }
     ],
     "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z",
-    "gracePeriod": 1740192645000
+    "pubDate": "2024-01-12T12:26:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -2978,7 +2968,7 @@
     ],
     "active": false,
     "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": 1740538315000
+    "gracePeriod": "2025-02-26T22:48:00.833Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3067,7 +3057,7 @@
     ],
     "active": false,
     "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": 1740538315000
+    "gracePeriod": "2025-02-26T22:48:00.833Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3158,7 +3148,7 @@
     ],
     "active": false,
     "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": 1740538315000
+    "gracePeriod": "2025-02-26T22:48:00.833Z"
   },
   {
     "journal": "Information Systems Research",

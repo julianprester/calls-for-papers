@@ -53,13 +53,20 @@ export async function integrateCalls(newCalls) {
             resultCalls.push({
                 ...oldCall,
                 active: false,
-                gracePeriod: Date.parse(now) + 2592000000
+                gracePeriod: (new Date(new Date(now).setDate(now.getDate() + 30))).toISOString()
             });
         }
     }
 
     resultCalls.sort((a, b) => {
         return new Date(b.pubDate) - new Date(a.pubDate);
+    });
+
+    resultCalls = resultCalls.map(call => {
+        if (call.active) {
+            delete call.gracePeriod;
+        }
+        return call;
     });
 
     await fs.writeFile("./www/_data/calls.json", JSON.stringify(resultCalls, null, 2), err => {
