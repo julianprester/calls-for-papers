@@ -27,10 +27,12 @@ type: website
 <body>
     {% include "emailSubscriptionModal.html" %}
     {% include "journalRequestModal.html" %}
-    <div class="min-h-screen">
-        <div class="container mx-auto px-8">
+    <div class="min-h-screen flex">
+        <div class="container mx-auto px-8 flex flex-col">
             {% include "header.html" %}
-            {{ content | safe }}
+            <div class="flex-grow min-h-0">
+                {{ content | safe }}
+            </div>
             {% include "footer.html" %}
         </div>
     </div>
