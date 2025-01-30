@@ -161,8 +161,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z"
+    "active": false,
+    "pubDate": "2024-12-25T07:52:15.170Z",
+    "gracePeriod": "2025-03-01T02:48:52.449Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1065,8 +1066,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z"
+    "active": false,
+    "pubDate": "2024-07-18T10:34:43.000Z",
+    "gracePeriod": "2025-03-01T02:48:52.449Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -1212,7 +1214,7 @@
     ],
     "active": false,
     "pubDate": "2024-04-07T12:35:14.000Z",
-    "gracePeriod": "2025-02-28T02:49:33.356Z"
+    "gracePeriod": "2025-03-01T02:48:52.449Z"
   },
   {
     "journal": "Information and Organization",
@@ -2967,9 +2969,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": "2025-02-28T02:49:33.356Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:25:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3056,9 +3057,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": "2025-02-28T02:49:33.356Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:24:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3147,9 +3147,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": "2025-02-28T02:49:33.356Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:23:57.000Z"
   },
   {
     "journal": "Information Systems Research",
@@ -4307,7 +4306,7 @@
     ],
     "active": false,
     "pubDate": "2022-12-22T12:42:59.000Z",
-    "gracePeriod": "2025-02-28T02:49:33.356Z"
+    "gracePeriod": "2025-03-01T02:48:52.449Z"
   },
   {
     "journal": "International Journal of Information Management",
@@ -4369,7 +4368,7 @@
     ],
     "active": false,
     "pubDate": "2022-12-22T12:41:59.000Z",
-    "gracePeriod": "2025-02-28T02:49:33.356Z"
+    "gracePeriod": "2025-03-01T02:48:52.449Z"
   },
   {
     "journal": "Decision Support Systems",
