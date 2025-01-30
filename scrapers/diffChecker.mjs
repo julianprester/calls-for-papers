@@ -53,7 +53,7 @@ export async function integrateCalls(newCalls) {
             resultCalls.push({
                 ...oldCall,
                 active: false,
-                gracePeriod: (new Date(new Date(now).setDate(now.getDate() + 30))).toISOString()
+                gracePeriod: oldCall.gracePeriod ? oldCall.gracePeriod : (new Date(new Date(now).setDate(now.getDate() + 30))).toISOString()
             });
         }
     }
