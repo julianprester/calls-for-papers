@@ -649,8 +649,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -2188,8 +2189,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2275,8 +2277,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2444,8 +2447,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2541,8 +2545,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2630,8 +2635,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2723,8 +2729,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2886,8 +2893,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -2969,8 +2977,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:25:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:25:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3057,8 +3066,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:24:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:24:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3147,8 +3157,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:23:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:23:57.000Z",
+    "gracePeriod": "2025-03-02T02:50:08.226Z"
   },
   {
     "journal": "Information Systems Research",
