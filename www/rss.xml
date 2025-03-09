@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sat, 08 Mar 2025 02:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 02:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,13 +14,6 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
-        <item>
-            <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/cfp/ISJ-CFP-Theorising-the-Impact-of-Generative-Artificial-Intelligence-1734959512827.pdf</link>
-            <guid>isj-theorising-the-impacts-of-generative-artificial-intelligence</guid>
-            <pubDate>Wed, 25 Dec 2024 07:52:15 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
-        </item>
         <item>
             <title><![CDATA[Contemporary Innovation in Information Infrastructures]]></title>
             <link>https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07</link>
@@ -55,13 +48,6 @@
             <guid>io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</guid>
             <pubDate>Thu, 15 Aug 2024 12:37:20 GMT</pubDate>
             <author>Information and Organization (IO)</author>
-        </item>
-        <item>
-            <title><![CDATA[Addressing Refugees and Migration Issues through Critical Information Systems]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ-Special-Issue-on-Refugees-CFP-Updated-1733230198493.pdf</link>
-            <guid>isj-addressing-refugees-and-migration-issues-through-critical-information-systems</guid>
-            <pubDate>Thu, 18 Jul 2024 10:34:43 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
             <title><![CDATA[Decision Support Systems on Improving Societal Outcomes with Design Science Research]]></title>
