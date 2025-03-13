@@ -36,7 +36,7 @@ calls = calls.filter(call => call.active || (!call.active && Date.now() < Date.p
 
 for (const call of calls) {
     rssFeed.addItem({
-        title: call.title ? call.title : call.metaitle,
+        title: call.title ? call.title : call.metaTitle,
         id: call.slug,
         link: `https://callsforpapers.org/call/${call.slug}`,
         date: new Date(call.pubDate),
