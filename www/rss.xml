@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 13 Mar 2025 11:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 11:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -20,6 +20,24 @@
             <guid>jit-human-ai-collaboration-emerging-digital-work-configurations-and-the-changing-nature-of-work</guid>
             <pubDate>Thu, 13 Mar 2025 10:51:27 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Alexander Richter</strong>, Victoria University of Wellington</li>
+        
+        <li><strong>João Baptista</strong>, Lancaster University</li>
+        
+        <li><strong>Ella Hafermalz</strong>, Vrije Universiteit Amsterdam</li>
+        
+        <li><strong>Mareike Möhlmann</strong>, Bentley University</li>
+        
+        <li><strong>Daniel Schlagwein</strong>, The University of Sydney</li>
+        
+        <li><strong>Mari-Klara Stein</strong>, Tallinn University of Technology</li>
+        
+    </ul>
+    
     
     <p>Digital technologies, in particular artificial intelligence (AI), are reconfiguring how, where, and when work gets done, marking a shift from tools designed to support human tasks to agentic systems that collaborate with and even manage human workers. AI technologies are evolving to work autonomously or within hybrid collaboration systems of human and digital agents. Research on AI and human-AI collaboration has advanced from studying AI that supports human tasks to AI agents’ ability to make independent management decisions and regulate and manage human work. The future of working with AI is, however, still unknown and emergent, with both utopian and dystopian perspectives shaping our understanding of opportunities and challenges of their adoption and use in organizations, work, and other spheres of our lives.</p>
     
@@ -77,6 +95,22 @@
             <guid>im-bright-internet-through-secure-and-responsible-artificial-intelligence</guid>
             <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Indranil Bose</strong>, NEOMA Business School</li>
+        
+        <li><strong>Amany Elbanna</strong>, The University of Sussex</li>
+        
+        <li><strong>Dan J. Kim</strong>, University of North Texas</li>
+        
+        <li><strong>Gene Moo Lee</strong>, University of British Columbia</li>
+        
+        <li><strong>Alvin Chung Man Leung</strong>, City University of Hong Kong</li>
+        
+    </ul>
+    
     
     <p>The Bright Internet initiatives aim to transform the current Internet landscape into a more secure, trustworthy, and resilient environment. Originating from the recognition of growing cyber threats, data breaches, and the erosion of user trust, the concept of the Bright Internet was developed to address these pressing issues. It seeks to establish a framework where safety, privacy, and accountability are prioritized, ensuring that users can navigate the digital world without fear of malicious activities. The initiative focuses on implementing proactive security measures, fostering a culture of transparency, and promoting responsible behavior among all internet stakeholders. By leveraging advanced technologies and collaborative efforts, Bright Internet aspires to create a digital ecosystem where trust is restored, and the Internet&#39;s potential for positive societal impact is fully realized. Since 2017, the Bright Internet Global Symposium (BIGS) has been established as a forum for exchanging the vision of Bright Internet and discussing research outcomes and advancements surrounding Bright Internet issues. It fosters collaborations among researchers, companies, academic institutions, government bodies, and international organizations to achieve mutual benefits that transcend individual country capabilities.</p>
     
@@ -149,64 +183,23 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
-            <title><![CDATA[2027 Review Issue]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
-    
-    <p>Submissions will be evaluated concerning the following criteria:</p>
-    
-    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
-    
-    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
-    
-    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
-    
-    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
-    
-    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research</li>
-        
-        <li>Important directions for future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
             <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Francesco Appio</strong>, Paris School of Business</li>
+        
+        <li><strong>Luca Gastaldi</strong>, Politecnico di Milano</li>
+        
+        <li><strong>Federico Iannacci</strong>, University of Sussex</li>
+        
+    </ul>
+    
     
     <p>Digital transformation has become a major point of discussion in organizations and broader society, yet its overall desirability and consequences remain open to debate. While many practitioners and scholars see these initiatives as avenues for enhancing efficiency, competitiveness, and customer engagement, there is also growing recognition of the complexities, paradoxes, and unintended effects they may introduce. Indeed, the acceleration of digital projects—especially following the COVID-19 pandemic—can invite various forms of resistance, leading to stalled progress and disruptions.</p>
     
@@ -272,11 +265,90 @@
             <author>Information Systems Journal (ISJ)</author>
         </item>
         <item>
+            <title><![CDATA[2027 Review Issue]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Marco Marabelli</strong>, Bentley University</li>
+        
+        <li><strong>Rohit Nishant</strong>, Queen&#39;s Business School</li>
+        
+        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
+        
+        <li><strong>Wenyu (Derek) Du</strong>, Beihang University</li>
+        
+    </ul>
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
+    
+    <p>Submissions will be evaluated concerning the following criteria:</p>
+    
+    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
+    
+    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
+    
+    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
+    
+    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
+    
+    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research</li>
+        
+        <li>Important directions for future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+        <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
             <link>https://callsforpapers.org/call/isj-theorising-the-impacts-of-generative-artificial-intelligence</link>
             <guid>isj-theorising-the-impacts-of-generative-artificial-intelligence</guid>
             <pubDate>Wed, 25 Dec 2024 07:52:15 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Robert Davison</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Antonio Díaz Andrade</strong>, University of Agder</li>
+        
+        <li><strong>Manuel Trenz</strong>, University of Gottingen</li>
+        
+    </ul>
+    
     
     <p>Since 2022, we have witnessed an inexorable flood of information about Generative Artificial Intelligence (GAI) and its various components and manifestations. As hypes go, this one seems overdue for a cyclical correction; however, the enthusiasm for GAI across a wide range of contexts still rises. The euphoria permeates not just mainstream society and popular culture, but also business, politics, warfare and, of course, academia. The tone of inevitability about GAI and its benefits is fervent and the passion of many (notably academics, tech pundits and businesspeople) is abundant. This is not to say that there are no critical voices: there are, but their concerns risk being submerged by the tide of optimism and it may seem heretical to critique, let alone excoriate, the GAI phenomenon.</p>
     
@@ -396,6 +468,28 @@
             <pubDate>Fri, 20 Dec 2024 12:55:03 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Margunn Aanestad</strong>, University of Oslo</li>
+        
+        <li><strong>Ahmed Abbasi</strong>, University of Notre Dame</li>
+        
+        <li><strong>Dubravka Cecez-Kecmanovic</strong>, UNSW Sydney</li>
+        
+        <li><strong>Robert Gregory</strong>, University of Miami</li>
+        
+        <li><strong>Kalle Lyytinen</strong>, Case Western Reserve University</li>
+        
+        <li><strong>Annalisa Pelizza</strong>, University of Bologna</li>
+        
+        <li><strong>Joan Rodon</strong>, Esade Business School</li>
+        
+        <li><strong>Robin Williams</strong>, University of Edinburgh</li>
+        
+    </ul>
+    
+    
     <p>This call for a special issue focuses on contemporary innovation in information infrastructures, especially the emergence of new technological capabilities such as block-chain, big data, Artificial Intelligence (AI), and Internet of Things (IoT) technologies, and consequent emerging new (inter)organizational forms and processes encompassing contemporary infrastructuring.</p>
     
     <p>The special issue builds on and expands the earlier stream of studies on information infrastructures to garner a deeper understanding of the new, emerging forms of digitally enabled infrastructural formations and their design, growth patterns, and local, organizational, societal and institutional uses and impacts.</p>
@@ -504,6 +598,22 @@
             <pubDate>Sat, 09 Nov 2024 12:48:44 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Thomas Huber</strong>, ESSEC Business School</li>
+        
+        <li><strong>Maximilian Schreieck</strong>, University of Innsbruck</li>
+        
+        <li><strong>Andreas Hein</strong>, University of St Gallen</li>
+        
+        <li><strong>Ilan Oshri</strong>, University of Auckland</li>
+        
+        <li><strong>Julia Kotlarsky</strong>, University of Auckland</li>
+        
+    </ul>
+    
+    
     <p>Over the last years platform partnerships between independent third-party developers (complementors) and providers of software platforms (platform owners) have become the prevailing model for developing and delivering software products and services. Platforms are strategic in enabling value co-creation through boundary resources—such as software development kits (SDKs) and application programming interfaces (APIs)—which provide complementors with the tools needed to seamlessly integrate their offerings into the core platform infrastructure.</p>
     
     <p>Novel and creative uses of technologies such as Artificial Intelligence (AI), Internet of Things (IoT), low-code/no-code platforms, and distributed ledger technologies (DLT) like blockchain are redefining how organizations interact, collaborate, and compete. AI and IoT enable real-time data analytics and predictive insights, allowing platforms to coordinate relationships and optimize sourcing decisions by anticipating demand, managing risks, and adjusting partnerships. IoT enhances this by providing continuous data streams from connected devices, enabling more responsive, data-driven collaborations in logistics and inventory management. Low-code/no-code platforms reduce entry barriers for participants, enabling organizations to develop solutions independently. Blockchain and smart contracts automate partnership agreements through self-executing code, reducing transaction costs and fostering trust, particularly in complex, cross-border environments.</p>
@@ -576,6 +686,20 @@
             <guid>jit-the-future-of-information-systems-in-the-enterprise</guid>
             <pubDate>Sun, 27 Oct 2024 03:00:38 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Robert Winter</strong>, University of St. Gallen</li>
+        
+        <li><strong>Karlheinz Kautz</strong>, RMIT University</li>
+        
+        <li><strong>Rajiv Sabherval</strong>, University of Arkansas</li>
+        
+        <li><strong>Leona Chandra Kruse</strong>, University of Agder</li>
+        
+    </ul>
+    
     
     <p>The use of information systems in the enterprise is the backbone of digital transformation and digital business, acting as the binding force between technological, managerial, and organizational innovations. The design and use of information systems in the enterprise evolve alongside technological advancements, shifting managerial strategies, and changing organisational forms and needs (Kotusev, 2019).</p>
     
@@ -690,6 +814,22 @@
             <guid>misq-ai-ia-nexus</guid>
             <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Rui Chen</strong>, Iowa State University</li>
+        
+        <li><strong>Juan Feng</strong>, Tsinghua University</li>
+        
+        <li><strong>Miguel Godinho de Matos</strong>, Católica Lisbon School of Business &amp; Economics</li>
+        
+        <li><strong>Carol Hsu</strong>, University of Sydney</li>
+        
+        <li><strong>H. Raghav Rao</strong>, University of Texas at San Antonio</li>
+        
+    </ul>
+    
     
     <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations. As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability. As society steps into the age of generative AI (GenAI), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance. GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas.</p>
     
@@ -841,6 +981,16 @@
             <pubDate>Thu, 15 Aug 2024 12:37:20 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Youngjin Yoo</strong>, Case Western Reserve University</li>
+        
+        <li><strong>Natalia N Levina</strong>, New York University</li>
+        
+    </ul>
+    
+    
     <p>_Information &amp; Organization_ invites submissions for a special issue celebrating the career and intellectual legacy of the journal’s founding editor, Professor Richard Boland Jr., on the occasion of his retirement.</p>
     
     <p>Throughout his distinguished career, Professor Boland is known for his innovative and unconventional approach to understanding the role of technology in organizations and society. He challenged traditional paradigms on technology and management, and urged scholars to embrace a more expansive, humanistic, and design-oriented perspective on information systems. Among other things, he is best known for his groundbreaking work on the role of design as a fundamental way of thinking about the future, contrasting design with traditional decision-making paradigms.</p>
@@ -902,6 +1052,18 @@
             <guid>isj-addressing-refugees-and-migration-issues-through-critical-information-systems</guid>
             <pubDate>Thu, 18 Jul 2024 10:34:43 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Safa’a AbuJarour</strong>, An-Najah National University</li>
+        
+        <li><strong>Hameed Chughtai</strong>, Lancaster University Management School</li>
+        
+        <li><strong>Yingqin Zheng</strong>, University of Essex</li>
+        
+    </ul>
+    
     
     <p>United Nations High Commissioner for Refugees (UNHCR) reports that there are approximately 110 million forcibly displaced people worldwide, as of mid-2023, because of persecution, conflict, war, violence, human rights violations, or events seriously disturbing public order. These include 36.4 million refugees and 62.5 million internally displaced people (IDP), asylum seekers, and several other people in need of international protection. There is a strong history of research highlighting the issues faced by refugees, ranging from accounts of violence in the developing world, exploring the gendered experience of refugees, questioning racist thinking about immigration, case studies of asylum seekers, and philosophical inquiry into the fair treatment of refugees. The global refugee and forced migration crisis and the persistent challenges faced by these vulnerable communities call for an urgent need for innovative solutions that foster social inclusion and empower these populations.</p>
     
@@ -1005,6 +1167,20 @@
             <pubDate>Wed, 29 May 2024 12:37:14 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Leona Chandra Kruse</strong>, University of Agder</li>
+        
+        <li><strong>Jeffrey Parsons</strong>, Memorial University of Newfoundland</li>
+        
+        <li><strong>Jinsoo Park</strong>, Seoul National University</li>
+        
+        <li><strong>Thorsten Shoormann</strong>, TU Braunschweig</li>
+        
+    </ul>
+    
+    
     <p>Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that &#39;created and evaluates IT artifact intended to solve identified organizational problems&#39; (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that &#39;serve human purposes&#39; (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.</p>
     
     <p>This special issue targets DSR that addresses societal problems. In particular, we encourage submissions linked to any of the 17 sustainable development goals (SDGs) identified by the United Nations, as well as work dealing with technologies that are transforming the world in which we live, such as Artificial Intelligence (AI). Recent studies in Decision Support Systems (DSS) have notably contributed to SDGs, spanning from enhancing healthcare quality (e.g., Ojo et al., 2024) to optimizing resource efficiency (e.g., Ge et al., 2024). Storey et al. (2024) emphasized the significance of integrating human-AI synergies in sociotechnical DSS design. Transparency is pivotal in advocating responsible DSR practices and design artifacts (Hevner et al., 2024).</p>
@@ -1062,6 +1238,22 @@
             <pubDate>Sun, 07 Apr 2024 12:34:14 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Saeed Akhlaghpour</strong>, The University of Queensland</li>
+        
+        <li><strong>Ali Aslan Gümüşay</strong>, Ludwig Maximilian University of Munich</li>
+        
+        <li><strong>Danielle Logue</strong>, UNSW Business School</li>
+        
+        <li><strong>Christine Moser</strong>, Vrije Universiteit Amsterdam</li>
+        
+        <li><strong>Georg Reischauer</strong>, WU Vienna University of Economics and Business</li>
+        
+    </ul>
+    
+    
     <p>The special issue aims to create a forum for state-of-the-art research on the processes, structures, and practices of organizing for and against emerging digital technologies across levels.</p>
     
     <p>Organizations of the 21st century face a seemingly indeterminable array of emerging digital technologies that are radically novel and rapidly evolving, with profound transformative potential. These technologies generate such an impact because they are increasingly ‘autonomous’ and ‘intelligent’, which complements, augments, and even replaces human action. Another feature fueling the transformative potential of emerging digital technologies is their connectivity. Moreover, many current emerging digital technologies exhibit broad applicability across domains, and they are thus general-purpose technologies, advancing to essential infrastructures across markets. Finally, many of these emerging technologies exhibit an unprecedented pace of diffusion and adoption.</p>
@@ -1118,6 +1310,20 @@
             <guid>jmis-fostering-the-design-and-governance-of-the-metaverse</guid>
             <pubDate>Tue, 30 Jan 2024 12:25:09 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Paul Benjamin Lowry</strong>, Virginia Tech</li>
+        
+        <li><strong>Waifong Boh</strong>, Nanyang Technological University</li>
+        
+        <li><strong>Stacie Petter</strong>, Wake Forest University</li>
+        
+        <li><strong>Jan Marco Leimeister</strong>, University of St. Gallen and University of Kassel</li>
+        
+    </ul>
+    
     
     <p>JMIS, a top-tier scholarly journal, invites the best papers addressing the components of the potential emergence of the Metaverse as a complement to and a potential replacement for the current Web. The Metaverse is envisioned as a collection of technologies and initiatives intended to create a next-generation Internet (Web3) that is highly immersive, persistent, in 3D, and based on the latest developments in extended reality (XR)—an umbrella term for virtual reality (VR), mixed reality (MR), and augmented reality (AR)—as supplemented by artificial intelligence (AI), cloud computing, quantum computing, and other supporting technologies.</p>
     
@@ -1241,6 +1447,20 @@
             <pubDate>Tue, 30 Jan 2024 12:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Corey Angst</strong>, University of Notre Dame</li>
+        
+        <li><strong>Alan Dennis</strong>, Indiana University</li>
+        
+        <li><strong>Elena Karahanna</strong>, The University of Georgia</li>
+        
+        <li><strong>Gondy Leroy</strong>, University of Arizona</li>
+        
+    </ul>
+    
+    
     <p>Mental health issues such as depression, anxiety, and others are a growing epidemic facing modern society. The Mental Health America society estimated that nearly a fifth of the adult US population suffered a mental illness in 2019 - 2020 and that 94% of these individuals did not receive any treatment. Information Technology (IT) such as wearables, digital pills, cope notes, VR, and others have been proposed and used to help address the growing mental health crisis. However, the understanding of the design, development, adoption, use, and impact of such technologies for diagnosing and treating mental health illnesses remains nascent.</p>
     
     <p>Information Systems (IS) scholars are starting to study various aspects of mental health, including occupational stress, distress, and diagnosable mental health disorders. However, significant areas of opportunity remain for developing and evaluating digital technologies that could help identify or tackle anxiety disorders (e.g., generalized anxiety disorder, panic, social anxiety), mood disorders (e.g., depression, bipolar disorder), and addiction (e.g., substance abuse, chemical dependence). This Special Section seeks to expand research related to IT for mental health and spearhead an ongoing research agenda related to this subject in the IS discipline. We are specifically seeking contributions that improve our understanding of how IT could be leveraged to identify mental health conditions and improve mental health. We encourage a wide range of content, including theory, qualitative and quantitative approaches, and design science for mental health for this Special Section.</p>
@@ -1311,6 +1531,22 @@
             <guid>jmis-generative-ai-and-its-transformative-value-for-digital-platforms</guid>
             <pubDate>Tue, 30 Jan 2024 12:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Michael Wessel</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Martin Adam</strong>, Darmstadt University of Technology</li>
+        
+        <li><strong>Alexander Benlian</strong>, Darmstadt University of Technology</li>
+        
+        <li><strong>Ann Majchrzak</strong>, University of Southern California</li>
+        
+        <li><strong>Ferdinand Thies</strong>, Bern University of Applied Sciences</li>
+        
+    </ul>
+    
     
     <p>Generative AI, which refers to artificial intelligence (AI) algorithms that generate original outputs based on prompt inputs, has the potential to fundamentally transform the way people create and consume content online. Unlike previous generations of AI systems, which were primarily designed to recognize patterns and make predictions, Generative AI synthesizes the data it has been trained on and creates content in the form of images, text, audio, video, and more that is similar to content created by human experts – but in much less time, at a fraction of the cost, and with amazing creativity. In this special issue, we focus on the opportunities and challenges that Generative AI poses for digital platforms. Over the past two decades, social media platforms such as Twitter and YouTube, mobile app platforms such as Apple’s App Store, e-commerce platforms such as Amazon, freelance platforms such as Upwork, and sharing economy platforms such as Airbnb and Uber have reshaped and disrupted entire industries.</p>
     
@@ -1439,6 +1675,20 @@
             <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
             <pubDate>Fri, 12 Jan 2024 12:33:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Ahmed Abbasi</strong>, University of Notre Dame</li>
+        
+        <li><strong>Robin Dillon-Merrill</strong>, Georgetown University</li>
+        
+        <li><strong>H. Raghav Rao</strong>, University of Texas, San Antonio</li>
+        
+        <li><strong>Olivia Sheng</strong>, University of Utah</li>
+        
+    </ul>
+    
     
     <p>The 21st Century has been termed “the century of disasters” (Achenbach 2011). These include natural and human-caused disasters. The former encompass geophysical (e.g., earthquakes), hydrological (e.g., floods), climatological (e.g., wildfires), meteorological (e.g., cyclones), or biological (e.g., disease epidemics such as COVID-19) disasters. The latter are caused by human-led events, such as conflicts, famine, terrorist attacks, cybersecurity incidents, and industrial accidents (IFRC 2010). A myriad of factors has contributed to a surge in disasters: technological innovation, population growth, climate change, demographic changes, and evolving social dynamics. When they happen, such disasters exact a devastating toll on civil and technical infrastructure and society as a whole (e.g., loss of human life, social and economic disturbances, and environmental damage).</p>
     
@@ -1596,6 +1846,18 @@
             <pubDate>Fri, 12 Jan 2024 12:32:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Daniel Gozman</strong>, University of Sydney</li>
+        
+        <li><strong>Tom Butler</strong>, University College Cork</li>
+        
+        <li><strong>Kalle Lyytinen</strong>, Case Western Reserve University</li>
+        
+    </ul>
+    
+    
     <p>The rise of information technology (IT) in organizations has been an inherent part of an agenda to increase and shape forms of social control. Despite the inherent link between uses of IT and social control, the topic of regulation has not received significant attention in the information system field – neither theoretically nor empirically. This special issue seeks to address this gap.</p>
     
     <p>The issue explores the growing and significant interplay between IT and regulation in the age of digitalization, where new challenges with social control with IT are emerging. In this special issue, we are interested in two broad domains of research related to regulation and IT: regulation through IT and regulation of IT.</p>
@@ -1706,6 +1968,20 @@
             <pubDate>Fri, 12 Jan 2024 12:31:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Julia Kotlarsky</strong>, University of Auckland</li>
+        
+        <li><strong>Ilan Oshri</strong>, University of Auckland</li>
+        
+        <li><strong>Oliver Krancher</strong>, IT University of Copenhagen</li>
+        
+        <li><strong>Rajiv Sabherwal</strong>, University of Arkansas</li>
+        
+    </ul>
+    
+    
     <p>The last decade has seen a significant proliferation of new technologies. These include robotic process automation, big data, machine/deep learning and artificial intelligence, blockchain, and other &quot;emerging technologies&quot;. Consulting and market research companies have consistently predicted that the current wave of technologies will transform both front and back office operations, requiring firms to rethink their business models and strategies.</p>
     
     <p>While evidence suggests that firms will continue to invest in emerging technologies, there has so far been little evidence about the involvement of service providers and advisory in the selection, design, and adoption of such emerging technologies. IS sourcing research has conventionally accounted for three main areas of interest: sourcing decision, contractual structures, and relationship management. Emerging technologies challenge these traditional conventions in the IS sourcing literature. Particular challenges include but are not limited to: greater dependency on data in emerging technologies, which triggers clients to source data science services; the actual implementation of emerging technology often happens through platforms that involve multiple players and services; the asset transfer model has become less relevant and yet client firms are still expected to reduce their headcount; there is greater emphasis on the redesign of the value chain as services have become digitized and decisions are now driven by smart algorithms; emerging technologies are viewed as a black box, posing a skills and expertise challenge to client firms to ensure acquiring and retaining knowledge of the technology.</p>
@@ -1768,6 +2044,20 @@
             <guid>jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization</guid>
             <pubDate>Fri, 12 Jan 2024 12:30:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Matti Rossi</strong>, Aalto University</li>
+        
+        <li><strong>Christy M. K. Cheung</strong>, Hong Kong Baptist University</li>
+        
+        <li><strong>Supratek Sarker</strong>, University of Virginia</li>
+        
+        <li><strong>Jason B. Thatcher</strong>, Temple University</li>
+        
+    </ul>
+    
     
     <p>Disruptive digital innovations do not come without pain – the disorder that they introduce can create negative externalities and unintended consequences for people, communities, industries and economies. In the worst case, there is disruption with little innovation. This can lead to job losses for individuals, loss of human dignity, negative health impacts, lost revenue for communities, obsolescence of industries and loss of the traditional values that underpin modern societies.</p>
     
@@ -1889,6 +2179,20 @@
             <pubDate>Fri, 12 Jan 2024 12:29:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Nik Hassan</strong>, University of Minnesota Duluth</li>
+        
+        <li><strong>Suzanne Rivard</strong>, HEC Montreal</li>
+        
+        <li><strong>Ulrike Schultze</strong>, Southern Methodist University</li>
+        
+        <li><strong>Leslie Willcocks</strong>, London School of Economics and Political Science</li>
+        
+    </ul>
+    
+    
     <p>Theorizing is one of the defining aspects of academic research. Articulating insights generated from situated empirical observations into relatively stable abstractions (e.g., concepts, propositions, models) that elucidate, explain or predict events occurring at another time and place is the hallmark of knowledge generation (King 2021). Of late, much attention has been paid to theory development in the Information Systems (IS) field. For example, the MIS Quarterly (MISQ) special issue on &#39;Next-Generation Information Systems Theorizing&#39; reflects a sense of urgency felt within the IS field to make sense of an increasingly unruly and complex reality given the increasing pace of technological innovation (Burton-Jones et al. 2021). In similar vein, two 2021 Journal of Information Technology (JIT) debates sections focused on &#39;IS Research and Science&#39; (Siponen and Klaavuniemi 2020, and commentaries) and &#39;Theorising as Craft&#39; (Rivard 2021, and commentaries) and a recent Journal of the Association for Information Systems (JAIS) special issue focused on &#39;Envisioning Digital Transformation – Advancing Theoretical Diversity&#39;. New and native IS theories ensure that the IS field remains vibrant, diverse, academically and socially relevant and influential (Hassan 2011; Hassan and Willcocks 2021; Lowry et al. 2020; Markus and Saunders 2007). Researchers, however, often set the bar too high for theory delivered within individual research contributions by viewing theory as a comprehensive and detailed explanation of a phenomenon (Rivard 2021), an object that Weick (1995) refers to as a &#39;theory that sweeps away all others&#39; (p. 386). This mindset may lead IS researchers to adopt theories from other fields as a foundation rather than creatively developing new and native theories from empirical observations (Grover and Lyytinen 2015).</p>
     
     <p>To maintain the long-term growth and vitality of the IS field, a definition of theory that encourages cumulative and novel theorizing over time is needed (Hassan and Willcocks 2021; King 2021). One way of achieving this is by advancing a &#39;products of theorizing&#39; perspective (Weick 1995). The theorizing perspective celebrates both the final outcomes and the &#39;interim struggles&#39; that characterize theory generation (Weick 1995). It holds the promise that interim conceptual artifacts of theorizing such as metaphors, frameworks and concepts (Lowry et al. 2020) are valuable to the discipline as they can be leveraged and exploited further in subsequent research. In this way, a discipline might inch its way towards native theories over time. The goal of this special issue is to solicit and showcase exemplars from the &#39;products of theorizing&#39; approach. We are looking for articles that go beyond verification dimensions of the natural-science approach to IS research (Schlagwein 2021) and push the envelope of theorizing towards native products of theorizing (Hassan et al. forthcoming): theory frame devices (i.e., questions, paradigms, laws and frameworks), theory generators (i.e., myths, analogies, metaphors and models) and theory components (i.e., concepts, constructs, statements and hypotheses).</p>
@@ -1956,6 +2260,20 @@
             <pubDate>Fri, 12 Jan 2024 12:28:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Wendy L. Currie</strong>, Audencia Business School</li>
+        
+        <li><strong>Carol Hsu</strong>, The University of Sydney</li>
+        
+        <li><strong>Ben Van Vliet</strong>, Illinois Institute of Technology</li>
+        
+        <li><strong>Vishanth Weerakkody</strong>, University of Bradford</li>
+        
+    </ul>
+    
+    
     <p>This special issue focuses on the currently ongoing – and recently COVID-19 -accelerated – digital transformation(s) of economy and society. That is, how industry sectors and societal domains are reshaped by the geo-political, organizational and technological nexus that is &#39;digital transformation&#39;. The literature on digital transformation is interdisciplinary, spanning fields such as information systems (Vial, 2019), management (Hanelt et al., 2021) and other business disciplines (Verhoef et al., 2021). However, this work&#39;s broad range and somewhat incoherent framings show a lack of consensus of &#39;digital transformation&#39; as both a theoretical concept and an empirical field (Warner and Wager, 2019).</p>
     
     <p>Thus far, most digital transformation studies have focused on the organization as the unit of analysis. Why a single definition of digital transformation may be elusive, the digital transformation seems most often used to as a just a shorthand for IT-enabled organizational transformation (Besson and Rowe, 2012; Wessel et al, 2020), an organization-centric approach. Digital transformation processes increasingly take place at wider scales, beyond individual organizations and their business processes. Digital transformation(s) affect financial markets (Currie et al., 2018), healthcare (Pouloudi et al., 2016) or government (Weerakkody et al., 2016). Digital transformation(s) hence often have disruptive effects in relation to industry structures, corporate strategy, consumer experiences, policies and overall economic and societal trajectories (Legner et al., 2017; Zuboff, 2015; Vial, 2019).</p>
@@ -2020,6 +2338,20 @@
             <guid>jit-next-generation-information-systems-research-methods</guid>
             <pubDate>Fri, 12 Jan 2024 12:27:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Ivo Blohm</strong>, University of St. Gallen</li>
+        
+        <li><strong>Susanna Ho</strong>, Australian National University</li>
+        
+        <li><strong>Shaila Miranda</strong>, University of Oklahoma</li>
+        
+        <li><strong>Jan Marco Leimeister</strong>, University of St. Gallen</li>
+        
+    </ul>
+    
     
     <p>This special issue is interested in &#39;next-generation&#39; research methods for studying information technology (IT) phenomena – particularly in the information system (IS) research field. So far, IS researchers have applied a range of quantitative, qualitative and engaged methods to study IT-related phenomena. Quantitative IS research has often followed a positivist approach of hypothesis testing, with sometimes &#39;first-generation&#39; regression models distinguished from &#39;second-generation&#39; structural equation models (Gerow et al. 2011). Data used in such methods stems from surveys, experiments, panel studies, etc. The primary objective of this research stream typically is theory testing. Qualitative IS research has ranged from positivist to interpretivist, seeking rich situated insights via case studies, grounded theory or ethnographies. One objective of this research stream is theory construction. Critical and emancipatory IS research adds a strong value orientation and theoretical basis to qualitative research. Another type of IS research seeks to generate new knowledge with &#39;engaged&#39; methods like design science or action research. The objective of this stream that differentiates it from the first two is the focus on solving important individual, organizational or societal challenges; or extending the boundaries of human and organizational capabilities by creating new and innovative artifacts (Baskerville and Wood-Harper 1996; Hevner et al. 2004).</p>
     
@@ -2095,6 +2427,18 @@
             <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
             <pubDate>Fri, 12 Jan 2024 12:26:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Ali Sunyaev</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Mary Lacity</strong>, University of Arkansas</li>
+        
+        <li><strong>Michel Avital</strong>, Copenhagen Business School</li>
+        
+    </ul>
+    
     
     <p>This special issue seeks to explore and extend the conceptualisation, design, development, implementation and governance of contemporary “decentralised” information systems. “Decentralised” information systems are often seen as an important anti-thesis to “centralised” such systems. Modern societies and economies rely more highly on data, information systems, and technologies than ever. Pioneering organisations brought forth major milestones in developing and providing information technologies (e.g., TCP/IP and the Internet). However, with the significance of information technology increasing over the past decades, a small number of organisations have emerged as “tech giants” (e.g., Alphabet/Google or Meta/Facebook). Those organisations offer digital services and infrastructures for data processing that gained large-scale adoption by individuals, organisations, governments and society at large. As a result, societies, economies and technical systems became strongly dependent on services from a handful of organisations. The increase of the resulting dependencies leads to a centralisation of information systems. Highly-centralised information systems can result in global organisations and central social actors that abuse their power and pursue their own interests at the expense of others (e.g., by manipulation), exclude participation from social actors who disagree with them (e.g., by censorship) or invade their privacy through monitoring (e.g., by tracking actions of individuals on the internet). Highly-centralised information systems can also pose several further risks. For example, governance rights – such as rights of access, validation, software updates, data policies, and data overrides – may be centralised with few social actors in control. From a technical perspective, successful attacks on and crashes of central computing devices for network message propagation can interrupt communication in computing systems and even bring about system failures.</p>
     
@@ -2200,6 +2544,24 @@
             <pubDate>Fri, 12 Jan 2024 12:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Jenny Bronstein</strong>, Bar-Ilan University</li>
+        
+        <li><strong>Alison Hicks</strong>, University College London</li>
+        
+        <li><strong>Jette Hyldegård</strong>, University of Copenhagen</li>
+        
+        <li><strong>Pam McKenzie</strong>, The University of Western Ontario</li>
+        
+        <li><strong>Ian Ruthven</strong>, University of Strathclyde</li>
+        
+        <li><strong>Gunilla Widén</strong>, Åbo Akademi</li>
+        
+    </ul>
+    
+    
     <p>Life transitions forms a rich area of scholarship for Information Science research. The last five years have seen a steady growth in the publication of empirical studies related to transition, including PhD work and longitudinal studies, in a variety of areas including health, social, academic and employment contexts. At the same time, emerging conceptual work has also started to re-examine transition through a historical lens, including how change and adjustment has been treated in historical Information Science scholarship. This adds significant scope for complex conceptual work. The breadth of interest further means that transition has the potential to unify various related fields of study, including information behaviour, practice, and literacy research as well as various disciplinary fields. This Special Issue will provide a platform for the exploration of life transitions from an information behaviour, information practice, or information literacy perspective.</p>
     
     <p>Transitions are a natural state in everyday life. In a broader sense, individuals could be said to be in a constant state of transition, or &#39;transitioning&#39; with every passage in life. According to the Oxford English Dictionary, transition is defined both as a noun and adverb: &#39;A passing or passage from one condition, action, or (rarely) place, to another; change&#39; and, &#39;To make or undergo a transition (from one state, system, etc. to or into another); to change over or switch.&#39; From a research perspective, transition is a complex topic that has been variously conceptualised and defined. Transitions can be personal (changes due to changes in life cycle), situational (changes in circumstances in personal or professional life), or environmental (changes in the organisational environment impacting individuals). These emphases mean that transition has been most comprehensively explored to date within the field of Education and Nursing.</p>
@@ -2250,6 +2612,18 @@
             <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
             <pubDate>Fri, 12 Jan 2024 12:24:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Dirk Lewandowski</strong>, Hamburg University of Applied Sciences</li>
+        
+        <li><strong>Jutta Haider</strong>, Swedish School of Library and Information Science, University of Borås</li>
+        
+        <li><strong>Olof Sundin</strong>, Department of Arts and Cultural Sciences, Lund University</li>
+        
+    </ul>
+    
     
     <p>General web search engines are an essential part of today&#39;s information infrastructure. They have made it possible to find almost anything on the Internet by typing a few keywords into an empty search box. In fact, search engines have become so integrated into devices and practices that you can get an answer before you even knew how to phrase the question. Search engines shape our lives and at the same time shape the society and culture we live in. We use them at work, in school, in research, in planning our vacations, in finding products, and in politics – just to name a few important areas.</p>
     
@@ -2348,6 +2722,24 @@
             <pubDate>Fri, 12 Jan 2024 12:23:57 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Josh Introne</strong>, Syracuse University</li>
+        
+        <li><strong>Charisse L’Pree Corsbie-Massay</strong>, Syracuse University</li>
+        
+        <li><strong>Brian McKernan</strong>, Syracuse University</li>
+        
+        <li><strong>Deana Rohlinger</strong>, Florida State University</li>
+        
+        <li><strong>Olof Sundin</strong>, Lund University</li>
+        
+        <li><strong>Francesa Tripodi</strong>, UNC - Chapel Hill</li>
+        
+    </ul>
+    
+    
     <p>This special issue, &quot;Healthier Information Ecosystems,&quot; will focus on the interconnected nature of online pathologies, draw attention to the socio-technical aspects of information technology, and animate interdisciplinary approaches to addressing these problems. Similar to Buckminster Fuller’s mission of “World Game,” we want to aid in developing a wide variety of solutions (including but not limited to technical, political, social, and educational) to the wicked problems of our time to make “the world work for 100% of humanity, in the shortest period of time… without ecological offense or the disadvantage of anyone.”</p>
     
     <p>We invite contributions that address the socio-cultural embeddedness of the problems plaguing information ecosystems and provide new ways of thinking about and strategies to achieve a healthier global information environment. We are actively seeking a broad approach to issues of healthier information ecosystems, including both theoretical and applied, qualitative and quantitative, as well as inside and outside the discipline of information science and technology.</p>
@@ -2424,6 +2816,20 @@
             <guid>isr</guid>
             <pubDate>Tue, 02 Jan 2024 12:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Min Ding</strong>, Penn State</li>
+        
+        <li><strong>Ram Gopal</strong>, University of Warwick</li>
+        
+        <li><strong>Ulrike Schultze</strong>, University of Groningen</li>
+        
+        <li><strong>D. J. Wu</strong>, Georgia Institute of Technology</li>
+        
+    </ul>
+    
     
     <p>Creativity is typically defined as the capacity to produce something – either abstract or physical -- that is (1) new; and (2) valuable. Recent rapid advances in generative models such as GPT-4 by OpenAI, which is capable of generating unlimited new output (e.g., writing, image) that are arguably indistinguishable from human creative output, have surprised many. This new class of technology is also energizing the scholarly interest in creativity.</p>
     
@@ -2530,6 +2936,22 @@
             <guid>misq-the-institutional-press-in-the-digital-age</guid>
             <pubDate>Tue, 12 Dec 2023 05:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Ahmed Abbasi</strong>, University of Notre Dame</li>
+        
+        <li><strong>Brad N. Greenwood</strong>, George Mason University</li>
+        
+        <li><strong>Melissa Mazmanian</strong>, University of California, Irvine</li>
+        
+        <li><strong>Shaila Miranda</strong>, University of Arkansas</li>
+        
+        <li><strong>Robert Seamans</strong>, New York University</li>
+        
+    </ul>
+    
     
     <p>Over the last 20 years, ongoing waves of digitalization have decimated the traditional business model of the news and fundamentally changed how the news, or more formally, the ‘institutional press’, works. Indeed, ever since reserved frequencies were gifted to television broadcasters in the 1950s, on the condition that they inform the public of current events, the subsidy underpinning newspapers and other forms of institutional media has slowly eroded. Like many other industries, the internet has accelerated this phenomenon. Not only has the hyper-targeted advertising facilitated by social media and other platforms functionally eroded the subsidy model to its breaking point; but the costless transmission of data facilitated by the internet has increased geographic scope of dominant players, permitting them to reach beyond their original markets and squeeze content producers across the globe. Against this backdrop, it is hard to overstate the importance of this &#39;crisis of the institutional press&#39;. The news provides our primary means for understanding the world around us. Societies desperately need a well-functioning institutional press to tackle the many societal, economic, and environmental challenges we all face.</p>
     
@@ -2657,6 +3079,20 @@
             <pubDate>Fri, 01 Dec 2023 12:38:00 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Marco Marabelli</strong>, Bentley University</li>
+        
+        <li><strong>Sue Newell</strong>, Warwick Business School</li>
+        
+        <li><strong>Manju Ahuja</strong>, University of Louisville</li>
+        
+        <li><strong>Bob Galliers</strong>, Bentley University</li>
+        
+    </ul>
+    
+    
     <p>In this call for papers, we seek manuscripts that explore the future of work with respect to immersive platforms enabling innovative work practices and ask prospective authors specifically to consider the potential pitfalls (i.e., concerning ethics and DEI) of all this.</p>
     
     <p>In the spring of 2020, the COVID-19 pandemic triggered the operations of most companies worldwide to move online. The education systems along with several other services for citizens, including public administration, healthcare etc. followed suit. In a sense, the COVID-19 pandemic served as an unintended natural experiment, testing the extent to which current technologies are able to support remote/virtual interactions via immersive platforms. At the same time, the pandemic also exposed limitations of these arrangements, setting the groundwork for novel ways (and technologies) to promote further such interactions in the future.</p>
@@ -2749,6 +3185,22 @@
             <pubDate>Tue, 29 Aug 2023 12:54:56 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Julia Kotlarsky</strong>, University of Auckland</li>
+        
+        <li><strong>Jacqueline Corbett</strong>, Université Laval</li>
+        
+        <li><strong>Juliana Sutanto</strong>, Monash University</li>
+        
+        <li><strong>Thomas Kude</strong>, University of Bamberg</li>
+        
+        <li><strong>Yenni Tim</strong>, University of New South Wales</li>
+        
+    </ul>
+    
+    
     <p>Sustainability is a moral and existential imperative of our time. As Information Systems (IS) scholars, we are aware of the immense impact of digital technologies on efforts and initiatives towards sustainable practice happening locally and globally. Furthermore, because digital phenomena lie at the heart of our discipline, IS researchers are well positioned to join these efforts. This Special Issue aims to champion new digital sustainability research programs targeting the planet’s most pressing sustainability challenges from the past decade. We hope it will contribute towards building novel collective knowledge and help shape digital sustainability research in IS.</p>
     
     <p>Human society is approaching the edge of a dangerous precipice. The Intergovernmental Panel on Climate Change’s (IPCC) Sixth Assessment Report unequivocally confirms that human activities have caused global warming, predicting that even with current commitments and mitigation efforts, it will be difficult to limit warming below the critical threshold of 2 o C. The planet’s air, land, and water continue to be threatened on several fronts, with research suggesting that the safe operating zone for six of the nine planetary boundaries has already been breached. Over the past decade, extreme weather events such as droughts, floods, fires and heatwaves have not only increased in frequency but also in magnitude. In addition to causing environmental impacts, these events have a significant impact on society, further complicating the pursuit of social and economic sustainability.</p>
@@ -2835,6 +3287,24 @@
             <guid>jais-managing-the-individual-organizational-and-societal-challenges-of-generative-ai-utopian-dystopian-neutropian-perspectives</guid>
             <pubDate>Tue, 13 Jun 2023 12:46:46 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Varun Grover</strong>, University of Arkansas</li>
+        
+        <li><strong>Arpan Kumar Kar</strong>, Indian Institute of Technology Delhi</li>
+        
+        <li><strong>Rajiv Sabherwal</strong>, University of Arkansas</li>
+        
+        <li><strong>Spyros Angelopoulos</strong>, Durham University</li>
+        
+        <li><strong>Hartmut Hoehle</strong>, University of Mannheim</li>
+        
+        <li><strong>Anik Mukherjee</strong>, Indian Institute of Management</li>
+        
+    </ul>
+    
     
     <p>The origins of generative AI (GAI) can be traced back to the 1950s, when Alan Turing proposed a test to determine whether a machine could be perceived as intelligent enough to generate responses to questions in a way indistinguishable from a human. Later, in the 1970s, researchers developed more advanced models capable of producing more realistic and coherent outcomes. Contemporary GAI models are based on state-of-the-art neural network architectures. They combine such architectures to develop large models that outperform existing benchmarked ones. Contemporary GAI solutions can produce large amounts of contextual outputs on any specific topic. They are highly trained and sophisticated, enabling users to produce various types of AI-generated content. Although GAI has been around for a while, recent developments have brought the potential of such solutions to the forefront. In particular, LLMs have the potential to transform the way we develop textual content and communicate with one another.</p>
     
@@ -2940,6 +3410,18 @@
             <pubDate>Wed, 18 Jan 2023 12:50:43 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Aaron Baird</strong>, Georgia State University</li>
+        
+        <li><strong>Yusen Xia</strong>, Georgia State University</li>
+        
+        <li><strong>Rajiv Kohli</strong>, William &amp; Mary</li>
+        
+    </ul>
+    
+    
     <p>The objective of this special issue is to showcase how health analytics can be used to enhance theorizing in the field of IS. In addition to its contribution to deep analysis, the power of health analytics research lies in theory development that leverages the unique context of health care. Specifically, the special issue aims to foster research that addresses the question: How can the application and design of analytics methods identify insights from health data and extend IS theory?</p>
     
     <p>This special issue places analytics at the forefront of IS research so that health care researchers can make a theoretical contribution to IS research. Through this special issue, we hope to provide an opportunity for emerging and innovative health analytics research to be published that will showcase how new forms and combinations of theoretical reasoning, methods, and data can contribute to theory building. Our hope is that this special issue will contribute to deeper descriptions, explanations, and predictions of emerging health phenomena relevant to IS scholars as well as demonstrate to clinicians and patients opportunities that will enrich health care management and delivery. We welcome research at the intersection of traditional and emerging approaches, exploratory research, phenomenon-based research, novel methods, and data from any relevant source (with IRB approval, as needed). While we are open to discoveries of all kinds, we expect application of rigorous methods, presentation of persuasive reasoning, and inclusion of strong evidence.</p>
@@ -3038,6 +3520,22 @@
             <pubDate>Thu, 05 Jan 2023 05:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Shuk Ying Ho</strong>, Australian National University</li>
+        
+        <li><strong>Jan Recker</strong>, University of Hamburg</li>
+        
+        <li><strong>Chee-Wee Tan</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Anthony Vance</strong>, Virginia Tech</li>
+        
+        <li><strong>Han Zhang</strong>, Georgia Tech</li>
+        
+    </ul>
+    
+    
     <p>An irony of science is that, despite our devotion to evidence, there is little evidence underpinning many aspects of the journal review process. As part of our commitment to continually improving our review processes at MIS Quarterly, this special issue aims to obtain evidence regarding the merits of a recent innovation in the review process—registered reports.</p>
     
     <p>While the registered report model is relatively new, it has been adopted by over 200 journals across the sciences. Business and Information Systems Engineering was the first (and so far, lone) IS journal to adopt this model. Other early adopters across the business fields include Journal of Accounting Research, Academy of Management Discoveries, and Leadership Quarterly.</p>
@@ -3098,6 +3596,20 @@
             <guid>dss-blockchain-technology-and-applications</guid>
             <pubDate>Thu, 18 Aug 2022 06:37:25 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Shaokun Fan</strong>, Oregon State University</li>
+        
+        <li><strong>Noyan Ilk</strong>, Florida State University</li>
+        
+        <li><strong>Akhil Kumar</strong>, Penn State University</li>
+        
+        <li><strong>J. Leon Zhao</strong>, Chinese University of Hong Kong, Shenzhen</li>
+        
+    </ul>
+    
     
     <p>Blockchain technology has received enormous attention since Bitcoin was launched in 2009 and has become the frontier of technology advancements and application innovations in recent years. In particular, blockchain is now recognized as a critical part of the new ABCD of modern technology, that is, Artificial intelligence, Blockchain, Cloud computing, and big Data. However, many research challenges and opportunities remain to be tackled and surmounted in areas such as blockchain infrastructure decentralization, blockchain network governance, blockchain security and privacy, and the nature of machine trust in blockchain-based systems. Because blockchain is an integral part of automated business processes, the implementation of this technology can vary greatly between organizations across different industries.</p>
     
@@ -3198,6 +3710,20 @@
             <guid>jais-digital-responsibility-social-ethical-and-ecological-implications-of-is</guid>
             <pubDate>Wed, 27 Apr 2022 06:37:25 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
+    <h2>Editors</h2>
+    <ul>
+        
+        <li><strong>Jan Recker</strong>, Universität Hamburg</li>
+        
+        <li><strong>Sutirtha Chatterjee</strong>, University of Nevada, Las Vegas</li>
+        
+        <li><strong>Janina Sundermeier</strong>, Freie Universität Berlin</li>
+        
+        <li><strong>Monideepa Tarafdar</strong>, University of Massachusetts Amherst</li>
+        
+    </ul>
+    
     
     <p>Pervasive digitalization has influenced practically all aspects of the human experience and our institutions in business, society, and government. Diverse areas such as organizational management and strategy, urban affairs and city planning, healthcare, entertainment, safety, politics, and transportation have all been inexorably shaped by digital technologies. Such technologies have created non-trivial and non-reversible changes to our individual and collective behaviors, our institutions and organizations, as well as to human society and our planet at large. But with great power also comes great responsibility. The transformational changes from digitalization are neither unequivocally positive nor negative; more often than not, they are laden with ethical tensions between the contrasting outcomes they engender. For example, personal data digitalization can help individuals live longer and heal their lives, but it also challenges individual rights, obligations, and our sense of dignity. Social media allows us greater connectivity and access, upholding the democratic principle of collective voice, but also becomes a vehicle for manipulating public opinion and spreading fake news and falsehood. Emerging technologies such as shared electric vehicles are coining a revolution in the mobility and energy sector, but also increase fears of labor substitution. The datafication of everyday behaviors has led to new healthcare opportunities but also increased surveillance. The wide embracement of Artificial Intelligence (AI) propels new opportunities for automation and decision-making, but also raises thorny ethical issues in terms of accountability, privacy, fairness, discrimination, and further biases. These observations surface the fact that digital technologies invoke competing narratives: the transformational and innovative powers of digital technologies often contrast dysfunctional outcomes of digitalization, such as social endangerment or loss of human voice and autonomy. While digital technologies promise an exciting future, we have been cautioned that “the journey to the fully pervasive digitized world is also likely to be perilous” and “as much as the potential benefits of digital technology are real, so too are the risks and complexity that ride with them.” Therefore, the key question that we must ask is: how can we positively leverage the transformational powers of digital technologies without falling prey to their possible dysfunctional outcomes? We believe that the answer to this complex question partly lies in the consideration of an important construct: responsibility. Responsibility allows us to evaluate transformational digital technologies in a balanced manner, by factoring in both harmful and positive outcomes from the engagement with such artifacts. Responsibility has become a salient term in this digital age, inspiring new streams of research such as corporate digital responsibility and responsible innovation. Forcing us to engage in meta-ethical reflection, responsibility is crucial to addressing some of the dysfunctional outcomes associated with the rapid proliferation of digital technologies – thus allowing for normative action consistent with human values and ethical defensibility. As information systems researchers, it must be on us to better understand the concept of responsibility as it pertains to the enablement of positive outcomes of the ongoing digitalization of our everyday lives while safeguarding the human experience against possible negative consequences of the same. We term this concept “digital responsibility”, which we believe can serve as an organizing construct of research that aims to inform the balancing of ethical and humanistic tensions pertaining to the rapid proliferation of digital technologies. Notably, focusing on digital responsibility allows us to challenge the often-embraced utopic narrative of digitalization – thus problematizing our vision for this special issue. Digital responsibility is antithetical to “mindlessness” in designing and implementing digital technologies, which is often associated with the inability “to cope gracefully with changing, complex situations characteristic of high-risk domains.” The lens of digital responsibility necessitates that we embark upon rigorously analyzing, explaining, predicting, as well as influencing, the potential costs, duties, and obligations of decisions that relate to the development, implementation, and use of digital information and communication technologies. Following such observations, unpacking the phenomenon of “digital responsibility” should be of utmost concern to IS researchers – and this is the central theme of this special issue.</p>
     
@@ -3304,6 +3830,7 @@
             <guid>misq-digital-technologies-and-social-justice</guid>
             <pubDate>Sat, 01 Jan 2022 05:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div>
+    
     
     
     
