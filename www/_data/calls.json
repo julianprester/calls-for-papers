@@ -1,5 +1,258 @@
 [
   {
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "metaTitle": "Bright Internet through Secure and Responsible Artificial Intelligence",
+    "url": "https://www.sciencedirect.com/special-issue/319301/bright-internet-through-secure-and-responsible-artificial-intelligence",
+    "slug": "im-bright-internet-through-secure-and-responsible-artificial-intelligence",
+    "contentHash": "94d08643916dc011b0d3403a8fa614f3d473f5a8a2077937f0b68eab55bdfa3b",
+    "title": "Bright Internet through Secure and Responsible Artificial Intelligence",
+    "topics": [
+      "Design of Bright Internet systems that can assist and aid governance of challenges",
+      "How can we design systems using AI to address problems like fake websites, sources of misinformation, and propagators to create bright internet ecosystems?",
+      "How would addressing these problems affect user experiences?",
+      "Managing challenges to Bright Internet surrounding AI and cyber security",
+      "What are the types of risks that AI may cause that infringe cybersecurity such as deep fakes?",
+      "What should be the principles and technologies to prevent these risks?",
+      "How can five principles of Bright Internet be applied to Bright AI: Origin Responsibility, Deliverer Responsibility, Identifiable anonymity, Privacy Protection, and Global Collaboration, but not intended to limit?",
+      "Fair regulation of AI: policy and laws at present and in the future",
+      "Critically evaluate AI to foster Bright Internet",
+      "What is the limit with the perspective of architecture and data to pretrain? How can we manage hallucinations by Generative AI?",
+      "How to integrate traditional Analytical AI and Generative AI to ensure truthfulness and optimization in the dialogue?",
+      "Adequate mapping of AI solutions and problems to reduce unintended consequences",
+      "Validation of the performance of AI application in practice: Cost-effectiveness, Time savings, productivity improvements, etc",
+      "Learning to securely use, challenge, and live with AI under Bright Internet",
+      "Ethical policies; Global collaboration efforts under associations",
+      "Need of education on AI applications: Skilling, Future of Work debates"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Bright Internet initiatives aim to transform the current Internet landscape into a more secure, trustworthy, and resilient environment. Originating from the recognition of growing cyber threats, data breaches, and the erosion of user trust, the concept of the Bright Internet was developed to address these pressing issues. It seeks to establish a framework where safety, privacy, and accountability are prioritized, ensuring that users can navigate the digital world without fear of malicious activities. The initiative focuses on implementing proactive security measures, fostering a culture of transparency, and promoting responsible behavior among all internet stakeholders. By leveraging advanced technologies and collaborative efforts, Bright Internet aspires to create a digital ecosystem where trust is restored, and the Internet's potential for positive societal impact is fully realized. Since 2017, the Bright Internet Global Symposium (BIGS) has been established as a forum for exchanging the vision of Bright Internet and discussing research outcomes and advancements surrounding Bright Internet issues. It fosters collaborations among researchers, companies, academic institutions, government bodies, and international organizations to achieve mutual benefits that transcend individual country capabilities.",
+        "The Internet ecosystem is evolving rapidly in the Artificial Intelligence (AI) era. The evolution of AI started with supervised and unsupervised machine learning models in the 1950s and these models evolved into deep learning models in the 1990s (LeCun et al., 2015). Subsequently, with the adoption of Generative AI, content creation became extremely easy and fast. However, the veracity of this content is increasingly becoming a challenge to manage in the different open Internet ecosystems. Further traditional AI-based recommendation engines have also witnessed fast adoption in recent times, and sometimes these systems had many unintended consequences, across applications. Newer models of AI often do not have mechanisms to address unintended consequences surrounding responsible and ethical use.",
+        "Digital platforms like social media and e-commerce use Internet-based infrastructure for facilitating social and economic interactions which create value across stakeholders who engage on these platforms. These platforms are heavily using AI in activities like content recommendation, dynamic pricing, product recommendations, friend recommendation, online campaign management, marketing automation through chatbots, fraudulent purchase prevention, inventory management, order fulfillment automation, product bundling, customer segmentation, and many more. Some of the applications still use traditional algorithms; many involve newer algorithms of AI like reinforcement learning, federated learning and large language models. We are interested in studies that look at emerging models of AI in different internet platforms, which are adopting them very fast and may have both utopian and dystopian outcomes surrounding information governance.",
+        "With the fast adoption of AI, a plethora of challenges are emerging. For example, pricing discrimination happens from dynamic pricing strategies in e-commerce (Hinz et al., 2011). When AI facilitates this personalization, it has the potential to adversely impact specific communities inadvertently. For example, in sharing ride services, there were denial of services consistently to communities that needed extra support during service consumption. Further customers share a lot of demographic and psychographic information during their purchase and surfing behavior. AI applications have the potential to derive complex relationships from this information which can have strong privacy concerns. Fairness, Accountability, Transparency, and Ethics of AI implementation may not be addressed in many of these applications, which may negatively impact user experiences of these digital platforms.",
+        "Further, in emerging business models like social commerce, there are many reports on how customers face challenges surrounding purchase fulfillment and service assurance (Zhang & Benyoucef, 2016). There is evidence that online advertisements create content using AI and customers often feel a mismatch of expectations of what they see online versus what they receive as a product or service (Chaudhry, 2022). While internet ecosystems have become more open with time, content creation and recommendations based on AI in these open platforms often face veracity challenges. For example, Roumani (2024) highlights how social media platform features, technical features and vulnerability features affect the active exploitation of vulnerabilities. Similarly, recommendation engines in websites recommend content from other partnering websites through embedded links, which often have misinformation and disinformation (Abbasi et al., 2010). A lot of times, this misinformation is also often created and propagated using AI. Misinformation mixed with correct information sometimes makes detection difficult and adversely affects management decision-making (Lyytinen & Grover, 2017). This may also impact the adoption and usage of these information systems due to different types of concerns (e.g. Chen et al., 2023). However, with AI, it is also possible to address these concerns as well on digital platforms and pave the path for Bright Internet. For example, Hu et al. (2023) highlight how large language models of Generative AI may be used to mine social media signals to detect drug trafficking."
+      ]
+    },
+    "tags": [
+      "ai",
+      "internet",
+      "digital platforms"
+    ],
+    "editors": [
+      {
+        "name": "Indranil Bose",
+        "affiliation": "NEOMA Business School"
+      },
+      {
+        "name": "Amany Elbanna",
+        "affiliation": "The University of Sussex"
+      },
+      {
+        "name": "Dan J. Kim",
+        "affiliation": "University of North Texas"
+      },
+      {
+        "name": "Gene Moo Lee",
+        "affiliation": "University of British Columbia"
+      },
+      {
+        "name": "Alvin Chung Man Leung",
+        "affiliation": "City University of Hong Kong"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-06-30T12:00:00.000Z",
+        "description": "First Submission Deadline",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2025-09-30T12:00:00.000Z",
+        "description": "Notification of first-round reviews",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-11-01T12:00:00.000Z",
+        "description": "Revised manuscripts due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-01-15T12:00:00.000Z",
+        "description": "Notification of second round reviews",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-04-30T12:00:00.000Z",
+        "description": "Final manuscript due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-07-31T12:00:00.000Z",
+        "description": "Last date for final acceptance",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "metaTitle": "Understanding Resistance to Digital Transformation",
+    "url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2025-000208",
+    "slug": "isj-understanding-resistance-to-digital-transformation",
+    "contentHash": "c3ea56d6b1920cfde986e68eb4eda138d32fdd05f6a73a888298bbfabf0ef769",
+    "title": "Understanding Resistance to Digital Transformation",
+    "topics": [
+      "Cultural inertia and institutional friction",
+      "Generational mismatches and skill gaps",
+      "Augmentation vs. Automation",
+      "Gamification and behavioral nudges",
+      "Digital boycotts and collective pushback",
+      "Organizational learning and adaptation",
+      "Distinguishing digital transformation from general IS/IT resistance"
+    ],
+    "description": {
+      "paragraphs": [
+        "Digital transformation has become a major point of discussion in organizations and broader society, yet its overall desirability and consequences remain open to debate. While many practitioners and scholars see these initiatives as avenues for enhancing efficiency, competitiveness, and customer engagement, there is also growing recognition of the complexities, paradoxes, and unintended effects they may introduce. Indeed, the acceleration of digital projects—especially following the COVID-19 pandemic—can invite various forms of resistance, leading to stalled progress and disruptions.",
+        "Importantly, digital transformation is increasingly recognized as an overarching and longitudinal process or strategic goal—rather than a one-time deployment of new technological tools—and requires shifts in both capabilities and institutional frameworks. Because this transformation unfolds over time, people may be resisting not only 'technology,' but also the evolving cultural, structural, and strategic changes that accompany it. More precisely, resistance is not solely a matter of technical or budgetary constraints; it intersects with organizational culture, leadership approaches, and individual behaviors. The emergence of new technologies—such as Artificial Intelligence (AI), blockchain, the Internet of Things (IoT), and digital twins—can exacerbate concerns about data transparency, automation, 'black box' processes, and ethical dilemmas. For some, these technologies prompt anxiety around potential job displacement or fears that advanced automation could undermine trust. In other situations, hurried or incomplete rollouts of new platforms—such as remote work tools—may create friction and lead employees to question their effectiveness.",
+        "Studies also highlight the role of deeply held cultural assumptions and legacy mindsets in impeding organizational shifts. In particular, environments that do not support collaboration and experimentation can intensify pushback against change. Generational differences often add another layer of complexity, as digital-native employees may clash with colleagues who have limited exposure to or interest in new technologies. Approaches such as gamification and behavioral nudges show potential to lessen opposition, although their effectiveness remains an active area of inquiry. Additionally, collective pushback or digital boycotts—where groups of employees, consumers, or communities reject new platforms—underscore the importance of trust, data governance, and broader social considerations.",
+        "Sustaining digital change over the long run often requires leadership that can manage both the technical and human dimensions of transformation, alongside an organizational culture geared toward continuous learning. Many organizations strive to integrate ongoing upskilling, transparent communication, and stakeholder engagement to reduce uncertainty and foster participation. By examining how and why employees, managers, or external stakeholders resist digital initiatives, researchers can illuminate strategies for balancing innovation with well-founded concerns and ensuring that transformations proceed in a manner consistent with ethical and social expectations.",
+        "This special issue invites work that addresses a broad range of questions around resistance to digital transformation. Rather than framing such transformations as inherently beneficial, we encourage submissions that critically examine these processes, questioning when they should (or should not) be pursued and how resistance emerges in diverse contexts. Ultimately, we hope to generate richer insights into how organizations, policymakers, and societies can better navigate the opportunities and risks posed by digital change."
+      ]
+    },
+    "tags": [
+      "digital transformation",
+      "organizational change"
+    ],
+    "editors": [
+      {
+        "name": "Francesco Appio",
+        "affiliation": "Paris School of Business"
+      },
+      {
+        "name": "Luca Gastaldi",
+        "affiliation": "Politecnico di Milano"
+      },
+      {
+        "name": "Federico Iannacci",
+        "affiliation": "University of Sussex"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Martin Adam",
+        "affiliation": "Georg-August-Universität Göttingen"
+      },
+      {
+        "name": "Ravi Patnayakuni",
+        "affiliation": "University of Alabama in Huntsville"
+      },
+      {
+        "name": "Andy Du",
+        "affiliation": "University of Massachusetts Boston"
+      },
+      {
+        "name": "Dimitra Petrakaki",
+        "affiliation": "University of Sussex"
+      },
+      {
+        "name": "Sven Laumer",
+        "affiliation": "Friedrich-Alexander-Universität"
+      },
+      {
+        "name": "Luiz Antonio Joia",
+        "affiliation": "Brazilian School of Public and Business Administration at FGV"
+      },
+      {
+        "name": "Shahla Ghobadi",
+        "affiliation": "University of Leeds"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-07-31T12:00:00.000Z",
+        "description": "Extended abstract submission for early feedback",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-10-01T12:00:00.000Z",
+        "description": "Full paper submission deadline",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "299c3392e9f99b3040466905614e794414e0ae53b85283bc5c799385adde0e25",
+    "title": "2027 Review Issue",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research",
+      "Important directions for future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.",
+        "Submissions will be evaluated concerning the following criteria:",
+        "Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.",
+        "Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.",
+        "Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.",
+        "Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.",
+        "Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles",
+      "scholarly surveys"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "Theorising the Impacts of Generative Artificial Intelligence",
@@ -161,9 +414,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": "2025-03-08T02:53:06.911Z"
+    "active": true,
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -649,8 +901,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -1108,9 +1361,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": "2025-03-08T02:53:06.911Z"
+    "active": true,
+    "pubDate": "2024-07-18T10:34:43.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -1335,8 +1587,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-04-07T12:34:14.000Z"
+    "active": false,
+    "pubDate": "2024-04-07T12:34:14.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -2230,8 +2483,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2317,8 +2571,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2486,8 +2741,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2583,8 +2839,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2672,8 +2929,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2765,8 +3023,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2928,8 +3187,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3011,8 +3271,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:25:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:25:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3099,8 +3360,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:24:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:24:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3189,8 +3451,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:23:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:23:57.000Z",
+    "gracePeriod": "2025-04-12T10:47:42.901Z"
   },
   {
     "journal": "Information Systems Research",
