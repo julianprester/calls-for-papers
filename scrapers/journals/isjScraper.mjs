@@ -23,7 +23,7 @@ export const scraperObject = {
         calls = await Promise.all(
             calls.map(async (call) => ({
                 ...call,
-                rawContent: await parse(browser, call.url)
+                rawContent: call.url.endsWith(".pdf") ? await parse(browser, call.url) : await get_raw_content(browser, call.url)
             }))
         );
 
@@ -32,3 +32,10 @@ export const scraperObject = {
     }
 }
 
+async function get_raw_content(browser, url) {
+    const page = await browser.newPage();
+    await page.goto(url, { waitUntil: 'domcontentloaded' });
+    const rawContent = await page.$eval('div.pb-rich-text', element => element.innerHTML);
+    await page.close();
+    return rawContent;
+}
