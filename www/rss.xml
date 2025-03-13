@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 13 Mar 2025 10:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 10:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,13 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Human-AI Collaboration, Emerging Digital Work Configurations and the Changing Nature of Work]]></title>
+            <link>https://journals.sagepub.com/pb-assets/JIT%20SI%20CFP%20Human-AI%20Collaboration,%20Emerging%20Digital%20Work%20Configurations%20and%20the%20Changing%20Nature%20of%20Work-1740480056487.pdf</link>
+            <guid>jit-human-ai-collaboration-emerging-digital-work-configurations-and-the-changing-nature-of-work</guid>
+            <pubDate>Thu, 13 Mar 2025 10:51:27 GMT</pubDate>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
         <item>
             <title><![CDATA[Bright Internet through Secure and Responsible Artificial Intelligence]]></title>
             <link>https://www.sciencedirect.com/special-issue/319301/bright-internet-through-secure-and-responsible-artificial-intelligence</link>

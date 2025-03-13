@@ -1,5 +1,101 @@
 [
   {
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "metaTitle": "Human-AI Collaboration, Emerging Digital Work Configurations and the Changing Nature of Work",
+    "url": "https://journals.sagepub.com/pb-assets/JIT%20SI%20CFP%20Human-AI%20Collaboration,%20Emerging%20Digital%20Work%20Configurations%20and%20the%20Changing%20Nature%20of%20Work-1740480056487.pdf",
+    "slug": "jit-human-ai-collaboration-emerging-digital-work-configurations-and-the-changing-nature-of-work",
+    "contentHash": "a886d584bd14bc865d5299adb3965235b826d3ffa32c7761246edb0022da74f0",
+    "title": "Human - AI Collaboration, Emerging Digital Work Configurations and the Changing Nature of Work",
+    "topics": [
+      "Emerging Human - AI Work Configurations",
+      "Effects of AI and Agentic Systems in the Workplace, Work, and Organizing",
+      "Governance, Responsibility, and Ethics of AI Agents",
+      "Adaptive Practices and Human - AI Dynamics",
+      "Strategic and Organizational Implications of Human - AI Collaboration",
+      "New Digital Work Configurations and Changing Nature of Work Beyond AI",
+      "Theoretical and Methodological Advancements"
+    ],
+    "description": {
+      "paragraphs": [
+        "Digital technologies, in particular artificial intelligence (AI), are reconfiguring how, where, and when work gets done, marking a shift from tools designed to support human tasks to agentic systems that collaborate with and even manage human workers. AI technologies are evolving to work autonomously or within hybrid collaboration systems of human and digital agents. Research on AI and human-AI collaboration has advanced from studying AI that supports human tasks to AI agents’ ability to make independent management decisions and regulate and manage human work. The future of working with AI is, however, still unknown and emergent, with both utopian and dystopian perspectives shaping our understanding of opportunities and challenges of their adoption and use in organizations, work, and other spheres of our lives.",
+        "Prior research has helped make sense of and anticipate important side effects of AI-driven management, new forms of hidden and unrecognized ‘meta-work’ performed by employees, and the ‘ripple effects’ of introducing such technologies to the workplace. This includes the reconfiguration of spatial-temporal dimensions and ‘ways of seeing’ in the workplace, tensions between craft and mechanical work, and a wide range of unintended effects in work contexts such as loss of critical thinking and changes in how human work is coordinated as well as the authority and values that underpin it. New research is needed to develop relevant theories and methods to study human-AI collaboration and how this is reconfiguring work.",
+        "This special issue invites submissions that critically examine the current and expected future effects of human-AI collaboration and other emerging digital work configurations. It seeks theoretical, empirical, and design-oriented contributions that study the transformative potential of digital-human collaboration, aiming to gather research that fosters ethical solutions and sustainable models for AI- and digitally-driven work, while informing future digital work scenarios. It encourages work that inspires innovative strategies and follows good research practice in the use of AI, but is also open to developing prospective scenarios and actively creating preferable futures."
+      ]
+    },
+    "tags": [
+      "ai",
+      "digital work",
+      "collaboration"
+    ],
+    "editors": [
+      {
+        "name": "Alexander Richter",
+        "affiliation": "Victoria University of Wellington"
+      },
+      {
+        "name": "João Baptista",
+        "affiliation": "Lancaster University"
+      },
+      {
+        "name": "Ella Hafermalz",
+        "affiliation": "Vrije Universiteit Amsterdam"
+      },
+      {
+        "name": "Mareike Möhlmann",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Daniel Schlagwein",
+        "affiliation": "The University of Sydney"
+      },
+      {
+        "name": "Mari-Klara Stein",
+        "affiliation": "Tallinn University of Technology"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-08-15T12:00:00.000Z",
+        "description": "Submissions due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2025-11-15T12:00:00.000Z",
+        "description": "Notifications (submissions)",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-03-01T12:00:00.000Z",
+        "description": "Revisions due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-05-01T12:00:00.000Z",
+        "description": "Notifications (revision 1)",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-08-01T12:00:00.000Z",
+        "description": "Second revision due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-10-01T12:00:00.000Z",
+        "description": "Notifications (revision 2)",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-12-01T12:00:00.000Z",
+        "description": "Target publication",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:51:27.457Z"
+  },
+  {
     "journal": "Information and Management",
     "abbreviation": "im",
     "metaTitle": "Bright Internet through Secure and Responsible Artificial Intelligence",
@@ -901,9 +997,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-10-27T03:00:38.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-10-27T03:00:38.000Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -2483,9 +2578,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:32:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:32:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2571,9 +2665,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:31:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:31:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2741,9 +2834,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:30:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:30:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2839,9 +2931,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:29:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:29:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2929,9 +3020,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:28:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:28:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3023,9 +3113,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:27:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:27:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3187,9 +3276,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:26:57.000Z",
-    "gracePeriod": "2025-04-12T10:47:42.901Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:26:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
