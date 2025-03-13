@@ -40,17 +40,6 @@ for (const call of calls) {
         id: call.slug,
         link: `https://callsforpapers.org/call/${call.slug}`,
         date: new Date(call.pubDate),
-        contributor: call.editors ? call.editors.map(editor => {
-            return {
-                name: editor.affiliation,
-                email: editor.name
-            }
-        }) : [
-            {
-                name: call.abbreviation.toUpperCase(),
-                email: call.journal
-            }
-        ],
         author: [
             {
                 name: call.abbreviation.toUpperCase(),
