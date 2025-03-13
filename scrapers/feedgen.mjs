@@ -1,9 +1,14 @@
 import { Feed } from 'feed';
-import { promises as fs } from 'fs';
+import fs from 'fs';
+import nunjucks from 'nunjucks';
+import { DateTime } from "luxon";
 
-let data = await fs.readFile("./www/_data/calls.json", "utf8");
-let issues = JSON.parse(data);
-issues = issues.filter(issue => issue.active || (!issue.active && Date.now() < new Date(issue.gracePeriod)));
+var env = nunjucks.configure('www/_includes', { autoescape: true });
+env.addFilter('dateOnly', function (str) {
+    const dateTime = DateTime.fromISO(str);
+    return dateTime.setLocale('en-us').toLocaleString(DateTime.DATE_FULL);
+});
+
 const rssFeed = new Feed({
     title: "Calls for Papers",
     description: "Calls for Papers shows you the latest calls for papers of academic journals in your discipline.",
@@ -20,26 +25,40 @@ const rssFeed = new Feed({
     },
     author: {
         name: "Julian Prester",
-        email: "julian@julianprester.com",
+        email: "hi@julianprester.com",
         link: "https://julianprester.com/"
     }
 });
-issues.forEach(issue => {
+
+let data = fs.readFileSync("./www/_data/calls.json", "utf8");
+let calls = JSON.parse(data);
+calls = calls.filter(call => call.active || (!call.active && Date.now() < Date.parse(call.gracePeriod)));
+
+for (const call of calls) {
     rssFeed.addItem({
-        title: issue.metaTitle ? issue.metaTitle : issue.title,
-        id: issue.slug,
-        link: issue.url,
-        date: new Date(issue.pubDate),
-        author: [
+        title: call.title ? call.title : call.metaTitle,
+        id: call.slug,
+        link: `https://callsforpapers.org/call/${call.slug}`,
+        date: new Date(call.pubDate),
+        author: call.editors ? call.editors.map(editor => {
+            return {
+                name: editor.affiliation,
+                email: editor.name
+            }
+        }) : [
             {
-                name: issue.abbreviation.toUpperCase(),
-                email: issue.journal
+                name: call.abbreviation.toUpperCase(),
+                email: call.journal
             }
         ],
+        contributor: [
+            {
+                name: call.abbreviation.toUpperCase(),
+                email: call.journal
+            }
+        ],
+        content: nunjucks.render('rss.html', { call: call })
     });
-});
-try {
-    await fs.writeFile("./www/rss.xml", rssFeed.rss2());
-} catch (err) {
-    console.log(err);
 }
+
+fs.writeFileSync("./www/rss.xml", rssFeed.rss2());
