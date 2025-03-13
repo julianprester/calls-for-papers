@@ -1,11 +1,8 @@
 <div>
     {% if call.editors | length > 0 %}
-    <h2>Editors</h2>
-    <ul>
         {% for editor in call.editors %}
-        <li><strong>{{ editor.name }}</strong>, {{ editor.affiliation }}</li>
+        <p><strong>{{ editor.name }}</strong>, {{ editor.affiliation }}</p>
         {% endfor %}
-    </ul>
     {% endif %}
     {% for paragraph in call.description.paragraphs %}
     <p>{{ paragraph }}</p>
