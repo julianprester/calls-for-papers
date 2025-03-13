@@ -25,7 +25,7 @@ const rssFeed = new Feed({
     },
     author: {
         name: "Julian Prester",
-        email: "julian@julianprester.com",
+        email: "hi@julianprester.com",
         link: "https://julianprester.com/"
     }
 });
