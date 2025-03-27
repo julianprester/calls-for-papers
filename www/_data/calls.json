@@ -166,8 +166,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:51:27.457Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:51:27.457Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Information and Management",
@@ -1073,8 +1074,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -1342,7 +1344,7 @@
     "metaTitle": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
     "url": "https://www.sciencedirect.com/special-issue/313589/designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
     "slug": "io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
-    "contentHash": "4f5c8e7a55ccb5ae72cb9a87f55d7305a842b238b12d2d0824515c28226ff4e4",
+    "contentHash": "2107a274b36654049c35455634825312a39cdaab22335794477159fb9e1df7d6",
     "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
     "topics": [
       "Challenge Techno-Centric Narratives: We seek papers that move beyond solution-oriented thinking, instead critically examining the assumptions and values embedded in emerging technologies (such as large language models, blockchain, and augmented reality).",
@@ -1355,13 +1357,24 @@
         "_Information & Organization_ invites submissions for a special issue celebrating the career and intellectual legacy of the journal’s founding editor, Professor Richard Boland Jr., on the occasion of his retirement.",
         "Throughout his distinguished career, Professor Boland is known for his innovative and unconventional approach to understanding the role of technology in organizations and society. He challenged traditional paradigms on technology and management, and urged scholars to embrace a more expansive, humanistic, and design-oriented perspective on information systems. Among other things, he is best known for his groundbreaking work on the role of design as a fundamental way of thinking about the future, contrasting design with traditional decision-making paradigms.",
         "This special issue seeks to honor Professor Boland’s legacy by inspiring submissions that not only build upon his seminal contributions but also push the boundaries of our understanding of technology’s role in shaping the future. Among others, we welcome especially forward-looking contributions that address the profound impact of emerging technologies, such as large language models, blockchain, and augmented reality, across various sectors, including healthcare, finance, manufacturing, sustainability, and education.",
-        "In the spirit of Professor Boland’s commitment to active scholarship, we encourage submissions that position IS research as a world-shaping force, rather than merely a reflective lens on recent history. We seek contributions that embody Professor Boland’s spirit of critical inquiry, imaginative exploration, and commitment to human-centeredness. We encourage submissions that challenge dominant techno-centric narratives, propose alternative visions for the future of technology and organization, and engage with the ethical, philosophical, and societal implications of emerging technologies.",
-        "We welcome original research papers, theory development, conceptual papers, empirical studies, essays, and other innovative formats. In the spirit of Professor Boland’s openness to new ideas and his generosity towards junior scholars, we particularly encourage submissions from early-career researchers and doctoral students. Join us in celebrating Professor Boland’s enduring contributions and shaping the future of our field through this forward-looking special issue. We look forward to receiving your innovative and thought-provoking submissions."
+        "In the spirit of Professor Boland’s commitment to active scholarship, we encourage submissions that position IS research as a world-shaping force, rather than merely a reflective lens on recent history. We seek contributions that embody Professor Boland’s spirit of critical inquiry, imaginative exploration, and commitment to human-centeredness. We encourage submissions that challenge dominant techno-centric narratives, propose alternative visions for the future of technology and organization, and engage with the ethical, philosophical, and societal implications of emerging technologies. We invite conceptual and empirical submissions that explore topics including, but not limited to:",
+        "Envisioning alternative futures for technology and organization through speculative design and critical storytelling",
+        "Exploring the role of technology in fostering human creativity, collaboration, and experiential learning in organizations",
+        "Designing technologies that prioritize human autonomy, dignity, and well-being in the face of increasing automation and algorithmic decision-making",
+        "Investigating the potential of participatory and co-design methodologies to democratize technology development and promote inclusive innovation",
+        "Reimagining the relationship between technology, work, and leisure in the post-pandemic era",
+        "Examining the implications of emerging technologies for organizational power dynamics, surveillance, and resistance",
+        "Envisioning new forms of technological citizenship and digital activism in the age of platformization and datafication",
+        "Exploring the role of technology in enabling sustainable, equitable, and resilient organizations and communities",
+        "Proposing new methodological approaches and theoretical frameworks for studying the future of technology and organization, drawing inspiration from fields such as design, art, literature, and philosophy.",
+        "We welcome original research papers, theory development, conceptual papers, empirical studies, essays, and other innovative formats. In the spirit of Professor Boland’s openness to new ideas and his generosity towards junior scholars, we particularly encourage submissions from early-career researchers and doctoral students."
       ]
     },
     "tags": [
+      "technology",
+      "information systems",
       "design",
-      "information systems"
+      "emerging technologies"
     ],
     "editors": [
       {
@@ -1393,8 +1406,8 @@
     ],
     "dates": [
       {
-        "date": "2025-03-31T12:00:00.000Z",
-        "description": "First-round submission due",
+        "date": "2025-04-15T12:00:00.000Z",
+        "description": "Submission deadline",
         "is_full_paper_submission_deadline": true
       },
       {
@@ -1405,11 +1418,11 @@
       {
         "date": "2025-12-31T12:00:00.000Z",
         "description": "Second-round submission due",
-        "is_full_paper_submission_deadline": true
+        "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-01-31T12:00:00.000Z",
-        "description": "Final decision expected",
+        "description": "Final decision due expected",
         "is_full_paper_submission_deadline": false
       }
     ],
@@ -2483,8 +2496,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:33:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:33:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2655,8 +2669,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2742,8 +2757,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2911,8 +2927,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3008,8 +3025,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3097,8 +3115,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3190,8 +3209,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3353,8 +3373,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3436,9 +3457,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": "2025-04-24T03:05:01.056Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:25:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3525,9 +3545,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": "2025-04-24T03:05:01.056Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:24:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3616,9 +3635,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": "2025-04-24T03:05:01.056Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:23:57.000Z"
   },
   {
     "journal": "Information Systems Research",
@@ -3774,8 +3792,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-02T12:00:00.000Z"
+    "active": false,
+    "pubDate": "2024-01-02T12:00:00.000Z",
+    "gracePeriod": "2025-04-26T03:04:19.444Z"
   },
   {
     "journal": "MIS Quarterly",
