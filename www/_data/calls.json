@@ -1,5 +1,119 @@
 [
   {
+    "journal": "Journal of Information Technology",
+    "abbreviation": "jit",
+    "metaTitle": "Futuring: Digital Futures as a Novel Site of Inquiry and Imagination",
+    "url": "https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Digital%20Futures%20rev06%20(Daniel%20Final).pdf",
+    "slug": "jit-futuring-digital-futures-as-a-novel-site-of-inquiry-and-imagination",
+    "contentHash": "2f13cecb1700637a391d7c185d87888af347af84325cd6fe81bddb7503ac9e39",
+    "title": "Futuring: ‘Digital’ Futures as a Novel Site of Inquiry and Imagination",
+    "topics": [
+      "Researching futures to inform present theory and action.",
+      "Anthropologic, ethnographic, or speculative design approaches.",
+      "Ethical futures: what do we owe the future?",
+      "Beyond trajectories of the digital: Anticipating and modelling future worlds.",
+      "Precautionary principles: guardrails for dual-use technologies?",
+      "Socio-technical construction of the future.",
+      "Utopias, dystopias, and science fiction as forms of speculative science.",
+      "Non-empirical approaches to knowledge.",
+      "Bridging epistemic distance.",
+      "Digital transformation in a digital world.",
+      "Reconceptualizing the organization."
+    ],
+    "description": {
+      "paragraphs": [
+        "What attention do we owe the future(s)? The Information Systems (IS) and adjacent research fields engage with the design, implementation, and evaluation of increasingly powerful digital technologies and with studies of their impact on work, knowledge, sustainability, and organizing. Given the rich and growing body of theories and findings from research on these wide and long-term impacts, the potential for researchers to help envision, inform, critique, and shape how these technologically-infused futures – 'digital futures' – develop are immense.",
+        "Despite this rich potential, most discussions of the future implications of digitalization in IS research are abstract and nominal, typically assuming a singular 'future' will arise from the technological advances studied. Discourses on the future with digital technologies rarely bring the worlds and practices that emerge from, shape, and transform futures to the foreground for a close and critical examination. Similarly, whether or to what extent such worlds and practices will discernibly be digital to any meaningful degree is often just assumed, which focuses our attention on specific aspects that may no longer be salient in futures. As a result, researchers tend to cede these important discussions and considerations to visionaries, technology firms, and 'evangelists' in business and consultancy.",
+        "To the degree that IS research does consider the future, the implications of digital technologies in the discourse are often contradictory. On the one hand, an optimistic, instrumental view depicts the broad range of technologies as 'tools' under social control, which can (and will) produce an economically, socially, and environmentally sustainable future. On the other hand, a substantive view of technology casts technology as dark, uncontrollable forces that (inevitably) result in personal, societal, and environmental distress. For instance, the dominating discussions of AI in research illustrate these contradictory 'hopes and fears'. Neither view of technology sufficiently challenges researchers to engage actively with futuring – that is, the envisioning, informing, critiquing, and helping to shape possible futures systematically through research practices. Hence, the purpose and focus of this special issue is on futuring work – active, imaginary, forward-looking research work in IS or related fields that is informing or shaping our 'digital' futures.",
+        "Research approaches that address the worlds and practices that shape digital possibilities and the multiplicity of futures that could result are possible. These strategies can overcome nominal approaches to considering the future and build on the rich socio-technical positions already present in IS research. To do so, researchers need to consider new ways of futuring that go beyond simple extrapolations of current trends into the future or tacit acceptance of technology’s inevitable path. One way to do so is to loosen the grip of empiricism in IS research and broaden our relationship to futures, for instance, by engaging with speculation and imagination in research, creating speculative engagements with future possibilities, and deconstructing the narratives and expectations of the present. These and other approaches to futuring can be highly significant to what emerging phenomena can be observed, where present-day research interests and practices are directed, and ultimately, what future worlds are realized through the technologies we study.",
+        "There is enormous potential for present-day research to consider the futures of lived social life, environmental conditions, and economies with digitalization and technological enactments. To foray into, conceptualize, and perform the variety of futuring approaches, we must take the theoretical, methodological, and philosophical implications of futures seriously in our research. Our goal in this special issue is to encourage researchers in the IS and adjacent managerial fields to do so. The intended types of contributions to this special issue follow the 'digital futures' editorial referenced above and encourage submissions with novel contributions within (or across) three main categories: Engaging in Futuring, Envisioning Futures, and Conceptualizing Futures.  Submissions may examine our relationships with short-term events and technologies or with the long, slow shifts in social norms; moral reasoning; and the power, weight, and significance of institutions, practices, and technologies. We encourage consideration of the philosophical bases for connecting past-present-futures, new methods of futuring, and conceptions of the future as a site of inquiry. Traditional futures-studies approaches are welcome insofar as they contribute to the special issue’s goals. The special issue seeks to be inclusive in terms of diverse approaches to futuring and studying digital futures."
+      ]
+    },
+    "tags": [
+      "information systems",
+      "futures studies",
+      "digital technology"
+    ],
+    "editors": [
+      {
+        "name": "Dirk S. Hovorka",
+        "affiliation": "The University of Sydney"
+      },
+      {
+        "name": "Benjamin Mueller",
+        "affiliation": "University of Bremen"
+      },
+      {
+        "name": "Elizabeth Davidson",
+        "affiliation": "University of Hawaii - Manoa"
+      },
+      {
+        "name": "Mike Chiasson",
+        "affiliation": "University of British Columbia"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": null,
+        "description": "Target publication date.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-07-01T12:00:00.000Z",
+        "description": "AOM workshop introducing special issue.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-08-15T12:00:00.000Z",
+        "description": "Submit extended abstract for feedback and workshop admission, max 1500 words, via submission system",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-09-15T12:00:00.000Z",
+        "description": "Abstracts invited for workshop.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-12-01T12:00:00.000Z",
+        "description": "Special Issue Workshop Hybrid at ICIS 2025 and online (recommended).",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-02-15T12:00:00.000Z",
+        "description": "First round submission deadline.",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2026-05-15T12:00:00.000Z",
+        "description": "First round decision to authors.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-10-15T12:00:00.000Z",
+        "description": "Second round submission deadline.",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2026-12-15T12:00:00.000Z",
+        "description": "Second round decision to authors. Papers will be accepted or rejected after the second round of peer review.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-01-31T12:00:00.000Z",
+        "description": "Final revision due (if applicable).",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-02-28T12:00:00.000Z",
+        "description": "Final decision to authors.",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-04-01T03:16:46.180Z"
+  },
+  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "ISJ Paper Development Workshop",
@@ -1612,8 +1726,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-05-29T12:37:14.000Z"
+    "active": false,
+    "pubDate": "2024-05-29T12:37:14.000Z",
+    "gracePeriod": "2025-05-01T03:16:46.180Z"
   },
   {
     "journal": "International Journal of Information Management",
