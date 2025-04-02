@@ -1456,7 +1456,7 @@
     "metaTitle": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
     "url": "https://www.sciencedirect.com/special-issue/313589/designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
     "slug": "io-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
-    "contentHash": "2107a274b36654049c35455634825312a39cdaab22335794477159fb9e1df7d6",
+    "contentHash": "4f6d2e42ecbc484033c5ebd00082967dd65d39ce99a07b4168782aa8b9b99fcb",
     "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
     "topics": [
       "Challenge Techno-Centric Narratives: We seek papers that move beyond solution-oriented thinking, instead critically examining the assumptions and values embedded in emerging technologies (such as large language models, blockchain, and augmented reality).",
@@ -1478,15 +1478,15 @@
         "Examining the implications of emerging technologies for organizational power dynamics, surveillance, and resistance",
         "Envisioning new forms of technological citizenship and digital activism in the age of platformization and datafication",
         "Exploring the role of technology in enabling sustainable, equitable, and resilient organizations and communities",
-        "Proposing new methodological approaches and theoretical frameworks for studying the future of technology and organization, drawing inspiration from fields such as design, art, literature, and philosophy.",
+        "Proposing new methodological approaches and theoretical frameworks for studying the future of technology and organization, drawing inspiration from fields such as design, art, literature, and philosophy",
         "We welcome original research papers, theory development, conceptual papers, empirical studies, essays, and other innovative formats. In the spirit of Professor Boland’s openness to new ideas and his generosity towards junior scholars, we particularly encourage submissions from early-career researchers and doctoral students."
       ]
     },
     "tags": [
-      "technology",
       "information systems",
+      "technology",
       "design",
-      "emerging technologies"
+      "human-centered design"
     ],
     "editors": [
       {
@@ -1519,7 +1519,7 @@
     "dates": [
       {
         "date": "2025-04-15T12:00:00.000Z",
-        "description": "Submission deadline",
+        "description": "First-round submission due",
         "is_full_paper_submission_deadline": true
       },
       {
@@ -1530,7 +1530,7 @@
       {
         "date": "2025-12-31T12:00:00.000Z",
         "description": "Second-round submission due",
-        "is_full_paper_submission_deadline": false
+        "is_full_paper_submission_deadline": true
       },
       {
         "date": "2026-01-31T12:00:00.000Z",
