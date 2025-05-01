@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 30 Apr 2025 03:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 03:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -327,70 +327,6 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
-            <title><![CDATA[2027 Review Issue]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
-    
-    <p>Submissions will be evaluated concerning the following criteria:</p>
-    
-    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
-    
-    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
-    
-    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
-    
-    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
-    
-    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research</li>
-        
-        <li>Important directions for future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -468,6 +404,70 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[2027 Review Issue]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
+    
+    <p>Submissions will be evaluated concerning the following criteria:</p>
+    
+    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
+    
+    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
+    
+    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
+    
+    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
+    
+    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research</li>
+        
+        <li>Important directions for future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
@@ -1294,74 +1294,6 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Decision Support Systems on Improving Societal Outcomes with Design Science Research]]></title>
-            <link>https://callsforpapers.org/call/dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research</link>
-            <guid>dss-decision-support-systems-on-improving-societal-outcomes-with-design-science-research</guid>
-            <pubDate>Wed, 29 May 2024 12:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
-        
-        <p><strong>Jeffrey Parsons</strong>, Memorial University of Newfoundland</p>
-        
-        <p><strong>Jinsoo Park</strong>, Seoul National University</p>
-        
-        <p><strong>Thorsten Shoormann</strong>, TU Braunschweig</p>
-        
-    
-    
-    <p>Design science research (DSR) deals with the design of artifacts to solve identifiable problems and the abstraction of knowledge from that process. In its original conceptualization, DSR has been popularly characterized as research that &#39;created and evaluates IT artifact intended to solve identified organizational problems&#39; (Hevner et al., 2004, p. 77, emphasis added). More broadly, there is a recognition that DSR leads to artifacts that &#39;serve human purposes&#39; (March and Smith, 1995, p. 253). In particular, DSR can serve as an approach to tackle many of the wicked problems facing society today, including poverty, health, environmental degradation, climate change, disinformation, and terrorism.</p>
-    
-    <p>This special issue targets DSR that addresses societal problems. In particular, we encourage submissions linked to any of the 17 sustainable development goals (SDGs) identified by the United Nations, as well as work dealing with technologies that are transforming the world in which we live, such as Artificial Intelligence (AI). Recent studies in Decision Support Systems (DSS) have notably contributed to SDGs, spanning from enhancing healthcare quality (e.g., Ojo et al., 2024) to optimizing resource efficiency (e.g., Ge et al., 2024). Storey et al. (2024) emphasized the significance of integrating human-AI synergies in sociotechnical DSS design. Transparency is pivotal in advocating responsible DSR practices and design artifacts (Hevner et al., 2024).</p>
-    
-    <p>Recent DSR publications reflect a growing consensus within the community regarding the imperative to advance sustainable development. Strobel, et al. (2023) leveraged AI to translate sign language and improve participation of individuals with hearing difficulties in social activities. Wass, Thygesen, and Purao (2023) designed and deployed information systems to promote the social inclusion of people with intellectual and developmental disabilities. With both DSR projects, the authors improved access to quality healthcare and equality. Other examples focus on promoting ecological sustainability, such as Schoormann, Stadtländer, and Knackstedt (2022) and Seidel, et al. (2018). Pan, et al. (2021) conducted an Action Design Research to support wildlife management for the purpose of environmental protection.</p>
-    
-    <p>Examples such as these demonstrate the promise of DSR as a research paradigm for tangible societal impacts. With this special issue, we hope to encourage fellow design science researchers to create even greater impacts together.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>Contributing to sustainable development with DSR</li>
-        
-        <li>Designing and deploying innovative information systems for accessible quality education or quality healthcare</li>
-        
-        <li>Designing and deploying innovative information systems to improve access to clean water and sanitation</li>
-        
-        <li>The role of DSR in social change</li>
-        
-        <li>DSR to mitigate misinformation</li>
-        
-        <li>Combining social and technical approaches in DSR for social good</li>
-        
-        <li>The challenge of evaluating DSR solutions to wicked problems</li>
-        
-        <li>DSR for designing and deploying responsible artifacts</li>
-        
-        <li>Considering indigenous values in DSR</li>
-        
-        <li>Designing information systems for fairness and justice</li>
-        
-        <li>DSR for human flourishing</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2024: Submission system opens for Special Issue</li>
-        
-        <li>February 28, 2025: Submission deadline for manuscripts</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>Decision Support Systems (DSS)</author>
         </item>
         <item>
             <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
