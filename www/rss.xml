@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 09 May 2025 03:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 03:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -327,70 +327,6 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
-            <title><![CDATA[2027 Review Issue]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
-    
-    <p>Submissions will be evaluated concerning the following criteria:</p>
-    
-    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
-    
-    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
-    
-    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
-    
-    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
-    
-    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research</li>
-        
-        <li>Important directions for future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -468,6 +404,70 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[2027 Review Issue]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
+    
+    <p>Submissions will be evaluated concerning the following criteria:</p>
+    
+    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
+    
+    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
+    
+    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
+    
+    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
+    
+    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research</li>
+        
+        <li>Important directions for future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
