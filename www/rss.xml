@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Sun, 25 May 2025 03:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,76 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Critical National Infrastructure]]></title>
+            <link>https://callsforpapers.org/call/jmis-critical-national-infrastructure</link>
+            <guid>jmis-critical-national-infrastructure</guid>
+            <pubDate>Mon, 26 May 2025 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Jason Chan</strong>, University of Minnesota</p>
+        
+        <p><strong>Alan Dennis</strong>, Indiana University</p>
+        
+        <p><strong>Daniel Gozman</strong>, The University of Sydney</p>
+        
+        <p><strong>Kalle Lyytinen</strong>, Case Western Reserve University</p>
+        
+    
+    
+    <p>Critical National Infrastructure (CNI) encompasses essential systems and services that are vital for societal stability, economic security, and national safety. The increasing digitalization of these infrastructures has introduced unprecedented efficiencies that have transformed economies, enabling faster service delivery, improved public safety, reduced corruption, and enhanced crisis response through data sharing and analytics.</p>
+    
+    <p>The United Nations Development Programme (UNDP) supports digital public infrastructure (DPI) as a driver for financial inclusion, social protection, and governance reforms. Digital advancements have also driven sustainability, with smart grids, environmental monitoring, and optimized resource management with potential for reducing carbon footprints and increasing resilience.</p>
+    
+    <p>Furthermore, technological innovation in financial services, transportation, and energy has the potential to stimulate economic growth through enabling new business models. While the increasing digitalization of Critical National Infrastructure has introduced efficiencies, it also created unprecedented vulnerabilities, including cyberattacks, cascading failures, and systemic interdependencies that amplify risks.</p>
+    
+    <p>Recognizing these challenges, governments in the UK, US, and Australia have developed regulatory frameworks such as the UK’s National Cyber Security Strategy, the US Cybersecurity and Infrastructure Security Agency (CISA) guidelines, and Australia’s Security of Critical Infrastructure Act (SOCI Act) to enhance resilience and mitigate emerging threats.</p>
+    
+    <p>CNI spans multiple critical sectors, each with unique security and operational challenges, including energy and utilities, telecommunications and information networks, financial services and payments, healthcare and public health, transportation and logistics, emergency services and law enforcement, and government and public sector infrastructure.</p>
+    
+    <p>As efforts to build CNIs have accelerated, issues around CNI security, resilience, and adaptability are becoming increasingly critical. At the same time significant research gaps remain in cybersecurity practices at the system level, governance, integration and management of emerging technologies such as Autonomous Driving Systems, and threat intelligence sharing.</p>
+    
+    <p>Addressing these gaps is essential for policymakers, businesses, and infrastructure operators to mitigate threats, optimize performance, and ensure long-term continuity.</p>
+    
+    <p>This Special Section aims to advance research on the design, adoption, and impact of digital solutions and services critical in building CNI to enhance governance, economic development, and public service delivery and safeguard CNI. We invite interdisciplinary contributions that explore how digital technologies and services can enhance CNI or impose new risks and challenges for the operation of CNIs. Papers that do not explicitly address or theorize about CNI design and operation and their digital components will be returned without review.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Emerging Technologies and Digital Transformation: Innovative technologies such as Artificial Intelligence, Digital Twins, Blockchain and IoT are transforming CNI, enabling predictive analytics, smart grids, and cyber-physical security enhancements.</li>
+        
+        <li>Cybersecurity, Resilience, and Risk Management: Cyber threats such as ransomware, insider attacks, and cyber-physical vulnerabilities continue to grow. Risk assessment frameworks and mitigation strategies are essential.</li>
+        
+        <li>Governance, Policy, and Public-Private Partnerships: CNI governance requires polycentric collaborative efforts between government agencies, private sector entities, and international stakeholders.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>June 1, 2025: Expression of Interest: one-page abstract, optional</li>
+        
+        <li>January 31, 2026: Initial Submission Due</li>
+        
+        <li>May 31, 2026: Notification of First Round Decision</li>
+        
+        <li>September 30, 2026: 1st Resubmission Due</li>
+        
+        <li>January 31, 2027: Notification of Second Round Decision</li>
+        
+        <li>April 30, 2027: 2nd Resubmission Due</li>
+        
+        <li>June 15, 2027: Final Decision</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
         <item>
             <title><![CDATA[Futuring: ‘Digital’ Futures as a Novel Site of Inquiry and Imagination]]></title>
             <link>https://callsforpapers.org/call/jit-futuring-digital-futures-as-a-novel-site-of-inquiry-and-imagination</link>
@@ -327,70 +397,6 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
-            <title><![CDATA[2027 Review Issue]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
-    
-    <p>Submissions will be evaluated concerning the following criteria:</p>
-    
-    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
-    
-    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
-    
-    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
-    
-    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
-    
-    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research</li>
-        
-        <li>Important directions for future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -468,6 +474,70 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[2027 Review Issue]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
+    
+    <p>Submissions will be evaluated concerning the following criteria:</p>
+    
+    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
+    
+    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
+    
+    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
+    
+    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
+    
+    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research</li>
+        
+        <li>Important directions for future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
