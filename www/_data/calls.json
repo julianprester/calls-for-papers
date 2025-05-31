@@ -1,5 +1,94 @@
 [
   {
+    "journal": "Journal of Management Information Systems",
+    "abbreviation": "jmis",
+    "metaTitle": "Critical National Infrastructure",
+    "url": "https://www.jmis-web.org/cfps/JMIS_CFP_CNI_Special_Section.pdf",
+    "slug": "jmis-critical-national-infrastructure",
+    "contentHash": "8e3eaf06cc9a4488d5289e076f23d2cf60b76da8deaac6c19c13eeef4a381788",
+    "title": "Critical National Infrastructure",
+    "topics": [
+      "Emerging Technologies and Digital Transformation: Innovative technologies such as Artificial Intelligence, Digital Twins, Blockchain and IoT are transforming CNI, enabling predictive analytics, smart grids, and cyber-physical security enhancements.",
+      "Cybersecurity, Resilience, and Risk Management: Cyber threats such as ransomware, insider attacks, and cyber-physical vulnerabilities continue to grow. Risk assessment frameworks and mitigation strategies are essential.",
+      "Governance, Policy, and Public-Private Partnerships: CNI governance requires polycentric collaborative efforts between government agencies, private sector entities, and international stakeholders."
+    ],
+    "description": {
+      "paragraphs": [
+        "Critical National Infrastructure (CNI) encompasses essential systems and services that are vital for societal stability, economic security, and national safety. The increasing digitalization of these infrastructures has introduced unprecedented efficiencies that have transformed economies, enabling faster service delivery, improved public safety, reduced corruption, and enhanced crisis response through data sharing and analytics.",
+        "The United Nations Development Programme (UNDP) supports digital public infrastructure (DPI) as a driver for financial inclusion, social protection, and governance reforms. Digital advancements have also driven sustainability, with smart grids, environmental monitoring, and optimized resource management with potential for reducing carbon footprints and increasing resilience.",
+        "Furthermore, technological innovation in financial services, transportation, and energy has the potential to stimulate economic growth through enabling new business models. While the increasing digitalization of Critical National Infrastructure has introduced efficiencies, it also created unprecedented vulnerabilities, including cyberattacks, cascading failures, and systemic interdependencies that amplify risks.",
+        "Recognizing these challenges, governments in the UK, US, and Australia have developed regulatory frameworks such as the UK’s National Cyber Security Strategy, the US Cybersecurity and Infrastructure Security Agency (CISA) guidelines, and Australia’s Security of Critical Infrastructure Act (SOCI Act) to enhance resilience and mitigate emerging threats.",
+        "CNI spans multiple critical sectors, each with unique security and operational challenges, including energy and utilities, telecommunications and information networks, financial services and payments, healthcare and public health, transportation and logistics, emergency services and law enforcement, and government and public sector infrastructure.",
+        "As efforts to build CNIs have accelerated, issues around CNI security, resilience, and adaptability are becoming increasingly critical. At the same time significant research gaps remain in cybersecurity practices at the system level, governance, integration and management of emerging technologies such as Autonomous Driving Systems, and threat intelligence sharing.",
+        "Addressing these gaps is essential for policymakers, businesses, and infrastructure operators to mitigate threats, optimize performance, and ensure long-term continuity.",
+        "This Special Section aims to advance research on the design, adoption, and impact of digital solutions and services critical in building CNI to enhance governance, economic development, and public service delivery and safeguard CNI. We invite interdisciplinary contributions that explore how digital technologies and services can enhance CNI or impose new risks and challenges for the operation of CNIs. Papers that do not explicitly address or theorize about CNI design and operation and their digital components will be returned without review."
+      ]
+    },
+    "tags": [
+      "cni",
+      "cybersecurity",
+      "digital transformation"
+    ],
+    "editors": [
+      {
+        "name": "Jason Chan",
+        "affiliation": "University of Minnesota"
+      },
+      {
+        "name": "Alan Dennis",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Daniel Gozman",
+        "affiliation": "The University of Sydney"
+      },
+      {
+        "name": "Kalle Lyytinen",
+        "affiliation": "Case Western Reserve University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-06-01T12:00:00.000Z",
+        "description": "Expression of Interest: one-page abstract, optional",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-01-31T12:00:00.000Z",
+        "description": "Initial Submission Due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2026-05-31T12:00:00.000Z",
+        "description": "Notification of First Round Decision",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-09-30T12:00:00.000Z",
+        "description": "1st Resubmission Due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-01-31T12:00:00.000Z",
+        "description": "Notification of Second Round Decision",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-04-30T12:00:00.000Z",
+        "description": "2nd Resubmission Due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-06-15T12:00:00.000Z",
+        "description": "Final Decision",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-05-26T03:20:42.907Z"
+  },
+  {
     "journal": "Journal of Information Technology",
     "abbreviation": "jit",
     "metaTitle": "Futuring: Digital Futures as a Novel Site of Inquiry and Imagination",
@@ -185,7 +274,7 @@
     ],
     "active": false,
     "pubDate": "2025-03-23T03:07:30.034Z",
-    "gracePeriod": "2025-06-14T03:14:56.799Z"
+    "gracePeriod": "2025-06-27T03:18:03.209Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -535,7 +624,7 @@
     ],
     "active": false,
     "pubDate": "2025-03-13T10:47:42.901Z",
-    "gracePeriod": "2025-06-14T03:14:56.799Z"
+    "gracePeriod": "2025-06-27T03:18:03.209Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -701,7 +790,7 @@
     ],
     "active": false,
     "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": "2025-06-14T03:14:56.799Z"
+    "gracePeriod": "2025-06-27T03:18:03.209Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1659,7 +1748,7 @@
     ],
     "active": false,
     "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": "2025-06-14T03:14:56.799Z"
+    "gracePeriod": "2025-06-27T03:18:03.209Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -2092,8 +2181,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-30T12:25:09.000Z"
+    "active": false,
+    "pubDate": "2024-01-30T12:25:09.000Z",
+    "gracePeriod": "2025-06-25T03:20:42.907Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -2187,8 +2277,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-30T12:24:09.000Z"
+    "active": false,
+    "pubDate": "2024-01-30T12:24:09.000Z",
+    "gracePeriod": "2025-06-25T03:20:42.907Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -2367,8 +2458,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-30T12:23:09.000Z"
+    "active": false,
+    "pubDate": "2024-01-30T12:23:09.000Z",
+    "gracePeriod": "2025-06-25T03:20:42.907Z"
   },
   {
     "journal": "Information Systems Research",
@@ -2609,9 +2701,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:33:57.000Z",
-    "gracePeriod": "2025-06-16T03:13:10.787Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:33:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3898,9 +3989,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-02T12:00:00.000Z",
-    "gracePeriod": "2025-06-16T03:13:10.787Z"
+    "active": true,
+    "pubDate": "2024-01-02T12:00:00.000Z"
   },
   {
     "journal": "MIS Quarterly",
