@@ -12,6 +12,7 @@
         <hr class="bg-primary" />
     </li>
     {% for date in call.dates %}
+    {% if date.date and date.description %}
     <li>
         {% if date.date | isInPast %}
         <hr class="bg-primary" />
@@ -36,9 +37,7 @@
             </svg>
             {% endif %}
         </div>
-        {% if date.description %}
         <div class="timeline-end max-w-36">{{ date.description }}</div>
-        {% endif %}
         {% if not loop.last %}
             {% if date.date | isInPast %}
             <hr class="bg-primary" />
@@ -47,5 +46,6 @@
             {% endif %}
         {% endif %}
     </li>
+    {% endif %}
     {% endfor %}
 </ul>
