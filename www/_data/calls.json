@@ -2701,9 +2701,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:33:57.000Z",
-    "gracePeriod": "2025-07-01T03:44:02.246Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:33:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3990,9 +3989,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-02T12:00:00.000Z",
-    "gracePeriod": "2025-07-01T03:44:02.246Z"
+    "active": true,
+    "pubDate": "2024-01-02T12:00:00.000Z"
   },
   {
     "journal": "MIS Quarterly",
