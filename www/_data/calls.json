@@ -199,8 +199,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-04-01T03:16:46.180Z"
+    "active": false,
+    "pubDate": "2025-04-01T03:16:46.180Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -369,8 +370,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:51:27.457Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:51:27.457Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Information and Management",
@@ -476,31 +478,24 @@
     "metaTitle": "Call for Special Issue Review Articles",
     "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
     "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "299c3392e9f99b3040466905614e794414e0ae53b85283bc5c799385adde0e25",
-    "title": "2027 Review Issue",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
     "topics": [
       "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research",
-      "Important directions for future inquiries",
+      "Synthesis of recent research and future inquiries",
       "Established and emerging topics in strategic information systems",
-      "Research methods relevant to strategic information systems"
+      "Research methods relevant to the context of strategic information systems"
     ],
     "description": {
       "paragraphs": [
         "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.",
-        "Submissions will be evaluated concerning the following criteria:",
-        "Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.",
-        "Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.",
-        "Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.",
-        "Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.",
-        "Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews."
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
       ]
     },
     "tags": [
       "strategic information systems",
-      "review articles",
-      "scholarly surveys"
+      "review articles"
     ],
     "editors": [
       {
@@ -1276,8 +1271,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -1285,7 +1281,7 @@
     "metaTitle": "AI-IA Nexus",
     "url": "https://misq.umn.edu/call-for-papers-ai-ia",
     "slug": "misq-ai-ia-nexus",
-    "contentHash": "8a46ce8be55d8c97d4219a3cbcdca519c4259d5c491794feee6e02834bbad8c8",
+    "contentHash": "d740bd52a63ace28ec19ac0098227fc1d3cc94a9460d78ee15085144b85dd299",
     "title": "Artificial Intelligence-Information Assurance Nexus: The Future of Information Systems Security, Privacy, and Quality",
     "topics": [
       "What factors influence individuals’ security and privacy behavior in the presence of GenAI tools?",
@@ -1293,27 +1289,37 @@
       "How can economic analysis contribute to combating information assurance threats in GenAI?",
       "What are the managerial strategies and their effectiveness in addressing GenAI-induced issues on data security and privacy?",
       "What are the key principles in attributing accountability and responsibilities for the risks in GenAI model output?",
-      "individual behaviors",
-      "organizational practices",
-      "societal impacts",
-      "risk management",
-      "investments in assurance",
-      "market effects",
-      "attacker analysis"
+      "Individual behaviors",
+      "Organizational practices",
+      "Societal impacts",
+      "Risk management",
+      "Investments in assurance",
+      "Market effects",
+      "Attacker analysis"
     ],
     "description": {
       "paragraphs": [
-        "Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations. As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability. As society steps into the age of generative AI (GenAI), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance. GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas.",
-        "The emergence of GenAI is poised to exert a profound impact on assurance. On the one hand, GenAI has been recognized for its ability to bolster information assurance. On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance.",
-        "Another source of threats to information assurance stems from attacks that are designed to target the way GenAI systems are trained and expected to be used. Many of these attacks can be mitigated by explicitly integrating information assurance considerations when designing GenAI systems. Cisco found that 92% of organizations see GenAI as fundamentally different, requiring new techniques to manage data and risks. The relationship between GenAI and information assurance is depicted below. Numerous new opportunities exist for information systems (IS) scholars to study information assurance issues within the context of GenAI, as traditional approaches may not work. This special issue seeks research that goes beyond simple applications of existing theories and methods from the cybersecurity literature in IS. We invite studies that explore the unique information assurance challenges in the realm of GenAI, calling for the development and application of new theories or methods. By focusing on important research questions, this special issue will generate answers to address significant national and global research fronts."
+        "Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations (Mahmood et al., 2010; Forrest, 2023). As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability (European Parliament, 2018; White House, 2023a). As society steps into the age of generative AI (GenAI) (Dennehy et. al., 2023), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance (Robidoux, 2024).",
+        "GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas. GenAI models can range from generalized models to domain-specific models that automate tasks and generate content adhering to industry-specific terminologies, context-specialized knowledge, and tailored experiences. Its power has sparked discussions on ethics and societal questions regarding the potential impact on employment, bias, privacy, and human-AI relationships.",
+        "The emergence of GenAI is poised to exert a profound impact on assurance (Barrett et al., 2023; Sun et al., 2023). On the one hand, GenAI has been recognized for its ability to bolster information assurance. The IBM Institute for Business Value (2024) commented that GenAI has the potential to strengthen business defenses, accelerate security processes, and identify emerging threats as they arise. Studies have also noted that GenAI may be able to address information management challenges, including quality (Bhatti, 2024). On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. The 2024 February deepfake fraud incident in Hong Kong is a case in point (Chen & Magramo, 2024). Even unexpected users can threaten the protection of data, which is manifested by examples of employees sharing confidential data with GenAI models. Industry reports from Forrester (2023), Cisco (2024), and the IBM Institute for Business Value (2024) have highlighted GenAI-induced risks to information assurance as a major threat to firms’ adoption and implementation of GenAI initiatives. Similar concerns have been acknowledged from a government perspective in the 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (White House, 2023b) and the 2023 congressional research report: Generative Artificial Intelligence and Data Privacy: A Primer (Congressional Research Service, 2023).",
+        "Examples of how GenAI may exacerbate information assurance issues include:",
+        "1. **Sophisticated human-deception attacks:** Cybercriminals can use GenAI to compromise businesses by writing targeted emails. In addition, GenAI can create deepfakes and voice clones, resulting in “vishing” that uses phone calls and voice messages to trick people into sharing sensitive information.",
+        "2. **Hallucination and confabulation:** GenAI is known to create incorrect information that is seemingly correct. In addition, attackers may trick GenAI into recommending unverified software code packages to unexpected users. When attackers embed malicious codes into packages endorsed by GenAI, users may unwittingly download and utilize these harmful codes, creating security vulnerabilities ripe for exploitation.",
+        "3. **Intellectual property theft:** GenAI can create materials that violate intellectual property rights. For example, GenAI can create content that resembles existing copyrighted materials, resulting in legal ramifications and conflicts.",
+        "4. **Challenges in regulation and compliance:** Keeping GenAI models in check is subject to considerable hurdles because of how intricate and swiftly they evolve. Ensuring compliance with data protection laws and standards will become increasingly difficult as GenAI becomes more autonomous and capable of making independent decisions.",
+        "Another source of threats to information assurance stems from attacks that are designed to target the way GenAI systems are trained and expected to be used. Many of these attacks can be mitigated by explicitly integrating information assurance considerations when designing GenAI systems. For example, GenAI tools may be subject to:",
+        "1. **Unreliable training data:** A substantial amount of training data is employed in constructing large language models (LLMs). Yet this data may be of low quality and is often unverified. The security of the models is influenced by the quality of the training data, paving the way for potential vulnerabilities, unauthorized access, and compromises regarding sensitive information.",
+        "2. **Data poisoning:** GenAI needs to be trained and tuned on inputs and outputs. Data poisoning occurs when inputs are manipulated to alter or corrupt the training data in LLMs, which consequently impacts the desired outputs of the overall system.",
+        "3. **Security leaks, inference attacks, and knowledge phishing:** Security leaks in the context of GenAI refer to the unintended disclosure of sensitive information embedded within a model itself or through its responses. This is also known as inference attacks or knowledge phishing.",
+        "4. **Prompt injections:** Prompt injections occur when malicious inputs are provided to an AI system to manipulate its output or to execute unintended actions.",
+        "Cisco (2024) found that 92% of organizations “see GenAI as fundamentally different, requiring new techniques to manage data and risks.” The 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence calls for actions on refining GenAI by mitigating information assurance issues (White House, 2023b). Worldwide efforts are being made on these fronts to protect LLMs against threats of information fabrication, system misuse, privacy breaches, etc. Gartner recommends mitigation strategies, which include “establishing a governance entity and workflow, monitoring and blocking access, communicating acceptable use policies, exploring prompt engineering and API integrations, and prioritizing private hosting options” (Robidoux, 2024). However, there are growing concerns that excessive focus and regulation on data security and privacy may stifle and slow the advancement of GenAI, especially in terms of the European Union’s AI Act (Timis, 2023).",
+        "The relationship between GenAI and information assurance is depicted below."
       ]
     },
     "tags": [
-      "artificial intelligence",
+      "ai",
       "information assurance",
-      "information systems",
-      "cybersecurity",
-      "privacy"
+      "cybersecurity"
     ],
     "editors": [
       {
@@ -1481,58 +1487,53 @@
     ],
     "dates": [
       {
-        "date": "2024-11-15T12:00:00.000Z",
-        "description": "Optional introductory workshops (virtual): informational sessions.",
+        "date": "2025-01-20T12:00:00.000Z",
+        "description": "Abstract Proposal Deadline",
         "is_full_paper_submission_deadline": false
       },
       {
-        "date": "2025-01-20T12:00:00.000Z",
-        "description": "Two-page abstracts submission deadline.",
-        "is_full_paper_submission_deadline": true
-      },
-      {
         "date": "2025-03-31T12:00:00.000Z",
-        "description": "Feedback on abstracts.",
+        "description": "Feedback on abstracts",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2025-07-11T12:00:00.000Z",
-        "description": "Paper development workshop (virtual).",
+        "description": "Paper development workshop (virtual)",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2025-10-31T12:00:00.000Z",
-        "description": "First-round paper submission.",
+        "description": "Stage 1 Submission Deadline",
         "is_full_paper_submission_deadline": true
       },
       {
         "date": "2026-01-31T12:00:00.000Z",
-        "description": "First-round decisions.",
+        "description": "First-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-02-01T12:00:00.000Z",
-        "description": "Workshop for authors with first-round revise-and-resubmit.",
+        "description": "Workshop for authors with first-round revise-and-resubmit",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-05-31T12:00:00.000Z",
-        "description": "Second-round revisions due.",
+        "description": "Second-round revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-08-31T12:00:00.000Z",
-        "description": "Second-round decisions.",
+        "description": "Second-round decisions",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-11-30T12:00:00.000Z",
-        "description": "Final revisions due.",
+        "description": "Final revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-02-28T12:00:00.000Z",
-        "description": "Final revisions.",
+        "description": "Final revisions",
         "is_full_paper_submission_deadline": false
       }
     ],
@@ -2701,8 +2702,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:33:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:33:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2873,8 +2875,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2960,8 +2963,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3129,8 +3133,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3226,8 +3231,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3315,8 +3321,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3408,8 +3415,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3571,8 +3579,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-07-12T03:20:23.475Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",

@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 11 Jun 2025 03:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -397,7 +397,7 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
-            <title><![CDATA[2027 Review Issue]]></title>
+            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
             <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
             <guid>jsis-call-for-special-issue-review-articles</guid>
             <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
@@ -416,19 +416,9 @@
     
     <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
     
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. We seek high‐impact scholarly surveys of important research literatures in the strategic information systems domain. Such articles will provide a synthesis of recent research and highlight important directions for future inquiries. The Review Issue is open to manuscripts concerning established and emerging topics in the field of strategic information systems, including those dealing with research methods relevant to our context.</p>
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
     
-    <p>Submissions will be evaluated concerning the following criteria:</p>
-    
-    <p>Relevance. The proposed manuscript should thoroughly review a significant research area within the field of Information Systems that has strategic impact and relevance. We also welcome reviews of important research areas that have yet to make a major impact in the field of Information Systems, but argumentation can be made that the area is of strategic significance to the information systems field. Obviously, it is upon the authors to make a strong linkage of the research area to the IS system phenomena.</p>
-    
-    <p>Scope of Interest. While the review article must contribute to the strategic information systems literature and its developing agenda, they must speak to scholars in cognate IS domains and fields, including, for example: Strategic Management, Organization Studies and Knowledge Management. Ethical, policy and societal issues can form an important feature.</p>
-    
-    <p>Organization and Coherence. The review article should follow a logical structure, read clearly, and thoroughly and comprehensively represent extant research in the topic area concerned.</p>
-    
-    <p>Insight for Future Work. The review article should convey important implications for future research, both in the context of the chosen topic and for the strategic information systems domain more broadly.</p>
-    
-    <p>Timeliness/Contribution. The review article should normally be on topics for which no recent reviews exist, and it should clearly indicate its intended contribution to knowledge. If existing reviews exist, they need to be identified, and there needs to be compelling argumentation about how the proposed review will contribute to the literature beyond the existing reviews.</p>
+    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
     
     
     <h2>Potential topics</h2>
@@ -436,13 +426,11 @@
         
         <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
         
-        <li>Synthesis of recent research</li>
-        
-        <li>Important directions for future inquiries</li>
+        <li>Synthesis of recent research and future inquiries</li>
         
         <li>Established and emerging topics in strategic information systems</li>
         
-        <li>Research methods relevant to strategic information systems</li>
+        <li>Research methods relevant to the context of strategic information systems</li>
         
     </ul>
     
@@ -1024,11 +1012,35 @@
         
     
     
-    <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations. As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability. As society steps into the age of generative AI (GenAI), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance. GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas.</p>
+    <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations (Mahmood et al., 2010; Forrest, 2023). As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability (European Parliament, 2018; White House, 2023a). As society steps into the age of generative AI (GenAI) (Dennehy et. al., 2023), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance (Robidoux, 2024).</p>
     
-    <p>The emergence of GenAI is poised to exert a profound impact on assurance. On the one hand, GenAI has been recognized for its ability to bolster information assurance. On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance.</p>
+    <p>GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas. GenAI models can range from generalized models to domain-specific models that automate tasks and generate content adhering to industry-specific terminologies, context-specialized knowledge, and tailored experiences. Its power has sparked discussions on ethics and societal questions regarding the potential impact on employment, bias, privacy, and human-AI relationships.</p>
     
-    <p>Another source of threats to information assurance stems from attacks that are designed to target the way GenAI systems are trained and expected to be used. Many of these attacks can be mitigated by explicitly integrating information assurance considerations when designing GenAI systems. Cisco found that 92% of organizations see GenAI as fundamentally different, requiring new techniques to manage data and risks. The relationship between GenAI and information assurance is depicted below. Numerous new opportunities exist for information systems (IS) scholars to study information assurance issues within the context of GenAI, as traditional approaches may not work. This special issue seeks research that goes beyond simple applications of existing theories and methods from the cybersecurity literature in IS. We invite studies that explore the unique information assurance challenges in the realm of GenAI, calling for the development and application of new theories or methods. By focusing on important research questions, this special issue will generate answers to address significant national and global research fronts.</p>
+    <p>The emergence of GenAI is poised to exert a profound impact on assurance (Barrett et al., 2023; Sun et al., 2023). On the one hand, GenAI has been recognized for its ability to bolster information assurance. The IBM Institute for Business Value (2024) commented that GenAI has the potential to strengthen business defenses, accelerate security processes, and identify emerging threats as they arise. Studies have also noted that GenAI may be able to address information management challenges, including quality (Bhatti, 2024). On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. The 2024 February deepfake fraud incident in Hong Kong is a case in point (Chen &amp; Magramo, 2024). Even unexpected users can threaten the protection of data, which is manifested by examples of employees sharing confidential data with GenAI models. Industry reports from Forrester (2023), Cisco (2024), and the IBM Institute for Business Value (2024) have highlighted GenAI-induced risks to information assurance as a major threat to firms’ adoption and implementation of GenAI initiatives. Similar concerns have been acknowledged from a government perspective in the 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (White House, 2023b) and the 2023 congressional research report: Generative Artificial Intelligence and Data Privacy: A Primer (Congressional Research Service, 2023).</p>
+    
+    <p>Examples of how GenAI may exacerbate information assurance issues include:</p>
+    
+    <p>1. **Sophisticated human-deception attacks:** Cybercriminals can use GenAI to compromise businesses by writing targeted emails. In addition, GenAI can create deepfakes and voice clones, resulting in “vishing” that uses phone calls and voice messages to trick people into sharing sensitive information.</p>
+    
+    <p>2. **Hallucination and confabulation:** GenAI is known to create incorrect information that is seemingly correct. In addition, attackers may trick GenAI into recommending unverified software code packages to unexpected users. When attackers embed malicious codes into packages endorsed by GenAI, users may unwittingly download and utilize these harmful codes, creating security vulnerabilities ripe for exploitation.</p>
+    
+    <p>3. **Intellectual property theft:** GenAI can create materials that violate intellectual property rights. For example, GenAI can create content that resembles existing copyrighted materials, resulting in legal ramifications and conflicts.</p>
+    
+    <p>4. **Challenges in regulation and compliance:** Keeping GenAI models in check is subject to considerable hurdles because of how intricate and swiftly they evolve. Ensuring compliance with data protection laws and standards will become increasingly difficult as GenAI becomes more autonomous and capable of making independent decisions.</p>
+    
+    <p>Another source of threats to information assurance stems from attacks that are designed to target the way GenAI systems are trained and expected to be used. Many of these attacks can be mitigated by explicitly integrating information assurance considerations when designing GenAI systems. For example, GenAI tools may be subject to:</p>
+    
+    <p>1. **Unreliable training data:** A substantial amount of training data is employed in constructing large language models (LLMs). Yet this data may be of low quality and is often unverified. The security of the models is influenced by the quality of the training data, paving the way for potential vulnerabilities, unauthorized access, and compromises regarding sensitive information.</p>
+    
+    <p>2. **Data poisoning:** GenAI needs to be trained and tuned on inputs and outputs. Data poisoning occurs when inputs are manipulated to alter or corrupt the training data in LLMs, which consequently impacts the desired outputs of the overall system.</p>
+    
+    <p>3. **Security leaks, inference attacks, and knowledge phishing:** Security leaks in the context of GenAI refer to the unintended disclosure of sensitive information embedded within a model itself or through its responses. This is also known as inference attacks or knowledge phishing.</p>
+    
+    <p>4. **Prompt injections:** Prompt injections occur when malicious inputs are provided to an AI system to manipulate its output or to execute unintended actions.</p>
+    
+    <p>Cisco (2024) found that 92% of organizations “see GenAI as fundamentally different, requiring new techniques to manage data and risks.” The 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence calls for actions on refining GenAI by mitigating information assurance issues (White House, 2023b). Worldwide efforts are being made on these fronts to protect LLMs against threats of information fabrication, system misuse, privacy breaches, etc. Gartner recommends mitigation strategies, which include “establishing a governance entity and workflow, monitoring and blocking access, communicating acceptable use policies, exploring prompt engineering and API integrations, and prioritizing private hosting options” (Robidoux, 2024). However, there are growing concerns that excessive focus and regulation on data security and privacy may stifle and slow the advancement of GenAI, especially in terms of the European Union’s AI Act (Timis, 2023).</p>
+    
+    <p>The relationship between GenAI and information assurance is depicted below.</p>
     
     
     <h2>Potential topics</h2>
@@ -1044,19 +1056,19 @@
         
         <li>What are the key principles in attributing accountability and responsibilities for the risks in GenAI model output?</li>
         
-        <li>individual behaviors</li>
+        <li>Individual behaviors</li>
         
-        <li>organizational practices</li>
+        <li>Organizational practices</li>
         
-        <li>societal impacts</li>
+        <li>Societal impacts</li>
         
-        <li>risk management</li>
+        <li>Risk management</li>
         
-        <li>investments in assurance</li>
+        <li>Investments in assurance</li>
         
-        <li>market effects</li>
+        <li>Market effects</li>
         
-        <li>attacker analysis</li>
+        <li>Attacker analysis</li>
         
     </ul>
     
@@ -1064,27 +1076,25 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>November 15, 2024: Optional introductory workshops (virtual): informational sessions.</li>
+        <li>January 20, 2025: Abstract Proposal Deadline</li>
         
-        <li>January 20, 2025: Two-page abstracts submission deadline.</li>
+        <li>March 31, 2025: Feedback on abstracts</li>
         
-        <li>March 31, 2025: Feedback on abstracts.</li>
+        <li>July 11, 2025: Paper development workshop (virtual)</li>
         
-        <li>July 11, 2025: Paper development workshop (virtual).</li>
+        <li>October 31, 2025: Stage 1 Submission Deadline</li>
         
-        <li>October 31, 2025: First-round paper submission.</li>
+        <li>January 31, 2026: First-round decisions</li>
         
-        <li>January 31, 2026: First-round decisions.</li>
+        <li>February 1, 2026: Workshop for authors with first-round revise-and-resubmit</li>
         
-        <li>February 1, 2026: Workshop for authors with first-round revise-and-resubmit.</li>
+        <li>May 31, 2026: Second-round revisions due</li>
         
-        <li>May 31, 2026: Second-round revisions due.</li>
+        <li>August 31, 2026: Second-round decisions</li>
         
-        <li>August 31, 2026: Second-round decisions.</li>
+        <li>November 30, 2026: Final revisions due</li>
         
-        <li>November 30, 2026: Final revisions due.</li>
-        
-        <li>February 28, 2027: Final revisions.</li>
+        <li>February 28, 2027: Final revisions</li>
         
     </ul>
     
