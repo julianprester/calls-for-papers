@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 18 Jun 2025 03:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 03:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -397,6 +397,58 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
+            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
+    
+    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research and future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to the context of strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -474,58 +526,6 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
-    
-    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research and future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to the context of strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
@@ -680,29 +680,39 @@
         
     
     
-    <p>This call for a special issue focuses on contemporary innovation in information infrastructures, especially the emergence of new technological capabilities such as block-chain, big data, Artificial Intelligence (AI), and Internet of Things (IoT) technologies, and consequent emerging new (inter)organizational forms and processes encompassing contemporary infrastructuring.</p>
+    <p>This call for a special issue in Journal of the Association for Information Systems (JAIS) focuses on contemporary innovation in information infrastructures – especially the emergence of new technological capabilities such as block-chain, big data and Artificial Intelligence (AI), and Internet of Things (IoT) technologies- and consequent emerging new (inter) organizational forms and processes encompassing contemporary infrastructuring.</p>
     
-    <p>The special issue builds on and expands the earlier stream of studies on information infrastructures to garner a deeper understanding of the new, emerging forms of digitally enabled infrastructural formations and their design, growth patterns, and local, organizational, societal and institutional uses and impacts.</p>
+    <p>The special issue builds on and expands the earlier stream of studies on information infrastructures (Monteiro et al. 2014) to garner a deeper understanding of the new, emerging forms of digitally enabled infrastructural formations and their design, growth patterns, and local, organizational, societal and institutional uses and impacts (Yeow et al, forthcoming). In particular, we encourage multi-level analyses, studies of infrastructures in heterogeneous contexts (developing economies; new industry contexts such as new financial services around cryptocurrencies), and so on. The studies are expected to give due consideration to both organizational and societal level relevance and significance, including double-edged effects that have often been missed in the past analyses of infrastructural formations.</p>
     
-    <p>We encourage multi-level analyses, studies of infrastructures in heterogeneous contexts, and analyses that give due consideration to both organizational and societal level relevance and significance, including double-edged effects that have often been missed in previous analyses of infrastructural formations. These effects include changes in social justice, climate change, immigration, and personal rights.</p>
+    <p>These effects include but are not limited to changes in social justice, climate change, immigration, human or personal rights. Personalised technology infrastructures such as social media and smart phones have for example created novel societal problems that range from the accelerating mental health crisis among children and adolescents, growing anomie among social groups, threats to privacy and security, to the breakdown of consensual politics. At the same time, infrastructural solutions are being proposed to resolve many critical challenges of contemporary society including the rising cost of public services, responses to climate change, or creating engines of economic growth by providing personalized health care, optimized agriculture, or new ‘clean’ manufacturing systems.</p>
+    
+    <p>More broadly, societal level information infrastructures play an increasingly central role across many spheres of social organizing and engineering including governance, health care, education and most public services, energy, commerce, culture and entertainment, and even cold and hot warfare between nations.</p>
+    
+    <p>Whilst engaging with these empirical developments, research on contemporary topics such as AI, block-chain and IoT solutions increasingly adopt an infrastructural perspective. There is currently a worldwide shift of attention towards recent rapid technical developments and early adoption and use of AI solutions, which has stimulated diverse empirical studies of specific, local AI applications.</p>
+    
+    <p>At the same time these studies struggle to analyze the broader context that makes such systems technologically and organizationally feasible and pushes organizations, industries and societies towards new AI based solutions. To address these questions requires the application of an infrastructural perspective which opens up under-theorised aspects of AI enabling such applications, such as digital data governance and digital storage and processing power, which all have become infrastructural.</p>
+    
+    <p>Such analyses must go beyond portrayals of AI as discrete “things” with ‘effects’: a self-contained algorithm, or a singular application. Rather, from an infrastructural perspective AI should be treated as a comprehensive and evolving assemblage of heterogeneous technological and social elements (models, parameterization, optimization, training data) and their ever-expanding relationships. On top of this, AI is shaping and is shaped by communities of practices, one of the main tenets of infrastructural studies (Star and Ruhleder 1996; Hanseth et al. 1996)).</p>
     
     <p>We invite original papers that engage with, scrutinize and highlight contemporary developments in a world composed of increasingly pervasive and rapidly changing information infrastructures and their component systems integrated into daily routines and widely shared services provided across time and space.</p>
     
-    <p>The expected contributions are not confined to any particular &#39;school&#39; or position of infrastructure studies and can take any feasible theoretical and methodological stance towards the subject matter. Our scope is highly inclusive: we wish to recruit all scholarly work showing an interest in building upon, extending, or modifying current streams of work focused on information infrastructures.</p>
+    <p>We appreciate generally any analytic work that mobilises and resonates with the broad aims and approach outlined above in novel, interesting ways, and explores empirically and/or theoretically the landscape and manifestations of ongoing digitalization and expansion of infrastructures within the contemporary society. The expected contributions are not confined to any particular &#39;school&#39; or position of infrastructure studies and can take any feasible theoretical and methodological stance towards the subject matter.</p>
+    
+    <p>Our scope is highly inclusive: we wish to recruit all scholarly work showing an interest in building upon, extending, or modifying current streams of work focused on information infrastructures.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>Infrastructuring of Platforms, Platformisation of Infrastructures: Studies of architectural strategies related to digital platforms and governance in data-intensive ecosystems.</li>
+        <li>Infrastructuring of Platforms, Platformisation of Infrastructures</li>
         
-        <li>Governance of/by Information Infrastructures: Understanding the relationship between information infrastructures and governance in various institutions.</li>
+        <li>Governance of/by Information Infrastructures</li>
         
-        <li>Societal Challenges addressed through Information Infrastructures: Investigating how infrastructures facilitate coordination to tackle societal grand challenges such as climate or health.</li>
+        <li>Societal Challenges addressed through Information Infrastructures</li>
         
-        <li>Approaches to Data &amp; AI Informed by Information Infrastructure Perspectives: Examining AI as an infrastructural assemblage and its implications for society.</li>
+        <li>Approaches to Data &amp; AI Informed by Information Infrastructure Perspectives</li>
         
-        <li>Theoretical Frames and Methodologies Salient to Infrastructure Studies: Debating theoretical and methodological concerns in infrastructure studies.</li>
+        <li>Theoretical Frames and Methodologies Salient to Infrastructure Studies</li>
         
     </ul>
     
@@ -710,9 +720,7 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>Invalid DateTime: Publication of the special issue</li>
-        
-        <li>July 30, 2025: Initial submissions</li>
+        <li>July 31, 2025: Initial submissions</li>
         
         <li>November 30, 2025: 1st Round Decision on Submission</li>
         

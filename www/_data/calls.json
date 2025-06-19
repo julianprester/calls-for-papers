@@ -272,8 +272,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-23T03:07:30.034Z"
+    "active": false,
+    "pubDate": "2025-03-23T03:07:30.034Z",
+    "gracePeriod": "2025-07-19T03:21:51.363Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -470,6 +471,65 @@
     "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "Understanding Resistance to Digital Transformation",
@@ -555,67 +615,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
-  },
-  {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:47:42.901Z",
+    "gracePeriod": "2025-07-19T03:21:51.363Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -779,40 +781,45 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z"
+    "active": false,
+    "pubDate": "2024-12-25T07:52:15.170Z",
+    "gracePeriod": "2025-07-19T03:21:51.363Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
     "abbreviation": "jais",
     "metaTitle": "Contemporary Innovation in Information Infrastructures",
-    "url": "https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/ET_MlLcC98xNjV1XTLf5PUQB3wqI8XsihOUVKAaiDFrfKw?e=Tcmk07",
+    "url": "https://aismsc-my.sharepoint.com/:w:/g/personal/jais_eic_aisnet_org/EQWiiWyjGYxGjBHZhGySorQB0xKVkiFiu7J1BCjvE-E25w?e=Th4dEj",
     "slug": "jais-contemporary-innovation-in-information-infrastructures",
-    "contentHash": "a3ada022d24aa112ab8b097796bd0889934747809c1376d200e88b351576a924",
+    "contentHash": "07f398501bb607dd0b5eeee61ed4b7422b4d02e62c2b2a32f43464213a190518",
     "tags": [
-      "information infrastructure",
-      "innovation",
-      "ai",
-      "blockchain",
-      "iot"
+      "information systems",
+      "infrastructure studies",
+      "artificial intelligence",
+      "digital platforms"
     ],
     "active": true,
     "pubDate": "2024-12-20T12:55:03.000Z",
     "title": "Contemporary Innovation in Information Infrastructures",
     "topics": [
-      "Infrastructuring of Platforms, Platformisation of Infrastructures: Studies of architectural strategies related to digital platforms and governance in data-intensive ecosystems.",
-      "Governance of/by Information Infrastructures: Understanding the relationship between information infrastructures and governance in various institutions.",
-      "Societal Challenges addressed through Information Infrastructures: Investigating how infrastructures facilitate coordination to tackle societal grand challenges such as climate or health.",
-      "Approaches to Data & AI Informed by Information Infrastructure Perspectives: Examining AI as an infrastructural assemblage and its implications for society.",
-      "Theoretical Frames and Methodologies Salient to Infrastructure Studies: Debating theoretical and methodological concerns in infrastructure studies."
+      "Infrastructuring of Platforms, Platformisation of Infrastructures",
+      "Governance of/by Information Infrastructures",
+      "Societal Challenges addressed through Information Infrastructures",
+      "Approaches to Data & AI Informed by Information Infrastructure Perspectives",
+      "Theoretical Frames and Methodologies Salient to Infrastructure Studies"
     ],
     "description": {
       "paragraphs": [
-        "This call for a special issue focuses on contemporary innovation in information infrastructures, especially the emergence of new technological capabilities such as block-chain, big data, Artificial Intelligence (AI), and Internet of Things (IoT) technologies, and consequent emerging new (inter)organizational forms and processes encompassing contemporary infrastructuring.",
-        "The special issue builds on and expands the earlier stream of studies on information infrastructures to garner a deeper understanding of the new, emerging forms of digitally enabled infrastructural formations and their design, growth patterns, and local, organizational, societal and institutional uses and impacts.",
-        "We encourage multi-level analyses, studies of infrastructures in heterogeneous contexts, and analyses that give due consideration to both organizational and societal level relevance and significance, including double-edged effects that have often been missed in previous analyses of infrastructural formations. These effects include changes in social justice, climate change, immigration, and personal rights.",
+        "This call for a special issue in Journal of the Association for Information Systems (JAIS) focuses on contemporary innovation in information infrastructures – especially the emergence of new technological capabilities such as block-chain, big data and Artificial Intelligence (AI), and Internet of Things (IoT) technologies- and consequent emerging new (inter) organizational forms and processes encompassing contemporary infrastructuring.",
+        "The special issue builds on and expands the earlier stream of studies on information infrastructures (Monteiro et al. 2014) to garner a deeper understanding of the new, emerging forms of digitally enabled infrastructural formations and their design, growth patterns, and local, organizational, societal and institutional uses and impacts (Yeow et al, forthcoming). In particular, we encourage multi-level analyses, studies of infrastructures in heterogeneous contexts (developing economies; new industry contexts such as new financial services around cryptocurrencies), and so on. The studies are expected to give due consideration to both organizational and societal level relevance and significance, including double-edged effects that have often been missed in the past analyses of infrastructural formations.",
+        "These effects include but are not limited to changes in social justice, climate change, immigration, human or personal rights. Personalised technology infrastructures such as social media and smart phones have for example created novel societal problems that range from the accelerating mental health crisis among children and adolescents, growing anomie among social groups, threats to privacy and security, to the breakdown of consensual politics. At the same time, infrastructural solutions are being proposed to resolve many critical challenges of contemporary society including the rising cost of public services, responses to climate change, or creating engines of economic growth by providing personalized health care, optimized agriculture, or new ‘clean’ manufacturing systems.",
+        "More broadly, societal level information infrastructures play an increasingly central role across many spheres of social organizing and engineering including governance, health care, education and most public services, energy, commerce, culture and entertainment, and even cold and hot warfare between nations.",
+        "Whilst engaging with these empirical developments, research on contemporary topics such as AI, block-chain and IoT solutions increasingly adopt an infrastructural perspective. There is currently a worldwide shift of attention towards recent rapid technical developments and early adoption and use of AI solutions, which has stimulated diverse empirical studies of specific, local AI applications.",
+        "At the same time these studies struggle to analyze the broader context that makes such systems technologically and organizationally feasible and pushes organizations, industries and societies towards new AI based solutions. To address these questions requires the application of an infrastructural perspective which opens up under-theorised aspects of AI enabling such applications, such as digital data governance and digital storage and processing power, which all have become infrastructural.",
+        "Such analyses must go beyond portrayals of AI as discrete “things” with ‘effects’: a self-contained algorithm, or a singular application. Rather, from an infrastructural perspective AI should be treated as a comprehensive and evolving assemblage of heterogeneous technological and social elements (models, parameterization, optimization, training data) and their ever-expanding relationships. On top of this, AI is shaping and is shaped by communities of practices, one of the main tenets of infrastructural studies (Star and Ruhleder 1996; Hanseth et al. 1996)).",
         "We invite original papers that engage with, scrutinize and highlight contemporary developments in a world composed of increasingly pervasive and rapidly changing information infrastructures and their component systems integrated into daily routines and widely shared services provided across time and space.",
-        "The expected contributions are not confined to any particular 'school' or position of infrastructure studies and can take any feasible theoretical and methodological stance towards the subject matter. Our scope is highly inclusive: we wish to recruit all scholarly work showing an interest in building upon, extending, or modifying current streams of work focused on information infrastructures."
+        "We appreciate generally any analytic work that mobilises and resonates with the broad aims and approach outlined above in novel, interesting ways, and explores empirically and/or theoretically the landscape and manifestations of ongoing digitalization and expansion of infrastructures within the contemporary society. The expected contributions are not confined to any particular 'school' or position of infrastructure studies and can take any feasible theoretical and methodological stance towards the subject matter.",
+        "Our scope is highly inclusive: we wish to recruit all scholarly work showing an interest in building upon, extending, or modifying current streams of work focused on information infrastructures."
       ]
     },
     "editors": [
@@ -945,12 +952,7 @@
     ],
     "dates": [
       {
-        "date": null,
-        "description": "Publication of the special issue",
-        "is_full_paper_submission_deadline": false
-      },
-      {
-        "date": "2025-07-30T12:00:00.000Z",
+        "date": "2025-07-31T12:00:00.000Z",
         "description": "Initial submissions",
         "is_full_paper_submission_deadline": true
       },
@@ -1741,8 +1743,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z"
+    "active": false,
+    "pubDate": "2024-07-18T10:34:43.000Z",
+    "gracePeriod": "2025-07-19T03:21:51.363Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -3649,9 +3652,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": "2025-07-18T03:21:25.631Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:25:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3738,9 +3740,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": "2025-07-18T03:21:25.631Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:24:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3829,9 +3830,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": "2025-07-18T03:21:25.631Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:23:57.000Z"
   },
   {
     "journal": "Information Systems Research",
