@@ -1,5 +1,139 @@
 [
   {
+    "journal": "Information Systems Research",
+    "abbreviation": "isr",
+    "metaTitle": "ISR Compassionate AI",
+    "url": "https://pubsonline.informs.org/page/isre/calls-for-papers",
+    "slug": "isr-isr-compassionate-ai",
+    "contentHash": "be0cc385f11a80eaeb81cf5b0bdb8289766cb3df1ad14df453c5ad5e365aa827",
+    "title": "Compassionate AI",
+    "topics": [
+      "Healthcare: Compassionate AI can enhance patient care by predicting adverse events, assisting with end-of-life decision-making, and providing emotional support to patients and families.",
+      "Crisis Management: During natural disasters or emergencies, compassionate AI systems can analyze real-time data, such as social media posts, to identify distressed individuals and provide timely assistance.",
+      "Education: AI systems can transform education by personalizing learning experiences and adapting instruction to meet diverse student needs.",
+      "Social Services: Compassionate AI can support victims of trauma or abuse by offering non-judgmental, understanding virtual assistance.",
+      "Customer Service: AI-powered chatbots can enhance customer experiences by providing compassionate and empathetic responses to inquiries.",
+      "Human Resources: AI can monitor employee well-being by detecting signals of stress or burnout and proactively offering support resources."
+    ],
+    "description": {
+      "paragraphs": [
+        "Although Artificial Intelligence (AI)—including generative and agentic forms—continues to reshape industries and societies, it remains largely devoid of human qualities, and today’s AI is often characterized as mechanistic and even 'sterile'. Indeed, current AI design paradigms focus on maximizing efficiency, accuracy, and computational sophistication, often at the expense of embedding emotional, social, and ethical dimensions that are inherent in human interactions. While AI is effective in processing data and automating tasks, it is often impersonal, thus detaching from the human experience and undermining the adoption of AI.",
+        "To address these shortcomings, AI development must be rethought toward an approach that emphasizes compassionate design by integrating ethical considerations, cultural sensitivity, and emotional intelligence into the core design of AI systems. By embedding these principles, AI should not only be technically proficient but also capable of understanding and responding to the diverse needs of its human users to ensure that AI advances meaningfully contribute to humanity. The need for compassion-centered AI design has never been more pressing.",
+        "Compassionate AI refers to systems that not only recognize human emotions and suffering but also proactively seek to alleviate distress, promote well-being, and uphold human dignity. Compassionate AI systems are envisioned as tools that complement human decision-making by providing support that is empathetic, inclusive, and contextually aware. Unlike empathy, which involves understanding others’ emotional states, or sympathy, which evokes feelings of sorrow, compassion combines emotional awareness with a purposeful intention to help other human beings.",
+        "While AI has increased efficiency, personalization, and cost reduction in many settings, it has also raised ethical, legal, and societal concerns—particularly in high-stakes settings such as healthcare, education, crisis response, and social services. These concerns are magnified when AI systems, lacking moral agency, make decisions that affect vulnerable populations. In many applications—ranging from healthcare to finance and customer service—the absence of a humanistic perspective can result in interactions that feel mechanistic and unresponsive to the complexities of individual circumstances and propagate (or even amplify) existing societal biases.",
+        "Compassionate AI addresses this challenge by embedding empathy, care, and contextual sensitivity into the design, deployment, and governance of AI systems. It envisions AI not as a mechanistic and utilitarian tool, but as a partner that embodies humanity’s highest moral aspirations. Ultimately, compassionate AI is both an ethical imperative and a catalyst—one that rehumanizes AI, ensuring that our AI-led future uplifts humanity, nurtures societal well-being, and reflects our collective commitment to a more empathetic and better world."
+      ]
+    },
+    "tags": [
+      "ai",
+      "compassion",
+      "ethical ai",
+      "human-centered design"
+    ],
+    "editors": [
+      {
+        "name": "Rajiv Kohli",
+        "affiliation": "William & Mary"
+      },
+      {
+        "name": "Meng Li",
+        "affiliation": "University of Houston"
+      },
+      {
+        "name": "Ting Li",
+        "affiliation": "Erasmus University Rotterdam"
+      },
+      {
+        "name": "Paul A. Pavlou",
+        "affiliation": "University of Miami"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Sutirtha Chatterjee",
+        "affiliation": "University of Nevada, Las Vegas"
+      },
+      {
+        "name": "Monica Chiarini Tremblay",
+        "affiliation": "William & Mary"
+      },
+      {
+        "name": "Jennifer Claggett",
+        "affiliation": "Wake Forest University"
+      },
+      {
+        "name": "Yulin Fang",
+        "affiliation": "HKU Business School"
+      },
+      {
+        "name": "Shu He",
+        "affiliation": "University of Florida"
+      },
+      {
+        "name": "Nina Huang",
+        "affiliation": "University of Miami"
+      },
+      {
+        "name": "Tina Blegind Jensen",
+        "affiliation": "Copenhagen Business School"
+      },
+      {
+        "name": "Hyeokkoo Eric Kwon",
+        "affiliation": "Nanyang Technological University"
+      },
+      {
+        "name": "Gwanhoo Lee",
+        "affiliation": "American University"
+      },
+      {
+        "name": "Ilan Oshri",
+        "affiliation": "University of Auckland"
+      },
+      {
+        "name": "Matti Rossi",
+        "affiliation": "Aalto University School of Business"
+      },
+      {
+        "name": "Mochen Yang",
+        "affiliation": "University of Minnesota"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-01-20T12:00:00.000Z",
+        "description": "Full Paper Submission",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2026-04-15T12:00:00.000Z",
+        "description": "First Round of Editorial Decisions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-08-31T12:00:00.000Z",
+        "description": "Revisions Due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-12-31T12:00:00.000Z",
+        "description": "Second Round of Editorial Decisions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-02-28T12:00:00.000Z",
+        "description": "Final Revisions Due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-05-31T12:00:00.000Z",
+        "description": "Final Editorial Decisions",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-06-30T01:06:20.334Z"
+  },
+  {
     "journal": "Journal of Management Information Systems",
     "abbreviation": "jmis",
     "metaTitle": "Critical National Infrastructure",
@@ -199,8 +333,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-04-01T03:16:46.180Z"
+    "active": false,
+    "pubDate": "2025-04-01T03:16:46.180Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -272,9 +407,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-23T03:07:30.034Z",
-    "gracePeriod": "2025-07-26T03:23:13.792Z"
+    "active": true,
+    "pubDate": "2025-03-23T03:07:30.034Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -369,8 +503,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:51:27.457Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:51:27.457Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Information and Management",
@@ -471,65 +606,6 @@
     "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
-  },
-  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "Understanding Resistance to Digital Transformation",
@@ -615,9 +691,67 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-13T10:47:42.901Z",
-    "gracePeriod": "2025-07-26T03:23:13.792Z"
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -781,9 +915,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": "2025-07-26T03:23:13.792Z"
+    "active": true,
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1268,8 +1401,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -1743,9 +1877,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": "2025-07-26T03:23:13.792Z"
+    "active": true,
+    "pubDate": "2024-07-18T10:34:43.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -2871,8 +3004,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -2958,8 +3092,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3127,8 +3262,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3224,8 +3360,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3313,8 +3450,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3406,8 +3544,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3569,8 +3708,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3652,8 +3792,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:25:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:25:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3740,8 +3881,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:24:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:24:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3830,8 +3972,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:23:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:23:57.000Z",
+    "gracePeriod": "2025-07-30T01:06:20.334Z"
   },
   {
     "journal": "Information Systems Research",
