@@ -130,9 +130,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-06-30T01:06:20.334Z",
-    "gracePeriod": "2025-07-30T03:37:00.484Z"
+    "active": true,
+    "pubDate": "2025-06-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -4480,8 +4479,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2023-12-01T12:38:00.000Z"
+    "active": false,
+    "pubDate": "2023-12-01T12:38:00.000Z",
+    "gracePeriod": "2025-07-31T03:43:41.263Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
