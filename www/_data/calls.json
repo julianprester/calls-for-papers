@@ -130,8 +130,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-06-30T01:06:20.334Z"
+    "active": false,
+    "pubDate": "2025-06-30T01:06:20.334Z",
+    "gracePeriod": "2025-08-04T03:18:36.131Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -512,7 +513,7 @@
     "metaTitle": "Bright Internet through Secure and Responsible Artificial Intelligence",
     "url": "https://www.sciencedirect.com/special-issue/319301/bright-internet-through-secure-and-responsible-artificial-intelligence",
     "slug": "im-bright-internet-through-secure-and-responsible-artificial-intelligence",
-    "contentHash": "94d08643916dc011b0d3403a8fa614f3d473f5a8a2077937f0b68eab55bdfa3b",
+    "contentHash": "57a480ff6c0790a90c23827b2da2e5de6113baabe7e6538cedcdd96559b3e194",
     "title": "Bright Internet through Secure and Responsible Artificial Intelligence",
     "topics": [
       "Design of Bright Internet systems that can assist and aid governance of challenges",
@@ -535,15 +536,15 @@
     "description": {
       "paragraphs": [
         "The Bright Internet initiatives aim to transform the current Internet landscape into a more secure, trustworthy, and resilient environment. Originating from the recognition of growing cyber threats, data breaches, and the erosion of user trust, the concept of the Bright Internet was developed to address these pressing issues. It seeks to establish a framework where safety, privacy, and accountability are prioritized, ensuring that users can navigate the digital world without fear of malicious activities. The initiative focuses on implementing proactive security measures, fostering a culture of transparency, and promoting responsible behavior among all internet stakeholders. By leveraging advanced technologies and collaborative efforts, Bright Internet aspires to create a digital ecosystem where trust is restored, and the Internet's potential for positive societal impact is fully realized. Since 2017, the Bright Internet Global Symposium (BIGS) has been established as a forum for exchanging the vision of Bright Internet and discussing research outcomes and advancements surrounding Bright Internet issues. It fosters collaborations among researchers, companies, academic institutions, government bodies, and international organizations to achieve mutual benefits that transcend individual country capabilities.",
-        "The Internet ecosystem is evolving rapidly in the Artificial Intelligence (AI) era. The evolution of AI started with supervised and unsupervised machine learning models in the 1950s and these models evolved into deep learning models in the 1990s (LeCun et al., 2015). Subsequently, with the adoption of Generative AI, content creation became extremely easy and fast. However, the veracity of this content is increasingly becoming a challenge to manage in the different open Internet ecosystems. Further traditional AI-based recommendation engines have also witnessed fast adoption in recent times, and sometimes these systems had many unintended consequences, across applications. Newer models of AI often do not have mechanisms to address unintended consequences surrounding responsible and ethical use.",
+        "The Internet ecosystem is evolving rapidly in the Artificial Intelligence (AI) era. The evolution of AI started with supervised and unsupervised machine learning models in the 1950s and these models evolved into deep learning models in the 1990s. Subsequently, with the adoption of Generative AI, content creation became extremely easy and fast. However, the veracity of this content is increasingly becoming a challenge to manage in the different open Internet ecosystems. Further traditional AI-based recommendation engines have also witnessed fast adoption in recent times, and sometimes these systems had many unintended consequences, across applications. Newer models of AI often do not have mechanisms to address unintended consequences surrounding responsible and ethical use.",
         "Digital platforms like social media and e-commerce use Internet-based infrastructure for facilitating social and economic interactions which create value across stakeholders who engage on these platforms. These platforms are heavily using AI in activities like content recommendation, dynamic pricing, product recommendations, friend recommendation, online campaign management, marketing automation through chatbots, fraudulent purchase prevention, inventory management, order fulfillment automation, product bundling, customer segmentation, and many more. Some of the applications still use traditional algorithms; many involve newer algorithms of AI like reinforcement learning, federated learning and large language models. We are interested in studies that look at emerging models of AI in different internet platforms, which are adopting them very fast and may have both utopian and dystopian outcomes surrounding information governance.",
-        "With the fast adoption of AI, a plethora of challenges are emerging. For example, pricing discrimination happens from dynamic pricing strategies in e-commerce (Hinz et al., 2011). When AI facilitates this personalization, it has the potential to adversely impact specific communities inadvertently. For example, in sharing ride services, there were denial of services consistently to communities that needed extra support during service consumption. Further customers share a lot of demographic and psychographic information during their purchase and surfing behavior. AI applications have the potential to derive complex relationships from this information which can have strong privacy concerns. Fairness, Accountability, Transparency, and Ethics of AI implementation may not be addressed in many of these applications, which may negatively impact user experiences of these digital platforms.",
-        "Further, in emerging business models like social commerce, there are many reports on how customers face challenges surrounding purchase fulfillment and service assurance (Zhang & Benyoucef, 2016). There is evidence that online advertisements create content using AI and customers often feel a mismatch of expectations of what they see online versus what they receive as a product or service (Chaudhry, 2022). While internet ecosystems have become more open with time, content creation and recommendations based on AI in these open platforms often face veracity challenges. For example, Roumani (2024) highlights how social media platform features, technical features and vulnerability features affect the active exploitation of vulnerabilities. Similarly, recommendation engines in websites recommend content from other partnering websites through embedded links, which often have misinformation and disinformation (Abbasi et al., 2010). A lot of times, this misinformation is also often created and propagated using AI. Misinformation mixed with correct information sometimes makes detection difficult and adversely affects management decision-making (Lyytinen & Grover, 2017). This may also impact the adoption and usage of these information systems due to different types of concerns (e.g. Chen et al., 2023). However, with AI, it is also possible to address these concerns as well on digital platforms and pave the path for Bright Internet. For example, Hu et al. (2023) highlight how large language models of Generative AI may be used to mine social media signals to detect drug trafficking."
+        "With the fast adoption of AI, a plethora of challenges are emerging. For example, pricing discrimination happens from dynamic pricing strategies in e-commerce. When AI facilitates this personalization, it has the potential to adversely impact specific communities inadvertently. For example, in sharing ride services, there were denial of services consistently to communities that needed extra support during service consumption. Further customers share a lot of demographic and psychographic information during their purchase and surfing behavior. AI applications have the potential to derive complex relationships from this information which can have strong privacy concerns. Fairness, Accountability, Transparency, and Ethics of AI implementation may not be addressed in many of these applications, which may negatively impact user experiences of these digital platforms.",
+        "Further, in emerging business models like social commerce, there are many reports on how customers face challenges surrounding purchase fulfillment and service assurance. There is evidence that online advertisements create content using AI and customers often feel a mismatch of expectations of what they see online versus what they receive as a product or service. While internet ecosystems have become more open with time, content creation and recommendations based on AI in these open platforms often face veracity challenges. A lot of times, this misinformation is also often created and propagated using AI. Misinformation mixed with correct information sometimes makes detection difficult and adversely affects management decision-making. However, with AI, it is also possible to address these concerns as well on digital platforms and pave the path for Bright Internet."
       ]
     },
     "tags": [
-      "ai",
-      "internet",
+      "artificial intelligence",
+      "internet security",
       "digital platforms"
     ],
     "editors": [
@@ -571,7 +572,7 @@
     "associate_editors": [],
     "dates": [
       {
-        "date": "2025-06-30T12:00:00.000Z",
+        "date": "2025-07-15T12:00:00.000Z",
         "description": "First Submission Deadline",
         "is_full_paper_submission_deadline": true
       },
