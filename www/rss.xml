@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 10 Jul 2025 03:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 03:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2587,123 +2587,6 @@
     
 </div>]]></content:encoded>
             <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Analytical Creativity]]></title>
-            <link>https://callsforpapers.org/call/isr</link>
-            <guid>isr</guid>
-            <pubDate>Tue, 02 Jan 2024 12:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Min Ding</strong>, Penn State</p>
-        
-        <p><strong>Ram Gopal</strong>, University of Warwick</p>
-        
-        <p><strong>Ulrike Schultze</strong>, University of Groningen</p>
-        
-        <p><strong>D. J. Wu</strong>, Georgia Institute of Technology</p>
-        
-    
-    
-    <p>Creativity is typically defined as the capacity to produce something – either abstract or physical -- that is (1) new; and (2) valuable. Recent rapid advances in generative models such as GPT-4 by OpenAI, which is capable of generating unlimited new output (e.g., writing, image) that are arguably indistinguishable from human creative output, have surprised many. This new class of technology is also energizing the scholarly interest in creativity.</p>
-    
-    <p>Kaufman and Beghetto (2009) proposed a Four C model for creativity, mini-c (transformative learning), little-c (everyday creativity), Pro-c (professional expertise), and Big-C (eminent creative contributions). While human creativity has led to tremendous progress in science, technology, and society, the performance of creativity is nevertheless treated as a black box by both academics and practitioners. We know about environments and activities that are conducive to creative tasks – ranging from brainstorming to going for a run -- but we do not know precisely how human creativity works. This makes it challenging to enact it reliably and at scale.</p>
-    
-    <p>But algorithmic creativity performed by generative large language models such as Chat GPT and other AI applications is just as impenetrable. While these algorithms can produce exceptional new ideas and outputs (e.g., the Dreamcatcher chair), their designers (e.g., OpenAI) do not fully understand how these models work.</p>
-    
-    <p>Nevertheless, recent advances in neuroscience and computer science point to a form of creativity – namely analytical creativity – that can potentially yield creative outcomes in a replicable manner. Analytical creativity conceptualizes the creative task as a search problem whose purpose is to find the most desirable outcome, which is defined in terms of newness/originality and value, within a vast theoretical space, and to do so optimally (low search cost). Its goal is to uncover the process behind human or machine creativity. Using an analogy: the traditional conception of creativity is similar to a magician’s performance as viewed from the audience’s perspective. To the average viewer, the acts are beyond explanation and thus magical. But in reality, every magician’s performance is achieved by following a carefully designed recipe of action, which includes slights of hand that capitalize on human’s perceptual weaknesses.</p>
-    
-    <p>What if creativity is not so much a stroke of genius or ‘divine inspiration,’ but a rather mundane process that, once understood, can be automated? Evidence is mounting that this might indeed be the case. Using brain image and computational models, neuroscience provides a more structured understanding of how our brains process a creative task in a systematic way. Recent developments in deep learning research have led to interpretable models that can identify new game-playing strategies, generate visual art, and compose songs (e.g., large language models).</p>
-    
-    <p>Such deep learning models are beginning to unmask the complex steps involved in human creativity. For example, the process of how protein folds, which is a significant component of how the creative process is performed by the brain, has been broken down into 3D structures (Eisenstein 2021). Together with the research on neuroscience, this evidence has coalesced into a stream of creativity research that posits that the creative process shares commonality across domains, and that it can be learned, practiced, and performed with consistent results. Examples of this stream of research on analytical creativity include Altshuller’s (1984) theory of inventive problem solving (TRIZ) and Ding’s (2020) logical creativity theory.</p>
-    
-    <p>Analytical creativity is a more general concept than computational creativity, an emerging multidisciplinary domain that seeks to ‘model, simulate or replicate creativity using a computer, to achieve one of several ends: construct a program or computer capable of human-level creativity to better understand human creativity and to formulate an algorithmic perspective on creative behavior in humans; to design programs that can enhance human creativity without necessarily being creative themselves. This special issue seeks to encourage research that questions, evaluates, and advances analytical creativity. We welcome philosophical, theoretical, empirical, and design-science contributions. We encourage multi-disciplinary studies that integrate fields such as information systems, management/organization science, computer science, neuroscience, philosophy, and mathematics, as well as psychology and sociology.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>Changing meanings/definitions of creativity</li>
-        
-        <li>Accountability of computer creativity</li>
-        
-        <li>Creativity as an (efficient) search problem</li>
-        
-        <li>Approaches to analytical creativity</li>
-        
-        <li>Human-Algorithm collaboration in creative tasks</li>
-        
-        <li>Human replicable artificial creative intelligence</li>
-        
-        <li>Role of neuroscience in creativity research</li>
-        
-        <li>Levels of analysis</li>
-        
-        <li>Institutional level creativity</li>
-        
-        <li>Application of creativity</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>January 2, 2024: Submissions will be accepted beginning</li>
-        
-        <li>February 29, 2024: Full Paper Submission</li>
-        
-        <li>June 15, 2024: First Round of Editorial Decisions</li>
-        
-        <li>August 1, 2024: Workshop at University of Warwick</li>
-        
-        <li>October 30, 2024: Revisions Due</li>
-        
-        <li>January 31, 2025: Second Round of Editorial Decisions</li>
-        
-        <li>March 28, 2025: Final Revisions Due</li>
-        
-        <li>May 30, 2025: Final Editorial Decisions</li>
-        
-    </ul>
-    
-    
-    <h2>Associate editors</h2>
-    <ul>
-        
-        <li><strong>Yifan Dou</strong>, Fudan University</li>
-        
-        <li><strong>Fred Feinberg</strong>, University of Michigan</li>
-        
-        <li><strong>Guodong Gao</strong>, Johns Hopkins University</li>
-        
-        <li><strong>Natalia Levina</strong>, New York University</li>
-        
-        <li><strong>Mingfeng Lin</strong>, Georgia Institute of Technology</li>
-        
-        <li><strong>Aron Lindberg</strong>, Stevens Institute of Technology</li>
-        
-        <li><strong>Vincent Mak</strong>, University of Cambridge</li>
-        
-        <li><strong>Oded Netzer</strong>, Columbia University</li>
-        
-        <li><strong>Susan Scott</strong>, London School of Economics and Political Science</li>
-        
-        <li><strong>Inbal Yahav Shenberger</strong>, Tel Aviv University</li>
-        
-        <li><strong>Anjana Susarla</strong>, Michigan State University</li>
-        
-        <li><strong>Demetrios Vakratsas</strong>, McGill University</li>
-        
-        <li><strong>Harry Wang</strong>, University of Delaware</li>
-        
-        <li><strong>Lior Zalmanson</strong>, Tel Aviv University</li>
-        
-    </ul>
-    
-</div>]]></content:encoded>
-            <author>Information Systems Research (ISR)</author>
         </item>
         <item>
             <title><![CDATA[The Institutional Press in the Digital Age]]></title>
