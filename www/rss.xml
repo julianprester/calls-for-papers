@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 11 Jul 2025 03:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 03:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -494,6 +494,58 @@
             <author>Information and Management (IM)</author>
         </item>
         <item>
+            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
+    
+    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research and future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to the context of strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -571,58 +623,6 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
-    
-    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research and future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to the context of strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
@@ -1479,173 +1479,6 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
-            <link>https://callsforpapers.org/call/isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</link>
-            <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
-            <pubDate>Fri, 12 Jan 2024 12:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Ahmed Abbasi</strong>, University of Notre Dame</p>
-        
-        <p><strong>Robin Dillon-Merrill</strong>, Georgetown University</p>
-        
-        <p><strong>H. Raghav Rao</strong>, University of Texas, San Antonio</p>
-        
-        <p><strong>Olivia Sheng</strong>, University of Utah</p>
-        
-    
-    
-    <p>The 21st Century has been termed “the century of disasters” (Achenbach 2011). These include natural and human-caused disasters. The former encompass geophysical (e.g., earthquakes), hydrological (e.g., floods), climatological (e.g., wildfires), meteorological (e.g., cyclones), or biological (e.g., disease epidemics such as COVID-19) disasters. The latter are caused by human-led events, such as conflicts, famine, terrorist attacks, cybersecurity incidents, and industrial accidents (IFRC 2010). A myriad of factors has contributed to a surge in disasters: technological innovation, population growth, climate change, demographic changes, and evolving social dynamics. When they happen, such disasters exact a devastating toll on civil and technical infrastructure and society as a whole (e.g., loss of human life, social and economic disturbances, and environmental damage).</p>
-    
-    <p>In extreme cases where natural and human-caused disasters join forces, the suffering of victims often increases exponentially. For example, the outbreak of COVID-19 has added a new threat to refugees and humanitarian resettlement programs (CDC 2020). The International Rescue Committee (2020) commented that “People in refugee camps in Syria, Greece and Bangladesh face a heightened risk of COVID-19 due to more densely populated conditions than even the Diamond Princess—the cruise ship where transmission of the virus was four times faster than in Wuhan.”</p>
-    
-    <p>Worldwide, government agencies, private sectors, and the public are in desperate search for new tools, practices, and strategies to safeguard society against the threat of disasters (Chen et al. 2013; Park et al. 2015). For policy makers, Information technology (IT) has been considered important in enabling and supporting efficient and effective disaster management. In recognition of the potential role of IT, as early as 2007, the United States Congress followed the E-government Act of 2002 to direct the National Research Council to study the application of IT to disaster management. Over the past decade, the world has seen an increasing level of IT use in modern disaster management (Beydoun et al. 2018). Examples include blockchain for disaster logistics, wearable technologies for rescue teams and victims, remote monitoring sensors for intelligence gathering, virtual reality for response preparedness and training, GIS for crisis mapping, social media for disaster information dissemination and extraction of real-time intelligence, and big data for impact assessment and forecasting. Such IT uses have been found across the globe.</p>
-    
-    <p>Management of disasters is challenging for its multi-phase, multi-hazard, multi-stakeholder, multi-task, multi-objective nature. First, disaster management follows multiple phases: mitigation, preparedness, response, and recovery. In the example of the preparedness phase, efforts are taken to develop a single- or all-hazard disaster plan, evaluate and modify the plan, exercise the plan (e.g., table-top exercises or drills), and stock inventory (e.g., water and food). These phases are interconnected as the performance of one response phase affects that of the next phase. Second, disaster management calls for different specialties and strategies in response to various disaster types, such as pandemics, terrorist attacks, mass shootings, earthquakes, tsunamis, wildfires, floods, hurricanes, and train derailments. For example, management of pandemic and terrorist attacks focus on responding to and containing a disaster after its appearance (i.e., reactionary), whereas floods and hurricanes necessitate proactive mitigation strategies in anticipation of the disaster. Third, disaster management involves a broad stakeholder approach, potentially encompassing international coalitions (e.g., the U.N.), local government, public safety and security (e.g., Fire, Police, and Hazmat), logistics providers, public health and medical services, humanitarian / social society organizations, military, transportation, utility and public works, donors, media, and business/civilian victims. While these stakeholders might agree on the general principle of social good, their exact goals and objectives might vary (Abbasi et al. 2019). Fourth, disaster management handles a wide range of operations, such as unified command, situational assessment, coordinated operations, risk assessment (Tinsley et al. 2011; Dillion and Tinsley 2008), impact analysis, resource allocation, victim assistance, supply chain and logistics, and financing. Fifth, disaster management works to achieve objectives such as preserving lives and properties, containing the impact, protecting the health and safety of response personnel, safeguarding the natural environment, sustaining business and civilian activities, protecting critical infrastructures, informing the public, and restoring and rebuilding affected communities. Finally, disaster management consists of mitigation of harm in the disaster context, which may include examination of harms and harm quantification, tracing the impact of harm and identifying susceptible population, and dissemination of harm.</p>
-    
-    <p>To help policy makers, IT can provide strategic support that addresses each aspect of disaster management. In the example of multi-stakeholder support, IT can be used to interconnect stakeholders for building response partnerships. In doing so, it is also important to avoid IT misuse which may create digital chaos and impede first responders and other offline disaster management activities; for instance, human- or bot-led propagation of false information on social media. The security and privacy issues of IT use surrounding disaster management is also an important consideration. Compared with other disciplines (e.g., Management Science), scholars in IS have been relatively silent about disaster management – new findings on the proper design, use, and management of IT can undoubtedly have a huge real-world impact. IS research in disaster management may be performed at multiple levels: individual, organizational, and social. Different methods, such as qualitative, quantitative, data science, and design science can all contribute to building a stronger body of knowledge.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>Resolving interoperability barriers across governmental or industry entities</li>
-        
-        <li>Management of disaster information sharing across regions or countries</li>
-        
-        <li>Strategies and policies for disaster information privacy and security</li>
-        
-        <li>Building virtual disaster response command on demand</li>
-        
-        <li>IT enabled cross-agency collaboration and coordination</li>
-        
-        <li>Ethical, legal, cultural, and social issues (e.g., information privacy in tracking citizens who have contracted COVID-19)</li>
-        
-        <li>Social inequality, induced by digital divide and digital literacy, in the access and use of IT for disasters</li>
-        
-        <li>Knowledge sharing and coordination during and across the key response phases</li>
-        
-        <li>Disaster decision making and monitoring using low quality data and information</li>
-        
-        <li>Disaster decision making under urgency and risk (including mitigating harm from disasters)</li>
-        
-        <li>Optimization of disaster resource allocation (e.g., hospital utilization in mass shootings)</li>
-        
-        <li>Conflict resolution (e.g., blowing up a levee to save a town at the cost of drowning farmland)</li>
-        
-        <li>Organizational mindfulness, adaptation, and disaster resilience</li>
-        
-        <li>Strategies and tactics in engaging the public</li>
-        
-        <li>Community rebuilding using online communities, the crowd and apps</li>
-        
-        <li>Business continuity in the face of disasters</li>
-        
-        <li>Advanced ICT including AI, big data, IoT, and unmanned aerial vehicles for disaster response and recovery</li>
-        
-        <li>Disaster Management as a Service</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>June 30, 2021: Two-page Abstract</li>
-        
-        <li>July 30, 2021: Feedback on Abstracts</li>
-        
-        <li>September 15, 2021: Five-page Extended Abstract</li>
-        
-        <li>October 9, 2021: UT San Antonio Workshop</li>
-        
-        <li>February 15, 2022: Full Paper Submission</li>
-        
-        <li>May 15, 2022: First Round of Editorial Decisions</li>
-        
-        <li>June 30, 2022: Virtual Meeting with the SI Editors to Discuss Revision Plans</li>
-        
-        <li>August 30, 2022: Revisions Due</li>
-        
-        <li>November 30, 2022: Second Round of Editorial Decisions</li>
-        
-        <li>January 30, 2023: Final Revisions Due</li>
-        
-        <li>April 30, 2023: Final Editorial Decisions</li>
-        
-    </ul>
-    
-    
-    <h2>Associate editors</h2>
-    <ul>
-        
-        <li><strong>Ghasan Beydoun</strong>, University of Technology Sydney</li>
-        
-        <li><strong>Tanmoy Chakraborty</strong>, IIT Delhi</li>
-        
-        <li><strong>Rui Chen</strong>, Iowa State University</li>
-        
-        <li><strong>Tina Comes</strong>, Delft University of Technology</li>
-        
-        <li><strong>Rahul De</strong>, IIM Bangalore</li>
-        
-        <li><strong>Yogesh Dwivedi</strong>, Swansea University</li>
-        
-        <li><strong>Xiao Fang</strong>, University of Delaware</li>
-        
-        <li><strong>Frank Fiedrich</strong>, Wuppertal University</li>
-        
-        <li><strong>Guodong (Gordon) Gao</strong>, University of Maryland</li>
-        
-        <li><strong>Rajiv Garg</strong>, Emory University</li>
-        
-        <li><strong>Hong Guo</strong>, University of Notre Dame</li>
-        
-        <li><strong>Han-fen Hu</strong>, University of Nevada, Las Vegas</li>
-        
-        <li><strong>Paul Hu</strong>, University of Utah</li>
-        
-        <li><strong>Marijn Janssen</strong>, Delft University of Technology</li>
-        
-        <li><strong>K.D. Joshi</strong>, University of Nevada, Reno</li>
-        
-        <li><strong>Raymond Y.K. Lau</strong>, City University of Hong Kong</li>
-        
-        <li><strong>Zhepeng (Lionel) Li</strong>, York University</li>
-        
-        <li><strong>Xiaobai (Bob) Li</strong>, University of Massachusetts, Lowell</li>
-        
-        <li><strong>Onook Oh</strong>, University of Colorado Denver</li>
-        
-        <li><strong>Wonseok Oh</strong>, KAIST</li>
-        
-        <li><strong>Gautam Pant</strong>, University of Iowa</li>
-        
-        <li><strong>Insu Park</strong>, Dakota State University</li>
-        
-        <li><strong>Raymond Patterson</strong>, University of Calgary</li>
-        
-        <li><strong>Alfonso Pedraza-Martinez</strong>, Indiana University</li>
-        
-        <li><strong>Ram Sudha</strong>, University of Arizona</li>
-        
-        <li><strong>Juliana Sutanto</strong>, Lancaster University</li>
-        
-        <li><strong>Chih-Ping Wei</strong>, National Taiwan University</li>
-        
-        <li><strong>Heng Xu</strong>, American University</li>
-        
-        <li><strong>Huimin Zhao</strong>, University of Wisconsin, Milwaukee</li>
-        
-        <li><strong>Kang Zhao</strong>, University of Iowa</li>
-        
-    </ul>
-    
-</div>]]></content:encoded>
-            <author>Information Systems Research (ISR)</author>
         </item>
         <item>
             <title><![CDATA[Regulation in the Age of Digitalization]]></title>
