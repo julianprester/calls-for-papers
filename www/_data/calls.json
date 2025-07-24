@@ -406,9 +406,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-23T03:07:30.034Z",
-    "gracePeriod": "2025-08-16T03:40:28.332Z"
+    "active": true,
+    "pubDate": "2025-03-23T03:07:30.034Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -505,6 +504,95 @@
     ],
     "active": true,
     "pubDate": "2025-03-13T10:51:27.457Z"
+  },
+  {
+    "journal": "Information Systems Journal",
+    "abbreviation": "isj",
+    "metaTitle": "Understanding Resistance to Digital Transformation",
+    "url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2025-000208",
+    "slug": "isj-understanding-resistance-to-digital-transformation",
+    "contentHash": "c3ea56d6b1920cfde986e68eb4eda138d32fdd05f6a73a888298bbfabf0ef769",
+    "title": "Understanding Resistance to Digital Transformation",
+    "topics": [
+      "Cultural inertia and institutional friction",
+      "Generational mismatches and skill gaps",
+      "Augmentation vs. Automation",
+      "Gamification and behavioral nudges",
+      "Digital boycotts and collective pushback",
+      "Organizational learning and adaptation",
+      "Distinguishing digital transformation from general IS/IT resistance"
+    ],
+    "description": {
+      "paragraphs": [
+        "Digital transformation has become a major point of discussion in organizations and broader society, yet its overall desirability and consequences remain open to debate. While many practitioners and scholars see these initiatives as avenues for enhancing efficiency, competitiveness, and customer engagement, there is also growing recognition of the complexities, paradoxes, and unintended effects they may introduce. Indeed, the acceleration of digital projects—especially following the COVID-19 pandemic—can invite various forms of resistance, leading to stalled progress and disruptions.",
+        "Importantly, digital transformation is increasingly recognized as an overarching and longitudinal process or strategic goal—rather than a one-time deployment of new technological tools—and requires shifts in both capabilities and institutional frameworks. Because this transformation unfolds over time, people may be resisting not only 'technology,' but also the evolving cultural, structural, and strategic changes that accompany it. More precisely, resistance is not solely a matter of technical or budgetary constraints; it intersects with organizational culture, leadership approaches, and individual behaviors. The emergence of new technologies—such as Artificial Intelligence (AI), blockchain, the Internet of Things (IoT), and digital twins—can exacerbate concerns about data transparency, automation, 'black box' processes, and ethical dilemmas. For some, these technologies prompt anxiety around potential job displacement or fears that advanced automation could undermine trust. In other situations, hurried or incomplete rollouts of new platforms—such as remote work tools—may create friction and lead employees to question their effectiveness.",
+        "Studies also highlight the role of deeply held cultural assumptions and legacy mindsets in impeding organizational shifts. In particular, environments that do not support collaboration and experimentation can intensify pushback against change. Generational differences often add another layer of complexity, as digital-native employees may clash with colleagues who have limited exposure to or interest in new technologies. Approaches such as gamification and behavioral nudges show potential to lessen opposition, although their effectiveness remains an active area of inquiry. Additionally, collective pushback or digital boycotts—where groups of employees, consumers, or communities reject new platforms—underscore the importance of trust, data governance, and broader social considerations.",
+        "Sustaining digital change over the long run often requires leadership that can manage both the technical and human dimensions of transformation, alongside an organizational culture geared toward continuous learning. Many organizations strive to integrate ongoing upskilling, transparent communication, and stakeholder engagement to reduce uncertainty and foster participation. By examining how and why employees, managers, or external stakeholders resist digital initiatives, researchers can illuminate strategies for balancing innovation with well-founded concerns and ensuring that transformations proceed in a manner consistent with ethical and social expectations.",
+        "This special issue invites work that addresses a broad range of questions around resistance to digital transformation. Rather than framing such transformations as inherently beneficial, we encourage submissions that critically examine these processes, questioning when they should (or should not) be pursued and how resistance emerges in diverse contexts. Ultimately, we hope to generate richer insights into how organizations, policymakers, and societies can better navigate the opportunities and risks posed by digital change."
+      ]
+    },
+    "tags": [
+      "digital transformation",
+      "organizational change"
+    ],
+    "editors": [
+      {
+        "name": "Francesco Appio",
+        "affiliation": "Paris School of Business"
+      },
+      {
+        "name": "Luca Gastaldi",
+        "affiliation": "Politecnico di Milano"
+      },
+      {
+        "name": "Federico Iannacci",
+        "affiliation": "University of Sussex"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Martin Adam",
+        "affiliation": "Georg-August-Universität Göttingen"
+      },
+      {
+        "name": "Ravi Patnayakuni",
+        "affiliation": "University of Alabama in Huntsville"
+      },
+      {
+        "name": "Andy Du",
+        "affiliation": "University of Massachusetts Boston"
+      },
+      {
+        "name": "Dimitra Petrakaki",
+        "affiliation": "University of Sussex"
+      },
+      {
+        "name": "Sven Laumer",
+        "affiliation": "Friedrich-Alexander-Universität"
+      },
+      {
+        "name": "Luiz Antonio Joia",
+        "affiliation": "Brazilian School of Public and Business Administration at FGV"
+      },
+      {
+        "name": "Shahla Ghobadi",
+        "affiliation": "University of Leeds"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-07-31T12:00:00.000Z",
+        "description": "Extended abstract submission for early feedback",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2025-10-01T12:00:00.000Z",
+        "description": "Full paper submission deadline",
+        "is_full_paper_submission_deadline": true
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -658,96 +746,6 @@
         "date": "2026-07-31T12:00:00.000Z",
         "description": "Last date for final acceptance",
         "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": false,
-    "pubDate": "2025-03-13T10:47:42.901Z",
-    "gracePeriod": "2025-08-16T03:40:28.332Z"
-  },
-  {
-    "journal": "Information Systems Journal",
-    "abbreviation": "isj",
-    "metaTitle": "Understanding Resistance to Digital Transformation",
-    "url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2025-000208",
-    "slug": "isj-understanding-resistance-to-digital-transformation",
-    "contentHash": "c3ea56d6b1920cfde986e68eb4eda138d32fdd05f6a73a888298bbfabf0ef769",
-    "title": "Understanding Resistance to Digital Transformation",
-    "topics": [
-      "Cultural inertia and institutional friction",
-      "Generational mismatches and skill gaps",
-      "Augmentation vs. Automation",
-      "Gamification and behavioral nudges",
-      "Digital boycotts and collective pushback",
-      "Organizational learning and adaptation",
-      "Distinguishing digital transformation from general IS/IT resistance"
-    ],
-    "description": {
-      "paragraphs": [
-        "Digital transformation has become a major point of discussion in organizations and broader society, yet its overall desirability and consequences remain open to debate. While many practitioners and scholars see these initiatives as avenues for enhancing efficiency, competitiveness, and customer engagement, there is also growing recognition of the complexities, paradoxes, and unintended effects they may introduce. Indeed, the acceleration of digital projects—especially following the COVID-19 pandemic—can invite various forms of resistance, leading to stalled progress and disruptions.",
-        "Importantly, digital transformation is increasingly recognized as an overarching and longitudinal process or strategic goal—rather than a one-time deployment of new technological tools—and requires shifts in both capabilities and institutional frameworks. Because this transformation unfolds over time, people may be resisting not only 'technology,' but also the evolving cultural, structural, and strategic changes that accompany it. More precisely, resistance is not solely a matter of technical or budgetary constraints; it intersects with organizational culture, leadership approaches, and individual behaviors. The emergence of new technologies—such as Artificial Intelligence (AI), blockchain, the Internet of Things (IoT), and digital twins—can exacerbate concerns about data transparency, automation, 'black box' processes, and ethical dilemmas. For some, these technologies prompt anxiety around potential job displacement or fears that advanced automation could undermine trust. In other situations, hurried or incomplete rollouts of new platforms—such as remote work tools—may create friction and lead employees to question their effectiveness.",
-        "Studies also highlight the role of deeply held cultural assumptions and legacy mindsets in impeding organizational shifts. In particular, environments that do not support collaboration and experimentation can intensify pushback against change. Generational differences often add another layer of complexity, as digital-native employees may clash with colleagues who have limited exposure to or interest in new technologies. Approaches such as gamification and behavioral nudges show potential to lessen opposition, although their effectiveness remains an active area of inquiry. Additionally, collective pushback or digital boycotts—where groups of employees, consumers, or communities reject new platforms—underscore the importance of trust, data governance, and broader social considerations.",
-        "Sustaining digital change over the long run often requires leadership that can manage both the technical and human dimensions of transformation, alongside an organizational culture geared toward continuous learning. Many organizations strive to integrate ongoing upskilling, transparent communication, and stakeholder engagement to reduce uncertainty and foster participation. By examining how and why employees, managers, or external stakeholders resist digital initiatives, researchers can illuminate strategies for balancing innovation with well-founded concerns and ensuring that transformations proceed in a manner consistent with ethical and social expectations.",
-        "This special issue invites work that addresses a broad range of questions around resistance to digital transformation. Rather than framing such transformations as inherently beneficial, we encourage submissions that critically examine these processes, questioning when they should (or should not) be pursued and how resistance emerges in diverse contexts. Ultimately, we hope to generate richer insights into how organizations, policymakers, and societies can better navigate the opportunities and risks posed by digital change."
-      ]
-    },
-    "tags": [
-      "digital transformation",
-      "organizational change"
-    ],
-    "editors": [
-      {
-        "name": "Francesco Appio",
-        "affiliation": "Paris School of Business"
-      },
-      {
-        "name": "Luca Gastaldi",
-        "affiliation": "Politecnico di Milano"
-      },
-      {
-        "name": "Federico Iannacci",
-        "affiliation": "University of Sussex"
-      }
-    ],
-    "associate_editors": [
-      {
-        "name": "Martin Adam",
-        "affiliation": "Georg-August-Universität Göttingen"
-      },
-      {
-        "name": "Ravi Patnayakuni",
-        "affiliation": "University of Alabama in Huntsville"
-      },
-      {
-        "name": "Andy Du",
-        "affiliation": "University of Massachusetts Boston"
-      },
-      {
-        "name": "Dimitra Petrakaki",
-        "affiliation": "University of Sussex"
-      },
-      {
-        "name": "Sven Laumer",
-        "affiliation": "Friedrich-Alexander-Universität"
-      },
-      {
-        "name": "Luiz Antonio Joia",
-        "affiliation": "Brazilian School of Public and Business Administration at FGV"
-      },
-      {
-        "name": "Shahla Ghobadi",
-        "affiliation": "University of Leeds"
-      }
-    ],
-    "dates": [
-      {
-        "date": "2025-07-31T12:00:00.000Z",
-        "description": "Extended abstract submission for early feedback",
-        "is_full_paper_submission_deadline": false
-      },
-      {
-        "date": "2025-10-01T12:00:00.000Z",
-        "description": "Full paper submission deadline",
-        "is_full_paper_submission_deadline": true
       }
     ],
     "active": false,
@@ -916,9 +914,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": "2025-08-16T03:40:28.332Z"
+    "active": true,
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1878,9 +1875,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": "2025-08-16T03:40:28.332Z"
+    "active": true,
+    "pubDate": "2024-07-18T10:34:43.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -3787,9 +3783,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": "2025-08-22T03:44:00.775Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:25:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3876,9 +3871,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": "2025-08-22T03:44:00.775Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:24:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3967,9 +3961,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": "2025-08-22T03:44:00.775Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:23:57.000Z"
   },
   {
     "journal": "Information Systems Research",
