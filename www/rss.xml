@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 31 Jul 2025 03:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 03:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -404,58 +404,6 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
-            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
-    
-    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research and future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to the context of strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
-        </item>
-        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -533,6 +481,58 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
+    
+    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research and future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to the context of strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Bright Internet through Secure and Responsible Artificial Intelligence]]></title>
