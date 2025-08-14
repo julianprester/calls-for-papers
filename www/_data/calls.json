@@ -2,6 +2,143 @@
   {
     "journal": "European Journal of Information Systems",
     "abbreviation": "ejis",
+    "metaTitle": "The future of creating and distributing value in digital health ecosystems",
+    "url": "https://think.taylorandfrancis.com/special_issues/digital-health-ecosystems/",
+    "slug": "ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems",
+    "contentHash": "96aac580ab44fcc3af0f43471da039d295a10038c3861eb879fd138130438ae0",
+    "title": "The future of creating and distributing value in digital health ecosystems",
+    "topics": [
+      "The role of data management and data sharing in digital health ecosystems",
+      "Designing for measuring kinds of value arising from new digital technologies like XR, 5G, web 3.0, and machine or hybrid learning in digital health ecosystems",
+      "The role of digital health ecosystems during pandemics or natural disasters; specifically with an eye toward how data help to distribute value among ecosystem participants",
+      "(Data-driven) change of professional roles, identities, and institutions in digital health ecosystems",
+      "The difference between creating value for intervention vs. for prevention",
+      "Design of inclusive and responsible digital technologies for healthcare and well-being",
+      "Digital tools and use of digital health data to connect different participants of health service networks, to support decision making and to improve organizational processes",
+      "Negative consequences of digital technologies implementation in healthcare, such as health givers burnout and patients’ anxiety",
+      "The role of digital tools like virtual coaching for autonomy of health care providers and patients"
+    ],
+    "description": {
+      "paragraphs": [
+        "Digital health is ‘associated with the use and development of digital technologies to improve health’ (Sunyaev et al., 2024; WHO, 2025). Use, development, and design of the according technologies have in recent years led to a considerable shift. Specifically, practices affecting an individuals’ health have been shifted from inside hospitals into wider digital health ecosystems where providers, patients, their loved ones, and laypersons interact to jointly shape how care is provided (Bardhan et al., 2020, 2025). IS research has greatly advanced in terms of better understanding the technological foundations of this shift such as artificial intelligence (AI) applications, sensor-based technologies, and smartphone apps (Angst et al., 2024; Baird et al., 2025; Bardhan et al., 2020; Sunyaev et al., 2024). However, at least two major trajectories of research arise from this shift and its underlying technologies. With this special issue, we are looking for papers that aim to fill these trajectories with life.",
+        "First, creating value in digital health ecosystems demands to take into account diverse kinds of value to be potentially created through these technologies (Günther et al., 2017; Porter, 2010). Financial value is an important kind of value to be created in digital health ecosystems; however, it is by far not the sole kind of value that matters in these settings (Barrett et al., 2016). It is important to understand which kinds of value technology helps to create as well as how, why, and when it does so. Second, creating value is not per se synonymous with distributing it so that an important line of inquiry is about how to distribute value among ecosystem participants and over time (Yan et al., 2021; Yoo et al., 2024).",
+        "We are asking for papers speaking to these topics and see two broad ways in which submissions to our special issue could do so. The first is cumulative and much in line with how research in IS and adjacent fields such as computer science, management, and medicine is conventionally done. It resides in furthering our understandings and toolkits for creating value in digital health ecosystems. However, the more data are available the higher is arguably the potential for misuse (Morley et al., 2020; Murdoch, 2021; Siala & Wang, 2022), especially when genomic and bio data are in question (Jarvenpaa & Markus, 2018; Rothe et al., 2019, 2023; Thiebes et al., 2020; Vassilakopoulou et al., 2018). This is why research about creating value from data logically calls for research about how to distribute value among ecosystems participants.",
+        "The second way to address the abovementioned research trajectories is consistent with EJIS’s recent developments towards promoting ‘contrarian studies’ (Nandhakumar, 2010). We see much promise of contrarian studies investigating the creation and distribution of value in digital health ecosystems. Research about digital health is replete with assumptions touching on the outcomes that large volumes of data are likely to generate. This stands in stark contrast to the fact that on the ‘ground floor’ where most clinicians work the data are hardly ever available in the format, quality or volume needed to even remotely live up to these expectations (Jones, 2019). It is, therefore, paramount to offer fundamentally new ways of thinking about creating and distributing value in digital health ecosystems.",
+        "These considerations lead us to a set of issues which we would like to address through putting together this special issue. These issues include but are not limited to:"
+      ]
+    },
+    "tags": [
+      "digital health",
+      "value distribution",
+      "ecosystems"
+    ],
+    "editors": [
+      {
+        "name": "Lauri Wessel",
+        "affiliation": "European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)"
+      },
+      {
+        "name": "Melanie Reuter-Oppermann",
+        "affiliation": "Maastricht University and ILS Mannheim gGmbH"
+      },
+      {
+        "name": "Roxana Ologeanu-Taddei",
+        "affiliation": "TBS Education and University of Montpellier"
+      },
+      {
+        "name": "Hannes Rothe",
+        "affiliation": "Rhine-Ruhr Institute of Information Systems, University of Duisburg-Essen"
+      },
+      {
+        "name": "Sirkka L. Jarvenpaa",
+        "affiliation": "McCombs School of Business, The University of Texas at Austin"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Bogdan Negoita",
+        "affiliation": "HEC Montréal"
+      },
+      {
+        "name": "Camille Grangé",
+        "affiliation": "HEC Montréal"
+      },
+      {
+        "name": "Cristina Trocin",
+        "affiliation": "Católica Porto Business School"
+      },
+      {
+        "name": "Farkhondeh Hassan Doust",
+        "affiliation": "University of Auckland"
+      },
+      {
+        "name": "Guy Paré",
+        "affiliation": "HEC Montréal"
+      },
+      {
+        "name": "Heiko Gewald",
+        "affiliation": "HS Neu-Ulm"
+      },
+      {
+        "name": "Maike Greve",
+        "affiliation": "Copenhagen Business School"
+      },
+      {
+        "name": "Johann Kranz",
+        "affiliation": "LMU"
+      },
+      {
+        "name": "Manuel Trenz",
+        "affiliation": "University of Göttingen"
+      },
+      {
+        "name": "Saeed Akhlaghpour",
+        "affiliation": "University of Queensland"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-03-01T12:00:00.000Z",
+        "description": "Submission of extended abstracts/ declaration of interest to submit papers to the special issue. Submissions are subject for discussions at a paper development workshop in the context of ECIS 2026 in Milan, Italy.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-11-30T12:00:00.000Z",
+        "description": "Full paper submission deadline.",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-03-31T12:00:00.000Z",
+        "description": "First round decisions due.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-09-30T12:00:00.000Z",
+        "description": "Revisions due.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-12-15T12:00:00.000Z",
+        "description": "Second round decisions due.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2028-02-28T12:00:00.000Z",
+        "description": "Third round revisions due (if necessary).",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2028-05-31T12:00:00.000Z",
+        "description": "Final decisions due.",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-08-14T03:33:30.272Z"
+  },
+  {
+    "journal": "European Journal of Information Systems",
+    "abbreviation": "ejis",
     "metaTitle": "Designing our Digital Futures",
     "url": "https://think.taylorandfrancis.com/special_issues/ejis-digital-futures/",
     "slug": "ejis-designing-our-digital-futures",
@@ -533,8 +670,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-04-01T03:16:46.180Z"
+    "active": false,
+    "pubDate": "2025-04-01T03:16:46.180Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -702,8 +840,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:51:27.457Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:51:27.457Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -1600,8 +1739,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -3203,8 +3343,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3290,8 +3431,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3459,8 +3601,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3556,8 +3699,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3645,8 +3789,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3738,8 +3883,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3901,8 +4047,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -3984,8 +4131,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:25:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:25:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4072,8 +4220,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:24:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:24:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4162,8 +4311,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:23:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:23:57.000Z",
+    "gracePeriod": "2025-09-13T03:33:30.272Z"
   },
   {
     "journal": "Information Systems Research",
