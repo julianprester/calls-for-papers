@@ -24,6 +24,8 @@ export default async function (eleventyConfig) {
     eleventyConfig.addShortcode("currentYear", () => `${new Date().getFullYear()}`);
 
     eleventyConfig.addPassthroughCopy('www/rss.xml');
+    eleventyConfig.addPassthroughCopy('www/journal/*.xml');
+    eleventyConfig.addPassthroughCopy('www/tag/*.xml');
     eleventyConfig.addPassthroughCopy('www/public/favicon');
     eleventyConfig.addPassthroughCopy({
         './node_modules/alpinejs/dist/cdn.min.js': './public/js/alpine.min.js',
