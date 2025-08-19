@@ -1,14 +1,28 @@
 import { DateTime } from "luxon";
 
 export default async function (eleventyConfig) {
+    eleventyConfig.addFilter("urlEncode", function (str) {
+        return encodeURIComponent(str);
+    });
+
     eleventyConfig.addFilter("relativeTime", function (timestamp) {
         const dateTime = DateTime.fromISO(timestamp);
         return dateTime.toRelative();
     });
 
+    eleventyConfig.addFilter("addDay", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        return dateTime.plus({ days: 1 }).toISODate();
+    });
+
     eleventyConfig.addFilter("dateOnly", function (timestamp) {
         const dateTime = DateTime.fromISO(timestamp);
         return dateTime.setLocale('en-us').toLocaleString(DateTime.DATE_FULL);
+    });
+
+    eleventyConfig.addFilter("isoDate", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        return dateTime.toISODate().replace(/-/g, '');
     });
 
     eleventyConfig.addFilter("isInPast", function (timestamp) {

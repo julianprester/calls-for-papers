@@ -2,8 +2,8 @@
     <li>
         <div class="timeline-start timeline-box border-base-300 bg-base-200 max-w-full">
             <span>{{ call.pubDate | dateOnly }}</span>
-            <div class="dropdown dropdown-hover">
-                <div tabindex="0" role="button" class="btn m-1">
+            <div class="dropdown dropdown-top dropdown-end tooltip tooltip-bottom" data-tip="Add to calendar">
+                <div tabindex="0" role="button" class="btn h-min min-h-min px-2">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="h-4 w-4 inline fill-gray-700 hover:fill-gray-100">
                         <path d="M85.4,10.4h-7.2V8c0-2.1-1.7-3.8-3.8-3.8c-2.1,0-3.8,1.7-3.8,3.8v2.4H53.8V8c0-2.1-1.7-3.8-3.8-3.8S46.2,5.9,46.2,8v2.4     H29.3V8c0-2.1-1.7-3.8-3.8-3.8S21.8,5.9,21.8,8v2.4h-7.2c-6.7,0-12.1,5.4-12.1,12.1v61.2c0,6.7,5.4,12.1,12.1,12.1h70.8     c6.7,0,12.1-5.4,12.1-12.1V22.5C97.5,15.8,92.1,10.4,85.4,10.4z M14.6,17.9h7.2v2.4c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8v-2.4     h16.9v2.4c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8v-2.4h16.9v2.4c0,2.1,1.7,3.8,3.8,3.8c2.1,0,3.8-1.7,3.8-3.8v-2.4h7.2     c2.5,0,4.6,2.1,4.6,4.6v7.1H10v-7.1C10,19.9,12.1,17.9,14.6,17.9z M85.4,88.2H14.6c-2.5,0-4.6-2.1-4.6-4.6V37.1h80v46.6     C90,86.2,87.9,88.2,85.4,88.2z"/>
                         <path d="M31.1,45.4H22c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C34.2,46.7,32.8,45.4,31.1,45.4z"/>
@@ -14,10 +14,10 @@
                         <path d="M54.6,66.8h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C57.6,68.2,56.2,66.8,54.6,66.8z"/>
                     </svg>
                 </div>
-                <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
-                    <li><a>ICal/ics</a></li>
-                    <li><a>Google Calendar</a></li>
-                    <li><a>Microsoft Outlook</a></li>
+                <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 shadow-sm">
+                    <li><a target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&dates={{call.pubDate | isoDate}}/{{call.pubDate | addDay | isoDate}}&details={{(Call for papers published) | urlEncode}}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&sf=true&output=xml">Google Calendar</a></li>
+                    <li><a href="https://outlook.live.com/owa/?rfr=0&path=/calendar/action/compose&rlt=folderview&startdt=YYYY-MM-DDTHH:MM:SS&enddt=YYYY-MM-DDTHH:MM:SS&subject=Call+for+Papers:+{{ call.title if call.title else call.metaTitle | safe }}&body=Call for papers published&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}">Microsoft Outlook</a></li>
+                    <li><a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your Company//Your Website//EN%0ACALSCALE:GREGORIAN%0ABEGIN:VEVENT%0AUID:20241115T000000Z-deadline@yourwebsite.com%0ADTSTAMP:20241026T100000Z%0ADTSTART;VALUE=DATE:20241115%0ADTEND;VALUE=DATE:20241116%0ASUMMARY:Submission%20Deadline%20for%20Project%20X%0ADESCRIPTION:This%20is%20the%20final%20deadline%20for%20submitting%20your%20project%20for%20evaluation.%0AURL:https://yourwebsite.com/project-details%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR" download="cfp_deadline.ics">iCalendar/ics</a></li>
                 </ul>
             </div>
         </div>
