@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Mon, 18 Aug 2025 03:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 03:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,74 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Algorithmic Assemblages—Fields, Ecosystems, and Platforms: An Interpretive Approach]]></title>
+            <link>https://callsforpapers.org/call/io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach</link>
+            <guid>io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach</guid>
+            <pubDate>Tue, 19 Aug 2025 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Hannigan, Timothy</strong>, University of Ottawa</p>
+        
+        <p><strong>Jennings, P. Devereaux</strong>, University of Alberta</p>
+        
+        <p><strong>Miranda, Shaila</strong>, University of Arkansas</p>
+        
+        <p><strong>Faraj, Samer</strong>, McGill University</p>
+        
+    
+    
+    <p>This Special Issue is devoted to interpretive approaches to studying algorithmic assemblages constitutive of and by fields, ecosystems, and platforms and combining research from an organizational and information systems view about such organizing features and their dynamics. Information technologies have progressively enabled, even necessitated, a shift in the locus of value creation, capture, and resource orchestration and the processes they entail from within organizations to these more loosely coupled and emergently structured sociotechnical systems. The interpretive approach broadly stems from the relational turn in organization theory, but more proximately, considers assemblages and algorithmic organizing as views of these key constructs and their associated processes. To date, there has been less theory-building and empirical research connecting these more mezzo and macro constructs with the more micro-dynamics of these systems. In particular, it is not clear how algorithmic technologies enable the discursive and material interconnections of organizational ecosystems and facilitate the legitimacy dynamics of institutional fields. Nor is it clear the ways in which algorithmic technologies differentially circumscribe meaning across global fields and societies.</p>
+    
+    <p>For example, blockchain communities contain organizational imaginaries around decentralized organization, and ongoing work is needed to examine how protocols are governed and established as new “rules of the game” and how community discourses around digital technologies shape institutional fields. Relatedly, the metaverse offers novel opportunities for commerce, government, and society within emerging ecosystems. Similarly, for AI technologies it is important to parse through the rhetoric and reality of how field level discourse influences organizational adoption and vice versa. As quantum computing threatens to disrupt our digital world, it is important to understand the broad material, social, and cultural ecosystem with the potential to reshape global business and geopolitics. To examine the institutional dynamics of technologically mediated organizing, it is necessary to methodologically zoom in and out with configurations to examine how realities are constructed based on shared meanings and interpretations.</p>
+    
+    <p>To unpack these dynamics around technology-based and –mediated fields, ecosystems and platform we call for theory and research that relies on relational approaches coming from both organization theory and information systems. In those approaches, we see how theories of assemblages and algorithmic organizing, when combined with more traditional organizational views such as of routines and institutions, offer powerful new ways of thinking about these dynamics.</p>
+    
+    <p>The objectives of this Special Issue are twofold. First, we wish to foster the development of cutting-edge research (theory and method) among scholars interested in organizational and institutional studies of the use and effects of data science and algorithms on decision-making. Second, we wish to continue building and strengthening the community of scholars engaged in that work, especially at the intersection of organization theory and information systems. In doing so, we reiterate Orlikowski and Barley’s call for synthesis of information systems and organizational studies scholars’ knowledge trajectories of technology change and institutional contexts. Since their call, there has been a growing convergence between these knowledge trajectories, culminating in studies of how actors remake institutional fields, change power relationships, and construct meanings about technology beyond institutionalized paths.</p>
+    
+    <p>We can envision a variety of ways in which empirical papers can showcase the way in which interpretive algorithms affect assemblages, ecosystems, and fields. We stand on the shoulders of Barley &amp; Orlikowski (2023:4) and their call for papers that navigate “futures far different from the pasts we have known” with “more in-depth empirical studies and less speculation and hype.”</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Interpretive approaches to studying algorithmic assemblages</li>
+        
+        <li>Relational theories in organizational and information systems contexts</li>
+        
+        <li>Empirical research on algorithmic technologies</li>
+        
+        <li>Intersection of organization theory and information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>August 18, 2025: </li>
+        
+        <li>May 15, 2026: Submission deadline</li>
+        
+        <li>October 30, 2026: First round decision letters sent out</li>
+        
+        <li>February 28, 2027: First round paper resubmissions</li>
+        
+        <li>May 31, 2027: Second round reviews due</li>
+        
+        <li>July 15, 2027: Second round decision letters sent out</li>
+        
+        <li>October 15, 2027: Second round paper resubmissions</li>
+        
+        <li>March 15, 2028: Final papers selected, introductory editorial paper written</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Information and Organization (IO)</author>
+        </item>
         <item>
             <title><![CDATA[The future of creating and distributing value in digital health ecosystems]]></title>
             <link>https://callsforpapers.org/call/ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems</link>
@@ -141,25 +209,55 @@
     
     <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems (Nandakumar, 2010; Ägerfalk, 2010). We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective (Conboy, 2019), examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
     
-    <p>We invite papers on any and all aspects of IS design and development, but below are some guiding themes related to the call.</p>
-    
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>The role of emerging technologies in shaping the future of IS design: Emerging computing paradigms such as artificial intelligence, blockchain, and quantum computing are now reshaping design and development processes.</li>
+        <li>The role of emerging technologies in shaping the future of IS design</li>
         
-        <li>The limits of current design and development methods: As technology rapidly evolves, one would expect that the methods for designing and developing would also advance.</li>
+        <li>The limits of current design and development methods</li>
         
-        <li>Design science beyond the science of the artificial: Design science also provides a methodological foundation for structuring the design, development, and adoption of information systems.</li>
+        <li>Design science beyond the science of the artificial</li>
         
-        <li>Design and development in an era of heightened responsibility: We welcome submissions that reflect on or critique the extent to which current design and development approaches consider the nuances and increased expectations of the responsible technology movement.</li>
+        <li>Design and development in an era of heightened responsibility</li>
+        
+        <li>The impact of AI on any or all aspects of IS design and development</li>
+        
+        <li>The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development</li>
+        
+        <li>The future of traditional software designers and developers and if and how these roles will exist in the medium to long term</li>
+        
+        <li>Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods.</li>
+        
+        <li>Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’</li>
+        
+        <li>New ‘Promethean’ methods that encourage thinking about and designing distant digital futures.</li>
+        
+        <li>Challenging the problem-solving paradigm in designing IS solutions.</li>
+        
+        <li>Embracing vision-oriented and future-oriented DSR.</li>
+        
+        <li>Critique or discussion of existing policies, laws and regulations governing aspects of IS design.</li>
+        
+        <li>Exemplars of IS design and development for digital futures.</li>
+        
+        <li>New methods for designing digital futures anchored in IS design and development heritage.</li>
+        
+        <li>New perspectives on responsible design and the design of responsible IS.</li>
+        
+        <li>Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications.</li>
+        
+        <li>Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics.</li>
+        
+        <li>Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</li>
         
     </ul>
     
     
     <h2>Timeline</h2>
     <ul>
+        
+        <li>Invalid DateTime: Projected publication</li>
         
         <li>January 30, 2026: Initial paper submission deadline</li>
         
@@ -172,8 +270,6 @@
         <li>February 1, 2027: Final revision deadline</li>
         
         <li>April 1, 2027: Final authors notification</li>
-        
-        <li>June 1, 2027: Projected publication</li>
         
     </ul>
     
@@ -630,6 +726,58 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
+            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
+    
+    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research and future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to the context of strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -707,58 +855,6 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
-    
-    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research and future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to the context of strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
