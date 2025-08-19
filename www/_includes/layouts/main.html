@@ -4,32 +4,34 @@ layout: layouts/base.html
 
 <div x-data="{
     search: '',
+    sort: localStorage.getItem('sortKey') || 'pubdate',
     show_call(el) {
         return this.search === '' || el.getAttribute('data-title').toLowerCase().includes(this.search.toLowerCase());
     },
-    sort_calls(order) {
+    sort_calls() {
+        localStorage.setItem('sortKey', this.sort);
         const calls = Array.from(this.$refs.calls.children);
-        switch (order) {
+        switch (this.sort) {
             case 'title':
             case 'journal':
                 calls.sort((a, b) => {
-                    const aAttribute = a.getAttribute(`data-${order}`);
-                    const bAttribute = b.getAttribute(`data-${order}`);
+                    const aAttribute = a.getAttribute(`data-${this.sort}`);
+                    const bAttribute = b.getAttribute(`data-${this.sort}`);
                     return aAttribute.localeCompare(bAttribute);
                 });
                 break;
             case 'pubdate':
             case 'duedate':
                 calls.sort((a, b) => {
-                    const aAttribute = a.getAttribute(`data-${order}`);
-                    const bAttribute = b.getAttribute(`data-${order}`);
+                    const aAttribute = a.getAttribute(`data-${this.sort}`);
+                    const bAttribute = b.getAttribute(`data-${this.sort}`);
                     return Date.parse(bAttribute) - Date.parse(aAttribute);
                 });
                 break;
         }
         calls.forEach(call => this.$refs.calls.appendChild(call));
     },
-}" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
+}" x-init="sort_calls()" @keydown.window.prevent.ctrl.k="$refs.search.focus()">
     <div class="flex justify-between items-center mb-8">
         {% include "searchBox.html" %}
         {% include "sortDropdown.html" %}
