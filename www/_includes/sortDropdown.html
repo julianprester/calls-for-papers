@@ -8,26 +8,42 @@
                 d="M12.96 14H9.028v-.691l2.579-3.72v-.054H9.098v-.867h3.785v.691l-2.567 3.72v.054h2.645V14zM4.5 2.5a.5.5 0 0 0-1 0v9.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 1.999.007.007a.497.497 0 0 0 .7-.006l2-2a.5.5 0 0 0-.707-.708L4.5 12.293V2.5z" />
         </svg>
     </summary>
-    <form @click.outside="$refs.sort.removeAttribute('open')" class="menu dropdown-content bg-base-300 border border-neutral rounded-box z-[1] w-52 p-2 shadow flex flex-col gap-2">
-        <label class="flex items-center gap-2 cursor-pointer hover:bg-base-200 rounded px-2 py-1">
-            <input type="radio" name="sort" value="title" x-model="sort" class="radio radio-sm" :class="{ 'radio-primary': sort === 'title' }"
-                @change="$refs.sort.removeAttribute('open'); sort_calls()">
-            <span>Title</span>
-        </label>
-        <label class="flex items-center gap-2 cursor-pointer hover:bg-base-200 rounded px-2 py-1">
-            <input type="radio" name="sort" value="journal" x-model="sort" class="radio radio-sm" :class="{ 'radio-primary': sort === 'journal' }"
-                @change="$refs.sort.removeAttribute('open'); sort_calls()">
-            <span>Journal</span>
-        </label>
-        <label class="flex items-center gap-2 cursor-pointer hover:bg-base-200 rounded px-2 py-1">
-            <input type="radio" name="sort" value="pubdate" x-model="sort" class="radio radio-sm" :class="{ 'radio-primary': sort === 'pubdate' }"
-                @change="$refs.sort.removeAttribute('open'); sort_calls()">
-            <span>Date published</span>
-        </label>
-        <label class="flex items-center gap-2 cursor-pointer hover:bg-base-200 rounded px-2 py-1">
-            <input type="radio" name="sort" value="duedate" x-model="sort" class="radio radio-sm" :class="{ 'radio-primary': sort === 'duedate' }"
-                @change="$refs.sort.removeAttribute('open'); sort_calls()">
-            <span>Date due</span>
-        </label>
-    </form>
+    <ul @click.outside="$refs.sort.removeAttribute('open')" class="menu dropdown-content bg-base-300 border border-neutral rounded-box z-[1] w-52 p-2 shadow">
+        <li @click="$refs.sort.removeAttribute('open'); sortOrder = (sort == 'title') ? !sortOrder : false; sort='title'; sort_calls()">
+            <a>
+                Title
+                <svg class="w-4 h-4" :class="sort == 'title' ? 'text-gray-700 dark:text-gray-300' : 'text-gray-500 dark:text-gray-700'" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                    <path x-show="(sort == 'title' && !sortOrder) || sort != 'title'" fill-rule="evenodd" d="M18.425 10.271C19.499 8.967 18.57 7 16.88 7H7.12c-1.69 0-2.618 1.967-1.544 3.271l4.881 5.927a2 2 0 0 0 3.088 0l4.88-5.927Z" clip-rule="evenodd"/>
+                    <path x-show="sort == 'title' && sortOrder" fill-rule="evenodd" d="M5.575 13.729C4.501 15.033 5.43 17 7.12 17h9.762c1.69 0 2.618-1.967 1.544-3.271l-4.881-5.927a2 2 0 0 0-3.088 0l-4.88 5.927Z" clip-rule="evenodd"/>
+                </svg>
+            </a>
+        </li>
+        <li @click="$refs.sort.removeAttribute('open'); sortOrder = (sort == 'journal') ? !sortOrder : false; sort='journal'; sort_calls()">
+            <a>
+                Journal
+                <svg class="w-4 h-4" :class="sort == 'journal' ? 'text-gray-700 dark:text-gray-300' : 'text-gray-500 dark:text-gray-700'" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                    <path x-show="(sort == 'journal' && !sortOrder) || sort != 'journal'" fill-rule="evenodd" d="M18.425 10.271C19.499 8.967 18.57 7 16.88 7H7.12c-1.69 0-2.618 1.967-1.544 3.271l4.881 5.927a2 2 0 0 0 3.088 0l4.88-5.927Z" clip-rule="evenodd"/>
+                    <path x-show="sort == 'journal' && sortOrder" fill-rule="evenodd" d="M5.575 13.729C4.501 15.033 5.43 17 7.12 17h9.762c1.69 0 2.618-1.967 1.544-3.271l-4.881-5.927a2 2 0 0 0-3.088 0l-4.88 5.927Z" clip-rule="evenodd"/>
+                </svg>
+            </a>
+        </li>
+        <li @click="$refs.sort.removeAttribute('open'); sortOrder = (sort == 'pubdate') ? !sortOrder : false; sort='pubdate'; sort_calls()">
+            <a>
+                Date published
+                <svg class="w-4 h-4" :class="sort == 'pubdate' ? 'text-gray-700 dark:text-gray-300' : 'text-gray-500 dark:text-gray-700'" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                    <path x-show="(sort == 'pubdate' && !sortOrder) || sort != 'pubdate'" fill-rule="evenodd" d="M18.425 10.271C19.499 8.967 18.57 7 16.88 7H7.12c-1.69 0-2.618 1.967-1.544 3.271l4.881 5.927a2 2 0 0 0 3.088 0l4.88-5.927Z" clip-rule="evenodd"/>
+                    <path x-show="sort == 'pubdate' && sortOrder" fill-rule="evenodd" d="M5.575 13.729C4.501 15.033 5.43 17 7.12 17h9.762c1.69 0 2.618-1.967 1.544-3.271l-4.881-5.927a2 2 0 0 0-3.088 0l-4.88 5.927Z" clip-rule="evenodd"/>
+                </svg>
+            </a>
+        </li>
+        <li @click="$refs.sort.removeAttribute('open'); sortOrder = (sort == 'duedate') ? !sortOrder : false; sort='duedate'; sort_calls()">
+            <a>
+                Date due
+                <svg class="w-4 h-4" :class="sort == 'duedate' ? 'text-gray-700 dark:text-gray-300' : 'text-gray-500 dark:text-gray-700'" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                    <path x-show="(sort == 'duedate' && !sortOrder) || sort != 'duedate'" fill-rule="evenodd" d="M18.425 10.271C19.499 8.967 18.57 7 16.88 7H7.12c-1.69 0-2.618 1.967-1.544 3.271l4.881 5.927a2 2 0 0 0 3.088 0l4.88-5.927Z" clip-rule="evenodd"/>
+                    <path x-show="sort == 'duedate' && sortOrder" fill-rule="evenodd" d="M5.575 13.729C4.501 15.033 5.43 17 7.12 17h9.762c1.69 0 2.618-1.967 1.544-3.271l-4.881-5.927a2 2 0 0 0-3.088 0l-4.88 5.927Z" clip-rule="evenodd"/>
+                </svg>
+            </a>
+        </li>
+    </ul>
 </details>
