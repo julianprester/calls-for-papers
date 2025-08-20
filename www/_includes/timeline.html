@@ -4,20 +4,27 @@
             <span>{{ call.pubDate | dateOnly }}</span>
             <div class="dropdown dropdown-top dropdown-end tooltip tooltip-bottom" data-tip="Add to calendar">
                 <div tabindex="0" role="button" class="btn h-min min-h-min px-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="h-4 w-4 inline fill-gray-700 hover:fill-gray-100">
-                        <path d="M85.4,10.4h-7.2V8c0-2.1-1.7-3.8-3.8-3.8c-2.1,0-3.8,1.7-3.8,3.8v2.4H53.8V8c0-2.1-1.7-3.8-3.8-3.8S46.2,5.9,46.2,8v2.4     H29.3V8c0-2.1-1.7-3.8-3.8-3.8S21.8,5.9,21.8,8v2.4h-7.2c-6.7,0-12.1,5.4-12.1,12.1v61.2c0,6.7,5.4,12.1,12.1,12.1h70.8     c6.7,0,12.1-5.4,12.1-12.1V22.5C97.5,15.8,92.1,10.4,85.4,10.4z M14.6,17.9h7.2v2.4c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8v-2.4     h16.9v2.4c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8v-2.4h16.9v2.4c0,2.1,1.7,3.8,3.8,3.8c2.1,0,3.8-1.7,3.8-3.8v-2.4h7.2     c2.5,0,4.6,2.1,4.6,4.6v7.1H10v-7.1C10,19.9,12.1,17.9,14.6,17.9z M85.4,88.2H14.6c-2.5,0-4.6-2.1-4.6-4.6V37.1h80v46.6     C90,86.2,87.9,88.2,85.4,88.2z"/>
-                        <path d="M31.1,45.4H22c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C34.2,46.7,32.8,45.4,31.1,45.4z"/>
-                        <path d="M78,45.4h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1H78c1.7,0,3.1-1.4,3.1-3.1v-7C81.1,46.7,79.7,45.4,78,45.4     z"/>
-                        <path d="M54.6,45.4h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C57.6,46.7,56.2,45.4,54.6,45.4z"/>
-                        <path d="M31.1,66.8H22c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C34.2,68.2,32.8,66.8,31.1,66.8z"/>
-                        <path d="M78,66.8h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1H78c1.7,0,3.1-1.4,3.1-3.1v-7C81.1,68.2,79.7,66.8,78,66.8     z"/>
-                        <path d="M54.6,66.8h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C57.6,68.2,56.2,66.8,54.6,66.8z"/>
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-gray-700 hover:fill-gray-100"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm64-192c0-8.8 7.2-16 16-16h96c8.8 0 16 7.2 16 16v96c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16v-96zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"/></svg>
                 </div>
                 <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 shadow-sm">
-                    <li><a target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&dates={{call.pubDate | isoDate}}/{{call.pubDate | addDay | isoDate}}&details={{(Call for papers published) | urlEncode}}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&sf=true&output=xml">Google Calendar</a></li>
-                    <li><a href="https://outlook.live.com/owa/?rfr=0&path=/calendar/action/compose&rlt=folderview&startdt=YYYY-MM-DDTHH:MM:SS&enddt=YYYY-MM-DDTHH:MM:SS&subject=Call+for+Papers:+{{ call.title if call.title else call.metaTitle | safe }}&body=Call for papers published&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}">Microsoft Outlook</a></li>
-                    <li><a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your Company//Your Website//EN%0ACALSCALE:GREGORIAN%0ABEGIN:VEVENT%0AUID:20241115T000000Z-deadline@yourwebsite.com%0ADTSTAMP:20241026T100000Z%0ADTSTART;VALUE=DATE:20241115%0ADTEND;VALUE=DATE:20241116%0ASUMMARY:Submission%20Deadline%20for%20Project%20X%0ADESCRIPTION:This%20is%20the%20final%20deadline%20for%20submitting%20your%20project%20for%20evaluation.%0AURL:https://yourwebsite.com/project-details%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR" download="cfp_deadline.ics">iCalendar/ics</a></li>
+                    <li>
+                        <a target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&dates={{call.pubDate | googleCalendarDate}}/{{call.pubDate | addDay | googleCalendarDate}}&details={{('Call for papers published') | urlEncode}}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&sf=true&output=xml">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"/></svg>
+                            Google Calendar
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://outlook.office.com/calendar/deeplink/compose?&subject={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&startdt={{call.pubDate | outlookCalendarDate | urlEncode}}&enddt={{call.pubDate | addDay | outlookCalendarDate | urlEncode}}&body={{('Call for papers published') | urlEncode}}">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M0 32h214.6v214.6H0V32zm233.4 0H448v214.6H233.4V32zM0 265.4h214.6V480H0V265.4zm233.4 0H448V480H233.4V265.4z"/></svg>
+                            Microsoft Outlook
+                        </a>
+                    </li>
+                    <li>
+                        <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Calls for Papers//callsforpapers.org//EN%0ACALSCALE:GREGORIAN%0ABEGIN:VEVENT%0AUID:{{ call.pubDate | googleCalendarDate }}-{{ call.slug }}@callsforpapers.org%0ADTSTAMP:{{ call.pubDate | googleCalendarDate }}T000000Z%0ADTSTART;VALUE=DATE:{{ call.pubDate | googleCalendarDate }}%0ADTEND;VALUE=DATE:{{ call.pubDate | addDay | googleCalendarDate }}%0ASUMMARY:{{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}%0ADESCRIPTION:Call%20for%20papers%20published%0AURL:https://callsforpapers.org/call/{{ call.slug }}%0ALOCATION:https://callsforpapers.org/call/{{ call.slug }}%0AEND:VEVENT%0AEND:VCALENDAR" download="cfp_deadline.ics">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm316 140c0-6.6-5.4-12-12-12h-60v-60c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v60h-60c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h60v60c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-60h60c6.6 0 12-5.4 12-12v-40z"/></svg>
+                            iCalendar/ics
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -42,17 +49,31 @@
         {% if date.date %}
         <div class="timeline-start timeline-box border-base-300 bg-base-200 max-w-full">
             <span>{{ date.date | dateOnly }}</span>
-            <button class="tooltip text-left ml-2" data-tip="Add to calendar">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="h-4 w-4 inline fill-gray-700 hover:fill-gray-100">
-                    <path d="M85.4,10.4h-7.2V8c0-2.1-1.7-3.8-3.8-3.8c-2.1,0-3.8,1.7-3.8,3.8v2.4H53.8V8c0-2.1-1.7-3.8-3.8-3.8S46.2,5.9,46.2,8v2.4     H29.3V8c0-2.1-1.7-3.8-3.8-3.8S21.8,5.9,21.8,8v2.4h-7.2c-6.7,0-12.1,5.4-12.1,12.1v61.2c0,6.7,5.4,12.1,12.1,12.1h70.8     c6.7,0,12.1-5.4,12.1-12.1V22.5C97.5,15.8,92.1,10.4,85.4,10.4z M14.6,17.9h7.2v2.4c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8v-2.4     h16.9v2.4c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8v-2.4h16.9v2.4c0,2.1,1.7,3.8,3.8,3.8c2.1,0,3.8-1.7,3.8-3.8v-2.4h7.2     c2.5,0,4.6,2.1,4.6,4.6v7.1H10v-7.1C10,19.9,12.1,17.9,14.6,17.9z M85.4,88.2H14.6c-2.5,0-4.6-2.1-4.6-4.6V37.1h80v46.6     C90,86.2,87.9,88.2,85.4,88.2z"/>
-                    <path d="M31.1,45.4H22c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C34.2,46.7,32.8,45.4,31.1,45.4z"/>
-                    <path d="M78,45.4h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1H78c1.7,0,3.1-1.4,3.1-3.1v-7C81.1,46.7,79.7,45.4,78,45.4     z"/>
-                    <path d="M54.6,45.4h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C57.6,46.7,56.2,45.4,54.6,45.4z"/>
-                    <path d="M31.1,66.8H22c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C34.2,68.2,32.8,66.8,31.1,66.8z"/>
-                    <path d="M78,66.8h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1H78c1.7,0,3.1-1.4,3.1-3.1v-7C81.1,68.2,79.7,66.8,78,66.8     z"/>
-                    <path d="M54.6,66.8h-9.1c-1.7,0-3.1,1.4-3.1,3.1v7c0,1.7,1.4,3.1,3.1,3.1h9.1c1.7,0,3.1-1.4,3.1-3.1v-7     C57.6,68.2,56.2,66.8,54.6,66.8z"/>
-                </svg>
-            </button>
+            <div class="dropdown dropdown-top dropdown-end tooltip tooltip-bottom" data-tip="Add to calendar">
+                <div tabindex="0" role="button" class="btn h-min min-h-min px-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-gray-700 hover:fill-gray-100"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm64-192c0-8.8 7.2-16 16-16h96c8.8 0 16 7.2 16 16v96c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16v-96zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"/></svg>
+                </div>
+                <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 shadow-sm">
+                    <li>
+                        <a target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&dates={{date.date | googleCalendarDate}}/{{date.date | addDay | googleCalendarDate}}&details={{date.description | urlEncode}}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&sf=true&output=xml">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"/></svg>
+                            Google Calendar
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://outlook.office.com/calendar/deeplink/compose?&subject={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&startdt={{date.date | outlookCalendarDate | urlEncode}}&enddt={{date.date | addDay | outlookCalendarDate | urlEncode}}&body={{date.description | urlEncode}}">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M0 32h214.6v214.6H0V32zm233.4 0H448v214.6H233.4V32zM0 265.4h214.6V480H0V265.4zm233.4 0H448V480H233.4V265.4z"/></svg>
+                            Microsoft Outlook
+                        </a>
+                    </li>
+                    <li>
+                        <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Calls for Papers//callsforpapers.org//EN%0ACALSCALE:GREGORIAN%0ABEGIN:VEVENT%0AUID:{{ date.date | googleCalendarDate }}-{{ call.slug }}@callsforpapers.org%0ADTSTAMP:{{ date.date | googleCalendarDate }}T000000Z%0ADTSTART;VALUE=DATE:{{ date.date | googleCalendarDate }}%0ADTEND;VALUE=DATE:{{ date.date | addDay | googleCalendarDate }}%0ASUMMARY:{{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}%0ADESCRIPTION:{{date.description | urlEncode}}%0AURL:https://callsforpapers.org/call/{{ call.slug }}%0ALOCATION:https://callsforpapers.org/call/{{ call.slug }}%0AEND:VEVENT%0AEND:VCALENDAR" download="cfp_deadline.ics">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm316 140c0-6.6-5.4-12-12-12h-60v-60c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v60h-60c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h60v60c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-60h60c6.6 0 12-5.4 12-12v-40z"/></svg>
+                            iCalendar/ics
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
         {% endif %}
         <div class="timeline-middle">

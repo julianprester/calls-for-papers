@@ -20,9 +20,15 @@ export default async function (eleventyConfig) {
         return dateTime.setLocale('en-us').toLocaleString(DateTime.DATE_FULL);
     });
 
-    eleventyConfig.addFilter("isoDate", function (timestamp) {
+    eleventyConfig.addFilter("googleCalendarDate", function (timestamp) {
         const dateTime = DateTime.fromISO(timestamp);
         return dateTime.toISODate().replace(/-/g, '');
+    });
+
+    eleventyConfig.addFilter("outlookCalendarDate", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        // Outlook expects the date in 2016-02-29T19:00:00 format
+        return dateTime.toISODate() + 'T00:00:00';
     });
 
     eleventyConfig.addFilter("isInPast", function (timestamp) {
