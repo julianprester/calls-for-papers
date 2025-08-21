@@ -2,31 +2,6 @@
     <li>
         <div class="timeline-start timeline-box border-base-300 bg-base-200 max-w-full">
             <span>{{ call.pubDate | dateOnly }}</span>
-            <div class="dropdown dropdown-top dropdown-end tooltip tooltip-bottom" data-tip="Add to calendar">
-                <div tabindex="0" role="button" class="btn h-min min-h-min px-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-gray-700 hover:fill-gray-100"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm64-192c0-8.8 7.2-16 16-16h96c8.8 0 16 7.2 16 16v96c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16v-96zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"/></svg>
-                </div>
-                <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 shadow-sm">
-                    <li>
-                        <a target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&dates={{call.pubDate | googleCalendarDate}}/{{call.pubDate | addDay | googleCalendarDate}}&details={{('Call for papers published') | urlEncode}}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&sf=true&output=xml">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"/></svg>
-                            Google Calendar
-                        </a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://outlook.office.com/calendar/deeplink/compose?&subject={{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}&location={{ ('https://callsforpapers.org/call/' + call.slug) | url }}&startdt={{call.pubDate | outlookCalendarDate | urlEncode}}&enddt={{call.pubDate | addDay | outlookCalendarDate | urlEncode}}&body={{('Call for papers published') | urlEncode}}">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M0 32h214.6v214.6H0V32zm233.4 0H448v214.6H233.4V32zM0 265.4h214.6V480H0V265.4zm233.4 0H448V480H233.4V265.4z"/></svg>
-                            Microsoft Outlook
-                        </a>
-                    </li>
-                    <li>
-                        <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Calls for Papers//callsforpapers.org//EN%0ACALSCALE:GREGORIAN%0ABEGIN:VEVENT%0AUID:{{ call.pubDate | googleCalendarDate }}-{{ call.slug }}@callsforpapers.org%0ADTSTAMP:{{ call.pubDate | googleCalendarDate }}T000000Z%0ADTSTART;VALUE=DATE:{{ call.pubDate | googleCalendarDate }}%0ADTEND;VALUE=DATE:{{ call.pubDate | addDay | googleCalendarDate }}%0ASUMMARY:{{ ('Call for Papers: ' + call.title if call.title else call.metaTitle) | urlEncode }}%0ADESCRIPTION:Call%20for%20papers%20published%0AURL:https://callsforpapers.org/call/{{ call.slug }}%0ALOCATION:https://callsforpapers.org/call/{{ call.slug }}%0AEND:VEVENT%0AEND:VCALENDAR" download="cfp_deadline.ics">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 inline fill-current"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm316 140c0-6.6-5.4-12-12-12h-60v-60c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v60h-60c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h60v60c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-60h60c6.6 0 12-5.4 12-12v-40z"/></svg>
-                            iCalendar/ics
-                        </a>
-                    </li>
-                </ul>
-            </div>
         </div>
         <div class="timeline-middle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="fill-primary h-5 w-5">
