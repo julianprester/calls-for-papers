@@ -1,14 +1,34 @@
 import { DateTime } from "luxon";
 
 export default async function (eleventyConfig) {
+    eleventyConfig.addFilter("urlEncode", function (str) {
+        return encodeURIComponent(str);
+    });
+
     eleventyConfig.addFilter("relativeTime", function (timestamp) {
         const dateTime = DateTime.fromISO(timestamp);
         return dateTime.toRelative();
     });
 
+    eleventyConfig.addFilter("addDay", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        return dateTime.plus({ days: 1 }).toISODate();
+    });
+
     eleventyConfig.addFilter("dateOnly", function (timestamp) {
         const dateTime = DateTime.fromISO(timestamp);
         return dateTime.setLocale('en-us').toLocaleString(DateTime.DATE_FULL);
+    });
+
+    eleventyConfig.addFilter("googleCalendarDate", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        return dateTime.toISODate().replace(/-/g, '');
+    });
+
+    eleventyConfig.addFilter("outlookCalendarDate", function (timestamp) {
+        const dateTime = DateTime.fromISO(timestamp);
+        // Outlook expects the date in 2016-02-29T19:00:00 format
+        return dateTime.toISODate() + 'T00:00:00';
     });
 
     eleventyConfig.addFilter("isInPast", function (timestamp) {
