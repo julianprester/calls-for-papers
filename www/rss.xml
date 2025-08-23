@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Fri, 22 Aug 2025 03:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 03:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,131 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Unpacking the Multifaceted Impact of Generative Artificial Intelligence on Organisations]]></title>
+            <link>https://callsforpapers.org/call/jsis-unpacking-the-multifaceted-impact-of-generative-artificial-intelligence-on-organisations</link>
+            <guid>jsis-unpacking-the-multifaceted-impact-of-generative-artificial-intelligence-on-organisations</guid>
+            <pubDate>Sat, 23 Aug 2025 03:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Jun Hwa Cheah (Jacky)</strong>, University of East Anglia</p>
+        
+        <p><strong>Brad McKenna</strong>, University of East Anglia</p>
+        
+        <p><strong>Shahper Richter</strong>, University of Auckland</p>
+        
+        <p><strong>PK Senyo</strong>, University of Southampton</p>
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+    
+    
+    <p>This special issue examines Generative AI&#39;s dual impact on organisations, driving innovation, efficiency, and societal value while raising ethical, governance, and workforce challenges.</p>
+    
+    <p>Generative Artificial Intelligence (GAI) is at the forefront of technological innovation, with rapid growth and transformative potential. By 2032, the global GAI market is projected to reach $151.9 billion. This trajectory reflects the growing recognition of GAI&#39;s capabilities across multiple domains, fundamentally reshaping innovation paradigms and redefining organisational processes and structures. In particular, GAI is increasingly acknowledged as a transformative force in facilitating data-driven decision-making and optimising operational processes within and across organisations. Foundational GAI systems such as BERT, ChatGPT DALL-E, Deepseek and Gemini illustrate their adaptability and extensive applicability. These systems can execute a wide array of tasks, ranging from creative production and service delivery to organisational decision-making, offering novel opportunities for personalisation, operational efficiency, and interdisciplinary collaboration. As GAI continues to evolve, some organisations have commenced developing and disseminating regulatory frameworks to legitimise its deployment in organisational processes. There is growing interest in whether GAI can be repurposed as a strategic technology employed for advancing social justice and addressing grand challenges, from climate resilience to digital access and social welfare. At the same time, there are stakeholders, including organisational actors, that are concerned with the risks posed by GAI, such as data governance, epistemic reliability, trust, error propagation, and bias. This special issue aims to unfold strategic opportunities and challenges of GAI in organizations, networks, government bodies and society at large.</p>
+    
+    <p>While prior studies have examined AI more conceptually and broadly, a significant unexplored area remains, which concerns the multifaceted impacts of GAI on organisational decision-making within the information systems research. Because of the relevant strategic implications (and potentially ethical challenges) associated with implementing GAI in organisations, filling this gap becomes paramount. In particular, with this special issue we aim to stimulate research focusing on the dual nature of GAI, its simultaneous potential for value co-creation and value co-destruction in organisations; GAI presents promising opportunities and significant challenges. In particular, GAI used for automated content creation, internal reporting and predictive analytics, has the potential to improve operational efficiency by identifying workflow bottlenecks, reducing manual workload, and enabling data-driven insights into employee performance and strategic planning. With these capabilities, it can detect subtle signs of fatigue or burnout, such as slower response times, changes in communication tone, or altered work patterns. Hence it enables early intervention through tailored support or adjustments to the workload. Also, by synthesising vast amounts of information, GAI supports value co-creation and strategic agility in decision-making, promotes innovation and digital inclusion, and allows employees to focus on higher-level tasks such as problem-solving and strategic thinking. In fact, GAI can foster creativity and knowledge sharing, support employee well-being by automating repetitive tasks, and improve cross-functional collaboration. GAI can also detect subtle patterns indicative of fatigue or burnout, such as reduced response times, changes in communication tone, or shifts in work rhythms, allowing organisations to intervene early with tailored support or workload adjustments.</p>
+    
+    <p>However, these organisational benefits are tempered by critical concerns. The increasing reliance on opaque and complex GAI systems introduces risks related to hallucinations, diminished human oversight, and the externalisation of ethical responsibility onto non-accountable technologies. According to a 2023 global survey, 75% of companies have restricted or actively considered restricting technologies such as ChatGPT due to fears of data breaches, intellectual property loss, and declining trust in AI-generated content. More fundamentally, GAI threatens the nature of creative labour, raising questions about job security, intellectual integrity, and the automation of cognitively demanding work. GAI implementation may also generate unintended consequences for employee well-being, including role displacement, cognitive dependency, and reduced transparency in decision-making, which somehow affects the diversity, equality, and inclusion in the working environment. Concerning workplace surveillance, GAI can undermine employee autonomy by enabling constant monitoring that erodes trust and psychological safety. Employees may feel reduced to performance metrics, reflecting a shift toward Digital Taylorism, which prioritises algorithmic efficiency over human creativity. This dynamic can further intensify privacy concerns due to the opaque nature of many GAI systems, where data is often collected and used without clear consent. This will also heighten the risk of biased or discriminatory outcomes. Thus, all of these concerns highlight the potential for value co-destruction, wherein mismanaged or poorly governed GAI adoption undermines organisational integrity, ethical standards, and stakeholder trust. This resonates with recent developments in people analytics, where GAI-facilitated behavioural monitoring intersects with algorithmic control, potentially transforming managerial decision-making into a form of digital micromanagement.</p>
+    
+    <p>Given these growing uncertainties and tensions surrounding GAI, there is an urgent need to move beyond celebratory narratives and engage in critical, multidisciplinary inquiry into its dual-edged nature. On one hand, GAI serves as a powerful cognitive enabler, helping organisations to synthesise complex information, generate novel insights, and expand the boundaries of individual and collective knowledge. On the other hand, increasing reliance on these systems may gradually erode essential cognitive functions, such as critical thinking, independent reasoning, and problem-solving skills. Furthermore, the large-scale integration of GAI risks reinforcing existing cognitive biases, curating algorithmic filter bubbles, and narrowing exposure to diverse perspectives, thereby constraining informed decision-making. In light of these tensions, this special issue invites scholars and practitioners to adopt a perspective considering both the strategic, transformative potential and disruptive consequences of GAI. We welcome contributions that examine how GAI simultaneously enhances and challenges existing organisational frameworks and processes, ultimately reshaping the landscape of technological governance, human agency, and organisational transformation. Submissions may offer theoretical or empirical insights into the promises, ethical dilemmas, and societal shifts driven by GAI at the organisational level, including its application to grand societal challenges. We will not consider papers focusing on users, individuals, or manuscripts that do not align with the central focus of the special issue. Papers may use qualitative, quantitative, or pluralistic approaches.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>How is the utilisation of GAI reshaping workforce structures, labour division, and professional identity in public and/or private organisations?</li>
+        
+        <li>How can organisations effectively balance the efficiency and productivity gains promised by GAI with the risks related to data security, intellectual property theft, and regulatory compliance challenges?</li>
+        
+        <li>In what ways can organisations address the ethical implications of GAI, particularly concerning its potential to diminish human oversight and decision-making capabilities, while still harnessing its benefits for enhanced operational efficiency?</li>
+        
+        <li>How does GAI contribute to value co-destruction within organisations, in relation to resource misallocation, ethical compromises, and potential damage to organisational integrity or stakeholder trust?</li>
+        
+        <li>What strategies can organisations adopt to mitigate the risks of job displacement, deskilling, and workforce inequality while still leveraging GAI for innovation and competitiveness?</li>
+        
+        <li>How can organisational capabilities and leadership approaches evolve to ensure a balance between fostering innovation through GAI and managing its long-term impacts on employment, creativity, and organisational culture?</li>
+        
+        <li>How do organisational frameworks surrounding GAI affect the reinforcement or reduction of structural inequalities, especially in marginalised communities, and what measures can be taken to ensure inclusive and equitable use of GAI technologies?</li>
+        
+        <li>How are corporate governance frameworks evolving in response to GAI’s ethical challenges in decision-making, and how can these frameworks protect against algorithmic biases while fostering innovation?</li>
+        
+        <li>What role should organisational policies play in ensuring that GAI is used transparently and responsibly, particularly in high-stakes decisions involving human resources, operations, marketing, and customer relations?</li>
+        
+        <li>How is GAI being used for surveillance and control in organizational contexts, and what implications does this have for employee autonomy and governance, both in the workplace and in broader governmental settings?</li>
+        
+        <li>What is the potential and what are the limitations of GAI adoption in organisations across emerging economies and the Global South, particularly in relation to infrastructural, educational, and data governance challenges?</li>
+        
+        <li>Examining how different organisations (e.g., governments, healthcare providers, charities, or social enterprises) might deploy GAI to address grand challenges such as climate-adaptation, homelessness-prevention services, healthcare, strategically serving marginalised populations, or environmental disasters.</li>
+        
+        <li>Assessing the emerging role of corporate sustainability offices in leveraging GAI for supply-chain net-zero scenario planning.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 31, 2026: Submission of extended abstracts (~1,000 words including references). Submission of an abstract is not mandatory but is strongly encouraged.</li>
+        
+        <li>July 31, 2026: Deadline for full papers submission.</li>
+        
+        <li>October 31, 2026: Initial feedback to authors.</li>
+        
+        <li>January 31, 2027: Deadline for resubmission of revised papers.</li>
+        
+        <li>April 30, 2027: Second-round feedback to authors.</li>
+        
+        <li>June 30, 2027: Final editorial decisions communicated to authors.</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Ahmad Arslan</strong>, University of Oulu</li>
+        
+        <li><strong>Alexander Richter</strong>, Victoria University of Wellington</li>
+        
+        <li><strong>Daniel Gozman</strong>, University of Sydney</li>
+        
+        <li><strong>Eleonora Pantano</strong>, University of Bristol</li>
+        
+        <li><strong>Federico Iannacci</strong>, University of Sussex</li>
+        
+        <li><strong>Francis Andoh Baidoo</strong>, University of Texas Rio Grande Valley</li>
+        
+        <li><strong>Imran Ali</strong>, Central Queensland University</li>
+        
+        <li><strong>Ismail Golgeci</strong>, University of Auckland</li>
+        
+        <li><strong>Jason Bennett Thatcher</strong>, University of Colorado Boulder</li>
+        
+        <li><strong>Linda Hollebeek</strong>, Sunway University</li>
+        
+        <li><strong>Margherita Pagani</strong>, SKEMA Business School</li>
+        
+        <li><strong>Nisreen Ameen</strong>, Royal Holloway</li>
+        
+        <li><strong>Ryan Yung</strong>, University of Greenwich</li>
+        
+        <li><strong>Saima Qutab</strong>, University of Auckland</li>
+        
+        <li><strong>Sandra Smith</strong>, University of Auckland</li>
+        
+        <li><strong>Shohil Kishore</strong>, University of Auckland</li>
+        
+        <li><strong>Stan Karanasios</strong>, University of Queensland</li>
+        
+        <li><strong>Weng Marc Lim</strong>, Sunway University</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
         <item>
             <title><![CDATA[Algorithmic Assemblages—Fields, Ecosystems, and Platforms: An Interpretive Approach]]></title>
             <link>https://callsforpapers.org/call/io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach</link>
