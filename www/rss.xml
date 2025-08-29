@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Thu, 28 Aug 2025 03:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 03:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -265,19 +265,19 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>March 1, 2026: Submission of extended abstracts/ declaration of interest to submit papers to the special issue. Submissions are subject for discussions at a paper development workshop in the context of ECIS 2026 in Milan, Italy.</li>
+        <li>March 1, 2026: Submission of extended abstracts/ declaration of interest to submit papers to the special issue.</li>
         
-        <li>November 30, 2026: Full paper submission deadline.</li>
+        <li>November 30, 2026: Full paper submission deadline</li>
         
-        <li>March 31, 2027: First round decisions due.</li>
+        <li>March 31, 2027: First round decisions due</li>
         
-        <li>September 30, 2027: Revisions due.</li>
+        <li>September 30, 2027: Revisions due</li>
         
-        <li>December 15, 2027: Second round decisions due.</li>
+        <li>December 15, 2027: Second round decisions due</li>
         
-        <li>February 28, 2028: Third round revisions due (if necessary).</li>
+        <li>February 28, 2028: Third round revisions due (if necessary)</li>
         
-        <li>May 31, 2028: Final decisions due.</li>
+        <li>May 31, 2028: Final decisions due</li>
         
     </ul>
     
@@ -332,9 +332,7 @@
     
     <p>Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.</p>
     
-    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures.</p>
-    
-    <p>In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective, examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice. We invite papers on any and all aspects of IS design and development.</p>
+    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems (Nandakumar, 2010; Ägerfalk, 2010). We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective (Conboy, 2019), examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
     
     
     <h2>Potential topics</h2>
@@ -348,15 +346,43 @@
         
         <li>Design and development in an era of heightened responsibility</li>
         
-        <li>Emerging techniques for development such as continuous development and citizen development</li>
+        <li>The impact of AI on any or all aspects of IS design and development</li>
         
-        <li>Contrarian perspectives that challenge assumptions and norms of existing methods</li>
+        <li>The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development</li>
+        
+        <li>The future of traditional software designers and developers and if and how these roles will exist in the medium to long term</li>
+        
+        <li>Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods</li>
+        
+        <li>Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’</li>
+        
+        <li>New ‘Promethean’ methods that encourage thinking about and designing distant digital futures</li>
+        
+        <li>Challenging the problem-solving paradigm in designing IS solutions</li>
+        
+        <li>Embracing vision-oriented and future-oriented DSR</li>
+        
+        <li>Critique or discussion of existing policies, laws and regulations governing aspects of IS design</li>
+        
+        <li>Exemplars of IS design and development for digital futures</li>
+        
+        <li>New methods for designing digital futures anchored in IS design and development heritage</li>
+        
+        <li>New perspectives on responsible design and the design of responsible IS</li>
+        
+        <li>Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications</li>
+        
+        <li>Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics</li>
+        
+        <li>Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</li>
         
     </ul>
     
     
     <h2>Timeline</h2>
     <ul>
+        
+        <li>Invalid DateTime: Projected publication</li>
         
         <li>January 30, 2026: Initial paper submission deadline</li>
         
@@ -369,8 +395,6 @@
         <li>February 1, 2027: Final revision deadline</li>
         
         <li>April 1, 2027: Final authors notification</li>
-        
-        <li>June 1, 2027: Projected publication</li>
         
     </ul>
     
@@ -827,6 +851,58 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
+            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
+            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
+            <guid>jsis-call-for-special-issue-review-articles</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
+        
+        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
+        
+        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
+        
+    
+    
+    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
+    
+    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
+    
+    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
+        
+        <li>Synthesis of recent research and future inquiries</li>
+        
+        <li>Established and emerging topics in strategic information systems</li>
+        
+        <li>Research methods relevant to the context of strategic information systems</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 1, 2025: Full draft of paper due</li>
+        
+        <li>September 1, 2027: Special issue published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+        <item>
             <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
             <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
             <guid>isj-understanding-resistance-to-digital-transformation</guid>
@@ -904,58 +980,6 @@
     
 </div>]]></content:encoded>
             <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
-            <title><![CDATA[Review Articles in the Realm of Strategic Information Systems]]></title>
-            <link>https://callsforpapers.org/call/jsis-call-for-special-issue-review-articles</link>
-            <guid>jsis-call-for-special-issue-review-articles</guid>
-            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Marco Marabelli</strong>, Bentley University</p>
-        
-        <p><strong>Rohit Nishant</strong>, Queen&#39;s Business School</p>
-        
-        <p><strong>Tuure Tuunanen</strong>, University of Jyväskylä</p>
-        
-        <p><strong>Wenyu (Derek) Du</strong>, Beihang University</p>
-        
-    
-    
-    <p>The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.</p>
-    
-    <p>We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.</p>
-    
-    <p>The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>High-impact scholarly surveys of important research literatures in the strategic information systems domain</li>
-        
-        <li>Synthesis of recent research and future inquiries</li>
-        
-        <li>Established and emerging topics in strategic information systems</li>
-        
-        <li>Research methods relevant to the context of strategic information systems</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>September 1, 2025: Full draft of paper due</li>
-        
-        <li>September 1, 2027: Special issue published</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>The Journal of Strategic Information Systems (JSIS)</author>
         </item>
         <item>
             <title><![CDATA[Theorising the Impacts of Generative Artificial Intelligence]]></title>
