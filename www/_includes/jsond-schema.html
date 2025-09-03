@@ -1,6 +1,6 @@
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org ",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "BreadcrumbList",
@@ -9,19 +9,19 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Calls for Papers",
-          "item": "https://callsforpapers.org/ "
+          "item": "https://callsforpapers.org/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "{{ call.journal }}",
-          "item": "https://callsforpapers.org/journal/{{ call.journal | slug }} "
+          "item": "https://callsforpapers.org/journal/{{ call.journal | slug }}"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "{{ call.title if call.title else call.metaTitle | safe }}",
-          "item": "https://callsforpapers.org/call/{{ call.slug }}/ "
+          "item": "https://callsforpapers.org/call/{{ call.slug }}/"
         }
       ]
     },
@@ -50,7 +50,7 @@
         {
           "@type": "Person",
           "name": "{{ editor.name }}"
-        }{% if not loop.last %},{% endif %}{% endfor %}
+        }{% if not loop.last %}, {% endif %}{% endfor %}
       ],
       "isPartOf": {
         "@type": "Periodical",
@@ -67,8 +67,8 @@
           "@type": "EntryPoint",
           "urlTemplate": "{{ call.url | url }}",
           "actionPlatform": [
-            "http://schema.org/DesktopWebPlatform ",
-            "http://schema.org/MobileWebPlatform "
+            "http://schema.org/DesktopWebPlatform",
+            "http://schema.org/MobileWebPlatform"
           ]
         }
       },
