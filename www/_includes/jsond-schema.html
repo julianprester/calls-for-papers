@@ -44,17 +44,17 @@
       "expires": "{{ call.duedate }}",
       "publisher": {
         "@type": "Organization",
-        "name": "{{ call.journal }}",
+        "name": "{{ call.journal }}"
       },
       "editor": [{% for editor in call.editors %}
         {
           "@type": "Person",
-          "name": "{{ editor.name }}",
+          "name": "{{ editor.name }}"
         }{% if not loop.last %},{% endif %}{% endfor %}
       ],
       "isPartOf": {
         "@type": "Periodical",
-        "name": "{{ call.journal }}",
+        "name": "{{ call.journal }}"
       },
       "audience": {
         "@type": "Audience",
