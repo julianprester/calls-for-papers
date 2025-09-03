@@ -4,14 +4,14 @@ layout: layouts/base.html
 
 <div x-data="{
     search: '',
-    sort: localStorage.getItem('sortKey') || 'pubdate',
-    sortOrder: localStorage.getItem('sortOrderKey') || false,
+    sort: localStorage.getItem('sort') || 'pubdate',
+    sortOrder: localStorage.getItem('sortOrder') === 'true' ? true : false,
     show_call(el) {
         return this.search === '' || el.getAttribute('data-title').toLowerCase().includes(this.search.toLowerCase());
     },
     sort_calls() {
-        localStorage.setItem('sortKey', this.sort);
-        localStorage.setItem('sortOrderKey', this.sortOrder);
+        localStorage.setItem('sort', this.sort);
+        localStorage.setItem('sortOrder', this.sortOrder);
         const calls = Array.from(this.$refs.calls.children);
         switch (this.sort) {
             case 'title':
