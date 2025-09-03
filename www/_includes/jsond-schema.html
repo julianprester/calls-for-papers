@@ -77,8 +77,8 @@
           "@type": "Event",
           "name": "{{ date.description }}",
           "startDate": "{{ date.date }}",
-          "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode ",
-          "eventStatus": "https://schema.org/EventScheduled "
+          "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+          "eventStatus": "https://schema.org/EventScheduled"
         }{% if not loop.last %},{% endif %}{% endfor %}
       ]
     }
