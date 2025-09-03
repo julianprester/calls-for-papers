@@ -32,7 +32,7 @@
       "name": "Call for Papers: {{ call.title if call.title else call.metaTitle | safe }}",
       "alternateName": "Special Issue CFP - {{ call.journal }}",
       "headline": "Special Issue CFP: {{ call.title if call.title else call.metaTitle | safe }}",
-      "description": "{{ call.description.paragraphs[0] | safe}}",
+      "description": "{{ call.description.paragraphs[0] | safe if call.description and call.description.paragraphs and call.description.paragraphs|length > 0 else '' }}",
       "url": "https://callsforpapers.org/call/{{ call.slug }}/",
       "sameAs": "{{ call.url | url }}",
       "image": "https://callsforpapers.org/public/favicon/android-chrome-96x96.png",
