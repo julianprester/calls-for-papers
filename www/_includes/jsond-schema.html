@@ -1,0 +1,87 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org ",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Calls for Papers",
+          "item": "https://callsforpapers.org/ "
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ call.journal }}",
+          "item": "https://callsforpapers.org/journal/{{ call.journal | slug }} "
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ call.title if call.title else call.metaTitle | safe }}",
+          "item": "https://callsforpapers.org/call/{{ call.slug }}/ "
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://callsforpapers.org/call/{{ call.slug }}/",
+      "mainEntityOfPage": "https://callsforpapers.org/call/{{ call.slug }}/",
+      "name": "Call for Papers: {{ call.title if call.title else call.metaTitle | safe }}",
+      "alternateName": "Special Issue CFP - {{ call.journal }}",
+      "headline": "Special Issue CFP: {{ call.title if call.title else call.metaTitle | safe }}",
+      "description": "{{ call.description.paragraphs[0] | safe}}",
+      "url": "https://callsforpapers.org/call/{{ call.slug }}/",
+      "sameAs": "{{ call.url | url }}",
+      "image": "https://callsforpapers.org/public/favicon/android-chrome-96x96.png",
+      "inLanguage": "en",
+      "isAccessibleForFree": true,
+      "keywords": [{% for tag in call.tags %}"{{ tag }}"{% if not loop.last %}, {% endif %}{% endfor %}],
+      "datePublished": "{{ call.pubdate }}",
+      "dateModified": "{{ call.pubdate }}",
+      "expires": "{{ call.duedate }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ call.journal }}",
+      },
+      "editor": [{% for editor in call.editors %}
+        {
+          "@type": "Person",
+          "name": "{{ editor.name }}",
+        }{% if not loop.last %},{% endif %}{% endfor %}
+      ],
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "{{ call.journal }}",
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Researchers in Information Systems"
+      },
+      "potentialAction": {
+        "@type": "ApplyAction",
+        "name": "Submit manuscript",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "{{ call.url | url }}",
+          "actionPlatform": [
+            "http://schema.org/DesktopWebPlatform ",
+            "http://schema.org/MobileWebPlatform "
+          ]
+        }
+      },
+      "hasPart": [{% for date in call.dates %}
+        {
+          "@type": "Event",
+          "name": "{{ date.description }}",
+          "startDate": "{{ date.date }}",
+          "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode ",
+          "eventStatus": "https://schema.org/EventScheduled "
+        }{% if not loop.last %},{% endif %}{% endfor %}
+      ]
+    }
+  ]
+}
+</script>
