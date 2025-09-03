@@ -27,7 +27,7 @@
     },
     {
       "@type": "CreativeWork",
-      "@id": "https://callsforpapers.org/call/{{ call.slug }}/",
+      "@id": "https://callsforpapers.org/call/{{ call.slug }}/#cfp",
       "mainEntityOfPage": "https://callsforpapers.org/call/{{ call.slug }}/",
       "name": "Call for Papers: {{ call.title if call.title else call.metaTitle | safe }}",
       "alternateName": "Special Issue CFP - {{ call.journal }}",
@@ -72,16 +72,22 @@
           ]
         }
       },
-      "hasPart": [{% for date in call.dates %}
-        {
-          "@type": "Event",
-          "name": "{{ date.description }}",
-          "startDate": "{{ date.date }}",
-          "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
-          "eventStatus": "https://schema.org/EventScheduled"
-        }{% if not loop.last %},{% endif %}{% endfor %}
+      "subjectOf": [{% for date in call.dates %}
+          { "@id": "https://callsforpapers.org/call/{{ call.slug }}/#event{{ loop.index }}" }{% if not loop.last %},{% endif %}{% endfor %}
       ]
-    }
+    }{% if call.dates %},{% endif %}
+    {% for date in call.dates %}
+    {
+      "@type": "Event",
+      "@id": "https://callsforpapers.org/call/{{ call.slug }}/#event{{ loop.index }}",
+      "name": "{{ date.description }}",
+      "startDate": "{{ date.date }}",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "about": {
+        "@id": "https://callsforpapers.org/call/{{ call.slug }}/#cfp"
+      }
+    }{% if not loop.last %},{% endif %}{% endfor %}
   ]
 }
 </script>
