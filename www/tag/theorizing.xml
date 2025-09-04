@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: theorizing</title>
+        <link>https://callsforpapers.org/tag/theorizing</link>
+        <description>Latest calls for papers tagged with 'theorizing'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: theorizing</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/theorizing</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Products of Theorizing: Towards Native Theories of Emerging IT]]></title>
+            <link>https://callsforpapers.org/call/jit-products-of-theorizing-towards-native-theories-of-emerging-it</link>
+            <guid>jit-products-of-theorizing-towards-native-theories-of-emerging-it</guid>
+            <pubDate>Fri, 12 Jan 2024 12:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Nik Hassan</strong>, University of Minnesota Duluth</p>
+        
+        <p><strong>Suzanne Rivard</strong>, HEC Montreal</p>
+        
+        <p><strong>Ulrike Schultze</strong>, Southern Methodist University</p>
+        
+        <p><strong>Leslie Willcocks</strong>, London School of Economics and Political Science</p>
+        
+    
+    
+    <p>Theorizing is one of the defining aspects of academic research. Articulating insights generated from situated empirical observations into relatively stable abstractions (e.g., concepts, propositions, models) that elucidate, explain or predict events occurring at another time and place is the hallmark of knowledge generation (King 2021). Of late, much attention has been paid to theory development in the Information Systems (IS) field. For example, the MIS Quarterly (MISQ) special issue on &#39;Next-Generation Information Systems Theorizing&#39; reflects a sense of urgency felt within the IS field to make sense of an increasingly unruly and complex reality given the increasing pace of technological innovation (Burton-Jones et al. 2021). In similar vein, two 2021 Journal of Information Technology (JIT) debates sections focused on &#39;IS Research and Science&#39; (Siponen and Klaavuniemi 2020, and commentaries) and &#39;Theorising as Craft&#39; (Rivard 2021, and commentaries) and a recent Journal of the Association for Information Systems (JAIS) special issue focused on &#39;Envisioning Digital Transformation – Advancing Theoretical Diversity&#39;. New and native IS theories ensure that the IS field remains vibrant, diverse, academically and socially relevant and influential (Hassan 2011; Hassan and Willcocks 2021; Lowry et al. 2020; Markus and Saunders 2007). Researchers, however, often set the bar too high for theory delivered within individual research contributions by viewing theory as a comprehensive and detailed explanation of a phenomenon (Rivard 2021), an object that Weick (1995) refers to as a &#39;theory that sweeps away all others&#39; (p. 386). This mindset may lead IS researchers to adopt theories from other fields as a foundation rather than creatively developing new and native theories from empirical observations (Grover and Lyytinen 2015).</p>
+    
+    <p>To maintain the long-term growth and vitality of the IS field, a definition of theory that encourages cumulative and novel theorizing over time is needed (Hassan and Willcocks 2021; King 2021). One way of achieving this is by advancing a &#39;products of theorizing&#39; perspective (Weick 1995). The theorizing perspective celebrates both the final outcomes and the &#39;interim struggles&#39; that characterize theory generation (Weick 1995). It holds the promise that interim conceptual artifacts of theorizing such as metaphors, frameworks and concepts (Lowry et al. 2020) are valuable to the discipline as they can be leveraged and exploited further in subsequent research. In this way, a discipline might inch its way towards native theories over time. The goal of this special issue is to solicit and showcase exemplars from the &#39;products of theorizing&#39; approach. We are looking for articles that go beyond verification dimensions of the natural-science approach to IS research (Schlagwein 2021) and push the envelope of theorizing towards native products of theorizing (Hassan et al. forthcoming): theory frame devices (i.e., questions, paradigms, laws and frameworks), theory generators (i.e., myths, analogies, metaphors and models) and theory components (i.e., concepts, constructs, statements and hypotheses).</p>
+    
+    <p>The time is ripe to embark upon the development of native theories in the IS field, as IT has leaped into the consciousness of the public in unprecedented ways. Big data and AI applications are part of consumers’ and workers’ everyday lives, either enhancing them or increasing their visibility (Aral 2020; Benbya et al. 2021; Zuboff 2019); firms increasingly deploy robotic process automation and cognitive automation, aiming to achieve benefits for themselves, their employees and their customers (Lacity and Willcocks 2021); and governments rely on new forms of data collection about citizens (e.g., blood samples, vaccination data, fingerprints, iris-recognition systems) in support of the services they provide (Kolas et al. 2021). To take advantage of the theorizing opportunities that these emergent information technology (IT) phenomena provide, the goal of this special issue is to encourage research that generates products of theorizing derived from and related to IT phenomena. We are seeking contributions that develop products of theorizing, that is, interim constructions, that are useful as precursors to strong native IS theory. To increase the likelihood of a theorizing product’s value, we are particularly interested in research that tackles phenomena that are core to the IS discipline. Given the multifaceted nature of the IS discipline, we do not expect agreement on what constitutes a core IS phenomenon. We therefore encourage authors to make the case that the products of theorizing they develop are valuable for articulating native theories that are defining of the field of IS or are substantially valuable for their specific area.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Use of theory generators (e.g., analogies, myths, models and metaphors) for understanding and guiding research of emergent phenomena such as surveillance capitalism, fake news, social media, or the performativity of big data and AI.</li>
+        
+        <li>Constructing or formulating novel frameworks derived from or relevant to emerging technologies.</li>
+        
+        <li>Adopting a genealogical lens to uncover the products of theorizing that have been instrumental in the theories that have become popular in the IS discipline (e.g., socio-technical, sociomateriality, imbrication).</li>
+        
+        <li>Reviewing and analysing the foundations of core concepts of the IS field such as that of &#39;information,&#39; &#39;system&#39; and &#39;technology&#39;.</li>
+        
+        <li>Re-theorizing areas or subfields within IS (e.g., design science, data analytics, big data, AI) where native products of theorizing are sparse.</li>
+        
+        <li>Problematizing the IS field (i.e., going beyond gap-spotting and borrowing theory from reference disciplines) to identify questions and challenges that the field of IS is uniquely qualified to address.</li>
+        
+        <li>Inventing native original concepts in the IS field that will serve as foundations for the scientific IS research method and declare to the world, the field’s core concerns.</li>
+        
+        <li>Exploring the role of scientific laws in IS research as a product of theorizing with relevance to emerging phenomena.</li>
+        
+        <li>Unpacking products of theorizing (e.g., questions, models and frameworks) that uncover deep-seated assumptions about contemporary IS phenomena (e.g., symbols of value, solidarity, social structure, conflict and contradictions within a technology-driven society) that are especially relevant to emerging technologies.</li>
+        
+        <li>Distinguishing between non-observable constructs from more observable concepts that are rarely discussed in IS research but form the mainstay of scientific studies.</li>
+        
+        <li>Aggregating the statements, claims and propositions that have been made by a stream of IS literature and that are deemed most impactful on and relevant for contemporary users, organizations and society, to set the stage for the further progress towards native IS theory.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>October 24, 2021: Extended abstracts (for workshop and feedback) due</li>
+        
+        <li>December 12, 2021: Workshop at ICIS 2021 SIG PHIL</li>
+        
+        <li>March 1, 2022: First-round submissions version due</li>
+        
+        <li>May 15, 2022: First-round reviews returned</li>
+        
+        <li>July 15, 2022: Second-round submissions due</li>
+        
+        <li>August 30, 2022: Second-round reviews returned</li>
+        
+        <li>October 1, 2022: Final versions due</li>
+        
+        <li>October 1, 2022: Final decisions and publication online</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Health Analytics and IS Theorizing]]></title>
+            <link>https://callsforpapers.org/call/jais-health-analytics-and-theorizing</link>
+            <guid>jais-health-analytics-and-theorizing</guid>
+            <pubDate>Wed, 18 Jan 2023 12:50:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Aaron Baird</strong>, Georgia State University</p>
+        
+        <p><strong>Yusen Xia</strong>, Georgia State University</p>
+        
+        <p><strong>Rajiv Kohli</strong>, William &amp; Mary</p>
+        
+    
+    
+    <p>The objective of this special issue is to showcase how health analytics can be used to enhance theorizing in the field of IS. In addition to its contribution to deep analysis, the power of health analytics research lies in theory development that leverages the unique context of health care. Specifically, the special issue aims to foster research that addresses the question: How can the application and design of analytics methods identify insights from health data and extend IS theory?</p>
+    
+    <p>This special issue places analytics at the forefront of IS research so that health care researchers can make a theoretical contribution to IS research. Through this special issue, we hope to provide an opportunity for emerging and innovative health analytics research to be published that will showcase how new forms and combinations of theoretical reasoning, methods, and data can contribute to theory building. Our hope is that this special issue will contribute to deeper descriptions, explanations, and predictions of emerging health phenomena relevant to IS scholars as well as demonstrate to clinicians and patients opportunities that will enrich health care management and delivery. We welcome research at the intersection of traditional and emerging approaches, exploratory research, phenomenon-based research, novel methods, and data from any relevant source (with IRB approval, as needed). While we are open to discoveries of all kinds, we expect application of rigorous methods, presentation of persuasive reasoning, and inclusion of strong evidence.</p>
+    
+    <p>Health analytics can be generally described as generating insights from health data through analysis. Significant and impactful work in health analytics is emerging in the IS literature, but there are also significant opportunities to leverage health analytics research to contribute to theorizing in IS. For instance, while interesting findings within IS have been presented in the context of health analytics use in hospitals and clinical diagnostics or care, many health analytics research contexts have yet to be exploited in IS research. The diversity of data and contexts within which to conduct health analytics research is substantial and such diversity is currently underrepresented in IS journals. We propose that health analytics research can advance beyond presentation of context specific models and methods. We see considerable promise in applying such innovative approaches to the enhancement of IS theory, particularly in explaining IS-enabled mechanisms, through research conducted in the health analytics context.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Heterogenous treatment effects in areas such as health care performance, social determinants of health, use of patient generated health data, and offering or pricing of health care, pharmaceutical, medical device, or insurance products.</li>
+        
+        <li>AI/ML based tools that can reduce information asymmetry, improve decision-making, or optimize information flows.</li>
+        
+        <li>Unstructured data analysis, such as of digital trace data, images, or user-generated content, that yields insights about topical or trend dynamics.</li>
+        
+        <li>Impact of, or disparities in, health analytic capabilities or investments by hospitals, clinics, or less frequently considered entities such as laboratories, pharmacies, medical device manufacturers, public health agencies, or charitable organizations.</li>
+        
+        <li>Integration of personal device data to analyze trends, identify public health issues, and efficacy of treatments.</li>
+        
+        <li>Any interesting or creative area we have yet to research in-depth in IS, such as topics in genomics, signal processing/telemetry, clinical trials, or epidemiology.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>February 1, 2023: Extended abstract submission deadline</li>
+        
+        <li>March 1, 2023: Extended abstract decision</li>
+        
+        <li>August 1, 2023: 1st round full paper submission deadline</li>
+        
+        <li>October 1, 2023: 1st round full paper decision</li>
+        
+        <li>January 15, 2024: 2nd round full paper submission deadline</li>
+        
+        <li>March 1, 2024: 2nd round full paper decision</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Corey Angst</strong>, University of Notre Dame</li>
+        
+        <li><strong>Hilal Atasoy</strong>, Rutgers University</li>
+        
+        <li><strong>Sezgin Ayabakan</strong>, Temple University</li>
+        
+        <li><strong>Ofir Ben Assuli</strong>, Tel Aviv University</li>
+        
+        <li><strong>Sangeeta Shah Bharadwaj</strong>, Management Development Institute</li>
+        
+        <li><strong>Langtao Chen</strong>, Missouri University of Science and Technology</li>
+        
+        <li><strong>Yichen Cheng</strong>, Georgia State University</li>
+        
+        <li><strong>Anton Ivanov</strong>, University of Illinois</li>
+        
+        <li><strong>Juhee Kwon</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Nakyung Kyung</strong>, National University of Singapore</li>
+        
+        <li><strong>Shaila Miranda</strong>, University of Oklahoma</li>
+        
+        <li><strong>Abhay Mishra</strong>, Iowa State University</li>
+        
+        <li><strong>Sunil Mithas</strong>, University of South Florida</li>
+        
+        <li><strong>Min-Seok Pang</strong>, Temple University</li>
+        
+        <li><strong>Sujeet Sharma</strong>, Indian Institute of Management Tiruchirappalli</li>
+        
+        <li><strong>Sriram Somanchi</strong>, University of Notre Dame</li>
+        
+        <li><strong>Junbo Son</strong>, University of Delaware</li>
+        
+        <li><strong>Ankita Srivastava</strong>, Bentley University</li>
+        
+        <li><strong>Monica Tremblay</strong>, William &amp; Mary</li>
+        
+        <li><strong>Hongyi Zhu</strong>, The University of Texas at San Antonio</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+    </channel>
+</rss>

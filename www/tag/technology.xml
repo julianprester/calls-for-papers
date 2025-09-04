@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: technology</title>
+        <link>https://callsforpapers.org/tag/technology</link>
+        <description>Latest calls for papers tagged with 'technology'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: technology</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/technology</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Designing our Digital Futures: Challenging Current Assumptions and Envisioning the Future of IS Design and Development]]></title>
+            <link>https://callsforpapers.org/call/ejis-designing-our-digital-futures</link>
+            <guid>ejis-designing-our-digital-futures</guid>
+            <pubDate>Fri, 08 Aug 2025 04:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
+        
+        <p><strong>Mahdi Fahmideh</strong>, University of Southern Queensland</p>
+        
+        <p><strong>Brian Fitzgerald</strong>, University of Limerick</p>
+        
+        <p><strong>Tabitha James</strong>, Virginia Tech</p>
+        
+        <p><strong>Kieran Conboy</strong>, University of Galway</p>
+        
+    
+    
+    <p>Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.</p>
+    
+    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems (Nandakumar, 2010; Ägerfalk, 2010). We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective (Conboy, 2019), examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
+    
+    <p>We invite papers on any and all aspects of IS design and development, but below are some guiding themes related to the call. The impact of AI on any or all aspects of IS design and development. The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development. The future of traditional software designers and developers and if and how these roles will exist in the medium to long term. Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods. Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’. New ‘Promethean’ methods that encourage thinking about and designing distant digital futures. Challenging the problem-solving paradigm in designing IS solutions. Embracing vision-oriented and future-oriented DSR. Critique or discussion of existing policies, laws and regulations governing aspects of IS design. Exemplars of IS design and development for digital futures. New methods for designing digital futures anchored in IS design and development heritage. New perspectives on responsible design and the design of responsible IS. Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications. Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics. Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>The role of emerging technologies in shaping the future of IS design</li>
+        
+        <li>The limits of current design and development methods</li>
+        
+        <li>Design science beyond the science of the artificial</li>
+        
+        <li>Design and development in an era of heightened responsibility</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>Invalid DateTime: Projected publication</li>
+        
+        <li>January 30, 2026: Initial paper submission deadline</li>
+        
+        <li>April 30, 2026: First round authors notification</li>
+        
+        <li>August 15, 2026: Invited revisions deadline</li>
+        
+        <li>November 30, 2026: Second round authors notification</li>
+        
+        <li>February 1, 2027: Final revision deadline</li>
+        
+        <li>April 1, 2027: Final authors notification</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Pär Ågerfalk</strong>, Uppsala University</li>
+        
+        <li><strong>David Agogo</strong>, University of Utah</li>
+        
+        <li><strong>Wasana Bandara</strong>, Queensland University of Technology</li>
+        
+        <li><strong>Richard Baskerville</strong>, Georgia State University</li>
+        
+        <li><strong>Laura Brandimarte</strong>, University of Arizona</li>
+        
+        <li><strong>Tone Bratteteig</strong>, University of Oslo</li>
+        
+        <li><strong>Noel Carroll</strong>, University of Galway</li>
+        
+        <li><strong>Shahla Ghobadi</strong>, University of Leeds</li>
+        
+        <li><strong>Asif Gill</strong>, University of Technology Sydney</li>
+        
+        <li><strong>Shirley Gregor</strong>, Australian National University</li>
+        
+        <li><strong>Samrat Gupta</strong>, IIM Ahmedabad</li>
+        
+        <li><strong>Alan Hevner</strong>, University of South Florida</li>
+        
+        <li><strong>Gwanhoo Lee</strong>, American University</li>
+        
+        <li><strong>Alexander Madche</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Sabine Matook</strong>, University of Queensland</li>
+        
+        <li><strong>Lorraine Morgan</strong>, University of Galway</li>
+        
+        <li><strong>Jeffrey Parsons</strong>, Memorial University of Newfoundland</li>
+        
+        <li><strong>Bala Ramesh</strong>, Georgia State University</li>
+        
+        <li><strong>Cynthia K. Riemenschneider</strong>, Baylor University</li>
+        
+        <li><strong>Sofia Schöbel</strong>, University of Osnabrück</li>
+        
+        <li><strong>Yash Shreshta</strong>, University of Lausanne</li>
+        
+        <li><strong>Thorsten Schoormann</strong>, Roskilde University</li>
+        
+        <li><strong>Klaas Jan Stol</strong>, University College Cork</li>
+        
+        <li><strong>Monica Chiarini Tremblay</strong>, William &amp; Mary</li>
+        
+        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
+        
+        <li><strong>Jan vom Brocke</strong>, University of Münster</li>
+        
+        <li><strong>Sofie Wass</strong>, University of Agder</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>European Journal of Information Systems (EJIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
+            <link>https://callsforpapers.org/call/jit-decentralised-information-systems-new-thinking-and-new-paradigms</link>
+            <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
+            <pubDate>Fri, 12 Jan 2024 12:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Ali Sunyaev</strong>, Karlsruhe Institute of Technology</p>
+        
+        <p><strong>Mary Lacity</strong>, University of Arkansas</p>
+        
+        <p><strong>Michel Avital</strong>, Copenhagen Business School</p>
+        
+    
+    
+    <p>This special issue seeks to explore and extend the conceptualisation, design, development, implementation and governance of contemporary “decentralised” information systems. “Decentralised” information systems are often seen as an important anti-thesis to “centralised” such systems. Modern societies and economies rely more highly on data, information systems, and technologies than ever. Pioneering organisations brought forth major milestones in developing and providing information technologies (e.g., TCP/IP and the Internet). However, with the significance of information technology increasing over the past decades, a small number of organisations have emerged as “tech giants” (e.g., Alphabet/Google or Meta/Facebook). Those organisations offer digital services and infrastructures for data processing that gained large-scale adoption by individuals, organisations, governments and society at large. As a result, societies, economies and technical systems became strongly dependent on services from a handful of organisations. The increase of the resulting dependencies leads to a centralisation of information systems. Highly-centralised information systems can result in global organisations and central social actors that abuse their power and pursue their own interests at the expense of others (e.g., by manipulation), exclude participation from social actors who disagree with them (e.g., by censorship) or invade their privacy through monitoring (e.g., by tracking actions of individuals on the internet). Highly-centralised information systems can also pose several further risks. For example, governance rights – such as rights of access, validation, software updates, data policies, and data overrides – may be centralised with few social actors in control. From a technical perspective, successful attacks on and crashes of central computing devices for network message propagation can interrupt communication in computing systems and even bring about system failures.</p>
+    
+    <p>To avert risks of over-centralization, the purposeful decentralisation of information systems has become a prominent topic of public discourse, for example, around Internet search, cloud computing, social media and financial systems. An information system’s degree of decentralisation refers to the degree to which the information system is independent of central actors and technical constructs. Several attempts have been made to design decentralised information systems to improve collaboration between actors while reducing dependencies on central authorities. Such endeavours include the development of decentralised token economies based on distributed ledger technology, decentralised identity management systems and distributed collaborative machine learning systems (e.g., federated learning systems). Although information systems decentralisation may resolve several of the above issues of over-centralisation, it also comes with its own challenges. For example, maintaining decentralised information systems can become difficult when multiple social actors need to update their technical components independently. Extensive data replication across technical components in decentralised information systems (e.g., in blockchain systems) can facilitate detecting and exploiting software vulnerabilities. If too many social actors have opposing ideas, decentralised governance risks never reaching an agreement. When only a few social actors participate in governance, information systems envisioned to be decentralised may de facto centralise.</p>
+    
+    <p>To purposefully achieve the benefits of information system decentralisation, we need to consider both the design of information systems as such and the behaviour of the social actors involved. Information systems decentralisation is driven by interdependent economic, political, social and technical factors. As an example of technical factors, the innovation of blockchain technology supports the decentralisation of asset ownership management. Changes to corporate information system designs, corporate ecosystems, and regulatory refinements are required to facilitate the development and adoption of such technical innovations. Such changes can lead to the centralisation of information systems in other aspects, such as their organisational structures. The entanglement of interdisciplinary factors tightly makes information systems decentralisation an interdisciplinary topic, relevant to several research fields, including computer science, organisational studies and information systems. The interdependence between information system designs and the influence of interdisciplinary factors makes the purposeful decentralisation of information systems an important yet complex undertaking that this special issue seeks new knowledge about.</p>
+    
+    <p>The complexity of information system decentralisation leads to various open questions, such as “how to achieve and sustain appropriate degrees of decentralisation of information systems so that individuals, organisations, and entire business ecosystems can benefit”, “how decentralised enterprise information systems need to be designed”, and “what technical know-how and involvement is required from actors to decentralise information systems appropriately”? This special issue seeks to improve the understanding of how the various factors affect the decentralisation of information systems used in business and other societal contexts, how different degrees of decentralisation of such information systems emerge over time, and how different degrees of decentralisation of information systems can affect business ecosystems, business processes, and societies overall. We invite applied, empirical, and theoretical research works that investigate information system decentralisation in a way that acknowledges its interdisciplinary nature and significantly contributes to understanding information system decentralisation, its manifestations, antecedents, and its impact on individuals and organisations, ecosystems and societies. We welcome and encourage submissions from researchers using diverse epistemological and methodological approaches. The manuscripts will be evaluated for the interestingness and novelty of their contributions.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Decentralised information systems for enterprises (e.g., information systems design and implementation for enterprises)</li>
+        
+        <li>Decentralised organisations and information systems decentralisation, including decentralised autonomous organizations (DAOs), decentralised platforms, token-driven governance and work practices</li>
+        
+        <li>Asset monetisation and similar information systems decentralisation, including web3, non-fungible tokens (NFTs) and digital assets</li>
+        
+        <li>Consumer privacy and information systems decentralisation, including self-sovereignty vs. self-responsibility</li>
+        
+        <li>The token economy, including tokenomics business models, effects of regulation and standardisation on decentralised token economies</li>
+        
+        <li>Digital resilience and information systems decentralisation, including critical information infrastructures</li>
+        
+        <li>Information systems decentralisation for the public good and social benefit, including decentralised voting, decentralised universal basic income (UBI) schemes and support of the decentralised supply of green energy by information systems</li>
+        
+        <li>Financial information systems decentralisation, including cryptocurrencies and community coins</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 15, 2024: Manuscript submission deadline</li>
+        
+        <li>April 19, 2024: First round reviews and decisions</li>
+        
+        <li>August 30, 2024: Second round (revision) submission deadline</li>
+        
+        <li>November 29, 2024: Second round reviews and decisions</li>
+        
+        <li>February 7, 2025: Final submission deadline for accepted manuscripts (subject to minor revisions)</li>
+        
+        <li>May 9, 2025: Final approval of manuscripts</li>
+        
+        <li>March 31, 2026: Online publication of special issue (anticipated date)</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Roman Beck</strong>, IT University of Copenhagen</li>
+        
+        <li><strong>Erran Carmel</strong>, American University</li>
+        
+        <li><strong>Sutirtha Chatterjee</strong>, University of Nevada</li>
+        
+        <li><strong>Klitos Christodoulou</strong>, University of Nicosia</li>
+        
+        <li><strong>Raffaele Ciriello</strong>, University of Sydney</li>
+        
+        <li><strong>Gilbert Fridgen</strong>, University of Luxembourg</li>
+        
+        <li><strong>Rob Gleasure</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Robert Wayne Gregory</strong>, University of Miami Herbert Business School</li>
+        
+        <li><strong>Hanna Halaburda</strong>, New York University</li>
+        
+        <li><strong>Niclas Kannengiesser</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Johann Kranz</strong>, Ludwig-Maximilians-University Munich</li>
+        
+        <li><strong>George Kuk</strong>, Nottingham Business School</li>
+        
+        <li><strong>Gerhard Schwabe</strong>, University of Zurich</li>
+        
+        <li><strong>Carsten Sørensen</strong>, London School of Economics</li>
+        
+        <li><strong>Alfred Taudes</strong>, Vienna University of Economics and Business</li>
+        
+        <li><strong>Jason Bennett Thatcher</strong>, Temple University</li>
+        
+        <li><strong>Nils Urbach</strong>, Universität Bayreuth</li>
+        
+        <li><strong>Wenqian Wang</strong>, Perdue</li>
+        
+        <li><strong>Edgar Whitley</strong>, London School of Economics</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Technology and Applications]]></title>
+            <link>https://callsforpapers.org/call/dss-blockchain-technology-and-applications</link>
+            <guid>dss-blockchain-technology-and-applications</guid>
+            <pubDate>Thu, 18 Aug 2022 06:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Shaokun Fan</strong>, Oregon State University</p>
+        
+        <p><strong>Noyan Ilk</strong>, Florida State University</p>
+        
+        <p><strong>Akhil Kumar</strong>, Penn State University</p>
+        
+        <p><strong>J. Leon Zhao</strong>, Chinese University of Hong Kong, Shenzhen</p>
+        
+    
+    
+    <p>Blockchain technology has received enormous attention since Bitcoin was launched in 2009 and has become the frontier of technology advancements and application innovations in recent years. In particular, blockchain is now recognized as a critical part of the new ABCD of modern technology, that is, Artificial intelligence, Blockchain, Cloud computing, and big Data. However, many research challenges and opportunities remain to be tackled and surmounted in areas such as blockchain infrastructure decentralization, blockchain network governance, blockchain security and privacy, and the nature of machine trust in blockchain-based systems. Because blockchain is an integral part of automated business processes, the implementation of this technology can vary greatly between organizations across different industries.</p>
+    
+    <p>The aim of this special issue is to highlight novel and high-quality research in blockchain technology and applications, and to examine the current and future impact of blockchain systems, and related technologies including data verification before block confirmation, authentication of data ownership, and dataflow across blockchain systems. Considering the decision-making focus of DSS publications that bridge the gap between managerial and technical perspectives, this special issue is open to all manuscripts that make a significant research contribution to blockchain systems and applications in business sectors such as finance, insurance, healthcare, manufacturing, supply chain, education, and government.</p>
+    
+    <p>In terms of research paradigm, we invite manuscripts with system-based implications that draw on various analytical, empirical, and technical methodologies including, but not limited to, system development, econometrics, decision theory, operations management, experimentation, and engineering. We strongly encourage submissions that follow a design science research perspective, which aims to develop cutting-edge IT artifacts. That is, all technical and quantitative research methods that are helpful in tackling real-world challenges confronted by managers, engineers, and researchers via blockchain technology are welcome.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Process-aware blockchain design and management</li>
+        
+        <li>Blockchain applications in metaverse platforms</li>
+        
+        <li>Design and implementation issues in the transition from PoW to PoS</li>
+        
+        <li>Data management issues on the blockchain</li>
+        
+        <li>Security and privacy issues on the blockchain</li>
+        
+        <li>Design and implementation issues of Metaverse systems</li>
+        
+        <li>Integration of blockchain into existing business infrastructure</li>
+        
+        <li>Modeling, design and implementation of trust mechanisms in blockchain-based systems</li>
+        
+        <li>New and faster consensus algorithms for blockchain implementation</li>
+        
+        <li>NFT analysis and design paradigms in various business sectors</li>
+        
+        <li>Blockchain-based NFT casting models and mechanisms</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>October 15, 2022: Submissions System opens</li>
+        
+        <li>January 15, 2023: Paper Submission Deadline</li>
+        
+        <li>January 30, 2023: Initial Screening of Submissions</li>
+        
+        <li>April 15, 2023: First Review Decisions</li>
+        
+        <li>June 30, 2023: Revision Due</li>
+        
+        <li>September 15, 2023: Acceptance Decisions</li>
+        
+        <li>November 15, 2023: Final Manuscript Due</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Michael Adams</strong>, Queensland University of Technology</li>
+        
+        <li><strong>Arthur Carvalho</strong>, Miami University</li>
+        
+        <li><strong>Daning Hu</strong>, South University of Science and Technology</li>
+        
+        <li><strong>Qiqi Jiang</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Jiewu Leng</strong>, Guangdong University of Technology</li>
+        
+        <li><strong>Rong Liu</strong>, Stevens Institute</li>
+        
+        <li><strong>Xin Luo</strong>, The University of New Mexico</li>
+        
+        <li><strong>Chih-Hung Peng</strong>, National Chengchi University</li>
+        
+        <li><strong>Zhe Shan</strong>, Miami University</li>
+        
+        <li><strong>Hemang Subramanian</strong>, Florida International University</li>
+        
+        <li><strong>Yinliang Tan</strong>, University of Houston</li>
+        
+        <li><strong>Chih-Ping Wei</strong>, National Taiwan University</li>
+        
+        <li><strong>Ling Xue</strong>, Georgia State University</li>
+        
+        <li><strong>Wenping Zhang</strong>, Remin University of China</li>
+        
+        <li><strong>Xi Zhao</strong>, Xi&#39;an Jiaotong University</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Decision Support Systems (DSS)</author>
+        </item>
+    </channel>
+</rss>

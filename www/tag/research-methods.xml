@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: research methods</title>
+        <link>https://callsforpapers.org/tag/research-methods</link>
+        <description>Latest calls for papers tagged with 'research methods'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: research methods</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/research-methods</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Next-Generation Information Systems Research Methods]]></title>
+            <link>https://callsforpapers.org/call/jit-next-generation-information-systems-research-methods</link>
+            <guid>jit-next-generation-information-systems-research-methods</guid>
+            <pubDate>Fri, 12 Jan 2024 12:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Ivo Blohm</strong>, University of St. Gallen</p>
+        
+        <p><strong>Susanna Ho</strong>, Australian National University</p>
+        
+        <p><strong>Shaila Miranda</strong>, University of Oklahoma</p>
+        
+        <p><strong>Jan Marco Leimeister</strong>, University of St. Gallen</p>
+        
+    
+    
+    <p>This special issue is interested in &#39;next-generation&#39; research methods for studying information technology (IT) phenomena – particularly in the information system (IS) research field. So far, IS researchers have applied a range of quantitative, qualitative and engaged methods to study IT-related phenomena. Quantitative IS research has often followed a positivist approach of hypothesis testing, with sometimes &#39;first-generation&#39; regression models distinguished from &#39;second-generation&#39; structural equation models (Gerow et al. 2011). Data used in such methods stems from surveys, experiments, panel studies, etc. The primary objective of this research stream typically is theory testing. Qualitative IS research has ranged from positivist to interpretivist, seeking rich situated insights via case studies, grounded theory or ethnographies. One objective of this research stream is theory construction. Critical and emancipatory IS research adds a strong value orientation and theoretical basis to qualitative research. Another type of IS research seeks to generate new knowledge with &#39;engaged&#39; methods like design science or action research. The objective of this stream that differentiates it from the first two is the focus on solving important individual, organizational or societal challenges; or extending the boundaries of human and organizational capabilities by creating new and innovative artifacts (Baskerville and Wood-Harper 1996; Hevner et al. 2004).</p>
+    
+    <p>In recent years, the scope of and possibilities for IS research have tremendously widened. Digital IT have become mainstream at the individual, organizational and societal levels (Burton-Jones et al. 2021). Digital IT is key to innovation in various domains from medicine to education, from psychology to the arts. Hence, these domains have become of interest and relevance to IS researchers, yet also overlap with other fields and are hence interdisciplinary in nature. These innovations are increasing the volume and variety of trace data available to researchers but necessitate a shift in our research practices (Johnson et al. 2019). Further, big data, machine learning (ML) and artificial intelligence (AI) technologies provide a plethora of powerful approaches for collecting and analysing data at a scale not possible before such that we might need to adapt our research methods and tools to make this data actionable and to generate novel knowledge. These ML technologies are being applied not only to theory testing but also to theory construction – in conjunction with or independent of qualitative methods (Miranda et al. 2022).</p>
+    
+    <p>This special issue focuses on the next generation of research methods to study IT – new methods relevant to the IS research field that account for a) the interdisciplinary nature and wider scope of IT phenomena, and/or b) the novel capacities afforded by new technologies/techniques (e.g., ML/AI). The way that novel technologies and techniques afford new possibilities is quite apparent in quantitative IS research. In contrast to &#39;first-generation&#39; regression-based approaches and &#39;second-generation&#39; structural equation modelling, a new generation of research methods including the predictive analytics (Shmueli and Koppius 2011), data mining (Smith 2020), ML (Shrestha et al. 2020) or explainable AI (Gunning et al. 2019) come with substantial new opportunities and challenges. For instance, these methods potentially allow for more fine-grained measurements and analyses to extend our knowledge of existing phenomena and may help us study novel phenomena including those that were, methodologically speaking, &#39;out of reach&#39; (George et al. 2016). These technological advancements enable us to progress our research toolkit and inform new ways of generating knowledge and theorizing (Burton-Jones et al. 2021; Shrestha et al. 2020). Increased recognition of abduction as a counterpart to deductive and inductive reasoning (Behfar and Okhuysen 2018; Sætre and Van de Ven 2021) pits concerns about practices such as HARKing (Kerr 1998) – hypothesizing after the results are known (aka p-hacking) – believed to lead to logically and scientifically flawed hypotheses, against concerns about stifling the advancement of knowledge (Pratt et al. 2019). ML/AI techniques are now so powerful that they can test millions of models on large data sets to find the &#39;best-matching&#39; model (of all possible) for what needs to be explained. This is a fundamental gear change in what can be done with quantitative data sets, the promise and validity of which are hotly debated (Kitchin 2014; Smith 2020).</p>
+    
+    <p>In terms of changes to the nature of the IS domains, qualitative-interpretative researchers seek to find new methods suitable for the wider, interdisciplinary scope of IS research. This is done via finding or developing analytical new grounds and looking at digital IT differently (e.g. via sociomaterial or affordances perspectives), seeking additional foundations in other fields (e.g., Zuboff’s (2015) political economy informed analysis of surveillance capitalism and &#39;Big Tech&#39;) or via the modification of methods to suit digital environments (e.g., virtual ethnographies or computational grounded theory). Other forms of qualitative research such as meta-synthesis, qualitative comparative analysis and discourse analysis also seem promising and relevant but are seldomly used in IS research. Digital IT (e.g., social media, digital platforms, AI/ML) has increasing and substantial impacts on society (e.g., mental health, trust in science, misinformation and polarization, monopolization and industry disruption). Hence, ethical, critical, value-based and political-economy questions are increasingly and necessarily asked about digital IT. Similarly, today’s pace of innovation may also warrant novel approaches to engaged scholarship and design science. For instance, researchers are calling for methods that can accumulate and update evidence more effectively (Lacity et al. 2021) and better ensure the generalizability of prescriptive knowledge (Brendel et al. 2021; Iivari et al. 2021).</p>
+    
+    <p>This special issue invites contributions that propose, introduce, debate or critique novel quantitative, qualitative or design-oriented methods research, with a focus on the &#39;how&#39; (i.e., origins, processes, steps of the method) and the &#39;why&#39; (e.g., &#39;rigour vs relevance&#39; and &#39;it is new, but is it better&#39; questions) these approaches should be used in IS research. The goal of the special issue is to provide a space for introducing and discussing innovative &#39;next-generation&#39; methods for studying IT-related phenomena, relative to the IS research field.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Critical reflection of research methods used in IS.</li>
+        
+        <li>Introducing new qualitative, quantitative or design research methods.</li>
+        
+        <li>Transferability of non-IS research methods such as from other fields or praxis.</li>
+        
+        <li>Novel combinations of research methods such as cross-disciplinary or mixed-method approaches.</li>
+        
+        <li>Innovative approaches to analyze big data.</li>
+        
+        <li>Approaches dealing with special types of unstructured data.</li>
+        
+        <li>Problems of null hypothesis testing via big data and AI/ML.</li>
+        
+        <li>AI, ML and explainable AI for knowledge creation and theory generation.</li>
+        
+        <li>Transparent, robust and replicable research designs and methodologies.</li>
+        
+        <li>Transferability and generalizability of insights generated with specific methods.</li>
+        
+        <li>Approaches to evaluating and communicating practical relevance of findings.</li>
+        
+        <li>Critical assessment of novel approaches on practical, conceptual, ethical or philosophical grounds.</li>
+        
+        <li>Philosophy of science-based proposals for or critiques of methods.</li>
+        
+        <li>Culture and values-driven proposals for or critiques of methods.</li>
+        
+        <li>Methods to study the past, the present and/or the future.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>November 20, 2022: Abstract submissions: (optional; authors are invited to submit extended abstracts of papers for early reactions)</li>
+        
+        <li>April 15, 2023: First-round submissions</li>
+        
+        <li>July 15, 2023: First-round decisions</li>
+        
+        <li>December 15, 2023: Second-round submissions</li>
+        
+        <li>February 15, 2024: Second-round decisions: (papers are either acceptable with minor changes or rejected at this stage)</li>
+        
+        <li>May 15, 2024: Final versions due: (final decisions and online publication soon afterwards)</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
+            <link>https://callsforpapers.org/call/jasist-the-theory-and-practice-of-informational-transitions</link>
+            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
+            <pubDate>Fri, 12 Jan 2024 12:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Jenny Bronstein</strong>, Bar-Ilan University</p>
+        
+        <p><strong>Alison Hicks</strong>, University College London</p>
+        
+        <p><strong>Jette Hyldegård</strong>, University of Copenhagen</p>
+        
+        <p><strong>Pam McKenzie</strong>, The University of Western Ontario</p>
+        
+        <p><strong>Ian Ruthven</strong>, University of Strathclyde</p>
+        
+        <p><strong>Gunilla Widén</strong>, Åbo Akademi</p>
+        
+    
+    
+    <p>Life transitions forms a rich area of scholarship for Information Science research. The last five years have seen a steady growth in the publication of empirical studies related to transition, including PhD work and longitudinal studies, in a variety of areas including health, social, academic and employment contexts. At the same time, emerging conceptual work has also started to re-examine transition through a historical lens, including how change and adjustment has been treated in historical Information Science scholarship. This adds significant scope for complex conceptual work. The breadth of interest further means that transition has the potential to unify various related fields of study, including information behaviour, practice, and literacy research as well as various disciplinary fields. This Special Issue will provide a platform for the exploration of life transitions from an information behaviour, information practice, or information literacy perspective.</p>
+    
+    <p>Transitions are a natural state in everyday life. In a broader sense, individuals could be said to be in a constant state of transition, or &#39;transitioning&#39; with every passage in life. According to the Oxford English Dictionary, transition is defined both as a noun and adverb: &#39;A passing or passage from one condition, action, or (rarely) place, to another; change&#39; and, &#39;To make or undergo a transition (from one state, system, etc. to or into another); to change over or switch.&#39; From a research perspective, transition is a complex topic that has been variously conceptualised and defined. Transitions can be personal (changes due to changes in life cycle), situational (changes in circumstances in personal or professional life), or environmental (changes in the organisational environment impacting individuals). These emphases mean that transition has been most comprehensively explored to date within the field of Education and Nursing.</p>
+    
+    <p>Conceptual work in these areas has focused on the process through which people in transition move beyond a disrupted reality to construct a new reality. Information has been found to be a strong trigger in the transition process. Transitions fracture the individual’s information landscapes and require them to learn new &#39;ways of knowing&#39;, a process that often requires both seeking and avoiding information as a coping mechanism to reduce uncertainty.</p>
+    
+    <p>Although transitions are permeated with information practices of many kinds, information behaviour/practices/literacy research has engaged only peripherally with ideas of transition and the concept remains underexplored. Consequently, the aim of this special issue is to extend these initial explorations of transition through an information lens. We invite empirical, conceptual or methodological submissions for this special issue that address one or more of these questions:</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>How should transition be conceptualised, studied, evaluated within the field of information behaviour, information practice or information literacy?</li>
+        
+        <li>What is the role of information and information activities, including information avoidance, in a transition?</li>
+        
+        <li>What models, theories and concepts from Information Science and beyond are useful for studying transitions?</li>
+        
+        <li>What research methods/methodologies can we use to study transition?</li>
+        
+        <li>What types of life transitions exist and how can they be conceptualised in information behaviour, information practice or information literacy?</li>
+        
+        <li>What informational strategies might support transitions?</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>September 13, 2023: Paper development workshop</li>
+        
+        <li>June 13, 2024: Submissions due</li>
+        
+        <li>September 11, 2024: Decisions after first round of reviews</li>
+        
+        <li>November 1, 2025: Special Issue to be published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+    </channel>
+</rss>

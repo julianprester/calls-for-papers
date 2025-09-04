@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: ai</title>
+        <link>https://callsforpapers.org/tag/ai</link>
+        <description>Latest calls for papers tagged with 'ai'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: ai</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/ai</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Compassionate AI]]></title>
+            <link>https://callsforpapers.org/call/isr-isr-compassionate-ai</link>
+            <guid>isr-isr-compassionate-ai</guid>
+            <pubDate>Mon, 30 Jun 2025 01:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Rajiv Kohli</strong>, William &amp; Mary</p>
+        
+        <p><strong>Meng Li</strong>, University of Houston</p>
+        
+        <p><strong>Ting Li</strong>, Erasmus University Rotterdam</p>
+        
+        <p><strong>Paul A. Pavlou</strong>, University of Miami</p>
+        
+    
+    
+    <p>Although Artificial Intelligence (AI)—including generative and agentic forms—continues to reshape industries and societies, it remains largely devoid of human qualities, and today’s AI is often characterized as mechanistic and even &#39;sterile&#39;. Indeed, current AI design paradigms focus on maximizing efficiency, accuracy, and computational sophistication, often at the expense of embedding emotional, social, and ethical dimensions that are inherent in human interactions. While AI is effective in processing data and automating tasks, it is often impersonal, thus detaching from the human experience and undermining the adoption of AI.</p>
+    
+    <p>To address these shortcomings, AI development must be rethought toward an approach that emphasizes compassionate design by integrating ethical considerations, cultural sensitivity, and emotional intelligence into the core design of AI systems. By embedding these principles, AI should not only be technically proficient but also capable of understanding and responding to the diverse needs of its human users to ensure that AI advances meaningfully contribute to humanity. The need for compassion-centered AI design has never been more pressing.</p>
+    
+    <p>Compassionate AI refers to systems that not only recognize human emotions and suffering but also proactively seek to alleviate distress, promote well-being, and uphold human dignity. Compassionate AI systems are envisioned as tools that complement human decision-making by providing support that is empathetic, inclusive, and contextually aware. Unlike empathy, which involves understanding others’ emotional states, or sympathy, which evokes feelings of sorrow, compassion combines emotional awareness with a purposeful intention to help other human beings.</p>
+    
+    <p>While AI has increased efficiency, personalization, and cost reduction in many settings, it has also raised ethical, legal, and societal concerns—particularly in high-stakes settings such as healthcare, education, crisis response, and social services. These concerns are magnified when AI systems, lacking moral agency, make decisions that affect vulnerable populations. In many applications—ranging from healthcare to finance and customer service—the absence of a humanistic perspective can result in interactions that feel mechanistic and unresponsive to the complexities of individual circumstances and propagate (or even amplify) existing societal biases.</p>
+    
+    <p>Compassionate AI addresses this challenge by embedding empathy, care, and contextual sensitivity into the design, deployment, and governance of AI systems. It envisions AI not as a mechanistic and utilitarian tool, but as a partner that embodies humanity’s highest moral aspirations. Ultimately, compassionate AI is both an ethical imperative and a catalyst—one that rehumanizes AI, ensuring that our AI-led future uplifts humanity, nurtures societal well-being, and reflects our collective commitment to a more empathetic and better world.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Healthcare: Compassionate AI can enhance patient care by predicting adverse events, assisting with end-of-life decision-making, and providing emotional support to patients and families.</li>
+        
+        <li>Crisis Management: During natural disasters or emergencies, compassionate AI systems can analyze real-time data, such as social media posts, to identify distressed individuals and provide timely assistance.</li>
+        
+        <li>Education: AI systems can transform education by personalizing learning experiences and adapting instruction to meet diverse student needs.</li>
+        
+        <li>Social Services: Compassionate AI can support victims of trauma or abuse by offering non-judgmental, understanding virtual assistance.</li>
+        
+        <li>Customer Service: AI-powered chatbots can enhance customer experiences by providing compassionate and empathetic responses to inquiries.</li>
+        
+        <li>Human Resources: AI can monitor employee well-being by detecting signals of stress or burnout and proactively offering support resources.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 20, 2026: Full Paper Submission</li>
+        
+        <li>April 15, 2026: First Round of Editorial Decisions</li>
+        
+        <li>August 31, 2026: Revisions Due</li>
+        
+        <li>December 31, 2026: Second Round of Editorial Decisions</li>
+        
+        <li>February 28, 2027: Final Revisions Due</li>
+        
+        <li>May 31, 2027: Final Editorial Decisions</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Sutirtha Chatterjee</strong>, University of Nevada, Las Vegas</li>
+        
+        <li><strong>Monica Chiarini Tremblay</strong>, William &amp; Mary</li>
+        
+        <li><strong>Jennifer Claggett</strong>, Wake Forest University</li>
+        
+        <li><strong>Yulin Fang</strong>, HKU Business School</li>
+        
+        <li><strong>Shu He</strong>, University of Florida</li>
+        
+        <li><strong>Nina Huang</strong>, University of Miami</li>
+        
+        <li><strong>Tina Blegind Jensen</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Hyeokkoo Eric Kwon</strong>, Nanyang Technological University</li>
+        
+        <li><strong>Gwanhoo Lee</strong>, American University</li>
+        
+        <li><strong>Ilan Oshri</strong>, University of Auckland</li>
+        
+        <li><strong>Matti Rossi</strong>, Aalto University School of Business</li>
+        
+        <li><strong>Mochen Yang</strong>, University of Minnesota</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Information Systems Research (ISR)</author>
+        </item>
+        <item>
+            <title><![CDATA[Human - AI Collaboration, Emerging Digital Work Configurations and the Changing Nature of Work]]></title>
+            <link>https://callsforpapers.org/call/jit-human-ai-collaboration-emerging-digital-work-configurations-and-the-changing-nature-of-work</link>
+            <guid>jit-human-ai-collaboration-emerging-digital-work-configurations-and-the-changing-nature-of-work</guid>
+            <pubDate>Thu, 13 Mar 2025 10:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Alexander Richter</strong>, Victoria University of Wellington</p>
+        
+        <p><strong>João Baptista</strong>, Lancaster University</p>
+        
+        <p><strong>Ella Hafermalz</strong>, Vrije Universiteit Amsterdam</p>
+        
+        <p><strong>Mareike Möhlmann</strong>, Bentley University</p>
+        
+        <p><strong>Daniel Schlagwein</strong>, The University of Sydney</p>
+        
+        <p><strong>Mari-Klara Stein</strong>, Tallinn University of Technology</p>
+        
+    
+    
+    <p>Digital technologies, in particular artificial intelligence (AI), are reconfiguring how, where, and when work gets done, marking a shift from tools designed to support human tasks to agentic systems that collaborate with and even manage human workers. AI technologies are evolving to work autonomously or within hybrid collaboration systems of human and digital agents. Research on AI and human-AI collaboration has advanced from studying AI that supports human tasks to AI agents’ ability to make independent management decisions and regulate and manage human work. The future of working with AI is, however, still unknown and emergent, with both utopian and dystopian perspectives shaping our understanding of opportunities and challenges of their adoption and use in organizations, work, and other spheres of our lives.</p>
+    
+    <p>Prior research has helped make sense of and anticipate important side effects of AI-driven management, new forms of hidden and unrecognized ‘meta-work’ performed by employees, and the ‘ripple effects’ of introducing such technologies to the workplace. This includes the reconfiguration of spatial-temporal dimensions and ‘ways of seeing’ in the workplace, tensions between craft and mechanical work, and a wide range of unintended effects in work contexts such as loss of critical thinking and changes in how human work is coordinated as well as the authority and values that underpin it. New research is needed to develop relevant theories and methods to study human-AI collaboration and how this is reconfiguring work.</p>
+    
+    <p>This special issue invites submissions that critically examine the current and expected future effects of human-AI collaboration and other emerging digital work configurations. It seeks theoretical, empirical, and design-oriented contributions that study the transformative potential of digital-human collaboration, aiming to gather research that fosters ethical solutions and sustainable models for AI- and digitally-driven work, while informing future digital work scenarios. It encourages work that inspires innovative strategies and follows good research practice in the use of AI, but is also open to developing prospective scenarios and actively creating preferable futures.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Emerging Human - AI Work Configurations</li>
+        
+        <li>Effects of AI and Agentic Systems in the Workplace, Work, and Organizing</li>
+        
+        <li>Governance, Responsibility, and Ethics of AI Agents</li>
+        
+        <li>Adaptive Practices and Human - AI Dynamics</li>
+        
+        <li>Strategic and Organizational Implications of Human - AI Collaboration</li>
+        
+        <li>New Digital Work Configurations and Changing Nature of Work Beyond AI</li>
+        
+        <li>Theoretical and Methodological Advancements</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>August 15, 2025: Submissions due</li>
+        
+        <li>November 15, 2025: Notifications (submissions)</li>
+        
+        <li>March 1, 2026: Revisions due</li>
+        
+        <li>May 1, 2026: Notifications (revision 1)</li>
+        
+        <li>August 1, 2026: Second revision due</li>
+        
+        <li>October 1, 2026: Notifications (revision 2)</li>
+        
+        <li>December 1, 2026: Target publication</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Intelligence-Information Assurance Nexus: The Future of Information Systems Security, Privacy, and Quality]]></title>
+            <link>https://callsforpapers.org/call/misq-ai-ia-nexus</link>
+            <guid>misq-ai-ia-nexus</guid>
+            <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Rui Chen</strong>, Iowa State University</p>
+        
+        <p><strong>Juan Feng</strong>, Tsinghua University</p>
+        
+        <p><strong>Miguel Godinho de Matos</strong>, Católica Lisbon School of Business &amp; Economics</p>
+        
+        <p><strong>Carol Hsu</strong>, University of Sydney</p>
+        
+        <p><strong>H. Raghav Rao</strong>, University of Texas at San Antonio</p>
+        
+    
+    
+    <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations (Mahmood et al., 2010; Forrest, 2023). As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability (European Parliament, 2018; White House, 2023a). As society steps into the age of generative AI (GenAI) (Dennehy et. al., 2023), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance (Robidoux, 2024).</p>
+    
+    <p>GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas. GenAI models can range from generalized models to domain-specific models that automate tasks and generate content adhering to industry-specific terminologies, context-specialized knowledge, and tailored experiences. Its power has sparked discussions on ethics and societal questions regarding the potential impact on employment, bias, privacy, and human-AI relationships.</p>
+    
+    <p>The emergence of GenAI is poised to exert a profound impact on assurance (Barrett et al., 2023; Sun et al., 2023). On the one hand, GenAI has been recognized for its ability to bolster information assurance. The IBM Institute for Business Value (2024) commented that GenAI has the potential to strengthen business defenses, accelerate security processes, and identify emerging threats as they arise. Studies have also noted that GenAI may be able to address information management challenges, including quality (Bhatti, 2024). On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. The 2024 February deepfake fraud incident in Hong Kong is a case in point (Chen &amp; Magramo, 2024). Even unexpected users can threaten the protection of data, which is manifested by examples of employees sharing confidential data with GenAI models. Industry reports from Forrester (2023), Cisco (2024), and the IBM Institute for Business Value (2024) have highlighted GenAI-induced risks to information assurance as a major threat to firms’ adoption and implementation of GenAI initiatives. Similar concerns have been acknowledged from a government perspective in the 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (White House, 2023b) and the 2023 congressional research report: Generative Artificial Intelligence and Data Privacy: A Primer (Congressional Research Service, 2023).</p>
+    
+    <p>Examples of how GenAI may exacerbate information assurance issues include:</p>
+    
+    <p>1. **Sophisticated human-deception attacks:** Cybercriminals can use GenAI to compromise businesses by writing targeted emails. In addition, GenAI can create deepfakes and voice clones, resulting in “vishing” that uses phone calls and voice messages to trick people into sharing sensitive information.</p>
+    
+    <p>2. **Hallucination and confabulation:** GenAI is known to create incorrect information that is seemingly correct. In addition, attackers may trick GenAI into recommending unverified software code packages to unexpected users. When attackers embed malicious codes into packages endorsed by GenAI, users may unwittingly download and utilize these harmful codes, creating security vulnerabilities ripe for exploitation.</p>
+    
+    <p>3. **Intellectual property theft:** GenAI can create materials that violate intellectual property rights. For example, GenAI can create content that resembles existing copyrighted materials, resulting in legal ramifications and conflicts.</p>
+    
+    <p>4. **Challenges in regulation and compliance:** Keeping GenAI models in check is subject to considerable hurdles because of how intricate and swiftly they evolve. Ensuring compliance with data protection laws and standards will become increasingly difficult as GenAI becomes more autonomous and capable of making independent decisions.</p>
+    
+    <p>Another source of threats to information assurance stems from attacks that are designed to target the way GenAI systems are trained and expected to be used. Many of these attacks can be mitigated by explicitly integrating information assurance considerations when designing GenAI systems. For example, GenAI tools may be subject to:</p>
+    
+    <p>1. **Unreliable training data:** A substantial amount of training data is employed in constructing large language models (LLMs). Yet this data may be of low quality and is often unverified. The security of the models is influenced by the quality of the training data, paving the way for potential vulnerabilities, unauthorized access, and compromises regarding sensitive information.</p>
+    
+    <p>2. **Data poisoning:** GenAI needs to be trained and tuned on inputs and outputs. Data poisoning occurs when inputs are manipulated to alter or corrupt the training data in LLMs, which consequently impacts the desired outputs of the overall system.</p>
+    
+    <p>3. **Security leaks, inference attacks, and knowledge phishing:** Security leaks in the context of GenAI refer to the unintended disclosure of sensitive information embedded within a model itself or through its responses. This is also known as inference attacks or knowledge phishing.</p>
+    
+    <p>4. **Prompt injections:** Prompt injections occur when malicious inputs are provided to an AI system to manipulate its output or to execute unintended actions.</p>
+    
+    <p>Cisco (2024) found that 92% of organizations “see GenAI as fundamentally different, requiring new techniques to manage data and risks.” The 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence calls for actions on refining GenAI by mitigating information assurance issues (White House, 2023b). Worldwide efforts are being made on these fronts to protect LLMs against threats of information fabrication, system misuse, privacy breaches, etc. Gartner recommends mitigation strategies, which include “establishing a governance entity and workflow, monitoring and blocking access, communicating acceptable use policies, exploring prompt engineering and API integrations, and prioritizing private hosting options” (Robidoux, 2024). However, there are growing concerns that excessive focus and regulation on data security and privacy may stifle and slow the advancement of GenAI, especially in terms of the European Union’s AI Act (Timis, 2023).</p>
+    
+    <p>The relationship between GenAI and information assurance is depicted below.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>What factors influence individuals’ security and privacy behavior in the presence of GenAI tools?</li>
+        
+        <li>How can we predict, analyze, and counteract the emerging threats to GenAI models?</li>
+        
+        <li>How can economic analysis contribute to combating information assurance threats in GenAI?</li>
+        
+        <li>What are the managerial strategies and their effectiveness in addressing GenAI-induced issues on data security and privacy?</li>
+        
+        <li>What are the key principles in attributing accountability and responsibilities for the risks in GenAI model output?</li>
+        
+        <li>Individual behaviors</li>
+        
+        <li>Organizational practices</li>
+        
+        <li>Societal impacts</li>
+        
+        <li>Risk management</li>
+        
+        <li>Investments in assurance</li>
+        
+        <li>Market effects</li>
+        
+        <li>Attacker analysis</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 20, 2025: Abstract Proposal Deadline</li>
+        
+        <li>March 31, 2025: Feedback on abstracts</li>
+        
+        <li>July 11, 2025: Paper development workshop (virtual)</li>
+        
+        <li>October 31, 2025: Stage 1 Submission Deadline</li>
+        
+        <li>January 31, 2026: First-round decisions</li>
+        
+        <li>February 1, 2026: Workshop for authors with first-round revise-and-resubmit</li>
+        
+        <li>May 31, 2026: Second-round revisions due</li>
+        
+        <li>August 31, 2026: Second-round decisions</li>
+        
+        <li>November 30, 2026: Final revisions due</li>
+        
+        <li>February 28, 2027: Final revisions</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Panagiotis Adamopoulos</strong>, Emory University</li>
+        
+        <li><strong>Jingjing Li</strong>, University of Virginia</li>
+        
+        <li><strong>Rodrigo Belo</strong>, Nova School of Business and Economics</li>
+        
+        <li><strong>Huigang Liang</strong>, University of Memphis</li>
+        
+        <li><strong>Indranil Bose</strong>, NEOMA</li>
+        
+        <li><strong>Alexander Maedche</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Lemuria Carter</strong>, University of Sydney</li>
+        
+        <li><strong>Ning Nan</strong>, University of British Columbia</li>
+        
+        <li><strong>Christy Cheung</strong>, Hong Kong Baptist University</li>
+        
+        <li><strong>Jella Pfeiffer</strong>, University of Stuttgart</li>
+        
+        <li><strong>Rahul De’</strong>, Indian Institute of Management Bangalore</li>
+        
+        <li><strong>Dandan Qiao</strong>, National University of Singapore</li>
+        
+        <li><strong>Amany Elbanna</strong>, University of Sussex</li>
+        
+        <li><strong>Sagar Samtani</strong>, Indiana University</li>
+        
+        <li><strong>Uri Gal</strong>, University of Sydney</li>
+        
+        <li><strong>Anastasia Sergeeva</strong>, Vrije Universiteit Amsterdam</li>
+        
+        <li><strong>Weiyin Hong</strong>, Hong Kong University of Science and Technology</li>
+        
+        <li><strong>Maha Shaikh</strong>, ESADE Business School</li>
+        
+        <li><strong>Nina Huang</strong>, University of Miami</li>
+        
+        <li><strong>Paolo Spagnoletti</strong>, Luiss Business School</li>
+        
+        <li><strong>Hartmut Höhle</strong>, University of Mannheim</li>
+        
+        <li><strong>Rohit Valecha</strong>, University of Texas at San Antonio</li>
+        
+        <li><strong>Allen Johnston</strong>, University of Alabama</li>
+        
+        <li><strong>Jing Wang</strong>, Hong Kong University of Science and Technology</li>
+        
+        <li><strong>Arpan Kar</strong>, Indian Institute of Technology</li>
+        
+        <li><strong>Jingguo Wang</strong>, University of Texas at Arlington</li>
+        
+        <li><strong>Juhee Kwon</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Hong Xu</strong>, Hong Kong University of Science and Technology</li>
+        
+        <li><strong>Atanu Lahiri</strong>, University of Texas at Dallas</li>
+        
+        <li><strong>Heng Xu</strong>, University of Florida</li>
+        
+        <li><strong>Alvin Leung</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Niam Yaraghi</strong>, University of Miami</li>
+        
+        <li><strong>Ting Li</strong>, Erasmus University</li>
+        
+        <li><strong>Cathy Liu Yang</strong>, HEC Paris</li>
+        
+        <li><strong>Yingjie Zhang</strong>, Peking University</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+    </channel>
+</rss>

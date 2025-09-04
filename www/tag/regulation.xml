@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: regulation</title>
+        <link>https://callsforpapers.org/tag/regulation</link>
+        <description>Latest calls for papers tagged with 'regulation'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: regulation</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/regulation</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Regulation in the Age of Digitalization]]></title>
+            <link>https://callsforpapers.org/call/jit-regulation-in-the-age-of-digitalization</link>
+            <guid>jit-regulation-in-the-age-of-digitalization</guid>
+            <pubDate>Fri, 12 Jan 2024 12:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Daniel Gozman</strong>, University of Sydney</p>
+        
+        <p><strong>Tom Butler</strong>, University College Cork</p>
+        
+        <p><strong>Kalle Lyytinen</strong>, Case Western Reserve University</p>
+        
+    
+    
+    <p>The rise of information technology (IT) in organizations has been an inherent part of an agenda to increase and shape forms of social control. Despite the inherent link between uses of IT and social control, the topic of regulation has not received significant attention in the information system field – neither theoretically nor empirically. This special issue seeks to address this gap.</p>
+    
+    <p>The issue explores the growing and significant interplay between IT and regulation in the age of digitalization, where new challenges with social control with IT are emerging. In this special issue, we are interested in two broad domains of research related to regulation and IT: regulation through IT and regulation of IT.</p>
+    
+    <p>The first domain – regulation through IT – concerns new forms and arenas of regulation enacted through innovative IT solutions (often called “RegTech”). These technologies which are increasingly implicated in regulatory practices include new forms of real-time big data analytics, machine learning and other artificial intelligence (AI) techniques, use of blockchains and distributed ledgers, Internet of Things solutions or natural language processing techniques. These technologies change the ways organizations and industrial sectors respond to and comply with a growing number of regulatory obligations and needs. These technologies are also driving changes in the ways in which regulators seek to supervise and monitor firms and the ways in which firms comply with laws and regulations. Greater market and organizational transparency and enhanced supervision are now advocated as critical responses to organizational misconduct and associated risks. This has resulted in an increasing call for bureaucratization and (over-) regulation. Call for greater monitoring, supervision and sanctioning have been driven by concerns regarding the environment, health and safety risks, corporate fiscal and fiduciary scandals, financial failures leading to financial crisis in 2007-2008, or growing violations of data privacy that increased the “volume, velocity and variety” of laws and regulations that organizations must comply with and the range of novel IT based solutions they need to comply to such demands. Regulators have also shown a growing appetite to measure performance, to quantify financial, regulatory and operational risk and to improve compliance reporting through new technologies that assign accountability, enforce security and behavioural control, automate monitoring and enhance record keeping.</p>
+    
+    <p>The second domain – regulation of IT – is the wide range deployment and associated regulatory effects of new IT (especially concerns of security, privacy and/or safety). There is a notable gap in the field’s knowledge regarding new demands and ways of regulating IT (e.g., social media) given its scale, complexity and pervasive use. Concerns regarding the pervasive effects of platform businesses on privacy, competition and information veracity have invited calls to control and scrutinize technology vendors. Similar issues are likely to emerge in autonomous cars, user-based insurance, health policies and so on. There are consequently increased demands to regulate various IT solutions and to increase regulatory powers of governments related to IT uses, including through introducing entirely new regulatory bodies. If platform providers and vendors, or organizations offering extensive algorithmic solutions as parts of their related services, are subjected to new regulatory structures, then important questions arise regarding what degrees of transparency and reporting are appropriate and how related forms of supervision and sanctioning would function that need to regulate actual systems and their functioning and those who are implicated in their design.</p>
+    
+    <p>We invite empirical and theoretical research that contribute to our understanding and application how regulation is enacted through IT or how uses of IT can be regulated. We encourage submissions that use diverse epistemological and methodological approaches to focus on emerging and new regulatory solutions and practices. Submissions may engage in cross-disciplinary inquiries and should offer novel knowledge and fresh methodological, theoretical and empirical insights how regulation and IT evolve and are related. The papers will be evaluated for their interestingness, novelty and credibility of the contribution. If in doubt, interested authors should consult the special issue guest editors whether their papers fall within the scope of the special issue. To this end, authors are encouraged to submit an extended abstract to the editors for initial feedback.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Regulatory technologies for supervising and complying (regulation through IT)</li>
+        
+        <li>Regulation of social media technologies and platforms</li>
+        
+        <li>Regulation of IT solutions and related solutions during design, implementation and use</li>
+        
+        <li>Regulation of AI</li>
+        
+        <li>How to bridge the gap between ethics and policy (e.g., for AI)</li>
+        
+        <li>Strategic implications of regulating technologies for nations, industries and firms</li>
+        
+        <li>Solutions for data privacy, protection, governance and &quot;fake news&quot;</li>
+        
+        <li>Cybersecurity obligations and mitigating related risks at the organizational level</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 31, 2021: First round submission</li>
+        
+        <li>March 1, 2021: Round 1 decision to authors</li>
+        
+        <li>July 1, 2021: Second round submission</li>
+        
+        <li>September 1, 2021: Second round decision to authors</li>
+        
+        <li>November 1, 2021: Third and Final Round submissions</li>
+        
+        <li>December 1, 2021: Final decision to authors</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Barney Tan</strong>, University of Sydney</li>
+        
+        <li><strong>Chris Parker</strong>, American University</li>
+        
+        <li><strong>David Tilson</strong>, University of Rochester</li>
+        
+        <li><strong>Eric Lim</strong>, University New South Wales</li>
+        
+        <li><strong>Francois de Vaujany</strong>, Université Paris - Dauphine</li>
+        
+        <li><strong>Frantz Rowe</strong>, Université de Nantes</li>
+        
+        <li><strong>Heiko Gewald</strong>, Neu - Ulm University of Applied Science</li>
+        
+        <li><strong>Jonas Hedman</strong>, Copenhagen Business School</li>
+        
+        <li><strong>M. Lynne Markus</strong>, Bentley University</li>
+        
+        <li><strong>Markos Zachariadis</strong>, University of Warwick</li>
+        
+        <li><strong>Michael zur Muehlen</strong>, Stevens Institute of Technology</li>
+        
+        <li><strong>Michel Avital</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Mikhail Oet</strong>, Northeastern University</li>
+        
+        <li><strong>Nicholas Berente</strong>, University of Notre Dame</li>
+        
+        <li><strong>Pierangelo Rosati</strong>, Dublin City University</li>
+        
+        <li><strong>Roman Beck</strong>, IT University of Copenhagen</li>
+        
+        <li><strong>Shazia Sadiq</strong>, University of Queensland</li>
+        
+        <li><strong>Silvia Masiero</strong>, Loughborough University</li>
+        
+        <li><strong>Stefan Haefliger</strong>, City University</li>
+        
+        <li><strong>Theo Lynn</strong>, Dublin City University</li>
+        
+        <li><strong>Uri Gal</strong>, University of Sydney</li>
+        
+        <li><strong>Vladislav Fomin</strong>, University of Vilnius</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+    </channel>
+</rss>

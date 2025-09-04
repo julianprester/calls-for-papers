@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: platform partnerships</title>
+        <link>https://callsforpapers.org/tag/platform-partnerships</link>
+        <description>Latest calls for papers tagged with 'platform partnerships'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: platform partnerships</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/platform-partnerships</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Platform Partnerships]]></title>
+            <link>https://callsforpapers.org/call/jsis-platform-partnerships</link>
+            <guid>jsis-platform-partnerships</guid>
+            <pubDate>Sat, 09 Nov 2024 12:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Thomas Huber</strong>, ESSEC Business School</p>
+        
+        <p><strong>Maximilian Schreieck</strong>, University of Innsbruck</p>
+        
+        <p><strong>Andreas Hein</strong>, University of St Gallen</p>
+        
+        <p><strong>Ilan Oshri</strong>, University of Auckland</p>
+        
+        <p><strong>Julia Kotlarsky</strong>, University of Auckland</p>
+        
+    
+    
+    <p>Over the last years platform partnerships between independent third-party developers (complementors) and providers of software platforms (platform owners) have become the prevailing model for developing and delivering software products and services. Platforms are strategic in enabling value co-creation through boundary resources—such as software development kits (SDKs) and application programming interfaces (APIs)—which provide complementors with the tools needed to seamlessly integrate their offerings into the core platform infrastructure.</p>
+    
+    <p>Novel and creative uses of technologies such as Artificial Intelligence (AI), Internet of Things (IoT), low-code/no-code platforms, and distributed ledger technologies (DLT) like blockchain are redefining how organizations interact, collaborate, and compete. AI and IoT enable real-time data analytics and predictive insights, allowing platforms to coordinate relationships and optimize sourcing decisions by anticipating demand, managing risks, and adjusting partnerships. IoT enhances this by providing continuous data streams from connected devices, enabling more responsive, data-driven collaborations in logistics and inventory management. Low-code/no-code platforms reduce entry barriers for participants, enabling organizations to develop solutions independently. Blockchain and smart contracts automate partnership agreements through self-executing code, reducing transaction costs and fostering trust, particularly in complex, cross-border environments.</p>
+    
+    <p>Together, these technologies have strategic implications on partnerships in platform ecosystems, potentially reshaping established practices in value co-creation and appropriation, and sourcing arrangements. While they offer complementors opportunities to innovate and gain leverage, they also equip platform owners with new tools to reinforce their dominance. Whether these new tools will benefit complementors or increase platform owners&#39; control remains an open question. For example, as decentralized, real-time decision-making becomes more common, will these technologies empower complementors to innovate and operate autonomously, or will they reinforce existing power imbalances, allowing platform owners to strengthen centralized control and dictate terms of value appropriation and collaboration?</p>
+    
+    <p>As dominant platform owners like Apple, Google, Amazon, and Microsoft in Western markets, and Alibaba, Tencent, and Baidu in China, continue to control key sectors of consumer and business markets, complementors face growing challenges in navigating the advantages of platform participation against the risks of dependency and lock-in, both undermining complementor autonomy. Meanwhile, the evolving regulatory landscape, such as the European Union’s (EU) Digital Markets Act, seeks to address these power imbalances by imposing restrictions on platform gatekeepers that reshape partner strategies and value co-creation.</p>
+    
+    <p>Indeed, platform partnerships are undergoing significant strategic transformations. Advancements in technologies such as AI, IoT, and blockchain, along with shifts in political and regulatory environments, are influencing how partnerships within platform ecosystems evolve. In this rapidly changing landscape, critical questions arise about the future dynamics of partnerships in platform ecosystems. How will the balance between value co-creation and value appropriation shift as AI, DLT, and IoT become more integrated into platform partnerships? Will these technologies empower complementors to innovate and capture a fair share of the value they create, or will they enable platform owners to centralize control, deepening dependencies and shifting value appropriation in their favor? And as platform ecosystems often nurture sourcing relationships, how and in what ways sourcing relationships between a platform owner and complementors affect the platform ecosystem? Ultimately, how can both platform owners and complementors strategically navigate these changes to ensure mutual benefit in an increasingly complex ecosystem?</p>
+    
+    <p>This call for papers invites research that explores how these strategic shifts are reshaping platform partnerships, including changes in the strategies and business models of platform owners and complementors, and the governance of these partnerships and ecosystems. We welcome empirical, conceptual, design, and simulation research. Any methodologies and theoretical perspectives are encouraged as long as they contribute to the theoretical understanding of platform partnerships, along with practical insights.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>The role of AI/machine learning and predictive analytics in managing platform partnerships.</li>
+        
+        <li>The impact of AI platforms&#39; unique characteristics, such as learning abilities and non-deterministic behaviors, on platform partnerships.</li>
+        
+        <li>The role of IoT in real-time coordination and dynamic management of platform partnerships.</li>
+        
+        <li>Effects of distributed ledger technologies on platform partnerships.</li>
+        
+        <li>Impact of low-code/no-code platforms on the role of complementors within these platforms.</li>
+        
+        <li>Strategies for complementors to manage power asymmetries within platform partnerships.</li>
+        
+        <li>The role of regulatory interventions in addressing the increasing power of platform owners.</li>
+        
+        <li>Strategies for complementors and platform owners to adapt to regulatory changes, such as new laws and antitrust decisions.</li>
+        
+        <li>Impact of emerging technologies on managing tensions in platform governance, such as control versus autonomy.</li>
+        
+        <li>The role of AI, real-time analytics, and DLTs in shaping sourcing strategies, decisions, and governance.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>December 5, 2024: Online information session</li>
+        
+        <li>December 15, 2024: Informal meet the SI Editors, SIG digital sourcing, platforms and ecosystems (DSPE) Pre-ICIS workshop</li>
+        
+        <li>August 14, 2025: Informal meet the SE editors, SIG DSPE track - AMCIS 2025</li>
+        
+        <li>September 15, 2025: Full paper submission</li>
+        
+        <li>December 15, 2025: First round decisions</li>
+        
+        <li>March 15, 2026: Deadline to submit revised paper</li>
+        
+        <li>June 15, 2026: Second round decisions</li>
+        
+        <li>September 1, 2026: Deadline to submit revised paper</li>
+        
+        <li>October 1, 2026: Final decisions</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
+    </channel>
+</rss>

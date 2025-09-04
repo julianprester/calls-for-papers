@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: registered reports</title>
+        <link>https://callsforpapers.org/tag/registered-reports</link>
+        <description>Latest calls for papers tagged with 'registered reports'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: registered reports</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/registered-reports</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Registered Reports]]></title>
+            <link>https://callsforpapers.org/call/misq-registered-reports</link>
+            <guid>misq-registered-reports</guid>
+            <pubDate>Thu, 05 Jan 2023 05:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Shuk Ying Ho</strong>, Australian National University</p>
+        
+        <p><strong>Jan Recker</strong>, University of Hamburg</p>
+        
+        <p><strong>Chee-Wee Tan</strong>, Copenhagen Business School</p>
+        
+        <p><strong>Anthony Vance</strong>, Virginia Tech</p>
+        
+        <p><strong>Han Zhang</strong>, Georgia Tech</p>
+        
+    
+    
+    <p>An irony of science is that, despite our devotion to evidence, there is little evidence underpinning many aspects of the journal review process. As part of our commitment to continually improving our review processes at MIS Quarterly, this special issue aims to obtain evidence regarding the merits of a recent innovation in the review process—registered reports.</p>
+    
+    <p>While the registered report model is relatively new, it has been adopted by over 200 journals across the sciences. Business and Information Systems Engineering was the first (and so far, lone) IS journal to adopt this model. Other early adopters across the business fields include Journal of Accounting Research, Academy of Management Discoveries, and Leadership Quarterly.</p>
+    
+    <p>Our goal in this special issue is to learn if the registered report model should be available as an ongoing model for MISQ, as a supplement to our existing options. While we see a lot of promise in the model, we plan to test it first to learn if/how it can best suit our journal.</p>
+    
+    <p>The registered report model involves a 2-stage ‘acceptance’ process: a conditional acceptance before data collection, followed by an acceptance if the authors follow the agreed plan. Compared to a normal review process, there are two main differences: Pre/pilot data may (or may not) have been collected before conditional acceptance, but the main data will not have been collected prior to the conditional acceptance being offered. The paper cannot be rejected due to its results.</p>
+    
+    <p>Early tests of the registered report model across the sciences are yielding positive results, especially on the dimensions of bias reduction and investment motivation.</p>
+    
+    <p>Submissions to this special issue will be reviewed in a three-step process focusing on different criteria. Step 1 involves examining the submission proposals for suitability. Step 2 is the Stage 1 Review based on criteria for conditional acceptance. Step 3 is the Stage 2 Review based on criteria for final acceptance, where the actual results will be considered but will not affect acceptance as long as the agreed processes were followed.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Registered report model</li>
+        
+        <li>Evidence in journal review process</li>
+        
+        <li>Bias reduction in peer review</li>
+        
+        <li>Investment motivation in research</li>
+        
+        <li>Hypothesized models and empirical testing in IS research</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>Invalid DateTime: Stage 2 submissions due within 9 months of Stage 1 decision</li>
+        
+        <li>Invalid DateTime: Special Issue Publication, Editorial, and Showcase Event</li>
+        
+        <li>February 20, 2023: Introductory workshop (optional)</li>
+        
+        <li>July 1, 2023: Proposal Deadline</li>
+        
+        <li>October 1, 2023: Stage 1 Submission Deadline</li>
+        
+        <li>December 15, 2023: Stage 1 initial decisions expected</li>
+        
+        <li>January 1, 2024: Special Issue workshop for Stage 1 authors</li>
+        
+        <li>October 1, 2024: Stage 1 submissions must receive a conditional acceptance no later than this date</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>MIS Quarterly (MISQ)</author>
+        </item>
+    </channel>
+</rss>

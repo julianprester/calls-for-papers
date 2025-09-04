@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: human-centered design</title>
+        <link>https://callsforpapers.org/tag/human-centered-design</link>
+        <description>Latest calls for papers tagged with 'human-centered design'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: human-centered design</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/human-centered-design</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Compassionate AI]]></title>
+            <link>https://callsforpapers.org/call/isr-isr-compassionate-ai</link>
+            <guid>isr-isr-compassionate-ai</guid>
+            <pubDate>Mon, 30 Jun 2025 01:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Rajiv Kohli</strong>, William &amp; Mary</p>
+        
+        <p><strong>Meng Li</strong>, University of Houston</p>
+        
+        <p><strong>Ting Li</strong>, Erasmus University Rotterdam</p>
+        
+        <p><strong>Paul A. Pavlou</strong>, University of Miami</p>
+        
+    
+    
+    <p>Although Artificial Intelligence (AI)—including generative and agentic forms—continues to reshape industries and societies, it remains largely devoid of human qualities, and today’s AI is often characterized as mechanistic and even &#39;sterile&#39;. Indeed, current AI design paradigms focus on maximizing efficiency, accuracy, and computational sophistication, often at the expense of embedding emotional, social, and ethical dimensions that are inherent in human interactions. While AI is effective in processing data and automating tasks, it is often impersonal, thus detaching from the human experience and undermining the adoption of AI.</p>
+    
+    <p>To address these shortcomings, AI development must be rethought toward an approach that emphasizes compassionate design by integrating ethical considerations, cultural sensitivity, and emotional intelligence into the core design of AI systems. By embedding these principles, AI should not only be technically proficient but also capable of understanding and responding to the diverse needs of its human users to ensure that AI advances meaningfully contribute to humanity. The need for compassion-centered AI design has never been more pressing.</p>
+    
+    <p>Compassionate AI refers to systems that not only recognize human emotions and suffering but also proactively seek to alleviate distress, promote well-being, and uphold human dignity. Compassionate AI systems are envisioned as tools that complement human decision-making by providing support that is empathetic, inclusive, and contextually aware. Unlike empathy, which involves understanding others’ emotional states, or sympathy, which evokes feelings of sorrow, compassion combines emotional awareness with a purposeful intention to help other human beings.</p>
+    
+    <p>While AI has increased efficiency, personalization, and cost reduction in many settings, it has also raised ethical, legal, and societal concerns—particularly in high-stakes settings such as healthcare, education, crisis response, and social services. These concerns are magnified when AI systems, lacking moral agency, make decisions that affect vulnerable populations. In many applications—ranging from healthcare to finance and customer service—the absence of a humanistic perspective can result in interactions that feel mechanistic and unresponsive to the complexities of individual circumstances and propagate (or even amplify) existing societal biases.</p>
+    
+    <p>Compassionate AI addresses this challenge by embedding empathy, care, and contextual sensitivity into the design, deployment, and governance of AI systems. It envisions AI not as a mechanistic and utilitarian tool, but as a partner that embodies humanity’s highest moral aspirations. Ultimately, compassionate AI is both an ethical imperative and a catalyst—one that rehumanizes AI, ensuring that our AI-led future uplifts humanity, nurtures societal well-being, and reflects our collective commitment to a more empathetic and better world.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Healthcare: Compassionate AI can enhance patient care by predicting adverse events, assisting with end-of-life decision-making, and providing emotional support to patients and families.</li>
+        
+        <li>Crisis Management: During natural disasters or emergencies, compassionate AI systems can analyze real-time data, such as social media posts, to identify distressed individuals and provide timely assistance.</li>
+        
+        <li>Education: AI systems can transform education by personalizing learning experiences and adapting instruction to meet diverse student needs.</li>
+        
+        <li>Social Services: Compassionate AI can support victims of trauma or abuse by offering non-judgmental, understanding virtual assistance.</li>
+        
+        <li>Customer Service: AI-powered chatbots can enhance customer experiences by providing compassionate and empathetic responses to inquiries.</li>
+        
+        <li>Human Resources: AI can monitor employee well-being by detecting signals of stress or burnout and proactively offering support resources.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 20, 2026: Full Paper Submission</li>
+        
+        <li>April 15, 2026: First Round of Editorial Decisions</li>
+        
+        <li>August 31, 2026: Revisions Due</li>
+        
+        <li>December 31, 2026: Second Round of Editorial Decisions</li>
+        
+        <li>February 28, 2027: Final Revisions Due</li>
+        
+        <li>May 31, 2027: Final Editorial Decisions</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Sutirtha Chatterjee</strong>, University of Nevada, Las Vegas</li>
+        
+        <li><strong>Monica Chiarini Tremblay</strong>, William &amp; Mary</li>
+        
+        <li><strong>Jennifer Claggett</strong>, Wake Forest University</li>
+        
+        <li><strong>Yulin Fang</strong>, HKU Business School</li>
+        
+        <li><strong>Shu He</strong>, University of Florida</li>
+        
+        <li><strong>Nina Huang</strong>, University of Miami</li>
+        
+        <li><strong>Tina Blegind Jensen</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Hyeokkoo Eric Kwon</strong>, Nanyang Technological University</li>
+        
+        <li><strong>Gwanhoo Lee</strong>, American University</li>
+        
+        <li><strong>Ilan Oshri</strong>, University of Auckland</li>
+        
+        <li><strong>Matti Rossi</strong>, Aalto University School of Business</li>
+        
+        <li><strong>Mochen Yang</strong>, University of Minnesota</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Information Systems Research (ISR)</author>
+        </item>
+    </channel>
+</rss>

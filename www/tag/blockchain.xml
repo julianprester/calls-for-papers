@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: blockchain</title>
+        <link>https://callsforpapers.org/tag/blockchain</link>
+        <description>Latest calls for papers tagged with 'blockchain'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: blockchain</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/blockchain</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Blockchain Technology and Applications]]></title>
+            <link>https://callsforpapers.org/call/dss-blockchain-technology-and-applications</link>
+            <guid>dss-blockchain-technology-and-applications</guid>
+            <pubDate>Thu, 18 Aug 2022 06:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Shaokun Fan</strong>, Oregon State University</p>
+        
+        <p><strong>Noyan Ilk</strong>, Florida State University</p>
+        
+        <p><strong>Akhil Kumar</strong>, Penn State University</p>
+        
+        <p><strong>J. Leon Zhao</strong>, Chinese University of Hong Kong, Shenzhen</p>
+        
+    
+    
+    <p>Blockchain technology has received enormous attention since Bitcoin was launched in 2009 and has become the frontier of technology advancements and application innovations in recent years. In particular, blockchain is now recognized as a critical part of the new ABCD of modern technology, that is, Artificial intelligence, Blockchain, Cloud computing, and big Data. However, many research challenges and opportunities remain to be tackled and surmounted in areas such as blockchain infrastructure decentralization, blockchain network governance, blockchain security and privacy, and the nature of machine trust in blockchain-based systems. Because blockchain is an integral part of automated business processes, the implementation of this technology can vary greatly between organizations across different industries.</p>
+    
+    <p>The aim of this special issue is to highlight novel and high-quality research in blockchain technology and applications, and to examine the current and future impact of blockchain systems, and related technologies including data verification before block confirmation, authentication of data ownership, and dataflow across blockchain systems. Considering the decision-making focus of DSS publications that bridge the gap between managerial and technical perspectives, this special issue is open to all manuscripts that make a significant research contribution to blockchain systems and applications in business sectors such as finance, insurance, healthcare, manufacturing, supply chain, education, and government.</p>
+    
+    <p>In terms of research paradigm, we invite manuscripts with system-based implications that draw on various analytical, empirical, and technical methodologies including, but not limited to, system development, econometrics, decision theory, operations management, experimentation, and engineering. We strongly encourage submissions that follow a design science research perspective, which aims to develop cutting-edge IT artifacts. That is, all technical and quantitative research methods that are helpful in tackling real-world challenges confronted by managers, engineers, and researchers via blockchain technology are welcome.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Process-aware blockchain design and management</li>
+        
+        <li>Blockchain applications in metaverse platforms</li>
+        
+        <li>Design and implementation issues in the transition from PoW to PoS</li>
+        
+        <li>Data management issues on the blockchain</li>
+        
+        <li>Security and privacy issues on the blockchain</li>
+        
+        <li>Design and implementation issues of Metaverse systems</li>
+        
+        <li>Integration of blockchain into existing business infrastructure</li>
+        
+        <li>Modeling, design and implementation of trust mechanisms in blockchain-based systems</li>
+        
+        <li>New and faster consensus algorithms for blockchain implementation</li>
+        
+        <li>NFT analysis and design paradigms in various business sectors</li>
+        
+        <li>Blockchain-based NFT casting models and mechanisms</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>October 15, 2022: Submissions System opens</li>
+        
+        <li>January 15, 2023: Paper Submission Deadline</li>
+        
+        <li>January 30, 2023: Initial Screening of Submissions</li>
+        
+        <li>April 15, 2023: First Review Decisions</li>
+        
+        <li>June 30, 2023: Revision Due</li>
+        
+        <li>September 15, 2023: Acceptance Decisions</li>
+        
+        <li>November 15, 2023: Final Manuscript Due</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Michael Adams</strong>, Queensland University of Technology</li>
+        
+        <li><strong>Arthur Carvalho</strong>, Miami University</li>
+        
+        <li><strong>Daning Hu</strong>, South University of Science and Technology</li>
+        
+        <li><strong>Qiqi Jiang</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Jiewu Leng</strong>, Guangdong University of Technology</li>
+        
+        <li><strong>Rong Liu</strong>, Stevens Institute</li>
+        
+        <li><strong>Xin Luo</strong>, The University of New Mexico</li>
+        
+        <li><strong>Chih-Hung Peng</strong>, National Chengchi University</li>
+        
+        <li><strong>Zhe Shan</strong>, Miami University</li>
+        
+        <li><strong>Hemang Subramanian</strong>, Florida International University</li>
+        
+        <li><strong>Yinliang Tan</strong>, University of Houston</li>
+        
+        <li><strong>Chih-Ping Wei</strong>, National Taiwan University</li>
+        
+        <li><strong>Ling Xue</strong>, Georgia State University</li>
+        
+        <li><strong>Wenping Zhang</strong>, Remin University of China</li>
+        
+        <li><strong>Xi Zhao</strong>, Xi&#39;an Jiaotong University</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Decision Support Systems (DSS)</author>
+        </item>
+    </channel>
+</rss>

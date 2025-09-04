@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: socio-technical aspects</title>
+        <link>https://callsforpapers.org/tag/socio-technical-aspects</link>
+        <description>Latest calls for papers tagged with 'socio-technical aspects'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: socio-technical aspects</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/socio-technical-aspects</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Healthier Information Ecosystems]]></title>
+            <link>https://callsforpapers.org/call/jasist-healthier-information-ecosystems</link>
+            <guid>jasist-healthier-information-ecosystems</guid>
+            <pubDate>Fri, 12 Jan 2024 12:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Josh Introne</strong>, Syracuse University</p>
+        
+        <p><strong>Charisse L’Pree Corsbie-Massay</strong>, Syracuse University</p>
+        
+        <p><strong>Brian McKernan</strong>, Syracuse University</p>
+        
+        <p><strong>Deana Rohlinger</strong>, Florida State University</p>
+        
+        <p><strong>Olof Sundin</strong>, Lund University</p>
+        
+        <p><strong>Francesa Tripodi</strong>, UNC - Chapel Hill</p>
+        
+    
+    
+    <p>This special issue, &quot;Healthier Information Ecosystems,&quot; will focus on the interconnected nature of online pathologies, draw attention to the socio-technical aspects of information technology, and animate interdisciplinary approaches to addressing these problems. Similar to Buckminster Fuller’s mission of “World Game,” we want to aid in developing a wide variety of solutions (including but not limited to technical, political, social, and educational) to the wicked problems of our time to make “the world work for 100% of humanity, in the shortest period of time… without ecological offense or the disadvantage of anyone.”</p>
+    
+    <p>We invite contributions that address the socio-cultural embeddedness of the problems plaguing information ecosystems and provide new ways of thinking about and strategies to achieve a healthier global information environment. We are actively seeking a broad approach to issues of healthier information ecosystems, including both theoretical and applied, qualitative and quantitative, as well as inside and outside the discipline of information science and technology.</p>
+    
+    <p>As Rong Tang (Tang et al., 2021) and colleagues mentioned in their 2021 JASIST piece, information science is experiencing a paradigm shift and the need to better understand the socio-technical side of information technology is central to this change. There is no shortage of research examining the pathological aspects of our modern information ecosystems, covering a broad spectrum of socio-technical phenomena including (but not limited to) misinformation, toxicity, polarization, and extremism. Together, these phenomena might be considered to be a sign of an “unhealthy” information ecosystem. However, our collective understanding of the problem remains fragmented and incomplete, impeding our ability to identify and implement successful solutions.</p>
+    
+    <p>For this special issue, we seek papers that take an interdisciplinary approach to expanding our understanding of information ecosystems by answering such vital questions as: What does it mean to live in an unhealthy information ecosystem, is it possible to envision a healthier one, and how do we get from here to there?</p>
+    
+    <p>Papers should speak to the information science community, but do so in an interdisciplinary manner that centers on the interplay of information, technology, and society. We are eager to receive contributions from disciplines that might lend new perspectives, including (but not limited to) statistical physics, complex systems, biology, environmental science, economics, management science, organization science, communication, psychology, anthropology, sociology, and philosophy. All contributions should clarify how they can be used to help our information ecosystems work for the betterment of society at large, developing an inclusive and thus “healthy” ecosystem.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Definitions of healthy ecosystems</li>
+        
+        <li>Ethical models for evaluating the health of online information ecosystems</li>
+        
+        <li>Multilevel metrics for evaluating the health of online information ecosystems</li>
+        
+        <li>Strategies for creating healthy ecosystems</li>
+        
+        <li>Design and collective human dynamics</li>
+        
+        <li>Disrupting systems of mis- and dis-information in politics and democracy, including national, state, and local politics</li>
+        
+        <li>Educational interventions</li>
+        
+        <li>Information as a social, political, economic, and cultural phenomenon</li>
+        
+        <li>Interdisciplinary perspectives and approaches to information and media</li>
+        
+        <li>The role of information ecosystems in conspiracy theories</li>
+        
+        <li>Interactions between online and offline decision making and behavior</li>
+        
+        <li>Information architecture, interface design and psychological biases of information consumers</li>
+        
+        <li>Engaging with systems of power; who is advantaged and who is disadvantaged from current or future systems</li>
+        
+        <li>Complex dynamics of information, social interaction and cognition</li>
+        
+        <li>Social dynamics and digital media ecosystems</li>
+        
+        <li>How policy, economic, and market forces shape algorithm design and development</li>
+        
+        <li>Big data, open science, and their socio-cultural impacts</li>
+        
+        <li>Hijacking of user-generated content and/or AI-generated content</li>
+        
+        <li>Mis- and dis-information transference during the COVID-19 pandemic</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>May 15, 2023: Deadline Extended for submissions</li>
+        
+        <li>August 1, 2023: Decisions after first round of reviews</li>
+        
+        <li>January 1, 2024: Special Issue to be published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: decentralisation</title>
+        <link>https://callsforpapers.org/tag/decentralisation</link>
+        <description>Latest calls for papers tagged with 'decentralisation'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: decentralisation</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/decentralisation</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
+            <link>https://callsforpapers.org/call/jit-decentralised-information-systems-new-thinking-and-new-paradigms</link>
+            <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
+            <pubDate>Fri, 12 Jan 2024 12:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Ali Sunyaev</strong>, Karlsruhe Institute of Technology</p>
+        
+        <p><strong>Mary Lacity</strong>, University of Arkansas</p>
+        
+        <p><strong>Michel Avital</strong>, Copenhagen Business School</p>
+        
+    
+    
+    <p>This special issue seeks to explore and extend the conceptualisation, design, development, implementation and governance of contemporary “decentralised” information systems. “Decentralised” information systems are often seen as an important anti-thesis to “centralised” such systems. Modern societies and economies rely more highly on data, information systems, and technologies than ever. Pioneering organisations brought forth major milestones in developing and providing information technologies (e.g., TCP/IP and the Internet). However, with the significance of information technology increasing over the past decades, a small number of organisations have emerged as “tech giants” (e.g., Alphabet/Google or Meta/Facebook). Those organisations offer digital services and infrastructures for data processing that gained large-scale adoption by individuals, organisations, governments and society at large. As a result, societies, economies and technical systems became strongly dependent on services from a handful of organisations. The increase of the resulting dependencies leads to a centralisation of information systems. Highly-centralised information systems can result in global organisations and central social actors that abuse their power and pursue their own interests at the expense of others (e.g., by manipulation), exclude participation from social actors who disagree with them (e.g., by censorship) or invade their privacy through monitoring (e.g., by tracking actions of individuals on the internet). Highly-centralised information systems can also pose several further risks. For example, governance rights – such as rights of access, validation, software updates, data policies, and data overrides – may be centralised with few social actors in control. From a technical perspective, successful attacks on and crashes of central computing devices for network message propagation can interrupt communication in computing systems and even bring about system failures.</p>
+    
+    <p>To avert risks of over-centralization, the purposeful decentralisation of information systems has become a prominent topic of public discourse, for example, around Internet search, cloud computing, social media and financial systems. An information system’s degree of decentralisation refers to the degree to which the information system is independent of central actors and technical constructs. Several attempts have been made to design decentralised information systems to improve collaboration between actors while reducing dependencies on central authorities. Such endeavours include the development of decentralised token economies based on distributed ledger technology, decentralised identity management systems and distributed collaborative machine learning systems (e.g., federated learning systems). Although information systems decentralisation may resolve several of the above issues of over-centralisation, it also comes with its own challenges. For example, maintaining decentralised information systems can become difficult when multiple social actors need to update their technical components independently. Extensive data replication across technical components in decentralised information systems (e.g., in blockchain systems) can facilitate detecting and exploiting software vulnerabilities. If too many social actors have opposing ideas, decentralised governance risks never reaching an agreement. When only a few social actors participate in governance, information systems envisioned to be decentralised may de facto centralise.</p>
+    
+    <p>To purposefully achieve the benefits of information system decentralisation, we need to consider both the design of information systems as such and the behaviour of the social actors involved. Information systems decentralisation is driven by interdependent economic, political, social and technical factors. As an example of technical factors, the innovation of blockchain technology supports the decentralisation of asset ownership management. Changes to corporate information system designs, corporate ecosystems, and regulatory refinements are required to facilitate the development and adoption of such technical innovations. Such changes can lead to the centralisation of information systems in other aspects, such as their organisational structures. The entanglement of interdisciplinary factors tightly makes information systems decentralisation an interdisciplinary topic, relevant to several research fields, including computer science, organisational studies and information systems. The interdependence between information system designs and the influence of interdisciplinary factors makes the purposeful decentralisation of information systems an important yet complex undertaking that this special issue seeks new knowledge about.</p>
+    
+    <p>The complexity of information system decentralisation leads to various open questions, such as “how to achieve and sustain appropriate degrees of decentralisation of information systems so that individuals, organisations, and entire business ecosystems can benefit”, “how decentralised enterprise information systems need to be designed”, and “what technical know-how and involvement is required from actors to decentralise information systems appropriately”? This special issue seeks to improve the understanding of how the various factors affect the decentralisation of information systems used in business and other societal contexts, how different degrees of decentralisation of such information systems emerge over time, and how different degrees of decentralisation of information systems can affect business ecosystems, business processes, and societies overall. We invite applied, empirical, and theoretical research works that investigate information system decentralisation in a way that acknowledges its interdisciplinary nature and significantly contributes to understanding information system decentralisation, its manifestations, antecedents, and its impact on individuals and organisations, ecosystems and societies. We welcome and encourage submissions from researchers using diverse epistemological and methodological approaches. The manuscripts will be evaluated for the interestingness and novelty of their contributions.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Decentralised information systems for enterprises (e.g., information systems design and implementation for enterprises)</li>
+        
+        <li>Decentralised organisations and information systems decentralisation, including decentralised autonomous organizations (DAOs), decentralised platforms, token-driven governance and work practices</li>
+        
+        <li>Asset monetisation and similar information systems decentralisation, including web3, non-fungible tokens (NFTs) and digital assets</li>
+        
+        <li>Consumer privacy and information systems decentralisation, including self-sovereignty vs. self-responsibility</li>
+        
+        <li>The token economy, including tokenomics business models, effects of regulation and standardisation on decentralised token economies</li>
+        
+        <li>Digital resilience and information systems decentralisation, including critical information infrastructures</li>
+        
+        <li>Information systems decentralisation for the public good and social benefit, including decentralised voting, decentralised universal basic income (UBI) schemes and support of the decentralised supply of green energy by information systems</li>
+        
+        <li>Financial information systems decentralisation, including cryptocurrencies and community coins</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 15, 2024: Manuscript submission deadline</li>
+        
+        <li>April 19, 2024: First round reviews and decisions</li>
+        
+        <li>August 30, 2024: Second round (revision) submission deadline</li>
+        
+        <li>November 29, 2024: Second round reviews and decisions</li>
+        
+        <li>February 7, 2025: Final submission deadline for accepted manuscripts (subject to minor revisions)</li>
+        
+        <li>May 9, 2025: Final approval of manuscripts</li>
+        
+        <li>March 31, 2026: Online publication of special issue (anticipated date)</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Roman Beck</strong>, IT University of Copenhagen</li>
+        
+        <li><strong>Erran Carmel</strong>, American University</li>
+        
+        <li><strong>Sutirtha Chatterjee</strong>, University of Nevada</li>
+        
+        <li><strong>Klitos Christodoulou</strong>, University of Nicosia</li>
+        
+        <li><strong>Raffaele Ciriello</strong>, University of Sydney</li>
+        
+        <li><strong>Gilbert Fridgen</strong>, University of Luxembourg</li>
+        
+        <li><strong>Rob Gleasure</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Robert Wayne Gregory</strong>, University of Miami Herbert Business School</li>
+        
+        <li><strong>Hanna Halaburda</strong>, New York University</li>
+        
+        <li><strong>Niclas Kannengiesser</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Johann Kranz</strong>, Ludwig-Maximilians-University Munich</li>
+        
+        <li><strong>George Kuk</strong>, Nottingham Business School</li>
+        
+        <li><strong>Gerhard Schwabe</strong>, University of Zurich</li>
+        
+        <li><strong>Carsten Sørensen</strong>, London School of Economics</li>
+        
+        <li><strong>Alfred Taudes</strong>, Vienna University of Economics and Business</li>
+        
+        <li><strong>Jason Bennett Thatcher</strong>, Temple University</li>
+        
+        <li><strong>Nils Urbach</strong>, Universität Bayreuth</li>
+        
+        <li><strong>Wenqian Wang</strong>, Perdue</li>
+        
+        <li><strong>Edgar Whitley</strong>, London School of Economics</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+    </channel>
+</rss>

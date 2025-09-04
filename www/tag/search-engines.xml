@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: search engines</title>
+        <link>https://callsforpapers.org/tag/search-engines</link>
+        <description>Latest calls for papers tagged with 'search engines'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: search engines</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/search-engines</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
+            <link>https://callsforpapers.org/call/jasist-re-orientating-search-engine-research-in-information-science</link>
+            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
+            <pubDate>Fri, 12 Jan 2024 12:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Dirk Lewandowski</strong>, Hamburg University of Applied Sciences</p>
+        
+        <p><strong>Jutta Haider</strong>, Swedish School of Library and Information Science, University of Borås</p>
+        
+        <p><strong>Olof Sundin</strong>, Department of Arts and Cultural Sciences, Lund University</p>
+        
+    
+    
+    <p>General web search engines are an essential part of today&#39;s information infrastructure. They have made it possible to find almost anything on the Internet by typing a few keywords into an empty search box. In fact, search engines have become so integrated into devices and practices that you can get an answer before you even knew how to phrase the question. Search engines shape our lives and at the same time shape the society and culture we live in. We use them at work, in school, in research, in planning our vacations, in finding products, and in politics – just to name a few important areas.</p>
+    
+    <p>The search engine market is dominated by a few companies that have divided the market into regions: Baidu in China, Yandex in Russia and Google in much of the Western world. More competition between search engines is often called for, but is very difficult to achieve. On the other side, we find the content providers doing everything they can by employing various types of search engine optimization (SEO) to achieve the highest rank in the search engine results page when people search for information.</p>
+    
+    <p>In information science, search engines have been studied mainly in the subfield of information retrieval and information behaviour. The study of search engines has thus been a core task of information science since the discipline&#39;s beginnings in the 1960s and even before (Saracevic, 2009). With concepts such as relevance or precision and recall, the evaluation of effectiveness has often been the focus of research.</p>
+    
+    <p>While general web search engines play an extremely important role in today&#39;s information infrastructure - economically, culturally, politically, technically, etc. - and have become an integral part of daily life at many levels, information science has only partially embraced the role of general web search engines in society. Research is fragmented into different subfields of information science and these fields do not always communicate well with each other.</p>
+    
+    <p>In this special issue, we call on information science researchers to join us in the investigation of general web search engines, also from outside Information Retrieval. Why information science? Information science can look back on a long and rich tradition of studying search and search systems. Relevance, one of the most central concepts for even contemporary search engines, has its origin in the field (Saracevic, 1975). Still, there are some blind spots, especially what role different types of relevance play when it comes to search engines (cf. Sundin, Lewandowski &amp; Haider, 2021).</p>
+    
+    <p>These search engines index a plethora of content and have a very low quality threshold when it comes to including documents in their indexes. Therefore, ranking results in a way that benefits users and at the same time provides societal relevance is paramount. From a technical viewpoint, information retrieval research has contributed to search engines by developing indexing methods (e.g., Sparck Jones, 1972) and ranking algorithms, with link-based algorithms being based on central ideas from information science, namely citation analysis (Garfield, 1979).</p>
+    
+    <p>Evaluation campaigns such as TREC (Haarman &amp; Voorhees, 2006) and CLEF (Ferro &amp; Peters, 2019) have developed solid methods and procedures to thoroughly test search engines. On the user side, information science research has contributed to the development and understanding of search engines through developing information-seeking models (e.g., Bates, 1989; Kuhlthau, 2003; Belkin, Oddy &amp; Brooks, 1982) that are used in system development (White, 2016).</p>
+    
+    <p>Information behaviour research has also produced a large body of empirical work on people&#39;s behaviour when looking for and using information. Information science, with its rich tradition of studying these topics, provides a good starting point for investigating today&#39;s search engines (Haider &amp; Sundin, 2019; Lewandowski, Sünkler &amp; Schultheiß, 2020; Lewandowski et al., 2021). As the field is interdisciplinary, it can also can serve as a hub for integrating research from other fields.</p>
+    
+    <p>Search engines and their use (search) are studied in different disciplines and from different theoretical perspectives. In addition to information science, information studies, and LIS, the topic has been addressed in disciplines as diverse as science and technology studies (STS), media and communication studies, political science, economics, education, psychology, HCI, or informatics, to name a few. Media-centred and device-centered research exists alongside people-centred studies and research that focuses on society, economics, or politics.</p>
+    
+    <p>While some focus on search engine use in general (e.g., Halavais 2018), others examine specific commercial search engines such as Google (e.g., Hillis et al. 2012), as well as Yandex, Baidu, or various regional services (e.g., Zavadski &amp; Toepfl 2019). Some studies focus on specific groups such as teenagers (e.g., Andersson 2017) or the elderly (Sanchiz et al. 2017), settings, or professions (e.g., Gudmundsdottir and Hartlevik 2020), and others focus on search engine use in relation to other platforms such as social media (e.g., Delmastro &amp; Splendore 2021).</p>
+    
+    <p>More recently, with the emergence of critical algorithm studies and critical AI, the focus has been on the various ways in which Google in particular may be implicated in society&#39;s information disorders and problems with misinformation and algorithmic biases that reinforce prejudice and injustice (e.g., Noble, 2018; Puschmann 2019). Another angle has been the central role of Google in capitalism (Bilić 2018; Mager, 2012), while others have examined the role of commercial search engines in reinforcing confirmation biases, partisanship, or hostile media effects (e.g., Tripodi 2018).</p>
+    
+    <p>Although search engines have been studied from many different angles and for a relatively long time, the field is extremely scattered. Not only is there little awareness of each other&#39;s work across disciplines, but even across subfields there are few connections. Different disciplinary investigations run in parallel and rarely meet in a productive way. Furthermore, the more commercial search engines fade into the background, the more difficult it becomes to perceive and study them. Moreover, their functioning is largely opaque and beyond the control of society, which in many cases means that the data available for research remains speculative. This may require creative approaches to data collection and methodology, as well as research designs that are open to new influences and experimental tactics.</p>
+    
+    <p>This Call for Papers is based on the premise that different approaches need to benefit from each other. We are looking for contributions that broaden the respective disciplinary, methodological, or empirical perspectives to identify and explore commercial search engines and their use and role in society from new angles, or that bring together different approaches in original ways. In particular, we would like to encourage information science/information studies, broadly understood, to reposition themselves and contribute the discipline&#39;s expertise to shed light on the ever more powerful role of commercial search engines in almost all areas of society and everyday life, influencing not only how we know and what we know, but increasingly also how knowledge and information are created and communicated, to begin with. The guest-editors welcome papers representing a variety of approaches. Papers can be theoretical, conceptual or empirical or combinations thereof.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Social and cultural aspects of relevance</li>
+        
+        <li>Epistemic implications of search-engine use</li>
+        
+        <li>Search engine bias (e.g., in terms of race, gender, class) and marginalization</li>
+        
+        <li>Fair search</li>
+        
+        <li>Search engine providers’ responsibility and accountability</li>
+        
+        <li>Search engines as multi-sided platforms</li>
+        
+        <li>History of web search and web search engines</li>
+        
+        <li>Ethical considerations related to search engines</li>
+        
+        <li>Affect and emotional aspects of search engine use</li>
+        
+        <li>Information literacy related to search engines</li>
+        
+        <li>Search engines and specific groups (children, elderly,...)</li>
+        
+        <li>Search engines and studies of ignorance and information avoidance</li>
+        
+        <li>Search engines in everyday life and in social practices</li>
+        
+        <li>Search engines in educational settings</li>
+        
+        <li>Alternative approaches to concepts of indexing in search engines</li>
+        
+        <li>Search engines and the role of data voids</li>
+        
+        <li>Negotiations of search results (search engine optimization, paid search advertising)</li>
+        
+        <li>Search engine comparisons (e.g., comparing results tailored to different locations, comparing results from different search engines)</li>
+        
+        <li>Methods for search engine research</li>
+        
+        <li>Data collection for search engine studies</li>
+        
+        <li>Approaches to &#39;opening the Black Box of search engine rankings&#39;</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>November 30, 2022: Submissions due</li>
+        
+        <li>February 28, 2023: Decision after first round of reviews</li>
+        
+        <li>September 1, 2023: Special Issue to be published</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
+        </item>
+    </channel>
+</rss>

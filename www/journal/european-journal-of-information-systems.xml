@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | European Journal of Information Systems</title>
+        <link>https://callsforpapers.org/journal/european-journal-of-information-systems</link>
+        <description>Latest calls for papers for European Journal of Information Systems.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | European Journal of Information Systems</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/journal/european-journal-of-information-systems</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[The future of creating and distributing value in digital health ecosystems]]></title>
+            <link>https://callsforpapers.org/call/ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems</link>
+            <guid>ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems</guid>
+            <pubDate>Thu, 14 Aug 2025 03:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Lauri Wessel</strong>, European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)</p>
+        
+        <p><strong>Melanie Reuter-Oppermann</strong>, Maastricht University and ILS Mannheim gGmbH</p>
+        
+        <p><strong>Roxana Ologeanu-Taddei</strong>, TBS Education and University of Montpellier</p>
+        
+        <p><strong>Hannes Rothe</strong>, Rhine-Ruhr Institute of Information Systems, University of Duisburg-Essen</p>
+        
+        <p><strong>Sirkka L. Jarvenpaa</strong>, McCombs School of Business, The University of Texas at Austin</p>
+        
+    
+    
+    <p>Digital health is ‘associated with the use and development of digital technologies to improve health’ (Sunyaev et al., 2024; WHO, 2025). Use, development, and design of the according technologies have in recent years led to a considerable shift. Specifically, practices affecting an individuals’ health have been shifted from inside hospitals into wider digital health ecosystems where providers, patients, their loved ones, and laypersons interact to jointly shape how care is provided (Bardhan et al., 2020, 2025). IS research has greatly advanced in terms of better understanding the technological foundations of this shift such as artificial intelligence (AI) applications, sensor-based technologies, and smartphone apps (Angst et al., 2024; Baird et al., 2025; Bardhan et al., 2020; Sunyaev et al., 2024). However, at least two major trajectories of research arise from this shift and its underlying technologies. With this special issue, we are looking for papers that aim to fill these trajectories with life.</p>
+    
+    <p>First, creating value in digital health ecosystems demands to take into account diverse kinds of value to be potentially created through these technologies (Günther et al., 2017; Porter, 2010). Financial value is an important kind of value to be created in digital health ecosystems; however, it is by far not the sole kind of value that matters in these settings (Barrett et al., 2016). It is important to understand which kinds of value technology helps to create as well as how, why, and when it does so. Second, creating value is not per se synonymous with distributing it so that an important line of inquiry is about how to distribute value among ecosystem participants and over time (Yan et al., 2021; Yoo et al., 2024).</p>
+    
+    <p>We are asking for papers speaking to these topics and see two broad ways in which submissions to our special issue could do so. The first is cumulative and much in line with how research in IS and adjacent fields such as computer science, management, and medicine is conventionally done. It resides in furthering our understandings and toolkits for creating value in digital health ecosystems. However, the more data are available the higher is arguably the potential for misuse (Morley et al., 2020; Murdoch, 2021; Siala &amp; Wang, 2022), especially when genomic and bio data are in question (Jarvenpaa &amp; Markus, 2018; Rothe et al., 2019, 2023; Thiebes et al., 2020; Vassilakopoulou et al., 2018). This is why research about creating value from data logically calls for research about how to distribute value among ecosystems participants.</p>
+    
+    <p>The second way to address the abovementioned research trajectories is consistent with EJIS’s recent developments towards promoting ‘contrarian studies’ (Nandhakumar, 2010). We see much promise of contrarian studies investigating the creation and distribution of value in digital health ecosystems. Research about digital health is replete with assumptions touching on the outcomes that large volumes of data are likely to generate. This stands in stark contrast to the fact that on the ‘ground floor’ where most clinicians work the data are hardly ever available in the format, quality or volume needed to even remotely live up to these expectations (Jones, 2019). It is, therefore, paramount to offer fundamentally new ways of thinking about creating and distributing value in digital health ecosystems.</p>
+    
+    <p>These considerations lead us to a set of issues which we would like to address through putting together this special issue. These issues include but are not limited to:</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>The role of data management and data sharing in digital health ecosystems</li>
+        
+        <li>Designing for measuring kinds of value arising from new digital technologies like XR, 5G, web 3.0, and machine or hybrid learning in digital health ecosystems</li>
+        
+        <li>The role of digital health ecosystems during pandemics or natural disasters; specifically with an eye toward how data help to distribute value among ecosystem participants</li>
+        
+        <li>(Data-driven) change of professional roles, identities, and institutions in digital health ecosystems</li>
+        
+        <li>The difference between creating value for intervention vs. for prevention</li>
+        
+        <li>Design of inclusive and responsible digital technologies for healthcare and well-being</li>
+        
+        <li>Digital tools and use of digital health data to connect different participants of health service networks, to support decision making and to improve organizational processes</li>
+        
+        <li>Negative consequences of digital technologies implementation in healthcare, such as health givers burnout and patients’ anxiety</li>
+        
+        <li>The role of digital tools like virtual coaching for autonomy of health care providers and patients</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>March 1, 2026: Submission of extended abstracts/ declaration of interest to submit papers to the special issue. Submissions are subject for discussions at a paper development workshop in the context of ECIS 2026 in Milan, Italy.</li>
+        
+        <li>November 30, 2026: Full paper submission deadline</li>
+        
+        <li>March 31, 2027: First round decisions due</li>
+        
+        <li>September 30, 2027: Revisions due</li>
+        
+        <li>December 15, 2027: Second round decisions due</li>
+        
+        <li>February 28, 2028: Third round revisions due (if necessary)</li>
+        
+        <li>May 31, 2028: Final decisions due</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Bogdan Negoita</strong>, HEC Montréal</li>
+        
+        <li><strong>Camille Grangé</strong>, HEC Montréal</li>
+        
+        <li><strong>Cristina Trocin</strong>, Católica Porto Business School</li>
+        
+        <li><strong>Farkhondeh Hassan Doust</strong>, University of Auckland</li>
+        
+        <li><strong>Guy Paré</strong>, HEC Montréal</li>
+        
+        <li><strong>Heiko Gewald</strong>, HS Neu-Ulm</li>
+        
+        <li><strong>Maike Greve</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Johann Kranz</strong>, LMU</li>
+        
+        <li><strong>Manuel Trenz</strong>, University of Göttingen</li>
+        
+        <li><strong>Saeed Akhlaghpour</strong>, University of Queensland</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>European Journal of Information Systems (EJIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Designing our Digital Futures: Challenging Current Assumptions and Envisioning the Future of IS Design and Development]]></title>
+            <link>https://callsforpapers.org/call/ejis-designing-our-digital-futures</link>
+            <guid>ejis-designing-our-digital-futures</guid>
+            <pubDate>Fri, 08 Aug 2025 04:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
+        
+        <p><strong>Mahdi Fahmideh</strong>, University of Southern Queensland</p>
+        
+        <p><strong>Brian Fitzgerald</strong>, University of Limerick</p>
+        
+        <p><strong>Tabitha James</strong>, Virginia Tech</p>
+        
+        <p><strong>Kieran Conboy</strong>, University of Galway</p>
+        
+    
+    
+    <p>Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.</p>
+    
+    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems (Nandakumar, 2010; Ägerfalk, 2010). We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective (Conboy, 2019), examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
+    
+    <p>We invite papers on any and all aspects of IS design and development, but below are some guiding themes related to the call. The impact of AI on any or all aspects of IS design and development. The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development. The future of traditional software designers and developers and if and how these roles will exist in the medium to long term. Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods. Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’. New ‘Promethean’ methods that encourage thinking about and designing distant digital futures. Challenging the problem-solving paradigm in designing IS solutions. Embracing vision-oriented and future-oriented DSR. Critique or discussion of existing policies, laws and regulations governing aspects of IS design. Exemplars of IS design and development for digital futures. New methods for designing digital futures anchored in IS design and development heritage. New perspectives on responsible design and the design of responsible IS. Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications. Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics. Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>The role of emerging technologies in shaping the future of IS design</li>
+        
+        <li>The limits of current design and development methods</li>
+        
+        <li>Design science beyond the science of the artificial</li>
+        
+        <li>Design and development in an era of heightened responsibility</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>Invalid DateTime: Projected publication</li>
+        
+        <li>January 30, 2026: Initial paper submission deadline</li>
+        
+        <li>April 30, 2026: First round authors notification</li>
+        
+        <li>August 15, 2026: Invited revisions deadline</li>
+        
+        <li>November 30, 2026: Second round authors notification</li>
+        
+        <li>February 1, 2027: Final revision deadline</li>
+        
+        <li>April 1, 2027: Final authors notification</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Pär Ågerfalk</strong>, Uppsala University</li>
+        
+        <li><strong>David Agogo</strong>, University of Utah</li>
+        
+        <li><strong>Wasana Bandara</strong>, Queensland University of Technology</li>
+        
+        <li><strong>Richard Baskerville</strong>, Georgia State University</li>
+        
+        <li><strong>Laura Brandimarte</strong>, University of Arizona</li>
+        
+        <li><strong>Tone Bratteteig</strong>, University of Oslo</li>
+        
+        <li><strong>Noel Carroll</strong>, University of Galway</li>
+        
+        <li><strong>Shahla Ghobadi</strong>, University of Leeds</li>
+        
+        <li><strong>Asif Gill</strong>, University of Technology Sydney</li>
+        
+        <li><strong>Shirley Gregor</strong>, Australian National University</li>
+        
+        <li><strong>Samrat Gupta</strong>, IIM Ahmedabad</li>
+        
+        <li><strong>Alan Hevner</strong>, University of South Florida</li>
+        
+        <li><strong>Gwanhoo Lee</strong>, American University</li>
+        
+        <li><strong>Alexander Madche</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Sabine Matook</strong>, University of Queensland</li>
+        
+        <li><strong>Lorraine Morgan</strong>, University of Galway</li>
+        
+        <li><strong>Jeffrey Parsons</strong>, Memorial University of Newfoundland</li>
+        
+        <li><strong>Bala Ramesh</strong>, Georgia State University</li>
+        
+        <li><strong>Cynthia K. Riemenschneider</strong>, Baylor University</li>
+        
+        <li><strong>Sofia Schöbel</strong>, University of Osnabrück</li>
+        
+        <li><strong>Yash Shreshta</strong>, University of Lausanne</li>
+        
+        <li><strong>Thorsten Schoormann</strong>, Roskilde University</li>
+        
+        <li><strong>Klaas Jan Stol</strong>, University College Cork</li>
+        
+        <li><strong>Monica Chiarini Tremblay</strong>, William &amp; Mary</li>
+        
+        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
+        
+        <li><strong>Jan vom Brocke</strong>, University of Münster</li>
+        
+        <li><strong>Sofie Wass</strong>, University of Agder</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>European Journal of Information Systems (EJIS)</author>
+        </item>
+    </channel>
+</rss>

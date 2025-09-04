@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: enterprise systems</title>
+        <link>https://callsforpapers.org/tag/enterprise-systems</link>
+        <description>Latest calls for papers tagged with 'enterprise systems'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: enterprise systems</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/enterprise-systems</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[The Future of Information Systems in the Enterprise]]></title>
+            <link>https://callsforpapers.org/call/jit-the-future-of-information-systems-in-the-enterprise</link>
+            <guid>jit-the-future-of-information-systems-in-the-enterprise</guid>
+            <pubDate>Sun, 27 Oct 2024 03:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Robert Winter</strong>, University of St. Gallen</p>
+        
+        <p><strong>Karlheinz Kautz</strong>, RMIT University</p>
+        
+        <p><strong>Rajiv Sabherval</strong>, University of Arkansas</p>
+        
+        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
+        
+    
+    
+    <p>The use of information systems in the enterprise is the backbone of digital transformation and digital business, acting as the binding force between technological, managerial, and organizational innovations. The design and use of information systems in the enterprise evolve alongside technological advancements, shifting managerial strategies, and changing organisational forms and needs (Kotusev, 2019).</p>
+    
+    <p>&quot;Enterprise information systems&quot; has been the key term for information systems that transcend narrow functions, processes, products, markets, or concerns (e.g., ERP, SCM, CRM) and integrate these elements, supporting end-to- end, creating synergy, and ensuring coherence in the enterprise context (Cao et al., 2022; Robey et al., 2002).</p>
+    
+    <p>Given the rapid pace of change and advancements in emerging technologies (e.g., artificial intelligence, edge computing), alternative approaches to information systems used in enterprises (e.g., shadow IT, cloud/as-a-service), and structures beyond single enterprises (e.g., platforms, ecosystems), this special issue is focused on the future of information systems in the enterprise context and deliberately uses this broader term to emphasise our interest in both conventional enterprise information systems and alternative IS/IT solutions used for similar enterprise-level issues.</p>
+    
+    <p>Information systems in the enterprise have undergone fundamental paradigm shifts in the past four decades. First, the integration scope of such systems has expanded to include customer activities, supply chains, and business ecosystems (Ignatiadis &amp; Nandhakumar, 2007; Sambhara et al., 2022). Second, technological innovations have fundamentally changed the characteristics and positioning of information systems in the enterprise. These innovations include, among others, transitioning from on-premises to cloud-based operations, shifting from traditional license to as-a-service models, incorporating analytic and execution functionalities, integrating with or evolving into digital platforms, adopting edge computing, and adding artificial intelligence functionalities (Dong et al., 2009; Flak et al., 2022). These developments set the stage for future challenges, such as how enterprises will further enhance agility and innovation through emerging technologies.</p>
+    
+    <p>Third, managerial innovations require greater flexibility from information systems in the enterprise. These include, among others, the rise of digital platforms and business ecosystems, end-to-end process integration, agile business organization, and continuous development and integration (Aral et al., 2024). Fourth, new types of enterprise systems and other information systems in the enterprise enhance value creation for old and new stakeholders, justifying significant investment while necessitating more sophisticated approaches for their design, development, governance, and operations (see further, Nah et al., 2001; Scott &amp; Vessey, 2002; Dong et al., 2009; Pang et al., 2014; Haki et al., 2020; Mikalef et al., 2020; Flak et al., 2022).</p>
+    
+    <p>The future of information systems in the enterprise is complex. IS practice must adapt to technological, managerial, and organizational innovations while IS research may need to integrate insights from work on enterprise systems, enterprise architecture, as well as IS governance, digital transformation, IS sourcing, and digital platforms. This special issue aims to address these challenges by inviting disciplinary and interdisciplinary submissions that provide important insights on the direction and future of information systems in the enterprise. Specifically, &quot;The Future of Information Systems in the Enterprise&quot; special issue seeks to generate new knowledge that addresses key practical or theoretical challenges.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Alternatives to traditional enterprise information systems such as digital platforms, shadow IT, no-code/low-code, and how the challenges they bring for coherent management, and our understanding of enterprise-level systems</li>
+        
+        <li>Designing future information systems in the enterprise with concerns for both business and societal values</li>
+        
+        <li>Exploring how technological or organizational innovations in the enterprise / enterprise-level context challenge and extend existing knowledge and theory</li>
+        
+        <li>Extending and adapting the body of knowledge to encompass specific contexts, such as strategies, industries, ecosystems, or specific organizational configurations</li>
+        
+        <li>Horizontal (cross-unit) and vertical (technology-to-business) integration through information systems in the enterprise</li>
+        
+        <li>Specific integration challenges of technology, organization, and humans in the enterprise / enterprise-level context</li>
+        
+        <li>Intersection of artificial intelligence and other emerging technologies in information systems in the enterprise</li>
+        
+        <li>Intersection/relation of enterprise and platform/ecosystem-level systems and technologies, and the corresponding challenges such as for organizational strategy</li>
+        
+        <li>Understanding and harnessing the complexity of enterprise computing</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>November 1, 2024: Extended abstract submissions via email to the corresponding special issue editor for early feedback and invitation to the special issue paper development workshop.</li>
+        
+        <li>November 15, 2024: Results are announced.</li>
+        
+        <li>December 15, 2024: Special issue paper development workshop at ICIS 2024.</li>
+        
+        <li>April 1, 2025: First-round submissions.</li>
+        
+        <li>August 1, 2025: First-round decisions.</li>
+        
+        <li>December 1, 2025: Second-round submissions.</li>
+        
+        <li>February 1, 2026: Second-round decisions (Papers are either acceptable with minor changes or rejected).</li>
+        
+        <li>May 1, 2026: Final versions (Final decisions and online publication soon afterwards).</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Pär Ågerfalk</strong>, Uppsala University</li>
+        
+        <li><strong>Rainer Alt</strong>, University of Leipzig</li>
+        
+        <li><strong>Vanessa Cooper</strong>, RMIT University Melbourne</li>
+        
+        <li><strong>Rob Gleasure</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Kazem Haki</strong>, HES Geneva</li>
+        
+        <li><strong>Taha Havakhor</strong>, McGill University</li>
+        
+        <li><strong>Hartmut Hoehle</strong>, University of Mannheim</li>
+        
+        <li><strong>Sherah Kurnia</strong>, University of Melbourne</li>
+        
+        <li><strong>Carmen Leong</strong>, UNSW</li>
+        
+        <li><strong>Jan Mendling</strong>, Humboldt-Universität</li>
+        
+        <li><strong>Annette Mills</strong>, University of Canterbury</li>
+        
+        <li><strong>Petter Nielsen</strong>, University of Oslo</li>
+        
+        <li><strong>Ralf Plattfaut</strong>, University Duisburg-Essen</li>
+        
+        <li><strong>Matti Rossi</strong>, Aalto University</li>
+        
+        <li><strong>Helana Scheepers</strong>, Swinburne University of Technology</li>
+        
+        <li><strong>Priya Seetharaman</strong>, Indian Institute of Management</li>
+        
+        <li><strong>Pankaj Setia</strong>, Indian Institute of Management</li>
+        
+        <li><strong>Matthias Söllner</strong>, University of Kassel</li>
+        
+        <li><strong>Zach Steelman</strong>, University of Arkansas</li>
+        
+        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+    </channel>
+</rss>

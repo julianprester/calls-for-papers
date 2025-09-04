@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: challenges</title>
+        <link>https://callsforpapers.org/tag/challenges</link>
+        <description>Latest calls for papers tagged with 'challenges'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: challenges</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/challenges</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Managing the Individual, Organizational, and Societal Challenges of Generative AI: Utopian, Dystopian, Neutropian Perspectives]]></title>
+            <link>https://callsforpapers.org/call/jais-managing-the-individual-organizational-and-societal-challenges-of-generative-ai-utopian-dystopian-neutropian-perspectives</link>
+            <guid>jais-managing-the-individual-organizational-and-societal-challenges-of-generative-ai-utopian-dystopian-neutropian-perspectives</guid>
+            <pubDate>Tue, 13 Jun 2023 12:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Varun Grover</strong>, University of Arkansas</p>
+        
+        <p><strong>Arpan Kumar Kar</strong>, Indian Institute of Technology Delhi</p>
+        
+        <p><strong>Rajiv Sabherwal</strong>, University of Arkansas</p>
+        
+        <p><strong>Spyros Angelopoulos</strong>, Durham University</p>
+        
+        <p><strong>Hartmut Hoehle</strong>, University of Mannheim</p>
+        
+        <p><strong>Anik Mukherjee</strong>, Indian Institute of Management</p>
+        
+    
+    
+    <p>The origins of generative AI (GAI) can be traced back to the 1950s, when Alan Turing proposed a test to determine whether a machine could be perceived as intelligent enough to generate responses to questions in a way indistinguishable from a human. Later, in the 1970s, researchers developed more advanced models capable of producing more realistic and coherent outcomes. Contemporary GAI models are based on state-of-the-art neural network architectures. They combine such architectures to develop large models that outperform existing benchmarked ones. Contemporary GAI solutions can produce large amounts of contextual outputs on any specific topic. They are highly trained and sophisticated, enabling users to produce various types of AI-generated content. Although GAI has been around for a while, recent developments have brought the potential of such solutions to the forefront. In particular, LLMs have the potential to transform the way we develop textual content and communicate with one another.</p>
+    
+    <p>The ongoing discourse on GAI seems to extol the promises of AI and the dangers. Our goal for this Special Issue is to offer a careful examination of the challenges faced in managing this powerful set of technologies for individuals, organizations, and society. Many of the challenges around GAI concern data. As per a Forbes report, over 90% of internet data will be produced by GAI models, triggering serious concerns about harmful and abusive content generation. Most current GAI-triggered use involves chat-based digital assistants. While the outcome of GAI in these digital assistant-based applications is indeed remarkable, their effectiveness depends on the level of task specificity and the need for information synthesis.</p>
+    
+    <p>At the individual level, a number of challenges exist on how to effectively use GAI to augment individual productivity. For instance, how can GAI-based interactions positively or negatively affect customer experiences, how can GAI augment (vs. replace) human skills, and broader questions of how over-reliance on GAI systems may adversely impact the cognitive inability of users and learners. At the organizational level, there are many challenges around governance. For instance, how can we govern the quality of content by GAI, how can the adoption of GAI lead to disruption, how do we set up appropriate governance structures to manage GAI projects, and how can we avoid unintended consequences of GAI adoption in firms? At the societal level, there are extensive challenges around misinformation, bias, and privacy. Our broad goal for the special issue is to attract papers that articulate the challenges theoretically and study them empirically, while making a strong contribution to the theory and practice in the deployment of GAI.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Challenges in managing GAI for individuals, organizations, and society</li>
+        
+        <li>Impact of GAI on individual productivity and customer experiences</li>
+        
+        <li>Governance challenges related to content quality generated by GAI</li>
+        
+        <li>Misinformation and privacy issues at the societal level</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>August 31, 2024: Article Submission Deadline</li>
+        
+        <li>November 30, 2024: First Review</li>
+        
+        <li>July 31, 2026: Article Final Decision</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Shahriar Akter</strong>, University of Wollongong</li>
+        
+        <li><strong>Hillol Bala</strong>, Indiana University</li>
+        
+        <li><strong>Kevin Bauer</strong>, University of Mannheim</li>
+        
+        <li><strong>Roberta Bernardi</strong>, University of Bristol</li>
+        
+        <li><strong>Michael Chau</strong>, The University of Hong Kong</li>
+        
+        <li><strong>Alain Chong</strong>, University of Nottingham Ningbo China</li>
+        
+        <li><strong>Kieran Conboy</strong>, National University of Ireland Galway</li>
+        
+        <li><strong>Yogesh Dwivedi</strong>, Swansea University</li>
+        
+        <li><strong>Amany Elbanna</strong>, Royal Holloway University of London</li>
+        
+        <li><strong>Weiguo (Patrick) Fan</strong>, University of Iowa</li>
+        
+        <li><strong>Sumeet Gupta</strong>, Indian Institute of Management Raipur</li>
+        
+        <li><strong>Karlheinz Kautz</strong>, RMIT University</li>
+        
+        <li><strong>Stan Karaniosis</strong>, University of Queensland</li>
+        
+        <li><strong>Yeongin Kim</strong>, Virginia Commonwealth</li>
+        
+        <li><strong>Ajay Kumar</strong>, EM Lyon</li>
+        
+        <li><strong>Marijn Janssen</strong>, TU Delft</li>
+        
+        <li><strong>Agam Gupta</strong>, Indian Institute of Technology Delhi</li>
+        
+        <li><strong>Shivam Gupta</strong>, NEOMA Business School</li>
+        
+        <li><strong>Taha Havakhor</strong>, McGill University</li>
+        
+        <li><strong>Mary Lacity</strong>, University of Arkansas</li>
+        
+        <li><strong>Xin (Robert) Luo</strong>, University of New Mexico</li>
+        
+        <li><strong>Patrick Mikalef</strong>, Norwegian University of Science &amp; Tech</li>
+        
+        <li><strong>Ilias O Pappas</strong>, University of Agder</li>
+        
+        <li><strong>Uthaysankar Sivarajah</strong>, University of Bradford</li>
+        
+        <li><strong>Kai Spohrer</strong>, Frankfurt School of Finance and Management</li>
+        
+        <li><strong>Sujeet Sharma</strong>, Indian Institute of Management Nagpur</li>
+        
+        <li><strong>Samuel Fosso Wamba</strong>, Toulouse Business School</li>
+        
+        <li><strong>Amber Young</strong>, University of Arkansas</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of the Association for Information Systems (JAIS)</author>
+        </item>
+    </channel>
+</rss>

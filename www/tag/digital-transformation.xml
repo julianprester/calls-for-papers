@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: digital transformation</title>
+        <link>https://callsforpapers.org/tag/digital-transformation</link>
+        <description>Latest calls for papers tagged with 'digital transformation'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: digital transformation</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/digital-transformation</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Critical National Infrastructure]]></title>
+            <link>https://callsforpapers.org/call/jmis-critical-national-infrastructure</link>
+            <guid>jmis-critical-national-infrastructure</guid>
+            <pubDate>Mon, 26 May 2025 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Jason Chan</strong>, University of Minnesota</p>
+        
+        <p><strong>Alan Dennis</strong>, Indiana University</p>
+        
+        <p><strong>Daniel Gozman</strong>, The University of Sydney</p>
+        
+        <p><strong>Kalle Lyytinen</strong>, Case Western Reserve University</p>
+        
+    
+    
+    <p>Critical National Infrastructure (CNI) encompasses essential systems and services that are vital for societal stability, economic security, and national safety. The increasing digitalization of these infrastructures has introduced unprecedented efficiencies that have transformed economies, enabling faster service delivery, improved public safety, reduced corruption, and enhanced crisis response through data sharing and analytics.</p>
+    
+    <p>The United Nations Development Programme (UNDP) supports digital public infrastructure (DPI) as a driver for financial inclusion, social protection, and governance reforms. Digital advancements have also driven sustainability, with smart grids, environmental monitoring, and optimized resource management with potential for reducing carbon footprints and increasing resilience.</p>
+    
+    <p>Furthermore, technological innovation in financial services, transportation, and energy has the potential to stimulate economic growth through enabling new business models. While the increasing digitalization of Critical National Infrastructure has introduced efficiencies, it also created unprecedented vulnerabilities, including cyberattacks, cascading failures, and systemic interdependencies that amplify risks.</p>
+    
+    <p>Recognizing these challenges, governments in the UK, US, and Australia have developed regulatory frameworks such as the UK’s National Cyber Security Strategy, the US Cybersecurity and Infrastructure Security Agency (CISA) guidelines, and Australia’s Security of Critical Infrastructure Act (SOCI Act) to enhance resilience and mitigate emerging threats.</p>
+    
+    <p>CNI spans multiple critical sectors, each with unique security and operational challenges, including energy and utilities, telecommunications and information networks, financial services and payments, healthcare and public health, transportation and logistics, emergency services and law enforcement, and government and public sector infrastructure.</p>
+    
+    <p>As efforts to build CNIs have accelerated, issues around CNI security, resilience, and adaptability are becoming increasingly critical. At the same time significant research gaps remain in cybersecurity practices at the system level, governance, integration and management of emerging technologies such as Autonomous Driving Systems, and threat intelligence sharing.</p>
+    
+    <p>Addressing these gaps is essential for policymakers, businesses, and infrastructure operators to mitigate threats, optimize performance, and ensure long-term continuity.</p>
+    
+    <p>This Special Section aims to advance research on the design, adoption, and impact of digital solutions and services critical in building CNI to enhance governance, economic development, and public service delivery and safeguard CNI. We invite interdisciplinary contributions that explore how digital technologies and services can enhance CNI or impose new risks and challenges for the operation of CNIs. Papers that do not explicitly address or theorize about CNI design and operation and their digital components will be returned without review.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Emerging Technologies and Digital Transformation: Innovative technologies such as Artificial Intelligence, Digital Twins, Blockchain and IoT are transforming CNI, enabling predictive analytics, smart grids, and cyber-physical security enhancements.</li>
+        
+        <li>Cybersecurity, Resilience, and Risk Management: Cyber threats such as ransomware, insider attacks, and cyber-physical vulnerabilities continue to grow. Risk assessment frameworks and mitigation strategies are essential.</li>
+        
+        <li>Governance, Policy, and Public-Private Partnerships: CNI governance requires polycentric collaborative efforts between government agencies, private sector entities, and international stakeholders.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>June 1, 2025: Expression of Interest: one-page abstract, optional</li>
+        
+        <li>January 31, 2026: Initial Submission Due</li>
+        
+        <li>May 31, 2026: Notification of First Round Decision</li>
+        
+        <li>September 30, 2026: 1st Resubmission Due</li>
+        
+        <li>January 31, 2027: Notification of Second Round Decision</li>
+        
+        <li>April 30, 2027: 2nd Resubmission Due</li>
+        
+        <li>June 15, 2027: Final Decision</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Resistance to Digital Transformation]]></title>
+            <link>https://callsforpapers.org/call/isj-understanding-resistance-to-digital-transformation</link>
+            <guid>isj-understanding-resistance-to-digital-transformation</guid>
+            <pubDate>Thu, 13 Mar 2025 10:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Francesco Appio</strong>, Paris School of Business</p>
+        
+        <p><strong>Luca Gastaldi</strong>, Politecnico di Milano</p>
+        
+        <p><strong>Federico Iannacci</strong>, University of Sussex</p>
+        
+    
+    
+    <p>Digital transformation has become a major point of discussion in organizations and broader society, yet its overall desirability and consequences remain open to debate. While many practitioners and scholars see these initiatives as avenues for enhancing efficiency, competitiveness, and customer engagement, there is also growing recognition of the complexities, paradoxes, and unintended effects they may introduce. Indeed, the acceleration of digital projects—especially following the COVID-19 pandemic—can invite various forms of resistance, leading to stalled progress and disruptions.</p>
+    
+    <p>Importantly, digital transformation is increasingly recognized as an overarching and longitudinal process or strategic goal—rather than a one-time deployment of new technological tools—and requires shifts in both capabilities and institutional frameworks. Because this transformation unfolds over time, people may be resisting not only &#39;technology,&#39; but also the evolving cultural, structural, and strategic changes that accompany it. More precisely, resistance is not solely a matter of technical or budgetary constraints; it intersects with organizational culture, leadership approaches, and individual behaviors. The emergence of new technologies—such as Artificial Intelligence (AI), blockchain, the Internet of Things (IoT), and digital twins—can exacerbate concerns about data transparency, automation, &#39;black box&#39; processes, and ethical dilemmas. For some, these technologies prompt anxiety around potential job displacement or fears that advanced automation could undermine trust. In other situations, hurried or incomplete rollouts of new platforms—such as remote work tools—may create friction and lead employees to question their effectiveness.</p>
+    
+    <p>Studies also highlight the role of deeply held cultural assumptions and legacy mindsets in impeding organizational shifts. In particular, environments that do not support collaboration and experimentation can intensify pushback against change. Generational differences often add another layer of complexity, as digital-native employees may clash with colleagues who have limited exposure to or interest in new technologies. Approaches such as gamification and behavioral nudges show potential to lessen opposition, although their effectiveness remains an active area of inquiry. Additionally, collective pushback or digital boycotts—where groups of employees, consumers, or communities reject new platforms—underscore the importance of trust, data governance, and broader social considerations.</p>
+    
+    <p>Sustaining digital change over the long run often requires leadership that can manage both the technical and human dimensions of transformation, alongside an organizational culture geared toward continuous learning. Many organizations strive to integrate ongoing upskilling, transparent communication, and stakeholder engagement to reduce uncertainty and foster participation. By examining how and why employees, managers, or external stakeholders resist digital initiatives, researchers can illuminate strategies for balancing innovation with well-founded concerns and ensuring that transformations proceed in a manner consistent with ethical and social expectations.</p>
+    
+    <p>This special issue invites work that addresses a broad range of questions around resistance to digital transformation. Rather than framing such transformations as inherently beneficial, we encourage submissions that critically examine these processes, questioning when they should (or should not) be pursued and how resistance emerges in diverse contexts. Ultimately, we hope to generate richer insights into how organizations, policymakers, and societies can better navigate the opportunities and risks posed by digital change.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Cultural inertia and institutional friction</li>
+        
+        <li>Generational mismatches and skill gaps</li>
+        
+        <li>Augmentation vs. Automation</li>
+        
+        <li>Gamification and behavioral nudges</li>
+        
+        <li>Digital boycotts and collective pushback</li>
+        
+        <li>Organizational learning and adaptation</li>
+        
+        <li>Distinguishing digital transformation from general IS/IT resistance</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>July 31, 2025: Extended abstract submission for early feedback</li>
+        
+        <li>October 1, 2025: Full paper submission deadline</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Martin Adam</strong>, Georg-August-Universität Göttingen</li>
+        
+        <li><strong>Ravi Patnayakuni</strong>, University of Alabama in Huntsville</li>
+        
+        <li><strong>Andy Du</strong>, University of Massachusetts Boston</li>
+        
+        <li><strong>Dimitra Petrakaki</strong>, University of Sussex</li>
+        
+        <li><strong>Sven Laumer</strong>, Friedrich-Alexander-Universität</li>
+        
+        <li><strong>Luiz Antonio Joia</strong>, Brazilian School of Public and Business Administration at FGV</li>
+        
+        <li><strong>Shahla Ghobadi</strong>, University of Leeds</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Information Systems Journal (ISJ)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Information Systems in the Enterprise]]></title>
+            <link>https://callsforpapers.org/call/jit-the-future-of-information-systems-in-the-enterprise</link>
+            <guid>jit-the-future-of-information-systems-in-the-enterprise</guid>
+            <pubDate>Sun, 27 Oct 2024 03:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Robert Winter</strong>, University of St. Gallen</p>
+        
+        <p><strong>Karlheinz Kautz</strong>, RMIT University</p>
+        
+        <p><strong>Rajiv Sabherval</strong>, University of Arkansas</p>
+        
+        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
+        
+    
+    
+    <p>The use of information systems in the enterprise is the backbone of digital transformation and digital business, acting as the binding force between technological, managerial, and organizational innovations. The design and use of information systems in the enterprise evolve alongside technological advancements, shifting managerial strategies, and changing organisational forms and needs (Kotusev, 2019).</p>
+    
+    <p>&quot;Enterprise information systems&quot; has been the key term for information systems that transcend narrow functions, processes, products, markets, or concerns (e.g., ERP, SCM, CRM) and integrate these elements, supporting end-to- end, creating synergy, and ensuring coherence in the enterprise context (Cao et al., 2022; Robey et al., 2002).</p>
+    
+    <p>Given the rapid pace of change and advancements in emerging technologies (e.g., artificial intelligence, edge computing), alternative approaches to information systems used in enterprises (e.g., shadow IT, cloud/as-a-service), and structures beyond single enterprises (e.g., platforms, ecosystems), this special issue is focused on the future of information systems in the enterprise context and deliberately uses this broader term to emphasise our interest in both conventional enterprise information systems and alternative IS/IT solutions used for similar enterprise-level issues.</p>
+    
+    <p>Information systems in the enterprise have undergone fundamental paradigm shifts in the past four decades. First, the integration scope of such systems has expanded to include customer activities, supply chains, and business ecosystems (Ignatiadis &amp; Nandhakumar, 2007; Sambhara et al., 2022). Second, technological innovations have fundamentally changed the characteristics and positioning of information systems in the enterprise. These innovations include, among others, transitioning from on-premises to cloud-based operations, shifting from traditional license to as-a-service models, incorporating analytic and execution functionalities, integrating with or evolving into digital platforms, adopting edge computing, and adding artificial intelligence functionalities (Dong et al., 2009; Flak et al., 2022). These developments set the stage for future challenges, such as how enterprises will further enhance agility and innovation through emerging technologies.</p>
+    
+    <p>Third, managerial innovations require greater flexibility from information systems in the enterprise. These include, among others, the rise of digital platforms and business ecosystems, end-to-end process integration, agile business organization, and continuous development and integration (Aral et al., 2024). Fourth, new types of enterprise systems and other information systems in the enterprise enhance value creation for old and new stakeholders, justifying significant investment while necessitating more sophisticated approaches for their design, development, governance, and operations (see further, Nah et al., 2001; Scott &amp; Vessey, 2002; Dong et al., 2009; Pang et al., 2014; Haki et al., 2020; Mikalef et al., 2020; Flak et al., 2022).</p>
+    
+    <p>The future of information systems in the enterprise is complex. IS practice must adapt to technological, managerial, and organizational innovations while IS research may need to integrate insights from work on enterprise systems, enterprise architecture, as well as IS governance, digital transformation, IS sourcing, and digital platforms. This special issue aims to address these challenges by inviting disciplinary and interdisciplinary submissions that provide important insights on the direction and future of information systems in the enterprise. Specifically, &quot;The Future of Information Systems in the Enterprise&quot; special issue seeks to generate new knowledge that addresses key practical or theoretical challenges.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Alternatives to traditional enterprise information systems such as digital platforms, shadow IT, no-code/low-code, and how the challenges they bring for coherent management, and our understanding of enterprise-level systems</li>
+        
+        <li>Designing future information systems in the enterprise with concerns for both business and societal values</li>
+        
+        <li>Exploring how technological or organizational innovations in the enterprise / enterprise-level context challenge and extend existing knowledge and theory</li>
+        
+        <li>Extending and adapting the body of knowledge to encompass specific contexts, such as strategies, industries, ecosystems, or specific organizational configurations</li>
+        
+        <li>Horizontal (cross-unit) and vertical (technology-to-business) integration through information systems in the enterprise</li>
+        
+        <li>Specific integration challenges of technology, organization, and humans in the enterprise / enterprise-level context</li>
+        
+        <li>Intersection of artificial intelligence and other emerging technologies in information systems in the enterprise</li>
+        
+        <li>Intersection/relation of enterprise and platform/ecosystem-level systems and technologies, and the corresponding challenges such as for organizational strategy</li>
+        
+        <li>Understanding and harnessing the complexity of enterprise computing</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>November 1, 2024: Extended abstract submissions via email to the corresponding special issue editor for early feedback and invitation to the special issue paper development workshop.</li>
+        
+        <li>November 15, 2024: Results are announced.</li>
+        
+        <li>December 15, 2024: Special issue paper development workshop at ICIS 2024.</li>
+        
+        <li>April 1, 2025: First-round submissions.</li>
+        
+        <li>August 1, 2025: First-round decisions.</li>
+        
+        <li>December 1, 2025: Second-round submissions.</li>
+        
+        <li>February 1, 2026: Second-round decisions (Papers are either acceptable with minor changes or rejected).</li>
+        
+        <li>May 1, 2026: Final versions (Final decisions and online publication soon afterwards).</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Pär Ågerfalk</strong>, Uppsala University</li>
+        
+        <li><strong>Rainer Alt</strong>, University of Leipzig</li>
+        
+        <li><strong>Vanessa Cooper</strong>, RMIT University Melbourne</li>
+        
+        <li><strong>Rob Gleasure</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Kazem Haki</strong>, HES Geneva</li>
+        
+        <li><strong>Taha Havakhor</strong>, McGill University</li>
+        
+        <li><strong>Hartmut Hoehle</strong>, University of Mannheim</li>
+        
+        <li><strong>Sherah Kurnia</strong>, University of Melbourne</li>
+        
+        <li><strong>Carmen Leong</strong>, UNSW</li>
+        
+        <li><strong>Jan Mendling</strong>, Humboldt-Universität</li>
+        
+        <li><strong>Annette Mills</strong>, University of Canterbury</li>
+        
+        <li><strong>Petter Nielsen</strong>, University of Oslo</li>
+        
+        <li><strong>Ralf Plattfaut</strong>, University Duisburg-Essen</li>
+        
+        <li><strong>Matti Rossi</strong>, Aalto University</li>
+        
+        <li><strong>Helana Scheepers</strong>, Swinburne University of Technology</li>
+        
+        <li><strong>Priya Seetharaman</strong>, Indian Institute of Management</li>
+        
+        <li><strong>Pankaj Setia</strong>, Indian Institute of Management</li>
+        
+        <li><strong>Matthias Söllner</strong>, University of Kassel</li>
+        
+        <li><strong>Zach Steelman</strong>, University of Arkansas</li>
+        
+        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital Transformation as Geo-Political, Organizational and Technological Nexus]]></title>
+            <link>https://callsforpapers.org/call/jit-digital-transformation-as-geo-political-organizational-and-technological-nexus</link>
+            <guid>jit-digital-transformation-as-geo-political-organizational-and-technological-nexus</guid>
+            <pubDate>Fri, 12 Jan 2024 12:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Wendy L. Currie</strong>, Audencia Business School</p>
+        
+        <p><strong>Carol Hsu</strong>, The University of Sydney</p>
+        
+        <p><strong>Ben Van Vliet</strong>, Illinois Institute of Technology</p>
+        
+        <p><strong>Vishanth Weerakkody</strong>, University of Bradford</p>
+        
+    
+    
+    <p>This special issue focuses on the currently ongoing – and recently COVID-19 -accelerated – digital transformation(s) of economy and society. That is, how industry sectors and societal domains are reshaped by the geo-political, organizational and technological nexus that is &#39;digital transformation&#39;. The literature on digital transformation is interdisciplinary, spanning fields such as information systems (Vial, 2019), management (Hanelt et al., 2021) and other business disciplines (Verhoef et al., 2021). However, this work&#39;s broad range and somewhat incoherent framings show a lack of consensus of &#39;digital transformation&#39; as both a theoretical concept and an empirical field (Warner and Wager, 2019).</p>
+    
+    <p>Thus far, most digital transformation studies have focused on the organization as the unit of analysis. Why a single definition of digital transformation may be elusive, the digital transformation seems most often used to as a just a shorthand for IT-enabled organizational transformation (Besson and Rowe, 2012; Wessel et al, 2020), an organization-centric approach. Digital transformation processes increasingly take place at wider scales, beyond individual organizations and their business processes. Digital transformation(s) affect financial markets (Currie et al., 2018), healthcare (Pouloudi et al., 2016) or government (Weerakkody et al., 2016). Digital transformation(s) hence often have disruptive effects in relation to industry structures, corporate strategy, consumer experiences, policies and overall economic and societal trajectories (Legner et al., 2017; Zuboff, 2015; Vial, 2019).</p>
+    
+    <p>In this special issue, we invite especially that a) study digital transformation as a process (preferred over simplistic &#39;cause-and-effect&#39; hypotheses), and b) understand digital transformation in a broad sense, that is, in relation to industries, governments, economies and societies (preferred over organization-centric approaches).</p>
+    
+    <p>We are interested in work that understands digital transformation as a process. Studies of interest may use process theories, process analyses and/or process data to provide explanations (Langley, 1999). Process studies offer a means of conceptualizing events and identifying patterns (Gehman et al., 2018). These aspects have often been neglected in IS studies in favour of simplistic variance models (Karpovsky and Galliers 2015). Approaching digital transformation fundamentally as a process promises to produce theoretical accounts with nuanced explanations of change (Weick and Quinn, 1999). Variance models (and other types of models) are also welcomed to the special issue. Still, they will be expected to pay attention to digital transformation as a process and not to neglect the relevant processual patterns or temporal order.</p>
+    
+    <p>We are interested in work that studies digital transformation in a broad sense. Such work may see digital transformation as a nexus of technological, organizational, industrial, economic, governmental, societal and geo-political changes. This nexus invites theoretical and empirical studies which extend organization-centric views to understanding wider processes in which digital IT plays a key role. Emerging IT (artificial intelligence and machine learning, robotics and automation, blockchains and cryptocurrencies, meta- verses, remote working technologies, etc.) may generate specific opportunities for such research. Digital transformations come with significant challenges for businesses and societies, governments, and regulators across jurisdictions. Organization-centric approaches are welcomed to the special issue but must pay attention to wider developments and contexts and argue why the organization is the best locus of study.</p>
+    
+    <p>In preparing papers for this special issue, authors are expected to engage with the concept of digital transformation as a process and provide critical theoretical and/or empirical analysis extending beyond IT-driven change of isolated business processes.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Study digital transformation as a process</li>
+        
+        <li>Understand digital transformation in a broad sense, in relation to industries, governments, economies and societies</li>
+        
+        <li>Digital transformation of industry sectors (e.g., health, finance, retail)</li>
+        
+        <li>Digital transformation driven by ecosystems and platforms</li>
+        
+        <li>Regulation and governance of digital transformation</li>
+        
+        <li>Process studies on digital transformation identifying episodic and/or continuous changes</li>
+        
+        <li>Revealing unintended consequences of digital transformation or the corresponding policies, strategies, and operations</li>
+        
+        <li>Multi-disciplinary studies on digital transformation, especially if leading to novel theoretical perspectives</li>
+        
+        <li>Extreme or revealing digital transformation cases or scenarios</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>April 15, 2022: Abstracts submissions (optional; authors are invited to submit extended abstracts of papers for early reactions)</li>
+        
+        <li>August 15, 2022: First-round submissions</li>
+        
+        <li>October 20, 2022: First-round decisions</li>
+        
+        <li>February 1, 2023: Second-round submissions</li>
+        
+        <li>April 15, 2023: Second-round decisions (papers are either acceptable with minor changes or rejected at this stage)</li>
+        
+        <li>July 1, 2023: Final versions due (final decisions and online publication soon afterwards)</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+    </channel>
+</rss>

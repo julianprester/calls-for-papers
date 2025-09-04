@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: is sourcing</title>
+        <link>https://callsforpapers.org/tag/is-sourcing</link>
+        <description>Latest calls for papers tagged with 'is sourcing'.</description>
+        <lastBuildDate>Thu, 04 Sep 2025 03:02:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: is sourcing</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/is-sourcing</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Emerging Technologies and IS Sourcing]]></title>
+            <link>https://callsforpapers.org/call/jit-emerging-technologies-and-is-sourcing</link>
+            <guid>jit-emerging-technologies-and-is-sourcing</guid>
+            <pubDate>Fri, 12 Jan 2024 12:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Julia Kotlarsky</strong>, University of Auckland</p>
+        
+        <p><strong>Ilan Oshri</strong>, University of Auckland</p>
+        
+        <p><strong>Oliver Krancher</strong>, IT University of Copenhagen</p>
+        
+        <p><strong>Rajiv Sabherwal</strong>, University of Arkansas</p>
+        
+    
+    
+    <p>The last decade has seen a significant proliferation of new technologies. These include robotic process automation, big data, machine/deep learning and artificial intelligence, blockchain, and other &quot;emerging technologies&quot;. Consulting and market research companies have consistently predicted that the current wave of technologies will transform both front and back office operations, requiring firms to rethink their business models and strategies.</p>
+    
+    <p>While evidence suggests that firms will continue to invest in emerging technologies, there has so far been little evidence about the involvement of service providers and advisory in the selection, design, and adoption of such emerging technologies. IS sourcing research has conventionally accounted for three main areas of interest: sourcing decision, contractual structures, and relationship management. Emerging technologies challenge these traditional conventions in the IS sourcing literature. Particular challenges include but are not limited to: greater dependency on data in emerging technologies, which triggers clients to source data science services; the actual implementation of emerging technology often happens through platforms that involve multiple players and services; the asset transfer model has become less relevant and yet client firms are still expected to reduce their headcount; there is greater emphasis on the redesign of the value chain as services have become digitized and decisions are now driven by smart algorithms; emerging technologies are viewed as a black box, posing a skills and expertise challenge to client firms to ensure acquiring and retaining knowledge of the technology.</p>
+    
+    <p>Further, the IS sourcing literature which has traditionally relied on three main reference theories, namely, transaction cost economics, resource dependency, and social exchange. Emerging technologies emphasize the need to expand this theoretical base and accommodate new paradigms of capturing and analyzing data in IS sourcing research. Taking into account the above observations, the IS sourcing literature thus begs for the re-examination of client-supplier-advisory relationships by challenging core concepts of sourcing decision, contractual structure, and relationship management as offering new theoretical landscapes that accommodate the sourcing phenomenon in a digital age.</p>
+    
+    <p>This special issue seeks to facilitate an empirical and theoretical re-examination of &quot;IS sourcing&quot; in the light of the current wave of emerging technologies. We invite research papers that investigate issues relating to emerging technologies and IS sourcing, particularly focusing on robotic process automation, big data, machine/deep learning and artificial intelligence, and blockchain. Other technologies are less of interest for this special issue.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Governance and control structures between client-supplier-advisory in emerging technology settings</li>
+        
+        <li>Sourcing decision making in emerging technology settings</li>
+        
+        <li>Ecosystem and platforms in emerging technology sourcing settings</li>
+        
+        <li>Contract management in emerging technology sourcing settings</li>
+        
+        <li>Full data lifecycle in emerging technologies and its implications for sourcing management</li>
+        
+        <li>Skills and capability development and retention in emerging technology sourcing settings</li>
+        
+        <li>Implications for innovations within the client-supplier-advisory eco-system</li>
+        
+        <li>Ethical and societal implications deriving from such sourcing settings</li>
+        
+        <li>Impact of emerging technologies on client’s, supplier’s and advisory’s strategies, business models and capabilities</li>
+        
+        <li>Implications of crowdsourcing, big data, analytics as well as machine/deep learning and artificial intelligence for the contemporary IS outsourcing</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>April 15, 2021: First round submission deadline</li>
+        
+        <li>July 25, 2021: First round decision to authors</li>
+        
+        <li>October 25, 2021: Second round submission deadline</li>
+        
+        <li>January 28, 2022: Second round decision to authors</li>
+        
+        <li>April 15, 2022: Third and final round submissions deadline</li>
+        
+        <li>June 15, 2022: Final decision to authors</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Information Technology (JIT)</author>
+        </item>
+    </channel>
+</rss>
