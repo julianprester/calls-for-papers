@@ -9,11 +9,11 @@
             </div>
             <ul tabindex="0" class="menu menu-sm dropdown-content bg-base-300 rounded-box z-[1] mt-3 w-52 p-2">
                 <li><a class="btn btn-ghost" href="/about">About</a></li>
-                <li><a class="btn btn-ghost plausible-event-name=RSS+All" href="/rss.xml">RSS</a></li>
-                <li><button class="btn btn-ghost plausible-event-name=Request+Modal"
+                <li><a class="btn btn-ghost plausible-event-name=RSS plausible-event-rss=All" href="/rss.xml">RSS</a></li>
+                <li><button class="btn btn-ghost plausible-event-name=Request plausible-event-request=Modal"
                         onclick="journalRequestModal.showModal()" aria-label="Request a journal">Request
                         journal</button></li>
-                <li><button class="btn btn-ghost plausible-event-name=Signup+Modal"
+                <li><button class="btn btn-ghost plausible-event-name=Signup plausible-event-signup=Modal"
                         onclick="emailSubscriptionModal.showModal()"
                         aria-label="Get email alerts">Get email alerts</button></li>
             </ul>
@@ -33,7 +33,7 @@
             </svg>
             About
         </a>
-        <a class="btn btn-ghost plausible-event-name=RSS+All" href="/rss.xml">
+        <a class="btn btn-ghost plausible-event-name=RSS plausible-event-rss=All" href="/rss.xml">
             <svg xmlns="http://www.w3.org/2000/svg" class="w-6 inline" fill="currentColor" viewBox="0 0 100 100">
                 <path d="M12.8,2.5c-3.7,0-6.7,3-6.7,6.7s3,6.7,6.7,6.7c39.3,0,71.3,32,71.3,71.3c0,3.7,3,6.7,6.7,6.7c3.7,0,6.7-3,6.7-6.7     C97.5,40.5,59.5,2.5,12.8,2.5z"/>
                 <path d="M12.8,27.3c-3.7,0-6.7,3-6.7,6.7s3,6.7,6.7,6.7c25.7,0,46.6,20.9,46.6,46.5c0,3.7,3,6.7,6.7,6.7c3.7,0,6.7-3,6.7-6.7     C72.7,54.1,45.8,27.3,12.8,27.3z"/>
@@ -42,14 +42,14 @@
             </svg>
             RSS
         </a>
-        <button class="btn btn-ghost plausible-event-name=Request+Modal" onclick="journalRequestModal.showModal()"
+        <button class="btn btn-ghost plausible-event-name=Request plausible-event-request=Modal" onclick="journalRequestModal.showModal()"
             aria-label="Request a journal">
             <svg xmlns="http://www.w3.org/2000/svg" class="w-6 inline" fill="currentColor" viewBox="0 0 512 512">
                 <path
                     d="M305.8 2.1C314.4 5.9 320 14.5 320 24l0 40 16 0c70.7 0 128 57.3 128 128l0 166.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3L400 192c0-35.3-28.7-64-64-64l-16 0 0 40c0 9.5-5.6 18.1-14.2 21.9s-18.8 2.3-25.8-4.1l-80-72c-5.1-4.6-7.9-11-7.9-17.8s2.9-13.3 7.9-17.8l80-72c7-6.3 17.2-7.9 25.8-4.1zM104 80A24 24 0 1 0 56 80a24 24 0 1 0 48 0zm8 73.3l0 205.3c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3l0-205.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80c0 32.8-19.7 61-48 73.3zM104 432a24 24 0 1 0 -48 0 24 24 0 1 0 48 0zm328 24a24 24 0 1 0 0-48 24 24 0 1 0 0 48z" />
             </svg>
             Request journal</button>
-        <button class="btn btn-primary plausible-event-name=Signup+Modal" onclick="emailSubscriptionModal.showModal()"
+        <button class="btn btn-primary plausible-event-name=Signup plausible-event-signup=Modal" onclick="emailSubscriptionModal.showModal()"
             aria-label="Get email alerts">
             <svg xmlns="http://www.w3.org/2000/svg" class="w-6  inline" fill="currentColor" viewBox="0 0 24 24">
                 <path
