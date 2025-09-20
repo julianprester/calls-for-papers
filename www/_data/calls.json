@@ -257,9 +257,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-08-19T03:15:46.414Z",
-    "gracePeriod": "2025-10-19T03:06:44.623Z"
+    "active": true,
+    "pubDate": "2025-08-19T03:15:46.414Z"
   },
   {
     "journal": "European Journal of Information Systems",
@@ -5958,9 +5957,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2022-08-18T06:37:25.000Z",
-    "gracePeriod": "2025-10-19T03:06:44.623Z"
+    "active": true,
+    "pubDate": "2022-08-18T06:37:25.000Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
