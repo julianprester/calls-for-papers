@@ -393,8 +393,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-08-14T03:33:30.272Z"
+    "active": false,
+    "pubDate": "2025-08-14T03:33:30.272Z",
+    "gracePeriod": "2025-10-25T03:08:18.121Z"
   },
   {
     "journal": "European Journal of Information Systems",
@@ -596,8 +597,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-08-08T04:14:37.736Z"
+    "active": false,
+    "pubDate": "2025-08-08T04:14:37.736Z",
+    "gracePeriod": "2025-10-25T03:08:18.121Z"
   },
   {
     "journal": "Information Systems Research",
@@ -730,9 +732,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-06-30T01:06:20.334Z",
-    "gracePeriod": "2025-10-24T03:05:21.285Z"
+    "active": true,
+    "pubDate": "2025-06-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -4386,9 +4387,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": "2025-10-22T03:13:57.105Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:25:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4475,9 +4475,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": "2025-10-22T03:13:57.105Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:24:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4566,9 +4565,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": "2025-10-22T03:13:57.105Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:23:57.000Z"
   },
   {
     "journal": "Information Systems Research",
