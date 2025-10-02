@@ -174,60 +174,61 @@
     "metaTitle": "Algorithmic Assemblages—Fields, Ecosystems, and Platforms: An Interpretive Approach",
     "url": "https://www.sciencedirect.com/special-issue/325053/algorithmic-assemblages-fields-ecosystems-and-platforms-an-interpretive-approach",
     "slug": "io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach",
-    "contentHash": "6b8b1a2dde6563345710d9e53e9b76955811f59fee8055fcfddd6e1e5bc965d8",
+    "contentHash": "173638092cda45084e56127569bc889f69ca6e3d552391881cc7421a04cb3feb",
     "title": "Algorithmic Assemblages—Fields, Ecosystems, and Platforms: An Interpretive Approach",
     "topics": [
-      "Interpretive approaches to studying algorithmic assemblages",
-      "Relational theories in organizational and information systems contexts",
-      "Empirical research on algorithmic technologies",
-      "Intersection of organization theory and information systems"
+      "Interpretive approaches to algorithmic assemblages",
+      "Relational approaches from organization theory",
+      "The dynamics of algorithmic technologies in organizational ecosystems",
+      "Legitimacy dynamics of institutional fields",
+      "Impact of AI and blockchain on organizational structures and meanings",
+      "Methodological frameworks for studying technology-mediated organizing"
     ],
     "description": {
       "paragraphs": [
-        "This Special Issue is devoted to interpretive approaches to studying algorithmic assemblages constitutive of and by fields, ecosystems, and platforms and combining research from an organizational and information systems view about such organizing features and their dynamics. Information technologies have progressively enabled, even necessitated, a shift in the locus of value creation, capture, and resource orchestration and the processes they entail from within organizations to these more loosely coupled and emergently structured sociotechnical systems. The interpretive approach broadly stems from the relational turn in organization theory, but more proximately, considers assemblages and algorithmic organizing as views of these key constructs and their associated processes. To date, there has been less theory-building and empirical research connecting these more mezzo and macro constructs with the more micro-dynamics of these systems. In particular, it is not clear how algorithmic technologies enable the discursive and material interconnections of organizational ecosystems and facilitate the legitimacy dynamics of institutional fields. Nor is it clear the ways in which algorithmic technologies differentially circumscribe meaning across global fields and societies.",
-        "For example, blockchain communities contain organizational imaginaries around decentralized organization, and ongoing work is needed to examine how protocols are governed and established as new “rules of the game” and how community discourses around digital technologies shape institutional fields. Relatedly, the metaverse offers novel opportunities for commerce, government, and society within emerging ecosystems. Similarly, for AI technologies it is important to parse through the rhetoric and reality of how field level discourse influences organizational adoption and vice versa. As quantum computing threatens to disrupt our digital world, it is important to understand the broad material, social, and cultural ecosystem with the potential to reshape global business and geopolitics. To examine the institutional dynamics of technologically mediated organizing, it is necessary to methodologically zoom in and out with configurations to examine how realities are constructed based on shared meanings and interpretations.",
-        "To unpack these dynamics around technology-based and –mediated fields, ecosystems and platform we call for theory and research that relies on relational approaches coming from both organization theory and information systems. In those approaches, we see how theories of assemblages and algorithmic organizing, when combined with more traditional organizational views such as of routines and institutions, offer powerful new ways of thinking about these dynamics.",
-        "The objectives of this Special Issue are twofold. First, we wish to foster the development of cutting-edge research (theory and method) among scholars interested in organizational and institutional studies of the use and effects of data science and algorithms on decision-making. Second, we wish to continue building and strengthening the community of scholars engaged in that work, especially at the intersection of organization theory and information systems. In doing so, we reiterate Orlikowski and Barley’s call for synthesis of information systems and organizational studies scholars’ knowledge trajectories of technology change and institutional contexts. Since their call, there has been a growing convergence between these knowledge trajectories, culminating in studies of how actors remake institutional fields, change power relationships, and construct meanings about technology beyond institutionalized paths.",
-        "We can envision a variety of ways in which empirical papers can showcase the way in which interpretive algorithms affect assemblages, ecosystems, and fields. We stand on the shoulders of Barley & Orlikowski (2023:4) and their call for papers that navigate “futures far different from the pasts we have known” with “more in-depth empirical studies and less speculation and hype.”"
+        "This Special Issue is devoted to interpretive approaches to studying algorithmic assemblages constitutive of and by fields, ecosystems, and platforms and combining research from an organizational and information systems view about such organizing features and their dynamics. Information technologies have progressively enabled a shift in the locus of value creation, capture, and resource orchestration and the processes they entail from within organizations to more loosely coupled and emergently structured sociotechnical systems. The interpretive approach stems from the relational turn in organization theory and considers assemblages and algorithmic organizing as views of key constructs and their associated processes.",
+        "To date, there has been less theory-building and empirical research connecting macro constructs with the micro-dynamics of these systems. It is particularly unclear how algorithmic technologies enable the interconnections of organizational ecosystems and facilitate legitimacy dynamics of institutional fields. Furthermore, it is not clear how algorithmic technologies circumscribe meanings across global fields and societies. The call for theory and research relies on relational approaches coming from both organization theory and information systems."
       ]
     },
     "tags": [
-      "algorithmic technologies",
-      "organizational studies",
-      "information systems"
+      "algorithmic assemblages",
+      "organizational ecosystems",
+      "information systems",
+      "interpretive research",
+      "theory development"
     ],
     "editors": [
       {
-        "name": "Hannigan, Timothy",
-        "affiliation": "University of Ottawa"
+        "name": "Timothy Hannigan",
+        "affiliation": "Telfer School of Business"
       },
       {
-        "name": "Jennings, P. Devereaux",
-        "affiliation": "University of Alberta"
+        "name": "P. Devereaux Jennings",
+        "affiliation": "Alberta School of Business"
       },
       {
-        "name": "Miranda, Shaila",
-        "affiliation": "University of Arkansas"
+        "name": "Shaila Miranda",
+        "affiliation": "Information Systems Sam M. Walton College of Business"
       },
       {
-        "name": "Faraj, Samer",
-        "affiliation": "McGill University"
+        "name": "Samer Faraj",
+        "affiliation": "Desautels Faculty of Management at McGill University"
       }
     ],
     "associate_editors": [],
     "dates": [
       {
-        "date": "2025-08-18T12:00:00.000Z",
-        "description": "",
-        "is_full_paper_submission_deadline": false
-      },
-      {
         "date": "2026-05-15T12:00:00.000Z",
-        "description": "Submission deadline",
+        "description": "Submission deadline for full papers",
         "is_full_paper_submission_deadline": true
       },
       {
-        "date": "2026-10-30T12:00:00.000Z",
+        "date": "2026-09-15T12:00:00.000Z",
+        "description": "First round reviews due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-10-31T12:00:00.000Z",
         "description": "First round decision letters sent out",
         "is_full_paper_submission_deadline": false
       },
@@ -266,7 +267,7 @@
     "metaTitle": "The future of creating and distributing value in digital health ecosystems",
     "url": "https://think.taylorandfrancis.com/special_issues/digital-health-ecosystems/",
     "slug": "ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems",
-    "contentHash": "4afe1a953a11df44cb88bb6d88bb9e709557f90f6884eb6cad2184f9f2d0f2d0",
+    "contentHash": "61de8bb6edbe5b7f4096e5ca7c83ffaba0279a724f35c78117e616e72f1635cd",
     "title": "The future of creating and distributing value in digital health ecosystems",
     "topics": [
       "The role of data management and data sharing in digital health ecosystems",
@@ -285,18 +286,18 @@
         "First, creating value in digital health ecosystems demands to take into account diverse kinds of value to be potentially created through these technologies (Günther et al., 2017; Porter, 2010). Financial value is an important kind of value to be created in digital health ecosystems; however, it is by far not the sole kind of value that matters in these settings (Barrett et al., 2016). It is important to understand which kinds of value technology helps to create as well as how, why, and when it does so. Second, creating value is not per se synonymous with distributing it so that an important line of inquiry is about how to distribute value among ecosystem participants and over time (Yan et al., 2021; Yoo et al., 2024).",
         "We are asking for papers speaking to these topics and see two broad ways in which submissions to our special issue could do so. The first is cumulative and much in line with how research in IS and adjacent fields such as computer science, management, and medicine is conventionally done. It resides in furthering our understandings and toolkits for creating value in digital health ecosystems. However, the more data are available the higher is arguably the potential for misuse (Morley et al., 2020; Murdoch, 2021; Siala & Wang, 2022), especially when genomic and bio data are in question (Jarvenpaa & Markus, 2018; Rothe et al., 2019, 2023; Thiebes et al., 2020; Vassilakopoulou et al., 2018). This is why research about creating value from data logically calls for research about how to distribute value among ecosystems participants.",
         "The second way to address the abovementioned research trajectories is consistent with EJIS’s recent developments towards promoting ‘contrarian studies’ (Nandhakumar, 2010). We see much promise of contrarian studies investigating the creation and distribution of value in digital health ecosystems. Research about digital health is replete with assumptions touching on the outcomes that large volumes of data are likely to generate. This stands in stark contrast to the fact that on the ‘ground floor’ where most clinicians work the data are hardly ever available in the format, quality or volume needed to even remotely live up to these expectations (Jones, 2019). It is, therefore, paramount to offer fundamentally new ways of thinking about creating and distributing value in digital health ecosystems.",
-        "These considerations lead us to a set of issues which we would like to address through putting together this special issue. These issues include but are not limited to:"
+        "These considerations lead us to a set of issues which we would like to address through putting together this special issue."
       ]
     },
     "tags": [
       "digital health",
-      "value creation",
-      "ecosystems"
+      "information systems",
+      "value creation"
     ],
     "editors": [
       {
         "name": "Lauri Wessel",
-        "affiliation": "European New School of Digital Studies"
+        "affiliation": "European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)"
       },
       {
         "name": "Melanie Reuter-Oppermann",
@@ -360,7 +361,7 @@
     "dates": [
       {
         "date": "2026-03-01T12:00:00.000Z",
-        "description": "Submission of extended abstracts/ declaration of interest to submit papers to the special issue. Submissions are subject for discussions at a paper development workshop in the context of ECIS 2026 in Milan, Italy.",
+        "description": "Submission of extended abstracts/ declaration of interest to submit papers to the special issue. Submissions are subject for discussions at a paper development workshop in the context of ECIS 2026 in Milan, Italy",
         "is_full_paper_submission_deadline": false
       },
       {
@@ -394,9 +395,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-08-14T03:33:30.272Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2025-08-14T03:33:30.272Z"
   },
   {
     "journal": "European Journal of Information Systems",
@@ -598,9 +598,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-08-08T04:14:37.736Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2025-08-08T04:14:37.736Z"
   },
   {
     "journal": "Information Systems Research",
@@ -733,9 +732,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-06-30T01:06:20.334Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2025-06-30T01:06:20.334Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -937,9 +935,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-04-01T03:16:46.180Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2025-04-01T03:16:46.180Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -1011,9 +1008,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-23T03:07:30.034Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2025-03-23T03:07:30.034Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -1108,68 +1104,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-13T10:51:27.457Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
-  },
-  {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
     "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
+    "pubDate": "2025-03-13T10:51:27.457Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -1257,9 +1193,67 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-13T10:47:42.901Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
     "journal": "Information and Management",
@@ -1522,9 +1516,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -2009,9 +2002,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-10-27T03:00:38.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-10-27T03:00:38.000Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -2487,9 +2479,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-07-18T10:34:43.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -3615,9 +3606,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:32:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:32:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3703,9 +3693,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:31:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:31:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3873,9 +3862,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:30:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:30:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3971,9 +3959,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:29:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:29:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -4061,9 +4048,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:28:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:28:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -4155,9 +4141,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:27:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:27:57.000Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -4319,9 +4304,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:26:57.000Z",
-    "gracePeriod": "2025-10-30T03:04:13.183Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:26:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
