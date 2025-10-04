@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: information systems</title>
         <link>https://callsforpapers.org/tag/information-systems</link>
         <description>Latest calls for papers tagged with 'information systems'.</description>
-        <lastBuildDate>Fri, 03 Oct 2025 03:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 02:57:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -88,13 +88,13 @@
             <content:encoded><![CDATA[<div>
     
         
-        <p><strong>Lauri Wessel</strong>, European New School of Digital Studies</p>
+        <p><strong>Lauri Wessel</strong>, European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)</p>
         
         <p><strong>Melanie Reuter-Oppermann</strong>, Maastricht University and ILS Mannheim gGmbH</p>
         
         <p><strong>Roxana Ologeanu-Taddei</strong>, University of Montpellier</p>
         
-        <p><strong>Hannes Rothe</strong>, Rhine-Ruhr Institute of Information Systems</p>
+        <p><strong>Hannes Rothe</strong>, Rhine-Ruhr Institute of Information Systems, University of Duisburg-Essen</p>
         
         <p><strong>Sirkka L. Jarvenpaa</strong>, McCombs School of Business, The University of Texas at Austin</p>
         
@@ -205,15 +205,13 @@
     
     <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
     
-    <p>We invite papers on any and all aspects of IS design and development, but below are some guiding themes related to the call.</p>
-    
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>The role of emerging technologies in shaping the future of IS design: AI, blockchain, and quantum computing</li>
+        <li>The role of emerging technologies in shaping the future of IS design</li>
         
-        <li>The limits of current design and development methods: continuous development and DevOps</li>
+        <li>The limits of current design and development methods</li>
         
         <li>Design science beyond the science of the artificial</li>
         
@@ -221,11 +219,33 @@
         
         <li>The impact of AI on any or all aspects of IS design and development</li>
         
-        <li>Contrarian perspectives that challenge assumptions and norms of existing methods</li>
+        <li>The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development</li>
+        
+        <li>The future of traditional software designers and developers and if and how these roles will exist in the medium to long term</li>
+        
+        <li>Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods</li>
+        
+        <li>Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’</li>
+        
+        <li>New ‘Promethean’ methods that encourage thinking about and designing distant digital futures</li>
+        
+        <li>Challenging the problem-solving paradigm in designing IS solutions</li>
+        
+        <li>Embracing vision-oriented and future-oriented DSR</li>
+        
+        <li>Critique or discussion of existing policies, laws and regulations governing aspects of IS design</li>
+        
+        <li>Exemplars of IS design and development for digital futures</li>
         
         <li>New methods for designing digital futures anchored in IS design and development heritage</li>
         
-        <li>Unique perspectives on the consideration and integration of privacy and security by design</li>
+        <li>New perspectives on responsible design and the design of responsible IS</li>
+        
+        <li>Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications</li>
+        
+        <li>Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics</li>
+        
+        <li>Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</li>
         
     </ul>
     

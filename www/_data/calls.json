@@ -267,7 +267,7 @@
     "metaTitle": "The future of creating and distributing value in digital health ecosystems",
     "url": "https://think.taylorandfrancis.com/special_issues/digital-health-ecosystems/",
     "slug": "ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems",
-    "contentHash": "4afe1a953a11df44cb88bb6d88bb9e709557f90f6884eb6cad2184f9f2d0f2d0",
+    "contentHash": "61de8bb6edbe5b7f4096e5ca7c83ffaba0279a724f35c78117e616e72f1635cd",
     "title": "The future of creating and distributing value in digital health ecosystems",
     "topics": [
       "The role of data management and data sharing in digital health ecosystems",
@@ -290,13 +290,13 @@
     },
     "tags": [
       "digital health",
-      "value creation",
-      "information systems"
+      "information systems",
+      "value creation"
     ],
     "editors": [
       {
         "name": "Lauri Wessel",
-        "affiliation": "European New School of Digital Studies"
+        "affiliation": "European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)"
       },
       {
         "name": "Melanie Reuter-Oppermann",
@@ -308,7 +308,7 @@
       },
       {
         "name": "Hannes Rothe",
-        "affiliation": "Rhine-Ruhr Institute of Information Systems"
+        "affiliation": "Rhine-Ruhr Institute of Information Systems, University of Duisburg-Essen"
       },
       {
         "name": "Sirkka L. Jarvenpaa",
@@ -403,30 +403,39 @@
     "metaTitle": "Designing our Digital Futures",
     "url": "https://think.taylorandfrancis.com/special_issues/ejis-digital-futures/",
     "slug": "ejis-designing-our-digital-futures",
-    "contentHash": "e5201b89b1d44959a019f787bd6d40632f9ebfba2b7b802107e1b5c5a88782d5",
+    "contentHash": "ce2151d51cad6b892d366ea14306dc4d1cc2be81dfb658111769324bb3fc249e",
     "title": "Designing our Digital Futures: Challenging Current Assumptions and Envisioning the Future of IS Design and Development",
     "topics": [
-      "The role of emerging technologies in shaping the future of IS design: AI, blockchain, and quantum computing",
-      "The limits of current design and development methods: continuous development and DevOps",
+      "The role of emerging technologies in shaping the future of IS design",
+      "The limits of current design and development methods",
       "Design science beyond the science of the artificial",
       "Design and development in an era of heightened responsibility",
       "The impact of AI on any or all aspects of IS design and development",
-      "Contrarian perspectives that challenge assumptions and norms of existing methods",
+      "The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development",
+      "The future of traditional software designers and developers and if and how these roles will exist in the medium to long term",
+      "Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods",
+      "Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’",
+      "New ‘Promethean’ methods that encourage thinking about and designing distant digital futures",
+      "Challenging the problem-solving paradigm in designing IS solutions",
+      "Embracing vision-oriented and future-oriented DSR",
+      "Critique or discussion of existing policies, laws and regulations governing aspects of IS design",
+      "Exemplars of IS design and development for digital futures",
       "New methods for designing digital futures anchored in IS design and development heritage",
-      "Unique perspectives on the consideration and integration of privacy and security by design"
+      "New perspectives on responsible design and the design of responsible IS",
+      "Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications",
+      "Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics",
+      "Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies."
     ],
     "description": {
       "paragraphs": [
         "Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.",
-        "At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.",
-        "We invite papers on any and all aspects of IS design and development, but below are some guiding themes related to the call."
+        "At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice."
       ]
     },
     "tags": [
       "information systems",
       "digital futures",
-      "design and development",
-      "emerging technologies"
+      "design and development"
     ],
     "editors": [
       {
@@ -1007,9 +1016,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-23T03:07:30.034Z",
-    "gracePeriod": "2025-11-02T03:02:48.899Z"
+    "active": true,
+    "pubDate": "2025-03-23T03:07:30.034Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -1108,65 +1116,6 @@
     "pubDate": "2025-03-13T10:51:27.457Z"
   },
   {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
-  },
-  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "Understanding Resistance to Digital Transformation",
@@ -1252,9 +1201,67 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2025-03-13T10:47:42.901Z",
-    "gracePeriod": "2025-11-02T03:02:48.899Z"
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
     "journal": "Information and Management",
@@ -1517,9 +1524,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-12-25T07:52:15.170Z",
-    "gracePeriod": "2025-11-02T03:02:48.899Z"
+    "active": true,
+    "pubDate": "2024-12-25T07:52:15.170Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -2481,9 +2487,8 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": false,
-    "pubDate": "2024-07-18T10:34:43.000Z",
-    "gracePeriod": "2025-11-02T03:02:48.899Z"
+    "active": true,
+    "pubDate": "2024-07-18T10:34:43.000Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -4390,8 +4395,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:25:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:25:57.000Z",
+    "gracePeriod": "2025-11-03T02:57:19.478Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4478,8 +4484,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:24:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:24:57.000Z",
+    "gracePeriod": "2025-11-03T02:57:19.478Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4568,8 +4575,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:23:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:23:57.000Z",
+    "gracePeriod": "2025-11-03T02:57:19.478Z"
   },
   {
     "journal": "Information Systems Research",
