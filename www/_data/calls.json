@@ -267,7 +267,7 @@
     "metaTitle": "The future of creating and distributing value in digital health ecosystems",
     "url": "https://think.taylorandfrancis.com/special_issues/digital-health-ecosystems/",
     "slug": "ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems",
-    "contentHash": "61de8bb6edbe5b7f4096e5ca7c83ffaba0279a724f35c78117e616e72f1635cd",
+    "contentHash": "4afe1a953a11df44cb88bb6d88bb9e709557f90f6884eb6cad2184f9f2d0f2d0",
     "title": "The future of creating and distributing value in digital health ecosystems",
     "topics": [
       "The role of data management and data sharing in digital health ecosystems",
@@ -290,13 +290,13 @@
     },
     "tags": [
       "digital health",
-      "information systems",
-      "value creation"
+      "value creation",
+      "ecosystems"
     ],
     "editors": [
       {
         "name": "Lauri Wessel",
-        "affiliation": "European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)"
+        "affiliation": "European New School of Digital Studies"
       },
       {
         "name": "Melanie Reuter-Oppermann",
@@ -360,37 +360,37 @@
     "dates": [
       {
         "date": "2026-03-01T12:00:00.000Z",
-        "description": "Submission of extended abstracts/ declaration of interest to submit papers to the special issue. Submissions are subject for discussions at a paper development workshop in the context of ECIS 2026 in Milan, Italy.",
+        "description": "Submission of extended abstracts/ declaration of interest to submit papers to the special issue.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-11-30T12:00:00.000Z",
-        "description": "Full paper submission deadline.",
+        "description": "Full paper submission deadline",
         "is_full_paper_submission_deadline": true
       },
       {
         "date": "2027-03-31T12:00:00.000Z",
-        "description": "First round decisions due.",
+        "description": "First round decisions due",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-09-30T12:00:00.000Z",
-        "description": "Revisions due.",
+        "description": "Revisions due",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-12-15T12:00:00.000Z",
-        "description": "Second round decisions due.",
+        "description": "Second round decisions due",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2028-02-28T12:00:00.000Z",
-        "description": "Third round revisions due (if necessary).",
+        "description": "Third round revisions due (if necessary)",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2028-05-31T12:00:00.000Z",
-        "description": "Final decisions due.",
+        "description": "Final decisions due",
         "is_full_paper_submission_deadline": false
       }
     ],
@@ -403,39 +403,25 @@
     "metaTitle": "Designing our Digital Futures",
     "url": "https://think.taylorandfrancis.com/special_issues/ejis-digital-futures/",
     "slug": "ejis-designing-our-digital-futures",
-    "contentHash": "ce2151d51cad6b892d366ea14306dc4d1cc2be81dfb658111769324bb3fc249e",
+    "contentHash": "e5201b89b1d44959a019f787bd6d40632f9ebfba2b7b802107e1b5c5a88782d5",
     "title": "Designing our Digital Futures: Challenging Current Assumptions and Envisioning the Future of IS Design and Development",
     "topics": [
       "The role of emerging technologies in shaping the future of IS design",
       "The limits of current design and development methods",
       "Design science beyond the science of the artificial",
-      "Design and development in an era of heightened responsibility",
-      "The impact of AI on any or all aspects of IS design and development",
-      "The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development",
-      "The future of traditional software designers and developers and if and how these roles will exist in the medium to long term",
-      "Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods",
-      "Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’",
-      "New ‘Promethean’ methods that encourage thinking about and designing distant digital futures",
-      "Challenging the problem-solving paradigm in designing IS solutions",
-      "Embracing vision-oriented and future-oriented DSR",
-      "Critique or discussion of existing policies, laws and regulations governing aspects of IS design",
-      "Exemplars of IS design and development for digital futures",
-      "New methods for designing digital futures anchored in IS design and development heritage",
-      "New perspectives on responsible design and the design of responsible IS",
-      "Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications",
-      "Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics",
-      "Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies."
+      "Design and development in an era of heightened responsibility"
     ],
     "description": {
       "paragraphs": [
         "Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.",
-        "At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice."
+        "At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective, examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice."
       ]
     },
     "tags": [
       "information systems",
-      "digital futures",
-      "design and development"
+      "technology",
+      "design",
+      "development"
     ],
     "editors": [
       {
