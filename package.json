@@ -7,7 +7,8 @@
     "start": "eleventy --serve & tailwind -i www/public/css/tailwind.css -o public/public/css/style.css --watch",
     "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwind -i www/public/css/tailwind.css -o public/public/css/style.css --minify",
     "scrape": "node ./scrapers/scraper.mjs",
-    "rss": "node ./scrapers/feedgen.mjs"
+    "rss": "node ./scrapers/feedgen.mjs",
+    "test": "node --env-file .env ./scrapers/scraper.mjs"
   },
   "repository": {
     "type": "git",
