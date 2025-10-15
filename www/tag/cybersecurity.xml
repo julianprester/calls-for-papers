@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: cybersecurity</title>
         <link>https://callsforpapers.org/tag/cybersecurity</link>
         <description>Latest calls for papers tagged with 'cybersecurity'.</description>
-        <lastBuildDate>Tue, 14 Oct 2025 03:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -83,6 +83,149 @@
     
 </div>]]></content:encoded>
             <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI-IA Nexus: The Future of Information Systems Security, Privacy, and Quality]]></title>
+            <link>https://callsforpapers.org/call/misq-ai-ia-nexus</link>
+            <guid>misq-ai-ia-nexus</guid>
+            <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Rui Chen</strong>, Iowa State University</p>
+        
+        <p><strong>Juan Feng</strong>, Tsinghua University</p>
+        
+        <p><strong>Miguel Godinho de Matos</strong>, Católica Lisbon School of Business &amp; Economics</p>
+        
+        <p><strong>Carol Hsu</strong>, University of Sydney</p>
+        
+        <p><strong>H. Raghav Rao</strong>, University of Texas at San Antonio</p>
+        
+    
+    
+    <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations. As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability.</p>
+    
+    <p>As society steps into the age of generative AI (GenAI), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance.</p>
+    
+    <p>The emergence of GenAI is poised to exert a profound impact on assurance. On the one hand, GenAI has been recognized for its ability to bolster information assurance. On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. Tremendous new opportunities exist for information systems scholars to study information assurance issues within the context of GenAI, as traditional approaches may not work.</p>
+    
+    <p>This special issue seeks research that goes beyond simple applications of existing theories and methods from the cybersecurity literature in IS. We invite studies that explore the unique information assurance challenges in the realm of GenAI, calling for the development and application of new theories or methods.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Sophisticated human-deception attacks</li>
+        
+        <li>Hallucination and confabulation</li>
+        
+        <li>Intellectual property theft</li>
+        
+        <li>Challenges in regulation and compliance</li>
+        
+        <li>Unreliable training data</li>
+        
+        <li>Data poisoning</li>
+        
+        <li>Security leaks, inference attacks, and knowledge phishing</li>
+        
+        <li>Prompt injections</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>January 20, 2025: Two-page abstracts due</li>
+        
+        <li>March 31, 2025: Feedback on abstracts</li>
+        
+        <li>July 11, 2025: Paper development workshop (virtual)</li>
+        
+        <li>October 31, 2025: First-round paper submission</li>
+        
+        <li>January 31, 2026: First-round decisions</li>
+        
+        <li>February 1, 2026: Workshop for authors with R&amp;R</li>
+        
+        <li>May 31, 2026: Second-round revisions due</li>
+        
+        <li>August 31, 2026: Second-round decisions</li>
+        
+        <li>November 30, 2026: Final revisions due</li>
+        
+        <li>February 28, 2027: Final revisions</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Panagiotis Adamopoulos</strong>, Emory University</li>
+        
+        <li><strong>Jingjing Li</strong>, University of Virginia</li>
+        
+        <li><strong>Rodrigo Belo</strong>, Nova School of Business and Economics</li>
+        
+        <li><strong>Huigang Liang</strong>, University of Memphis</li>
+        
+        <li><strong>Indranil Bose</strong>, NEOMA</li>
+        
+        <li><strong>Alexander Maedche</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Lemuria Carter</strong>, University of Sydney</li>
+        
+        <li><strong>Ning Nan</strong>, University of British Columbia</li>
+        
+        <li><strong>Christy Cheung</strong>, Hong Kong Baptist University</li>
+        
+        <li><strong>Jella Pfeiffer</strong>, University of Stuttgart</li>
+        
+        <li><strong>Rahul De&#39;</strong>, Indian Institute of Management Bangalore</li>
+        
+        <li><strong>Dandan Qiao</strong>, National University of Singapore</li>
+        
+        <li><strong>Amany Elbanna</strong>, University of Sussex</li>
+        
+        <li><strong>Sagar Samtani</strong>, Indiana University</li>
+        
+        <li><strong>Uri Gal</strong>, University of Sydney</li>
+        
+        <li><strong>Anastasia Sergeeva</strong>, Vrije Universiteit Amsterdam</li>
+        
+        <li><strong>Weiyin Hong</strong>, Hong Kong University of Science and Technology</li>
+        
+        <li><strong>Maha Shaikh</strong>, ESADE Business School</li>
+        
+        <li><strong>Nina Huang</strong>, University of Miami</li>
+        
+        <li><strong>Paolo Spagnoletti</strong>, Luiss Business School</li>
+        
+        <li><strong>Hartmut Höhle</strong>, University of Mannheim</li>
+        
+        <li><strong>Rohit Valecha</strong>, University of Texas at San Antonio</li>
+        
+        <li><strong>Allen Johnston</strong>, University of Alabama</li>
+        
+        <li><strong>Jing Wang</strong>, Hong Kong University of Science and Technology</li>
+        
+        <li><strong>Arpan Kar</strong>, Indian Institute of Technology</li>
+        
+        <li><strong>Jingguo Wang</strong>, University of Texas at Arlington</li>
+        
+        <li><strong>Juhee Kwon</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Hong Xu</strong>, Hong Kong University of Science and Technology</li>
+        
+        <li><strong>Atanu Lahiri</strong>, </li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>MIS Quarterly (MISQ)</author>
         </item>
     </channel>
 </rss>
