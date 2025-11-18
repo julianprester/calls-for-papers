@@ -25,7 +25,9 @@ export async function scrapeAll(browserInstance) {
                 console.log(`Found ${calls.length} calls at ${module.scraperObject.url}`);
                 return calls;
             })
-        ).then(results => results.flat());
+        )
+        .then(results => results.flat())
+        .then(results => results.filter(call => call && call.rawContent));
 
         await integrateCalls(issues);
     }
