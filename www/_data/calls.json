@@ -394,8 +394,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-08-14T03:33:30.272Z"
+    "active": false,
+    "pubDate": "2025-08-14T03:33:30.272Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "European Journal of Information Systems",
@@ -591,8 +592,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-08-08T04:14:37.736Z"
+    "active": false,
+    "pubDate": "2025-08-08T04:14:37.736Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Information Systems Research",
@@ -725,8 +727,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-06-30T01:06:20.334Z"
+    "active": false,
+    "pubDate": "2025-06-30T01:06:20.334Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -928,8 +931,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-04-01T03:16:46.180Z"
+    "active": false,
+    "pubDate": "2025-04-01T03:16:46.180Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -1001,8 +1005,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-23T03:07:30.034Z"
+    "active": false,
+    "pubDate": "2025-03-23T03:07:30.034Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -1097,8 +1102,68 @@
         "is_full_paper_submission_deadline": false
       }
     ],
+    "active": false,
+    "pubDate": "2025-03-13T10:51:27.457Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
+  },
+  {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
     "active": true,
-    "pubDate": "2025-03-13T10:51:27.457Z"
+    "pubDate": "2025-03-13T10:47:42.901Z"
   },
   {
     "journal": "Information Systems Journal",
@@ -1186,67 +1251,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
-  },
-  {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:47:42.901Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Information and Management",
@@ -1509,8 +1516,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z"
+    "active": false,
+    "pubDate": "2024-12-25T07:52:15.170Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -1525,7 +1533,7 @@
       "artificial intelligence",
       "digital platforms"
     ],
-    "active": true,
+    "active": false,
     "pubDate": "2024-12-20T12:55:03.000Z",
     "title": "Contemporary Innovation in Information Infrastructures",
     "topics": [
@@ -1708,7 +1716,8 @@
         "description": "Final decision",
         "is_full_paper_submission_deadline": false
       }
-    ]
+    ],
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -1995,8 +2004,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-27T03:00:38.000Z"
+    "active": false,
+    "pubDate": "2024-10-27T03:00:38.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -2432,8 +2442,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z"
+    "active": false,
+    "pubDate": "2024-07-18T10:34:43.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Decision Support Systems",
@@ -3559,8 +3570,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:32:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:32:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3646,8 +3658,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:31:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:31:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3815,8 +3828,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:30:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:30:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -3912,8 +3926,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:29:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:29:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -4001,8 +4016,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:28:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:28:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -4094,8 +4110,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:27:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:27:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -4257,8 +4274,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-01-12T12:26:57.000Z"
+    "active": false,
+    "pubDate": "2024-01-12T12:26:57.000Z",
+    "gracePeriod": "2025-12-18T06:01:00.262Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4340,9 +4358,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:25:57.000Z",
-    "gracePeriod": "2025-11-07T03:03:50.982Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:25:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4429,9 +4446,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:24:57.000Z",
-    "gracePeriod": "2025-11-07T03:03:50.982Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:24:57.000Z"
   },
   {
     "journal": "Journal of the Association for Information Science and Technology",
@@ -4520,9 +4536,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2024-01-12T12:23:57.000Z",
-    "gracePeriod": "2025-11-07T03:03:50.982Z"
+    "active": true,
+    "pubDate": "2024-01-12T12:23:57.000Z"
   },
   {
     "journal": "Information Systems Research",
