@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: information systems</title>
         <link>https://callsforpapers.org/tag/information-systems</link>
         <description>Latest calls for papers tagged with 'information systems'.</description>
-        <lastBuildDate>Fri, 21 Nov 2025 03:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 03:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,66 @@
             <link>https://callsforpapers.org/tag/information-systems</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Generative AI as Driver of Change in Media]]></title>
+            <link>https://callsforpapers.org/call/jmis-generative-ai-as-driver-of-change-in-media</link>
+            <guid>jmis-generative-ai-as-driver-of-change-in-media</guid>
+            <pubDate>Sat, 22 Nov 2025 03:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Thomas Hess</strong>, University of Munich (LMU)</p>
+        
+        <p><strong>Ioanna Constantiou</strong>, Copenhagen Business School</p>
+        
+        <p><strong>Niki Panteli</strong>, Lancaster University</p>
+        
+    
+    
+    <p>Generative AI (GenAI) has rapidly become a general-purpose technology that reshapes how information is created, curated, and consumed. GenAI broadly refers to a class of AI models that generate seemingly new content in the form of text, images, audio, or video. In the media context, where value is built around the provision and use of content, GenAI has attracted particular attention. For instance, it enables the near-instant creation of journalistic articles, marketing texts, or audiovisual material, and it supports personalization by dynamically adapting media offerings to individual user preferences. The advent of the Internet had already marked a profound transformation in the delivery and consumption of content. It made user-generated content possible, catalyzed multi-sided platforms, and enabled unprecedented personalization. This transformation brought new players into the media sector, as technology companies entered the market and traditional media firms were forced to develop significant digital competencies for the first time.</p>
+    
+    <p>GenAI is expected to have an equally profound impact on the media industry by expanding complementary innovation, lowering barriers for content creation, and altering the economics of matching and recommendation at scale. Despite recent advances, our knowledge is still limited. Existing research has begun to shed light on the impact of GenAI on textual news app users’ willingness to pay, yet it is unknown whether similar effects extend to audiovisual content. Moreover, there are initial indications of how journalists’ productivity may change with the use of GenAI. At the same time, the potential for entirely new GenAI-based products remains largely unexplored. In particular, little is known about the extent to which audience discussions can be moderated and managed, or about the new forms of public media provision that GenAI might enable. These questions are especially pressing given the central role of media in shaping public opinion and broader societal developments, including political attitudes.</p>
+    
+    <p>The aim of this special issue is to advance IS research on this emerging field. We invite contributions that examine the role of GenAI in the provision and use of media offerings. Analyses may focus on individuals, organizations, or industries. Studies may address GenAI on the level of systems, their effects, or their management. Submissions should be firmly grounded in the technology itself and its implications for media ecosystems. This special issue aims to stimulate innovative investigations of the transformative role of GenAI in the provisioning and use of public media. In contrast to closed settings, such as private messaging services, the recipients of public communication cannot be predetermined or exhaustively specified in advance. Accordingly, the domain of interest spans both online media, including digital platforms and social media, and traditional media such as print and television. We welcome qualitative and quantitative empirical studies as well as design-oriented research. Submissions should provide a clear academic contribution by advancing theory and knowledge in the Information Systems discipline. While practical relevance and managerial implications are highly valued, they are not sufficient on their own; academic advancement is essential.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Provision of Content for the Media</li>
+        
+        <li>Use of Content provided by the Media</li>
+        
+        <li>Embedding of the Media in Society</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>December 1, 2025: Full paper submission opens</li>
+        
+        <li>April 30, 2026: Full paper submission closes</li>
+        
+        <li>June 30, 2026: Desk check</li>
+        
+        <li>September 30, 2026: Feedback on the first version</li>
+        
+        <li>January 31, 2027: Submission revision 1</li>
+        
+        <li>April 30, 2027: Feedback on revision 1</li>
+        
+        <li>June 30, 2027: Submission revision 2</li>
+        
+        <li>July 31, 2027: Final decision</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
         <item>
             <title><![CDATA[Algorithmic Assemblages—Fields, Ecosystems, and Platforms: An Interpretive Approach]]></title>
             <link>https://callsforpapers.org/call/io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach</link>
@@ -118,27 +178,41 @@
         
         <li>The impact of AI on any or all aspects of IS design and development</li>
         
-        <li>The future of traditional software designers and developers and if and how these roles will exist</li>
+        <li>The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development</li>
         
-        <li>Contrarian perspectives that challenge assumptions and norms of existing methods</li>
+        <li>The future of traditional software designers and developers and if and how these roles will exist in the medium to long term</li>
         
-        <li>Emerging techniques for development</li>
+        <li>Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods</li>
+        
+        <li>Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’</li>
         
         <li>New ‘Promethean’ methods that encourage thinking about and designing distant digital futures</li>
         
         <li>Challenging the problem-solving paradigm in designing IS solutions</li>
         
+        <li>Embracing vision-oriented and future-oriented DSR</li>
+        
+        <li>Critique or discussion of existing policies, laws and regulations governing aspects of IS design</li>
+        
         <li>Exemplars of IS design and development for digital futures</li>
+        
+        <li>New methods for designing digital futures anchored in IS design and development heritage</li>
+        
+        <li>New perspectives on responsible design and the design of responsible IS</li>
+        
+        <li>Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications</li>
         
         <li>Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics</li>
         
-        <li>Unique perspectives on the consideration and integration of privacy and security by design</li>
+        <li>Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</li>
         
     </ul>
     
     
     <h2>Timeline</h2>
     <ul>
+        
+        <li>Invalid DateTime: Projected publication</li>
         
         <li>January 30, 2026: Initial paper submission deadline</li>
         
@@ -151,8 +225,6 @@
         <li>February 1, 2027: Final revision deadline</li>
         
         <li>April 1, 2027: Final authors notification</li>
-        
-        <li>June 1, 2027: Projected publication</li>
         
     </ul>
     

@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: media</title>
         <link>https://callsforpapers.org/tag/media</link>
         <description>Latest calls for papers tagged with 'media'.</description>
-        <lastBuildDate>Fri, 19 Sep 2025 03:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 03:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,62 +15,36 @@
         </image>
         <copyright>Calls for Papers © 2025</copyright>
         <item>
-            <title><![CDATA[The Institutional Press in the Digital Age]]></title>
-            <link>https://callsforpapers.org/call/misq-the-institutional-press-in-the-digital-age</link>
-            <guid>misq-the-institutional-press-in-the-digital-age</guid>
-            <pubDate>Tue, 12 Dec 2023 05:15:06 GMT</pubDate>
+            <title><![CDATA[Generative AI as Driver of Change in Media]]></title>
+            <link>https://callsforpapers.org/call/jmis-generative-ai-as-driver-of-change-in-media</link>
+            <guid>jmis-generative-ai-as-driver-of-change-in-media</guid>
+            <pubDate>Sat, 22 Nov 2025 03:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
         
-        <p><strong>Ahmed Abbasi</strong>, University of Notre Dame</p>
+        <p><strong>Thomas Hess</strong>, University of Munich (LMU)</p>
         
-        <p><strong>Brad N. Greenwood</strong>, George Mason University</p>
+        <p><strong>Ioanna Constantiou</strong>, Copenhagen Business School</p>
         
-        <p><strong>Melissa Mazmanian</strong>, University of California, Irvine</p>
-        
-        <p><strong>Shaila Miranda</strong>, University of Arkansas</p>
-        
-        <p><strong>Robert Seamans</strong>, New York University</p>
+        <p><strong>Niki Panteli</strong>, Lancaster University</p>
         
     
     
-    <p>Over the last 20 years, ongoing waves of digitalization have decimated the traditional business model of the news and fundamentally changed how the news, or more formally, the ‘institutional press’, works. Indeed, ever since reserved frequencies were gifted to television broadcasters in the 1950s, on the condition that they inform the public of current events, the subsidy underpinning newspapers and other forms of institutional media has slowly eroded. Like many other industries, the internet has accelerated this phenomenon. Not only has the hyper-targeted advertising facilitated by social media and other platforms functionally eroded the subsidy model to its breaking point; but the costless transmission of data facilitated by the internet has increased geographic scope of dominant players, permitting them to reach beyond their original markets and squeeze content producers across the globe. Against this backdrop, it is hard to overstate the importance of this &#39;crisis of the institutional press&#39;. The news provides our primary means for understanding the world around us. Societies desperately need a well-functioning institutional press to tackle the many societal, economic, and environmental challenges we all face.</p>
+    <p>Generative AI (GenAI) has rapidly become a general-purpose technology that reshapes how information is created, curated, and consumed. GenAI broadly refers to a class of AI models that generate seemingly new content in the form of text, images, audio, or video. In the media context, where value is built around the provision and use of content, GenAI has attracted particular attention. For instance, it enables the near-instant creation of journalistic articles, marketing texts, or audiovisual material, and it supports personalization by dynamically adapting media offerings to individual user preferences. The advent of the Internet had already marked a profound transformation in the delivery and consumption of content. It made user-generated content possible, catalyzed multi-sided platforms, and enabled unprecedented personalization. This transformation brought new players into the media sector, as technology companies entered the market and traditional media firms were forced to develop significant digital competencies for the first time.</p>
     
-    <p>The first day of core courses usually begins with one of four motivating examples: the decline of incumbent sellers in favor of digital platforms, the increasing irrelevance of diseconomies of scale and the rise of digital monopolies, the rise of social media and user-generated content, or the decline of the newspaper industry. Yet, as these classes continue to discuss the opportunities firms have in the digital age and teach students to implement advanced analytics to more effectively mine business value from data, the decline of institutional media often fades into the background.</p>
+    <p>GenAI is expected to have an equally profound impact on the media industry by expanding complementary innovation, lowering barriers for content creation, and altering the economics of matching and recommendation at scale. Despite recent advances, our knowledge is still limited. Existing research has begun to shed light on the impact of GenAI on textual news app users’ willingness to pay, yet it is unknown whether similar effects extend to audiovisual content. Moreover, there are initial indications of how journalists’ productivity may change with the use of GenAI. At the same time, the potential for entirely new GenAI-based products remains largely unexplored. In particular, little is known about the extent to which audience discussions can be moderated and managed, or about the new forms of public media provision that GenAI might enable. These questions are especially pressing given the central role of media in shaping public opinion and broader societal developments, including political attitudes.</p>
     
-    <p>This phenomenon-driven special issue is motivated by the view that our students, colleagues, and society urgently need a better understanding of the causes and consequences of the changing nature of news in the digital era and potential solutions going forward. The special issue takes an interdisciplinary perspective, bringing together insights from across the broader information, managerial, and organizational sciences.</p>
-    
-    <p>This failure to discuss the implications of the decline of institutional news media is troubling. Not only has the Fourth Estate historically served to counterbalance institutions with a monopoly on force and morality, it has been a cornerstone of democratic republics for centuries. These claims are not idle musings. News media outlets have been shown to influence many societal outcomes, from government agendas to public opinion to voting behavior. The Fourth Estate mediates the attention granted to social movements and can influence the strategic management of organizations. Institutional media can also prompt changes in corporate governance: it can shape the valuation of firms at IPO, influence firm founding, confer legitimacy on industries, and even elevate de novo technological innovations in the public consciousness.</p>
-    
-    <p>Yet, seismic changes have assaulted the free press as we understand it. The late 20th century witnessed an increasing concentration in ownership of news outlets, leading to elevated reliance on advertising revenue that biased content. The recent history of the institutional press is interwoven with the history of digital technology. Initially, the World Wide Web served largely as a vehicle for the dissemination of news produced by professional news organizations, extending their reach. In time, the ensuing competition for reader attention shifted the gatekeeping function from professional news organizations to online content curators. Contemporary media coverage became more selective and influenced by market actors. With the advent of social media, user-generated content further usurped the gatekeeping role of professional news organizations. Moreover, public subsidy for the Fourth Estate was undermined by social media, accelerating the control of dominant players on public discourse and hollowing the local publishing industry. At the same time, social media has afforded citizen journalists the ability to counter-balance the biases of professional news organizations.</p>
-    
-    <p>Even more recently, society has witnessed a demonstrable shift towards the &#39;post-truth era,&#39; in which populist, tribalist, and anti-&#39;mainstream media&#39; rhetoric proliferates. While the blockchain has been heralded as a way of remaking the institutional press in the digital era, we have little systematic understanding of its efficacy. All the while, the process of news construction and dissemination is being disrupted by algorithms, machine learning, and artificial intelligence. The long-term implications of these AI tools on the institutional press are unknown. Indeed, we are witnessing intersections of the evolutionary paths of technology and the institutional press in ways that are fundamentally changing the &#39;freedom of the press&#39; and the complex network that includes journalists, software engineers, relational databases, and social media platforms which form it; along with prevailing norms, values, and institutional logics of a particular sociotechnical moment.</p>
-    
-    <p>Research has only begun to address these changes. The purpose of this Special Issue is to address this gap in scholarship head on and to inform stakeholders about how changes in institutional media are affecting society at the intersection of business, technology, and public policy. To this end, we invite scholarship that helps academia and society comprehend the major changes taking place within the institutional press, why those changes are occurring, and what the consequences of those changes are; and work together toward a more positive future for the institutional press.</p>
-    
-    <p>We encourage an equally diverse breadth of scholars to submit their work to this special issue.</p>
+    <p>The aim of this special issue is to advance IS research on this emerging field. We invite contributions that examine the role of GenAI in the provision and use of media offerings. Analyses may focus on individuals, organizations, or industries. Studies may address GenAI on the level of systems, their effects, or their management. Submissions should be firmly grounded in the technology itself and its implications for media ecosystems. This special issue aims to stimulate innovative investigations of the transformative role of GenAI in the provisioning and use of public media. In contrast to closed settings, such as private messaging services, the recipients of public communication cannot be predetermined or exhaustively specified in advance. Accordingly, the domain of interest spans both online media, including digital platforms and social media, and traditional media such as print and television. We welcome qualitative and quantitative empirical studies as well as design-oriented research. Submissions should provide a clear academic contribution by advancing theory and knowledge in the Information Systems discipline. While practical relevance and managerial implications are highly valued, they are not sufficient on their own; academic advancement is essential.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>The changing nature of the press, news media as an institution, and the consequences of those changes.</li>
+        <li>Provision of Content for the Media</li>
         
-        <li>The functioning of, and implications for, non-traditional digital era news sources.</li>
+        <li>Use of Content provided by the Media</li>
         
-        <li>What constitutes news in the digital era?</li>
-        
-        <li>The interaction of social and institutional media.</li>
-        
-        <li>The role of professional standards and gatekeeping in today’s news media ecosystem and mechanisms to support them.</li>
-        
-        <li>Sociotechnical approaches to understanding the intersections and dependencies between technologies, institutional forces, values, and norms in relation to freedom of the press.</li>
-        
-        <li>Designing and assessing IT artifacts (e.g., generative AI, algorithms and computational methods, blockchain) towards an aspirational institutional press.</li>
-        
-        <li>The news as a dynamic construct across time and space, and the consequent implications for content generation and consumption.</li>
-        
-        <li>The news as a societal information system.</li>
+        <li>Embedding of the Media in Society</li>
         
     </ul>
     
@@ -78,80 +52,27 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>April 30, 2024: Optional abstract submission due</li>
+        <li>December 1, 2025: Full paper submission opens</li>
         
-        <li>May 30, 2024: Optional abstract feedback via email</li>
+        <li>April 30, 2026: Full paper submission closes</li>
         
-        <li>August 5, 2024: Invited five-page abstract for AOM Workshop due</li>
+        <li>June 30, 2026: Desk check</li>
         
-        <li>August 9, 2024: Paper Development Workshop at AOM</li>
+        <li>September 30, 2026: Feedback on the first version</li>
         
-        <li>December 1, 2024: Full Paper Submission Deadline</li>
+        <li>January 31, 2027: Submission revision 1</li>
         
-        <li>March 15, 2025: First-round decisions expected</li>
+        <li>April 30, 2027: Feedback on revision 1</li>
         
-        <li>May 30, 2025: Revision Plan Meeting with SI Editors</li>
+        <li>June 30, 2027: Submission revision 2</li>
         
-        <li>July 15, 2025: Second-round revisions due</li>
-        
-        <li>October 15, 2025: Second-round decisions expected</li>
-        
-        <li>February 15, 2026: Third- and final revisions submissions due</li>
-        
-        <li>May 15, 2026: Final decisions expected</li>
+        <li>July 31, 2027: Final decision</li>
         
     </ul>
     
-    
-    <h2>Associate editors</h2>
-    <ul>
-        
-        <li><strong>Mike Annay</strong>, University of Southern California</li>
-        
-        <li><strong>Jens Foerderer</strong>, Technische Universität München</li>
-        
-        <li><strong>Anand Gopal</strong>, National Technical University of Singapore</li>
-        
-        <li><strong>Brent Kitchens</strong>, University of Virginia</li>
-        
-        <li><strong>Gene Moo Lee</strong>, UBC Sauder School of Business</li>
-        
-        <li><strong>Attila Marton</strong>, Copenhagen Business School</li>
-        
-        <li><strong>Jeffrey Nickerson</strong>, Stevens Institute of Technology</li>
-        
-        <li><strong>Christopher Parker</strong>, American University</li>
-        
-        <li><strong>Caitlin Petre</strong>, Rutgers University</li>
-        
-        <li><strong>Christian Peukert</strong>, HEC Lausanne</li>
-        
-        <li><strong>Aleš Popovič</strong>, NEOMA Business School</li>
-        
-        <li><strong>Jui Ramaprasad</strong>, University of Maryland</li>
-        
-        <li><strong>Imke Reimers</strong>, Cornell University</li>
-        
-        <li><strong>Jie Ren</strong>, Fordham University</li>
-        
-        <li><strong>Gaurav Sabnis</strong>, Stevens Institute of Technology</li>
-        
-        <li><strong>Ananya Sen</strong>, Carnegie Mellon University</li>
-        
-        <li><strong>Jananki Srinivasan</strong>, IIIT-Bangalore</li>
-        
-        <li><strong>Xiao Xiao</strong>, Copenhagen Business School</li>
-        
-        <li><strong>Yi Yang</strong>, HKUST</li>
-        
-        <li><strong>Nan Zhang</strong>, University of Florida</li>
-        
-        <li><strong>Aljona Zorina</strong>, IESEG</li>
-        
-    </ul>
     
 </div>]]></content:encoded>
-            <author>MIS Quarterly (MISQ)</author>
+            <author>Journal of Management Information Systems (JMIS)</author>
         </item>
     </channel>
 </rss>
