@@ -50,6 +50,7 @@ for (const call of calls) {
         content: nunjucks.render('rss.html', { call: call })
     });
 }
+fs.writeFileSync("./www/rss.xml", rssFeed.rss2());
 
 // Group calls by journal-abbreviation
 const journalGroups = {};
