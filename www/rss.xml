@@ -4,7 +4,7 @@
         <title>Calls for Papers</title>
         <link>https://callsforpapers.org/</link>
         <description>Calls for Papers shows you the latest calls for papers of academic journals in your discipline.</description>
-        <lastBuildDate>Wed, 03 Sep 2025 03:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Nov 2025 22:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,197 @@
             <link>https://callsforpapers.org/</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Generative AI as Driver of Change in Media]]></title>
+            <link>https://callsforpapers.org/call/jmis-generative-ai-as-driver-of-change-in-media</link>
+            <guid>jmis-generative-ai-as-driver-of-change-in-media</guid>
+            <pubDate>Sat, 22 Nov 2025 03:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Thomas Hess</strong>, University of Munich (LMU)</p>
+        
+        <p><strong>Ioanna Constantiou</strong>, Copenhagen Business School</p>
+        
+        <p><strong>Niki Panteli</strong>, Lancaster University</p>
+        
+    
+    
+    <p>Generative AI (GenAI) has rapidly become a general-purpose technology that reshapes how information is created, curated, and consumed. GenAI broadly refers to a class of AI models that generate seemingly new content in the form of text, images, audio, or video. In the media context, where value is built around the provision and use of content, GenAI has attracted particular attention. For instance, it enables the near-instant creation of journalistic articles, marketing texts, or audiovisual material, and it supports personalization by dynamically adapting media offerings to individual user preferences. The advent of the Internet had already marked a profound transformation in the delivery and consumption of content. It made user-generated content possible, catalyzed multi-sided platforms, and enabled unprecedented personalization. This transformation brought new players into the media sector, as technology companies entered the market and traditional media firms were forced to develop significant digital competencies for the first time.</p>
+    
+    <p>GenAI is expected to have an equally profound impact on the media industry by expanding complementary innovation, lowering barriers for content creation, and altering the economics of matching and recommendation at scale. Despite recent advances, our knowledge is still limited. Existing research has begun to shed light on the impact of GenAI on textual news app users’ willingness to pay, yet it is unknown whether similar effects extend to audiovisual content. Moreover, there are initial indications of how journalists’ productivity may change with the use of GenAI. At the same time, the potential for entirely new GenAI-based products remains largely unexplored. In particular, little is known about the extent to which audience discussions can be moderated and managed, or about the new forms of public media provision that GenAI might enable. These questions are especially pressing given the central role of media in shaping public opinion and broader societal developments, including political attitudes.</p>
+    
+    <p>The aim of this special issue is to advance IS research on this emerging field. We invite contributions that examine the role of GenAI in the provision and use of media offerings. Analyses may focus on individuals, organizations, or industries. Studies may address GenAI on the level of systems, their effects, or their management. Submissions should be firmly grounded in the technology itself and its implications for media ecosystems. This special issue aims to stimulate innovative investigations of the transformative role of GenAI in the provisioning and use of public media. In contrast to closed settings, such as private messaging services, the recipients of public communication cannot be predetermined or exhaustively specified in advance. Accordingly, the domain of interest spans both online media, including digital platforms and social media, and traditional media such as print and television. We welcome qualitative and quantitative empirical studies as well as design-oriented research. Submissions should provide a clear academic contribution by advancing theory and knowledge in the Information Systems discipline. While practical relevance and managerial implications are highly valued, they are not sufficient on their own; academic advancement is essential.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Provision of Content for the Media</li>
+        
+        <li>Use of Content provided by the Media</li>
+        
+        <li>Embedding of the Media in Society</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>December 1, 2025: Full paper submission opens</li>
+        
+        <li>April 30, 2026: Full paper submission closes</li>
+        
+        <li>June 30, 2026: Desk check</li>
+        
+        <li>September 30, 2026: Feedback on the first version</li>
+        
+        <li>January 31, 2027: Submission revision 1</li>
+        
+        <li>April 30, 2027: Feedback on revision 1</li>
+        
+        <li>June 30, 2027: Submission revision 2</li>
+        
+        <li>July 31, 2027: Final decision</li>
+        
+    </ul>
+    
+    
+</div>]]></content:encoded>
+            <author>Journal of Management Information Systems (JMIS)</author>
+        </item>
+        <item>
+            <title><![CDATA[India at the Intersection: Reconfiguring Commerce, Capabilities and Culture in Age of Technological Acceleration]]></title>
+            <link>https://callsforpapers.org/call/jsis-india-at-the-intersection-reconfiguring-commerce-capabilities-and-culture-in-age-of-technological-acceleration</link>
+            <guid>jsis-india-at-the-intersection-reconfiguring-commerce-capabilities-and-culture-in-age-of-technological-acceleration</guid>
+            <pubDate>Thu, 20 Nov 2025 03:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Pankaj Setia</strong>, Indian Institute of Management Ahmedabad</p>
+        
+        <p><strong>Priya Seetharaman</strong>, Indian Institute of Management Calcutta</p>
+        
+        <p><strong>Abhishek Kathuria</strong>, Deakin University</p>
+        
+        <p><strong>Marco Marabelli</strong>, Bentley University</p>
+        
+    
+    
+    <p>Contemporary Information Systems (IS) are marked by transformations at the intersection of technology, people and organizations (Setia 2024). These are shaped by, and are shaping how firms, communities, and societies evolve. As researchers unravel these dynamics, India presents a compelling context. Rooted in millennia of cultural and commercial history, India is now rapidly being reshaped by the forces of digital innovation. Indian business landscape is a vibrant mosaic where ancient artisanal traditions, kinship-based commerce, informal enterprises, and social ventures coexist with state-owned firms, family conglomerates, and home-grown blue chips. This landscape often collides with large multinationals, platform economies, and globally scaled startups. Together, India’s palimpsestic business environment, pluralistic culture, and demographic vastness form a powerful trifecta that offers a unique context for researchers. Specifically, unlike a monolith landscape, India represents a living, evolving environment of practices, identities, and aspirations.</p>
+    
+    <p>This special issue invites submissions focused on how rapid technological acceleration in India is strategically reshaping the country’s business environment. We particularly welcome submissions that explores how culture, capabilities, and commerce evolve amid the transformations of a historically layered, institutionally complex economy. Traditionally, India’s artisanal industries and cultural expressions were deeply entwined with its commercial practices (Tharoor, 2016). Centuries of colonial domination disrupted local crafts and knowledge systems; today, the digital wave carries a similar dual potential, risking the displacement of traditional modes of production while also offering new avenues for visibility and market access. India’s contemporary platform economy, with its roots in the historical bazaar and emporium systems (Athique, 2020), exemplifies this paradox.</p>
+    
+    <p>The expansion of digital technologies into an informal, fragmented economy has introduced elements of structure and visibility long described by Scott’s notion of “legibility” (1998), a concept which relevance persists as states and platforms alike seek to render local practices more standardized and governable in the digital age. Could the drive for scale, efficiency, and algorithmic appeal lead to a flattening of cultural nuance in favor of standardization and mass reproducibility? This scenario becomes real if Information Technology (IT) education and digital skilling emphasize surface-leveltechnical credentials and globalized templates of “digital competence” (Rangaswamy &amp; Narasimhan, 2022) rather than contextually grounded, socially attuned capabilities.</p>
+    
+    <p>Research on India’s digital transformation offers opportunities to develop new theoretical insights for the global IS community. India’s “digital revolution” began with the IT services boom of the 1990s, expanded through the telecom and mobile internet surge of the 2000s, and has accelerated since the mid-2010s (Seetharaman &amp; Cranefield, 2019) along with more recent initiatives such as Digital India (nationwide digital infrastructure and e-governance), Aadhaar (biometric digital identity) (Addo, 2022), UPI (Unified Payments Interface, i.e. inter-bank peer-to-peer and person-to-merchant real-time payments), and ONDC (Open Network for Digital Commerce - a decentralized, interoperable open e-commerce). The early IT services phase delivered major economic gains, creating an entire industry, generating jobs, boosting exports (Bhatnagar &amp; Madon, 1997). More recently, the focus has shifted to attracting foreign investment and expanding access to information (Parthiban et al., 2024). Yet some scholars have questioned the limited societal spillovers and skewed labor composition (Barnes, 2013) of India’s IT industry. Others note that emerging digital technologies may help move beyond low-end services toward more diversified, socially embedded growth (Das &amp; Sagara, 2017).</p>
+    
+    <p>The current IT development phase, characterized by digital platforms embedding services related to fintech, e-governance, and mobile ecosystems, has expanded access to resources, formalized parts of the informal sector, and holds promise for reducing poverty and inequality. These developments offer models for the wider global majority, even if significant challenges remain. The complex dynamics of new technological affordances and constraints, ranging from cross-platform interoperability to fraudulence (Kumar et al., 2025) and lack of sufficient regulations that balance conflicting interests (Marabelli &amp; Davison, 2025; De’ et al., 2024), hinder the equitable spread of these digital platforms across socio-economic groups.</p>
+    
+    <p>IS research, including studies published in JSIS, highlights how digital technologies may afford the creation of economic opportunities for the informal sector, help small and medium enterprises access new markets (Parthiban et al., 2024; Shirish et al., 2025), and transform service delivery in high impact industries such as healthcare (Hiriyur, 2022; Setia, 2023). In India and in the wider global majority countries, digital technology has also been socially transformative such as through, amplifying marginalized voices, lowering barriers to political participation (Kulshreshth, 2023), and supporting creative industries through digital media (Mehta &amp; Cunningham, 2023), though always mediated by prevailing social norms and values (Oreglia &amp; Srinivasan, 2016). This ongoing transformation is however complicated by geopolitical tensions, supply chain disruptions, and economic nationalism which are leading to a rethink of globalization’s promises (Butollo et al., 2024). Although digital technologies, AI (artificial intelligence) in particular, are deeply entangled with environmental sustainability challenges exacerbating global resource inequalities; yet they also enable strategic responses to climate risks through innovations in smart cities, agriculture, and disaster prediction (Marabelli &amp; Davison, 2025). For India too, this shift opens up both risks and opportunities: it may create greater space for indigenous enterprises, self-reliant supply chains, and localized innovation, while also changing the nature of export-led sectors and globally networked business models (Witt et al., 2023). The interplay between fractured globalizing forces and India’s own plural, multi-scale economy raises pressing questions about sovereignty, resilience, and cultural-economic autonomy.</p>
+    
+    <p>This special issue seeks to examine strategic opportunities, disruptions and challenges arising from the intersection of culture, commerce, capabilities and technology in the Indian context. We welcome research that shows how digital technologies reshape strategic choices, organizing logics, and competitive positioning while remaining embedded in India’s uniqueness. The special issue also aims to foreground location-specific research agendas and contextual theorization (Avgerou, 2019), emphasizing the need for research that is not only rigorous and relevant, but also responsible to its context (Seetharaman et al., 2024).</p>
+    
+    <p>By bringing together diverse ideas and a deeper understanding, this special issue aims to reframe India not as a battleground between tradition and modernity but as a dynamic site of ongoing negotiation, reinvention, and possibility.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Craft, Culture, Civilization, and Vernacular Economies</li>
+        
+        <li>Digital Platforms, Inclusion, and Ecosystems</li>
+        
+        <li>Innovation, Entrepreneurship, and Labor</li>
+        
+        <li>Policy, Scale, and Governance</li>
+        
+        <li>Firm-Level Strategy and Organizational Change</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>March 6, 2026: Developmental workshop for interested authors at InCIS 2026</li>
+        
+        <li>May 1, 2026: Deadline to submit a 1000-words extended abstract on the JSIS portal (not required but highly recommended)</li>
+        
+        <li>July 1, 2026: Submission of full papers opens</li>
+        
+        <li>September 30, 2026: Submission deadline for full papers</li>
+        
+        <li>January 31, 2027: Initial feedback to authors</li>
+        
+        <li>April 30, 2027: Deadline for resubmission of revised papers</li>
+        
+        <li>September 30, 2027: Final Submissions due</li>
+        
+        <li>December 1, 2027: Final editorial decisions communicated to authors</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Amit Prakash</strong>, International Institute of Information Technology Bangalore</li>
+        
+        <li><strong>Anuragini Shirish</strong>, Institute Mines-Télécom Business School</li>
+        
+        <li><strong>Ashish Kumar Jha</strong>, Trinity Business School</li>
+        
+        <li><strong>Ashish Gupta</strong>, Auburn University</li>
+        
+        <li><strong>Atta Addo</strong>, Surrey Business School</li>
+        
+        <li><strong>Bidisha Chaudhuri</strong>, University of Amsterdam</li>
+        
+        <li><strong>Devinder Thapa</strong>, University of Agder</li>
+        
+        <li><strong>Janaki Srinivasan</strong>, University of Oxford</li>
+        
+        <li><strong>Juliana Sutanto</strong>, Monash University</li>
+        
+        <li><strong>M N Ravishankar</strong>, Queen&#39;s Business School</li>
+        
+        <li><strong>M S Sandeep</strong>, UNSW Business School</li>
+        
+        <li><strong>Nirup Menon</strong>, George Mason University</li>
+        
+        <li><strong>Onkar Malgonde</strong>, North Carolina State University</li>
+        
+        <li><strong>Radhika Santhanam</strong>, University of Oklahoma</li>
+        
+        <li><strong>Rahul De</strong>, Indian Institute of Management Bangalore</li>
+        
+        <li><strong>Rajiv Kishore</strong>, University of Nevada, Las Vegas</li>
+        
+        <li><strong>Saji K Mathew</strong>, Indian Institute of Technology Madras</li>
+        
+        <li><strong>Samrat Gupta</strong>, Indian Institute of Management Ahmedabad</li>
+        
+        <li><strong>Satish Krishnan</strong>, Indian Institute of Management Kozhikode</li>
+        
+        <li><strong>Silvia Masiero</strong>, University of Oslo</li>
+        
+        <li><strong>Soumyakanti Chakraborty</strong>, Indian Institute of Management Calcutta</li>
+        
+        <li><strong>Sumeet Gupta</strong>, Indian Institute of Management Raipur</li>
+        
+        <li><strong>Sunil Wattal</strong>, Temple University</li>
+        
+        <li><strong>Suranjan Chakraborty</strong>, Towson University</li>
+        
+        <li><strong>Swanand Deodhar</strong>, Indian Institute of Management Ahmedabad</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>The Journal of Strategic Information Systems (JSIS)</author>
+        </item>
         <item>
             <title><![CDATA[Unpacking the Multifaceted Impact of Generative Artificial Intelligence on Organisations]]></title>
             <link>https://callsforpapers.org/call/jsis-unpacking-the-multifaceted-impact-of-generative-artificial-intelligence-on-organisations</link>
@@ -147,37 +338,35 @@
             <content:encoded><![CDATA[<div>
     
         
-        <p><strong>Hannigan, Timothy</strong>, University of Ottawa</p>
+        <p><strong>Timothy Hannigan</strong>, Telfer School of Business</p>
         
-        <p><strong>Jennings, P. Devereaux</strong>, University of Alberta</p>
+        <p><strong>P. Devereaux Jennings</strong>, Alberta School of Business</p>
         
-        <p><strong>Miranda, Shaila</strong>, University of Arkansas</p>
+        <p><strong>Shaila Miranda</strong>, Information Systems Sam M. Walton College of Business</p>
         
-        <p><strong>Faraj, Samer</strong>, McGill University</p>
+        <p><strong>Samer Faraj</strong>, Desautels Faculty of Management at McGill University</p>
         
     
     
-    <p>This Special Issue is devoted to interpretive approaches to studying algorithmic assemblages constitutive of and by fields, ecosystems, and platforms and combining research from an organizational and information systems view about such organizing features and their dynamics. Information technologies have progressively enabled, even necessitated, a shift in the locus of value creation, capture, and resource orchestration and the processes they entail from within organizations to these more loosely coupled and emergently structured sociotechnical systems. The interpretive approach broadly stems from the relational turn in organization theory, but more proximately, considers assemblages and algorithmic organizing as views of these key constructs and their associated processes. To date, there has been less theory-building and empirical research connecting these more mezzo and macro constructs with the more micro-dynamics of these systems. In particular, it is not clear how algorithmic technologies enable the discursive and material interconnections of organizational ecosystems and facilitate the legitimacy dynamics of institutional fields. Nor is it clear the ways in which algorithmic technologies differentially circumscribe meaning across global fields and societies.</p>
+    <p>This Special Issue is devoted to interpretive approaches to studying algorithmic assemblages constitutive of and by fields, ecosystems, and platforms and combining research from an organizational and information systems view about such organizing features and their dynamics. Information technologies have progressively enabled a shift in the locus of value creation, capture, and resource orchestration and the processes they entail from within organizations to more loosely coupled and emergently structured sociotechnical systems. The interpretive approach stems from the relational turn in organization theory and considers assemblages and algorithmic organizing as views of key constructs and their associated processes.</p>
     
-    <p>For example, blockchain communities contain organizational imaginaries around decentralized organization, and ongoing work is needed to examine how protocols are governed and established as new “rules of the game” and how community discourses around digital technologies shape institutional fields. Relatedly, the metaverse offers novel opportunities for commerce, government, and society within emerging ecosystems. Similarly, for AI technologies it is important to parse through the rhetoric and reality of how field level discourse influences organizational adoption and vice versa. As quantum computing threatens to disrupt our digital world, it is important to understand the broad material, social, and cultural ecosystem with the potential to reshape global business and geopolitics. To examine the institutional dynamics of technologically mediated organizing, it is necessary to methodologically zoom in and out with configurations to examine how realities are constructed based on shared meanings and interpretations.</p>
-    
-    <p>To unpack these dynamics around technology-based and –mediated fields, ecosystems and platform we call for theory and research that relies on relational approaches coming from both organization theory and information systems. In those approaches, we see how theories of assemblages and algorithmic organizing, when combined with more traditional organizational views such as of routines and institutions, offer powerful new ways of thinking about these dynamics.</p>
-    
-    <p>The objectives of this Special Issue are twofold. First, we wish to foster the development of cutting-edge research (theory and method) among scholars interested in organizational and institutional studies of the use and effects of data science and algorithms on decision-making. Second, we wish to continue building and strengthening the community of scholars engaged in that work, especially at the intersection of organization theory and information systems. In doing so, we reiterate Orlikowski and Barley’s call for synthesis of information systems and organizational studies scholars’ knowledge trajectories of technology change and institutional contexts. Since their call, there has been a growing convergence between these knowledge trajectories, culminating in studies of how actors remake institutional fields, change power relationships, and construct meanings about technology beyond institutionalized paths.</p>
-    
-    <p>We can envision a variety of ways in which empirical papers can showcase the way in which interpretive algorithms affect assemblages, ecosystems, and fields. We stand on the shoulders of Barley &amp; Orlikowski (2023:4) and their call for papers that navigate “futures far different from the pasts we have known” with “more in-depth empirical studies and less speculation and hype.”</p>
+    <p>To date, there has been less theory-building and empirical research connecting macro constructs with the micro-dynamics of these systems. It is particularly unclear how algorithmic technologies enable the interconnections of organizational ecosystems and facilitate legitimacy dynamics of institutional fields. Furthermore, it is not clear how algorithmic technologies circumscribe meanings across global fields and societies. The call for theory and research relies on relational approaches coming from both organization theory and information systems.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>Interpretive approaches to studying algorithmic assemblages</li>
+        <li>Interpretive approaches to algorithmic assemblages</li>
         
-        <li>Relational theories in organizational and information systems contexts</li>
+        <li>Relational approaches from organization theory</li>
         
-        <li>Empirical research on algorithmic technologies</li>
+        <li>The dynamics of algorithmic technologies in organizational ecosystems</li>
         
-        <li>Intersection of organization theory and information systems</li>
+        <li>Legitimacy dynamics of institutional fields</li>
+        
+        <li>Impact of AI and blockchain on organizational structures and meanings</li>
+        
+        <li>Methodological frameworks for studying technology-mediated organizing</li>
         
     </ul>
     
@@ -185,11 +374,11 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>August 18, 2025: </li>
+        <li>May 15, 2026: Submission deadline for full papers</li>
         
-        <li>May 15, 2026: Submission deadline</li>
+        <li>September 15, 2026: First round reviews due</li>
         
-        <li>October 30, 2026: First round decision letters sent out</li>
+        <li>October 31, 2026: First round decision letters sent out</li>
         
         <li>February 28, 2027: First round paper resubmissions</li>
         
@@ -219,7 +408,7 @@
         
         <p><strong>Melanie Reuter-Oppermann</strong>, Maastricht University and ILS Mannheim gGmbH</p>
         
-        <p><strong>Roxana Ologeanu-Taddei</strong>, TBS Education and University of Montpellier</p>
+        <p><strong>Roxana Ologeanu-Taddei</strong>, University of Montpellier</p>
         
         <p><strong>Hannes Rothe</strong>, Rhine-Ruhr Institute of Information Systems, University of Duisburg-Essen</p>
         
@@ -234,6 +423,8 @@
     <p>We are asking for papers speaking to these topics and see two broad ways in which submissions to our special issue could do so. The first is cumulative and much in line with how research in IS and adjacent fields such as computer science, management, and medicine is conventionally done. It resides in furthering our understandings and toolkits for creating value in digital health ecosystems. However, the more data are available the higher is arguably the potential for misuse (Morley et al., 2020; Murdoch, 2021; Siala &amp; Wang, 2022), especially when genomic and bio data are in question (Jarvenpaa &amp; Markus, 2018; Rothe et al., 2019, 2023; Thiebes et al., 2020; Vassilakopoulou et al., 2018). This is why research about creating value from data logically calls for research about how to distribute value among ecosystems participants.</p>
     
     <p>The second way to address the abovementioned research trajectories is consistent with EJIS’s recent developments towards promoting ‘contrarian studies’ (Nandhakumar, 2010). We see much promise of contrarian studies investigating the creation and distribution of value in digital health ecosystems. Research about digital health is replete with assumptions touching on the outcomes that large volumes of data are likely to generate. This stands in stark contrast to the fact that on the ‘ground floor’ where most clinicians work the data are hardly ever available in the format, quality or volume needed to even remotely live up to these expectations (Jones, 2019). It is, therefore, paramount to offer fundamentally new ways of thinking about creating and distributing value in digital health ecosystems.</p>
+    
+    <p>These considerations lead us to a set of issues which we would like to address through putting together this special issue. These issues include but are not limited to the topics presented above.</p>
     
     
     <h2>Potential topics</h2>
@@ -283,25 +474,49 @@
     <h2>Associate editors</h2>
     <ul>
         
-        <li><strong>Bogdan Negoita</strong>, HEC Montréal</li>
+        <li><strong>Aleksi Aaltonen</strong>, Stevens Institute of Technology</li>
         
-        <li><strong>Camille Grangé</strong>, HEC Montréal</li>
+        <li><strong>Saeed Akhlaghpour</strong>, University of Queensland</li>
         
-        <li><strong>Cristina Trocin</strong>, Católica Porto Business School</li>
+        <li><strong>Aycan Aslan</strong>, IT University Copenhagen</li>
         
-        <li><strong>Farkhondeh Hassan Doust</strong>, University of Auckland</li>
-        
-        <li><strong>Guy Paré</strong>, HEC Montréal</li>
+        <li><strong>Anna Essén</strong>, Stockholm School of Economics</li>
         
         <li><strong>Heiko Gewald</strong>, HS Neu-Ulm</li>
         
+        <li><strong>Martin Gersch</strong>, Freie Universität Berlin</li>
+        
+        <li><strong>Camille Grangé</strong>, HEC Montréal</li>
+        
         <li><strong>Maike Greve</strong>, Copenhagen Business School</li>
+        
+        <li><strong>Farkhondeh Hassan Doust</strong>, University of Auckland</li>
+        
+        <li><strong>Alexander Kempton</strong>, University of Oslo</li>
         
         <li><strong>Johann Kranz</strong>, LMU</li>
         
+        <li><strong>Jan-Marco Leimeister</strong>, St. Gallen</li>
+        
+        <li><strong>Wolfgang Maaß</strong>, Saarland University</li>
+        
+        <li><strong>Bogdan Negoita</strong>, HEC Montréal</li>
+        
+        <li><strong>Lemai Nguyen</strong>, Deakin University</li>
+        
+        <li><strong>Guy Paré</strong>, HEC Montréal</li>
+        
+        <li><strong>Scott Thiebes</strong>, Karlsruhe Institute of Technology</li>
+        
         <li><strong>Manuel Trenz</strong>, University of Göttingen</li>
         
-        <li><strong>Saeed Akhlaghpour</strong>, University of Queensland</li>
+        <li><strong>Cristina Trocin</strong>, Católica Porto Business School</li>
+        
+        <li><strong>Marjolein van Offenbeek</strong>, University of Groningen</li>
+        
+        <li><strong>Polyxeni Vassilakopoulou</strong>, University of Agder</li>
+        
+        <li><strong>Till Winkler</strong>, Fernuniversität Hagen</li>
         
     </ul>
     
@@ -330,7 +545,7 @@
     
     <p>Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.</p>
     
-    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems (Nandakumar, 2010; Ägerfalk, 2010). We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective (Conboy, 2019), examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
+    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective, examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
     
     
     <h2>Potential topics</h2>
@@ -343,6 +558,36 @@
         <li>Design science beyond the science of the artificial</li>
         
         <li>Design and development in an era of heightened responsibility</li>
+        
+        <li>The impact of AI on any or all aspects of IS design and development</li>
+        
+        <li>The impact of emerging technology such as quantum computing, blockchain, wearables, etc. on the future of IS design and development</li>
+        
+        <li>The future of traditional software designers and developers and if and how these roles will exist in the medium to long term</li>
+        
+        <li>Contrarian perspectives that challenge assumptions and norms of existing methods such as agile, continuous development and large scale methods</li>
+        
+        <li>Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’</li>
+        
+        <li>New ‘Promethean’ methods that encourage thinking about and designing distant digital futures</li>
+        
+        <li>Challenging the problem-solving paradigm in designing IS solutions</li>
+        
+        <li>Embracing vision-oriented and future-oriented DSR</li>
+        
+        <li>Critique or discussion of existing policies, laws and regulations governing aspects of IS design</li>
+        
+        <li>Exemplars of IS design and development for digital futures</li>
+        
+        <li>New methods for designing digital futures anchored in IS design and development heritage</li>
+        
+        <li>New perspectives on responsible design and the design of responsible IS</li>
+        
+        <li>Design of subtle functionality such as compassion, empathy, and emotion into technologies such as artificial intelligence applications</li>
+        
+        <li>Ethical issues in the design of personalized software, including software designed to adapt to personal characteristics</li>
+        
+        <li>Unique perspectives on the consideration and integration of privacy and security by design, especially into emerging technologies.</li>
         
     </ul>
     
@@ -1423,7 +1668,7 @@
             <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
-            <title><![CDATA[Artificial Intelligence-Information Assurance Nexus: The Future of Information Systems Security, Privacy, and Quality]]></title>
+            <title><![CDATA[AI-IA Nexus: The Future of Information Systems Security, Privacy, and Quality]]></title>
             <link>https://callsforpapers.org/call/misq-ai-ia-nexus</link>
             <guid>misq-ai-ia-nexus</guid>
             <pubDate>Wed, 16 Oct 2024 05:11:12 GMT</pubDate>
@@ -1442,63 +1687,33 @@
         
     
     
-    <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations (Mahmood et al., 2010; Forrest, 2023). As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability (European Parliament, 2018; White House, 2023a). As society steps into the age of generative AI (GenAI) (Dennehy et. al., 2023), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance (Robidoux, 2024).</p>
+    <p>Digital threats continue to impede information assurance. Many issues in information assurance have arisen in the last decade or two, including risk management, information quality, intellectual property, privacy protection, compliance with regulations, and continuity of operations. As a result, protecting information has become a global priority, and collaborative efforts are being made to prevent, detect, and react to threats to information quality, authenticity, integrity, confidentiality, and availability.</p>
     
-    <p>GenAI creates new content, whereas traditional AI mostly makes predictions and classifications based on existing datasets. GenAI is designed to reason and operate independently across various domains, whereas traditional AI focuses on narrow tasks (e.g., playing chess and translating languages by following specific rules). In addition, GenAI works with multiple data modalities (e.g., text, images, and videos), whereas traditional AI primarily functions in a single mode of data. These new capabilities of GenAI open new possibilities for its applications in a wide range of areas. GenAI models can range from generalized models to domain-specific models that automate tasks and generate content adhering to industry-specific terminologies, context-specialized knowledge, and tailored experiences. Its power has sparked discussions on ethics and societal questions regarding the potential impact on employment, bias, privacy, and human-AI relationships.</p>
+    <p>As society steps into the age of generative AI (GenAI), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance.</p>
     
-    <p>The emergence of GenAI is poised to exert a profound impact on assurance (Barrett et al., 2023; Sun et al., 2023). On the one hand, GenAI has been recognized for its ability to bolster information assurance. The IBM Institute for Business Value (2024) commented that GenAI has the potential to strengthen business defenses, accelerate security processes, and identify emerging threats as they arise. Studies have also noted that GenAI may be able to address information management challenges, including quality (Bhatti, 2024). On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. The 2024 February deepfake fraud incident in Hong Kong is a case in point (Chen &amp; Magramo, 2024). Even unexpected users can threaten the protection of data, which is manifested by examples of employees sharing confidential data with GenAI models. Industry reports from Forrester (2023), Cisco (2024), and the IBM Institute for Business Value (2024) have highlighted GenAI-induced risks to information assurance as a major threat to firms’ adoption and implementation of GenAI initiatives. Similar concerns have been acknowledged from a government perspective in the 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (White House, 2023b) and the 2023 congressional research report: Generative Artificial Intelligence and Data Privacy: A Primer (Congressional Research Service, 2023).</p>
+    <p>The emergence of GenAI is poised to exert a profound impact on assurance. On the one hand, GenAI has been recognized for its ability to bolster information assurance. On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. Tremendous new opportunities exist for information systems scholars to study information assurance issues within the context of GenAI, as traditional approaches may not work.</p>
     
-    <p>Examples of how GenAI may exacerbate information assurance issues include:</p>
-    
-    <p>1. **Sophisticated human-deception attacks:** Cybercriminals can use GenAI to compromise businesses by writing targeted emails. In addition, GenAI can create deepfakes and voice clones, resulting in “vishing” that uses phone calls and voice messages to trick people into sharing sensitive information.</p>
-    
-    <p>2. **Hallucination and confabulation:** GenAI is known to create incorrect information that is seemingly correct. In addition, attackers may trick GenAI into recommending unverified software code packages to unexpected users. When attackers embed malicious codes into packages endorsed by GenAI, users may unwittingly download and utilize these harmful codes, creating security vulnerabilities ripe for exploitation.</p>
-    
-    <p>3. **Intellectual property theft:** GenAI can create materials that violate intellectual property rights. For example, GenAI can create content that resembles existing copyrighted materials, resulting in legal ramifications and conflicts.</p>
-    
-    <p>4. **Challenges in regulation and compliance:** Keeping GenAI models in check is subject to considerable hurdles because of how intricate and swiftly they evolve. Ensuring compliance with data protection laws and standards will become increasingly difficult as GenAI becomes more autonomous and capable of making independent decisions.</p>
-    
-    <p>Another source of threats to information assurance stems from attacks that are designed to target the way GenAI systems are trained and expected to be used. Many of these attacks can be mitigated by explicitly integrating information assurance considerations when designing GenAI systems. For example, GenAI tools may be subject to:</p>
-    
-    <p>1. **Unreliable training data:** A substantial amount of training data is employed in constructing large language models (LLMs). Yet this data may be of low quality and is often unverified. The security of the models is influenced by the quality of the training data, paving the way for potential vulnerabilities, unauthorized access, and compromises regarding sensitive information.</p>
-    
-    <p>2. **Data poisoning:** GenAI needs to be trained and tuned on inputs and outputs. Data poisoning occurs when inputs are manipulated to alter or corrupt the training data in LLMs, which consequently impacts the desired outputs of the overall system.</p>
-    
-    <p>3. **Security leaks, inference attacks, and knowledge phishing:** Security leaks in the context of GenAI refer to the unintended disclosure of sensitive information embedded within a model itself or through its responses. This is also known as inference attacks or knowledge phishing.</p>
-    
-    <p>4. **Prompt injections:** Prompt injections occur when malicious inputs are provided to an AI system to manipulate its output or to execute unintended actions.</p>
-    
-    <p>Cisco (2024) found that 92% of organizations “see GenAI as fundamentally different, requiring new techniques to manage data and risks.” The 2023 U.S. Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence calls for actions on refining GenAI by mitigating information assurance issues (White House, 2023b). Worldwide efforts are being made on these fronts to protect LLMs against threats of information fabrication, system misuse, privacy breaches, etc. Gartner recommends mitigation strategies, which include “establishing a governance entity and workflow, monitoring and blocking access, communicating acceptable use policies, exploring prompt engineering and API integrations, and prioritizing private hosting options” (Robidoux, 2024). However, there are growing concerns that excessive focus and regulation on data security and privacy may stifle and slow the advancement of GenAI, especially in terms of the European Union’s AI Act (Timis, 2023).</p>
-    
-    <p>The relationship between GenAI and information assurance is depicted below.</p>
+    <p>This special issue seeks research that goes beyond simple applications of existing theories and methods from the cybersecurity literature in IS. We invite studies that explore the unique information assurance challenges in the realm of GenAI, calling for the development and application of new theories or methods.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>What factors influence individuals’ security and privacy behavior in the presence of GenAI tools?</li>
+        <li>Sophisticated human-deception attacks</li>
         
-        <li>How can we predict, analyze, and counteract the emerging threats to GenAI models?</li>
+        <li>Hallucination and confabulation</li>
         
-        <li>How can economic analysis contribute to combating information assurance threats in GenAI?</li>
+        <li>Intellectual property theft</li>
         
-        <li>What are the managerial strategies and their effectiveness in addressing GenAI-induced issues on data security and privacy?</li>
+        <li>Challenges in regulation and compliance</li>
         
-        <li>What are the key principles in attributing accountability and responsibilities for the risks in GenAI model output?</li>
+        <li>Unreliable training data</li>
         
-        <li>Individual behaviors</li>
+        <li>Data poisoning</li>
         
-        <li>Organizational practices</li>
+        <li>Security leaks, inference attacks, and knowledge phishing</li>
         
-        <li>Societal impacts</li>
-        
-        <li>Risk management</li>
-        
-        <li>Investments in assurance</li>
-        
-        <li>Market effects</li>
-        
-        <li>Attacker analysis</li>
+        <li>Prompt injections</li>
         
     </ul>
     
@@ -1506,17 +1721,17 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>January 20, 2025: Abstract Proposal Deadline</li>
+        <li>January 20, 2025: Two-page abstracts due</li>
         
         <li>March 31, 2025: Feedback on abstracts</li>
         
         <li>July 11, 2025: Paper development workshop (virtual)</li>
         
-        <li>October 31, 2025: Stage 1 Submission Deadline</li>
+        <li>October 31, 2025: First-round paper submission</li>
         
         <li>January 31, 2026: First-round decisions</li>
         
-        <li>February 1, 2026: Workshop for authors with first-round revise-and-resubmit</li>
+        <li>February 1, 2026: Workshop for authors with R&amp;R</li>
         
         <li>May 31, 2026: Second-round revisions due</li>
         
@@ -1552,7 +1767,7 @@
         
         <li><strong>Jella Pfeiffer</strong>, University of Stuttgart</li>
         
-        <li><strong>Rahul De’</strong>, Indian Institute of Management Bangalore</li>
+        <li><strong>Rahul De&#39;</strong>, Indian Institute of Management Bangalore</li>
         
         <li><strong>Dandan Qiao</strong>, National University of Singapore</li>
         
@@ -1588,19 +1803,7 @@
         
         <li><strong>Hong Xu</strong>, Hong Kong University of Science and Technology</li>
         
-        <li><strong>Atanu Lahiri</strong>, University of Texas at Dallas</li>
-        
-        <li><strong>Heng Xu</strong>, University of Florida</li>
-        
-        <li><strong>Alvin Leung</strong>, City University of Hong Kong</li>
-        
-        <li><strong>Niam Yaraghi</strong>, University of Miami</li>
-        
-        <li><strong>Ting Li</strong>, Erasmus University</li>
-        
-        <li><strong>Cathy Liu Yang</strong>, HEC Paris</li>
-        
-        <li><strong>Yingjie Zhang</strong>, Peking University</li>
+        <li><strong>Atanu Lahiri</strong>, </li>
         
     </ul>
     
@@ -2679,43 +2882,43 @@
         
     
     
-    <p>Over the last 20 years, ongoing waves of digitalization have decimated the traditional business model of the news and fundamentally changed how the news, or more formally, the ‘institutional press’, works. Indeed, ever since reserved frequencies were gifted to television broadcasters in the 1950s, on the condition that they inform the public of current events, the subsidy underpinning newspapers and other forms of institutional media has slowly eroded. Like many other industries, the internet has accelerated this phenomenon. Not only has the hyper-targeted advertising facilitated by social media and other platforms functionally eroded the subsidy model to its breaking point; but the costless transmission of data facilitated by the internet has increased geographic scope of dominant players, permitting them to reach beyond their original markets and squeeze content producers across the globe. Against this backdrop, it is hard to overstate the importance of this &#39;crisis of the institutional press&#39;. The news provides our primary means for understanding the world around us. Societies desperately need a well-functioning institutional press to tackle the many societal, economic, and environmental challenges we all face.</p>
+    <p>&quot;The influence of the liberty of the press does not affect political opinions alone, but it extends to all the opinions of men, and it modifies customs as well as laws.&quot; (De Tocqueville, 1864, p. 230) Over the last 20 years, ongoing waves of digitalization have decimated the traditional business model of the news and fundamentally changed how the news, or more formally, the &#39;institutional press&#39;, works. Indeed, ever since reserved frequencies were gifted to television broadcasters in the 1950s, on the condition that they inform the public of current events, the subsidy underpinning newspapers and other forms of institutional media has slowly eroded.</p>
     
-    <p>The first day of core courses usually begins with one of four motivating examples: the decline of incumbent sellers in favor of digital platforms, the increasing irrelevance of diseconomies of scale and the rise of digital monopolies, the rise of social media and user-generated content, or the decline of the newspaper industry. Yet, as these classes continue to discuss the opportunities firms have in the digital age and teach students to implement advanced analytics to more effectively mine business value from data, the decline of institutional media often fades into the background.</p>
+    <p>Like many other industries, the internet has accelerated this phenomenon. Not only has the hyper-targeted advertising facilitated by social media and other platforms functionally eroded the subsidy model to its breaking point, but the costless transmission of data facilitated by the internet has increased geographic scope of dominant players (e.g. The New York Times), permitting them to reach beyond their original markets and squeeze content producers across the globe.</p>
     
-    <p>This phenomenon-driven special issue is motivated by the view that our students, colleagues, and society urgently need a better understanding of the causes and consequences of the changing nature of news in the digital era and potential solutions going forward. The special issue takes an interdisciplinary perspective, bringing together insights from across the broader information, managerial, and organizational sciences.</p>
+    <p>Against this backdrop, it is hard to overstate the importance of this &quot;crisis of the institutional press&quot; (Reese, 2020). The news provides our primary means for understanding the world around us. Societies desperately need a well-functioning institutional press to tackle the many societal, economic, and environmental challenges we all face.</p>
     
-    <p>This failure to discuss the implications of the decline of institutional news media is troubling. Not only has the Fourth Estate historically served to counterbalance institutions with a monopoly on force and morality, it has been a cornerstone of democratic republics for centuries. These claims are not idle musings. News media outlets have been shown to influence many societal outcomes, from government agendas to public opinion to voting behavior. The Fourth Estate mediates the attention granted to social movements and can influence the strategic management of organizations. Institutional media can also prompt changes in corporate governance: it can shape the valuation of firms at IPO, influence firm founding, confer legitimacy on industries, and even elevate de novo technological innovations in the public consciousness.</p>
+    <p>This failure to discuss the implications of the decline of institutional news media is troubling. Not only has the Fourth Estate historically served to counterbalance institutions with a monopoly on force and morality (e.g., the state and church), it has been a cornerstone of democratic republics for centuries. In 17th Century England, the philosopher John Locke railed against the Licensing and Press Act of 1662, claiming that &quot;gagging a man, for fear he should talk heresy or sedition, has no other ground than such as will make chains necessary.&quot; In the United States, James Madison declared the free press as &quot;the only effectual guardian of every other right.&quot;</p>
     
-    <p>Yet, seismic changes have assaulted the free press as we understand it. The late 20th century witnessed an increasing concentration in ownership of news outlets, leading to elevated reliance on advertising revenue that biased content. The recent history of the institutional press is interwoven with the history of digital technology. Initially, the World Wide Web served largely as a vehicle for the dissemination of news produced by professional news organizations, extending their reach. In time, the ensuing competition for reader attention shifted the gatekeeping function from professional news organizations to online content curators. Contemporary media coverage became more selective and influenced by market actors. With the advent of social media, user-generated content further usurped the gatekeeping role of professional news organizations. Moreover, public subsidy for the Fourth Estate was undermined by social media, accelerating the control of dominant players on public discourse and hollowing the local publishing industry. At the same time, social media has afforded citizen journalists the ability to counter-balance the biases of professional news organizations.</p>
+    <p>These claims are not idle musings. News media outlets have been shown to influence many societal outcomes, from government agendas to public opinion to voting behavior. The Fourth Estate mediates the attention granted to social movements and can influence the strategic management of organizations.</p>
     
-    <p>Even more recently, society has witnessed a demonstrable shift towards the &#39;post-truth era,&#39; in which populist, tribalist, and anti-&#39;mainstream media&#39; rhetoric proliferates. While the blockchain has been heralded as a way of remaking the institutional press in the digital era, we have little systematic understanding of its efficacy. All the while, the process of news construction and dissemination is being disrupted by algorithms, machine learning, and artificial intelligence. The long-term implications of these AI tools on the institutional press are unknown. Indeed, we are witnessing intersections of the evolutionary paths of technology and the institutional press in ways that are fundamentally changing the &#39;freedom of the press&#39; and the complex network that includes journalists, software engineers, relational databases, and social media platforms which form it; along with prevailing norms, values, and institutional logics of a particular sociotechnical moment.</p>
+    <p>Yet, seismic changes have assaulted the free press as we understand it. The late 20th century witnessed an increasing concentration in ownership of news outlets, leading to elevated reliance on advertising revenue that biased content. The recent history of the institutional press is interwoven with the history of digital technology</p>
     
-    <p>Research has only begun to address these changes. The purpose of this Special Issue is to address this gap in scholarship head on and to inform stakeholders about how changes in institutional media are affecting society at the intersection of business, technology, and public policy. To this end, we invite scholarship that helps academia and society comprehend the major changes taking place within the institutional press, why those changes are occurring, and what the consequences of those changes are; and work together toward a more positive future for the institutional press.</p>
+    <p>Initially, the World Wide Web served largely as a vehicle for the dissemination of news produced by professional news organizations, extending their reach. In time, the ensuing competition for reader attention shifted the gatekeeping function previously served by professional news organizations to portals – or online content curators.</p>
     
-    <p>We encourage an equally diverse breadth of scholars to submit their work to this special issue.</p>
+    <p>Even more recently, society has witnessed a demonstrable shift towards the &quot;post-truth era,&quot; in which populist, tribalist, and anti- &quot;mainstream media&quot; rhetoric proliferates. Indeed, scholarship suggests that such rhetoric serves to further undermine public confidence in the institutional press, pushing large portions of the populace towards alternate media that eschew journalistic norms and evidence-based reporting. The purpose of this Special Issue is to address this gap in scholarship head on and to inform stakeholders such as media managers, social planners, legislators, trade associations, regulators, and journalists about how changes in institutional media are affecting society at the intersection of business, technology, and public policy.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>The changing nature of the press, news media as an institution, and the consequences of those changes.</li>
+        <li>The Changing Nature of the Press</li>
         
-        <li>The functioning of, and implications for, non-traditional digital era news sources.</li>
+        <li>Non-traditional Digital Era News Sources</li>
         
-        <li>What constitutes news in the digital era?</li>
+        <li>What Constitutes News in the Digital Era</li>
         
-        <li>The interaction of social and institutional media.</li>
+        <li>The Interaction of Social and Institutional Media</li>
         
-        <li>The role of professional standards and gatekeeping in today’s news media ecosystem and mechanisms to support them.</li>
+        <li>Professional Standards and Gatekeeping</li>
         
-        <li>Sociotechnical approaches to understanding the intersections and dependencies between technologies, institutional forces, values, and norms in relation to freedom of the press.</li>
+        <li>Sociotechnical Approaches</li>
         
-        <li>Designing and assessing IT artifacts (e.g., generative AI, algorithms and computational methods, blockchain) towards an aspirational institutional press.</li>
+        <li>IT Artifacts for Aspirational Press</li>
         
-        <li>The news as a dynamic construct across time and space, and the consequent implications for content generation and consumption.</li>
+        <li>News as a Dynamic Construct</li>
         
-        <li>The news as a societal information system.</li>
+        <li>News as a Societal Information System</li>
         
     </ul>
     
@@ -2723,27 +2926,11 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>April 30, 2024: Optional abstract submission due</li>
+        <li>April 30, 2024: Abstract Deadline</li>
         
-        <li>May 30, 2024: Optional abstract feedback via email</li>
+        <li>December 1, 2024: Submission Deadline</li>
         
-        <li>August 5, 2024: Invited five-page abstract for AOM Workshop due</li>
-        
-        <li>August 9, 2024: Paper Development Workshop at AOM</li>
-        
-        <li>December 1, 2024: Full Paper Submission Deadline</li>
-        
-        <li>March 15, 2025: First-round decisions expected</li>
-        
-        <li>May 30, 2025: Revision Plan Meeting with SI Editors</li>
-        
-        <li>July 15, 2025: Second-round revisions due</li>
-        
-        <li>October 15, 2025: Second-round decisions expected</li>
-        
-        <li>February 15, 2026: Third- and final revisions submissions due</li>
-        
-        <li>May 15, 2026: Final decisions expected</li>
+        <li>May 15, 2026: Final Decisions</li>
         
     </ul>
     
@@ -2751,47 +2938,27 @@
     <h2>Associate editors</h2>
     <ul>
         
-        <li><strong>Mike Annay</strong>, University of Southern California</li>
+        <li><strong>Mike Ananny</strong>, University of Southern California, USA</li>
         
-        <li><strong>Jens Foerderer</strong>, Technische Universität München</li>
+        <li><strong>Jens Foerderer</strong>, Technische Universität München, Germany</li>
         
         <li><strong>Anand Gopal</strong>, National Technical University of Singapore</li>
         
-        <li><strong>Brent Kitchens</strong>, University of Virginia</li>
+        <li><strong>Brent Kitchens</strong>, University of Virginia, USA</li>
         
-        <li><strong>Gene Moo Lee</strong>, UBC Sauder School of Business</li>
+        <li><strong>Gene Moo Lee</strong>, UBC Sauder School of Business, Canada</li>
         
-        <li><strong>Attila Marton</strong>, Copenhagen Business School</li>
+        <li><strong>Attila Marton</strong>, Copenhagen Business School, Denmark</li>
         
-        <li><strong>Jeffrey Nickerson</strong>, Stevens Institute of Technology</li>
+        <li><strong>Jeffrey Nickerson</strong>, Stevens Institute of Technology, USA</li>
         
-        <li><strong>Christopher Parker</strong>, American University</li>
+        <li><strong>Christopher Parker</strong>, American University, USA</li>
         
-        <li><strong>Caitlin Petre</strong>, Rutgers University</li>
+        <li><strong>Caitlin Petre</strong>, Rutgers University, USA</li>
         
-        <li><strong>Christian Peukert</strong>, HEC Lausanne</li>
+        <li><strong>Christian Peukert</strong>, HEC Lausanne, Switzerland</li>
         
-        <li><strong>Aleš Popovič</strong>, NEOMA Business School</li>
-        
-        <li><strong>Jui Ramaprasad</strong>, University of Maryland</li>
-        
-        <li><strong>Imke Reimers</strong>, Cornell University</li>
-        
-        <li><strong>Jie Ren</strong>, Fordham University</li>
-        
-        <li><strong>Gaurav Sabnis</strong>, Stevens Institute of Technology</li>
-        
-        <li><strong>Ananya Sen</strong>, Carnegie Mellon University</li>
-        
-        <li><strong>Jananki Srinivasan</strong>, IIIT-Bangalore</li>
-        
-        <li><strong>Xiao Xiao</strong>, Copenhagen Business School</li>
-        
-        <li><strong>Yi Yang</strong>, HKUST</li>
-        
-        <li><strong>Nan Zhang</strong>, University of Florida</li>
-        
-        <li><strong>Aljona Zorina</strong>, IESEG</li>
+        <li><strong>Aleš Popovič</strong>, NEOMA Business School, France</li>
         
     </ul>
     
@@ -3125,80 +3292,6 @@
             <author>Journal of the Association for Information Systems (JAIS)</author>
         </item>
         <item>
-            <title><![CDATA[Registered Reports]]></title>
-            <link>https://callsforpapers.org/call/misq-registered-reports</link>
-            <guid>misq-registered-reports</guid>
-            <pubDate>Thu, 05 Jan 2023 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Shuk Ying Ho</strong>, Australian National University</p>
-        
-        <p><strong>Jan Recker</strong>, University of Hamburg</p>
-        
-        <p><strong>Chee-Wee Tan</strong>, Copenhagen Business School</p>
-        
-        <p><strong>Anthony Vance</strong>, Virginia Tech</p>
-        
-        <p><strong>Han Zhang</strong>, Georgia Tech</p>
-        
-    
-    
-    <p>An irony of science is that, despite our devotion to evidence, there is little evidence underpinning many aspects of the journal review process. As part of our commitment to continually improving our review processes at MIS Quarterly, this special issue aims to obtain evidence regarding the merits of a recent innovation in the review process—registered reports.</p>
-    
-    <p>While the registered report model is relatively new, it has been adopted by over 200 journals across the sciences. Business and Information Systems Engineering was the first (and so far, lone) IS journal to adopt this model. Other early adopters across the business fields include Journal of Accounting Research, Academy of Management Discoveries, and Leadership Quarterly.</p>
-    
-    <p>Our goal in this special issue is to learn if the registered report model should be available as an ongoing model for MISQ, as a supplement to our existing options. While we see a lot of promise in the model, we plan to test it first to learn if/how it can best suit our journal.</p>
-    
-    <p>The registered report model involves a 2-stage ‘acceptance’ process: a conditional acceptance before data collection, followed by an acceptance if the authors follow the agreed plan. Compared to a normal review process, there are two main differences: Pre/pilot data may (or may not) have been collected before conditional acceptance, but the main data will not have been collected prior to the conditional acceptance being offered. The paper cannot be rejected due to its results.</p>
-    
-    <p>Early tests of the registered report model across the sciences are yielding positive results, especially on the dimensions of bias reduction and investment motivation.</p>
-    
-    <p>Submissions to this special issue will be reviewed in a three-step process focusing on different criteria. Step 1 involves examining the submission proposals for suitability. Step 2 is the Stage 1 Review based on criteria for conditional acceptance. Step 3 is the Stage 2 Review based on criteria for final acceptance, where the actual results will be considered but will not affect acceptance as long as the agreed processes were followed.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>Registered report model</li>
-        
-        <li>Evidence in journal review process</li>
-        
-        <li>Bias reduction in peer review</li>
-        
-        <li>Investment motivation in research</li>
-        
-        <li>Hypothesized models and empirical testing in IS research</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>Invalid DateTime: Stage 2 submissions due within 9 months of Stage 1 decision</li>
-        
-        <li>Invalid DateTime: Special Issue Publication, Editorial, and Showcase Event</li>
-        
-        <li>February 20, 2023: Introductory workshop (optional)</li>
-        
-        <li>July 1, 2023: Proposal Deadline</li>
-        
-        <li>October 1, 2023: Stage 1 Submission Deadline</li>
-        
-        <li>December 15, 2023: Stage 1 initial decisions expected</li>
-        
-        <li>January 1, 2024: Special Issue workshop for Stage 1 authors</li>
-        
-        <li>October 1, 2024: Stage 1 submissions must receive a conditional acceptance no later than this date</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>MIS Quarterly (MISQ)</author>
-        </item>
-        <item>
             <title><![CDATA[Blockchain Technology and Applications]]></title>
             <link>https://callsforpapers.org/call/dss-blockchain-technology-and-applications</link>
             <guid>dss-blockchain-technology-and-applications</guid>
@@ -3425,20 +3518,6 @@
     
 </div>]]></content:encoded>
             <author>Journal of the Association for Information Systems (JAIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Technologies and Social Justice]]></title>
-            <link>https://callsforpapers.org/call/misq-digital-technologies-and-social-justice</link>
-            <guid>misq-digital-technologies-and-social-justice</guid>
-            <pubDate>Sat, 01 Jan 2022 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-    
-    
-    
-    
-</div>]]></content:encoded>
-            <author>MIS Quarterly (MISQ)</author>
         </item>
     </channel>
 </rss>
