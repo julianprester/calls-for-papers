@@ -550,7 +550,7 @@
     "metaTitle": "The future of creating and distributing value in digital health ecosystems",
     "url": "https://think.taylorandfrancis.com/special_issues/digital-health-ecosystems/",
     "slug": "ejis-the-future-of-creating-and-distributing-value-in-digital-health-ecosystems",
-    "contentHash": "cb29c99da803d979a1c0fd2b9aa1b999b9e3bda8513543a2d55e16bc4af7656d",
+    "contentHash": "3104049117996ee029bfa2a635601e040d826af184159068422550dda33de8e1",
     "title": "The future of creating and distributing value in digital health ecosystems",
     "topics": [
       "The role of data management and data sharing in digital health ecosystems",
@@ -568,7 +568,8 @@
         "Digital health is ‘associated with the use and development of digital technologies to improve health’ (Sunyaev et al., 2024; WHO, 2025). Use, development, and design of the according technologies have in recent years led to a considerable shift. Specifically, practices affecting an individuals’ health have been shifted from inside hospitals into wider digital health ecosystems where providers, patients, their loved ones, and laypersons interact to jointly shape how care is provided (Bardhan et al., 2020, 2025). IS research has greatly advanced in terms of better understanding the technological foundations of this shift such as artificial intelligence (AI) applications, sensor-based technologies, and smartphone apps (Angst et al., 2024; Baird et al., 2025; Bardhan et al., 2020; Sunyaev et al., 2024). However, at least two major trajectories of research arise from this shift and its underlying technologies. With this special issue, we are looking for papers that aim to fill these trajectories with life.",
         "First, creating value in digital health ecosystems demands to take into account diverse kinds of value to be potentially created through these technologies (Günther et al., 2017; Porter, 2010). Financial value is an important kind of value to be created in digital health ecosystems; however, it is by far not the sole kind of value that matters in these settings (Barrett et al., 2016). It is important to understand which kinds of value technology helps to create as well as how, why, and when it does so. Second, creating value is not per se synonymous with distributing it so that an important line of inquiry is about how to distribute value among ecosystem participants and over time (Yan et al., 2021; Yoo et al., 2024).",
         "We are asking for papers speaking to these topics and see two broad ways in which submissions to our special issue could do so. The first is cumulative and much in line with how research in IS and adjacent fields such as computer science, management, and medicine is conventionally done. It resides in furthering our understandings and toolkits for creating value in digital health ecosystems. However, the more data are available the higher is arguably the potential for misuse (Morley et al., 2020; Murdoch, 2021; Siala & Wang, 2022), especially when genomic and bio data are in question (Jarvenpaa & Markus, 2018; Rothe et al., 2019, 2023; Thiebes et al., 2020; Vassilakopoulou et al., 2018). This is why research about creating value from data logically calls for research about how to distribute value among ecosystems participants.",
-        "The second way to address the abovementioned research trajectories is consistent with EJIS’s recent developments towards promoting ‘contrarian studies’ (Nandhakumar, 2010). We see much promise of contrarian studies investigating the creation and distribution of value in digital health ecosystems. Research about digital health is replete with assumptions touching on the outcomes that large volumes of data are likely to generate. This stands in stark contrast to the fact that on the ‘ground floor’ where most clinicians work the data are hardly ever available in the format, quality or volume needed to even remotely live up to these expectations (Jones, 2019). It is, therefore, paramount to offer fundamentally new ways of thinking about creating and distributing value in digital health ecosystems."
+        "The second way to address the abovementioned research trajectories is consistent with EJIS’s recent developments towards promoting ‘contrarian studies’ (Nandhakumar, 2010). We see much promise of contrarian studies investigating the creation and distribution of value in digital health ecosystems. Research about digital health is replete with assumptions touching on the outcomes that large volumes of data are likely to generate. This stands in stark contrast to the fact that on the ‘ground floor’ where most clinicians work the data are hardly ever available in the format, quality or volume needed to even remotely live up to these expectations (Jones, 2019). It is, therefore, paramount to offer fundamentally new ways of thinking about creating and distributing value in digital health ecosystems.",
+        "These considerations lead us to a set of issues which we would like to address through putting together this special issue. These issues include but are not limited to the topics presented above."
       ]
     },
     "tags": [
@@ -579,7 +580,7 @@
     "editors": [
       {
         "name": "Lauri Wessel",
-        "affiliation": "European New School of Digital Studies at the European University Viadrina Frankfurt (Oder)"
+        "affiliation": "European New School of Digital Studies"
       },
       {
         "name": "Melanie Reuter-Oppermann",
@@ -1071,8 +1072,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-06-30T01:06:20.334Z"
+    "active": false,
+    "pubDate": "2025-06-30T01:06:20.334Z",
+    "gracePeriod": "2025-12-23T03:41:47.745Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -1347,8 +1349,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-23T03:07:30.034Z"
+    "active": false,
+    "pubDate": "2025-03-23T03:07:30.034Z",
+    "gracePeriod": "2025-12-23T03:41:47.745Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -1447,6 +1450,65 @@
     "pubDate": "2025-03-13T10:51:27.457Z"
   },
   {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "Understanding Resistance to Digital Transformation",
@@ -1532,67 +1594,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
-  },
-  {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:47:42.901Z",
+    "gracePeriod": "2025-12-23T03:41:47.745Z"
   },
   {
     "journal": "Information and Management",
@@ -1855,8 +1859,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z"
+    "active": false,
+    "pubDate": "2024-12-25T07:52:15.170Z",
+    "gracePeriod": "2025-12-23T03:41:47.745Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -2779,8 +2784,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z"
+    "active": false,
+    "pubDate": "2024-07-18T10:34:43.000Z",
+    "gracePeriod": "2025-12-23T03:41:47.745Z"
   },
   {
     "journal": "Decision Support Systems",
