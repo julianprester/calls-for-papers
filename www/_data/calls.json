@@ -1,5 +1,181 @@
 [
   {
+    "journal": "Information and Management",
+    "abbreviation": "im",
+    "metaTitle": "Transformative AI in Online Markets: Development, Impact, and the Road Ahead",
+    "url": "https://www.sciencedirect.com/special-issue/327959/transformative-ai-in-online-markets-development-impact-and-the-road-ahead",
+    "slug": "im-transformative-ai-in-online-markets-development-impact-and-the-road-ahead",
+    "contentHash": "b1a64594b273b7c26538cc37b84807812a85ae76e1588277f5d17fbd52a60735",
+    "title": "Transformative AI in Online Markets: Development, Impact, and the Road Ahead",
+    "topics": [
+      "Models and algorithms that can bring a transformative impact on online markets",
+      "Challenges & solutions for online markets in the AI era",
+      "Human-AI interaction in online markets",
+      "Operational optimization in online markets with AI",
+      "Impact of AI on consumer behavior and platform design",
+      "Social, psychological, or economic implications of AI adoption in digital commerce",
+      "Personalization and recommendation systems driven by AI",
+      "Generative AI for content creation and presentation in e-commerce",
+      "AI-enabled decision-making for consumers, sellers, and platform operators",
+      "Business model innovations in AI-integrated online markets",
+      "Ethical issues related to the implementation and use of AI in online markets",
+      "Responsible and explainable AI in online market platforms"
+    ],
+    "description": {
+      "paragraphs": [
+        "With the proliferation of the internet and mobile technology in the past two decades (Chen et al. 2002), online markets and platforms have experienced exponential growth and become a cornerstone of modern commerce, transforming how businesses operate and how consumers engage with products and services (Feng et al. 2024; Phan and Vogel 2010). The development of the online market attracted significant attention from academia. As technology continues to advance, the online market will become even more integral to the global economy, driving innovation and competition across industries and bringing operational efficiency.",
+        "Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the boundaries of innovation and efficiency (Fügener et al. 2021; Lee et al. 2023; Noy and Zhang 2023). Its rapid development is driven by advances in models (including machine learning, deep learning, and large models) and computational power, enabling AI systems to perform complex tasks with unprecedented accuracy and speed. The importance of AI lies in its potential to solve complex problems, improve productivity, and drive economic growth (Wei et al. 2025). As a result, “Transformative AI” is coined to refer to AI systems that have the potential to cause a significant (often positive) impact on society, economy, or even humans (Banafa 2023; Wessel et al. 2025). Transformative AI refers to the effects the AI would have on humanity’s well-being, instead of specific capabilities the AI may have.",
+        "As AI technologies continue to evolve, they promise to unlock new opportunities, foster innovation, and address global challenges (Mikalef and Gupta 2021). In particular, in online markets—a foundation of the digital economy—we posit that AI will bring transformative power to further enhance and even revolutionize the online market through enhancing personalization, optimizing operations, and improving human-platform interaction (Chen and Chan. 2024; Deng et al. 2023). With ongoing advancements, AI will further integrate into online markets, driving innovation and creating a more dynamic, efficient, and customer-centric digital shopping experience (Rai et al. 2019; Wang et al. 2025).",
+        "In viewing this potential trend, this special issue calls for efforts from information systems and information management scholars on the study of the design, use, impact, and management of AI in online markets that may transform online markets that facilitate the exchange of products, services, innovations, and algorithms, among others. This special issue encourages research using different technical, empirical, or behavioral methods. We welcome research performed at the individual, group, organizational, and societal levels. We particularly welcome the studies that can bring insights to the future or AI in online markets, where the two powers join together."
+      ]
+    },
+    "tags": [
+      "ai",
+      "online market",
+      "transformative technology"
+    ],
+    "editors": [
+      {
+        "name": "Hillol Bala",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Yue (Katherine) Feng",
+        "affiliation": "Hong Kong Polytechnic University"
+      },
+      {
+        "name": "Xin Li",
+        "affiliation": "Hong Kong Polytechnic University"
+      }
+    ],
+    "associate_editors": [
+      {
+        "name": "Yanzhen Chen",
+        "affiliation": "HK University of Science and Technology"
+      },
+      {
+        "name": "Wei Hu",
+        "affiliation": "Tongji University"
+      },
+      {
+        "name": "Rain Kan",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Akshat Lakhiwal",
+        "affiliation": "University of Georgia"
+      },
+      {
+        "name": "Mengxiang Li",
+        "affiliation": "Hong Kong Baptist Univeristy"
+      },
+      {
+        "name": "Yijing Li",
+        "affiliation": "Hong Kong Polytechnic University"
+      },
+      {
+        "name": "Ben Liu",
+        "affiliation": "City University of Hong Kong"
+      },
+      {
+        "name": "Chewei Liu",
+        "affiliation": "Arizona State University"
+      },
+      {
+        "name": "Fei Liu",
+        "affiliation": "Hong Kong Polytechnic University"
+      },
+      {
+        "name": "Xiao Liu",
+        "affiliation": "Arizona State University"
+      },
+      {
+        "name": "Yidi Liu",
+        "affiliation": "Chinese University of Hong Kong (SZ)"
+      },
+      {
+        "name": "Shengjun Mao",
+        "affiliation": "University of Hong Kong"
+      },
+      {
+        "name": "Boris Ng",
+        "affiliation": "Hong Kong Polytechnic University"
+      },
+      {
+        "name": "Agrim Sachdeva",
+        "affiliation": "University of Arizona"
+      },
+      {
+        "name": "Yani Shi",
+        "affiliation": "Southeast University"
+      },
+      {
+        "name": "Jianshan Sun",
+        "affiliation": "Hefei University of Technology"
+      },
+      {
+        "name": "Lei Wang",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Yu Tong",
+        "affiliation": "Zhejiang University"
+      },
+      {
+        "name": "Tracy Yang",
+        "affiliation": "City University of Hong Kong"
+      },
+      {
+        "name": "Sijia Zhou",
+        "affiliation": "Southeast University"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-03-01T12:00:00.000Z",
+        "description": "Submission system open",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2026-06-01T12:00:00.000Z",
+        "description": "Submission deadline",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2026-09-01T12:00:00.000Z",
+        "description": "First-round authors notification",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-03-01T12:00:00.000Z",
+        "description": "First-round revisions deadline",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-05-01T12:00:00.000Z",
+        "description": "Second round authors notification",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-08-01T12:00:00.000Z",
+        "description": "Second round revision deadline",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-10-01T12:00:00.000Z",
+        "description": "Final author notification",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-12-01T12:00:00.000Z",
+        "description": "Projected publication date",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-11-25T03:21:30.208Z"
+  },
+  {
     "journal": "Journal of Management Information Systems",
     "abbreviation": "jmis",
     "metaTitle": "Generative AI as Driver of Change in Media",

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calls for Papers | Tag: online market</title>
+        <link>https://callsforpapers.org/tag/online-market</link>
+        <description>Latest calls for papers tagged with 'online market'.</description>
+        <lastBuildDate>Tue, 25 Nov 2025 03:21:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Calls for Papers | Tag: online market</title>
+            <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
+            <link>https://callsforpapers.org/tag/online-market</link>
+        </image>
+        <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Transformative AI in Online Markets: Development, Impact, and the Road Ahead]]></title>
+            <link>https://callsforpapers.org/call/im-transformative-ai-in-online-markets-development-impact-and-the-road-ahead</link>
+            <guid>im-transformative-ai-in-online-markets-development-impact-and-the-road-ahead</guid>
+            <pubDate>Tue, 25 Nov 2025 03:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Hillol Bala</strong>, Indiana University</p>
+        
+        <p><strong>Yue (Katherine) Feng</strong>, Hong Kong Polytechnic University</p>
+        
+        <p><strong>Xin Li</strong>, Hong Kong Polytechnic University</p>
+        
+    
+    
+    <p>With the proliferation of the internet and mobile technology in the past two decades (Chen et al. 2002), online markets and platforms have experienced exponential growth and become a cornerstone of modern commerce, transforming how businesses operate and how consumers engage with products and services (Feng et al. 2024; Phan and Vogel 2010). The development of the online market attracted significant attention from academia. As technology continues to advance, the online market will become even more integral to the global economy, driving innovation and competition across industries and bringing operational efficiency.</p>
+    
+    <p>Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the boundaries of innovation and efficiency (Fügener et al. 2021; Lee et al. 2023; Noy and Zhang 2023). Its rapid development is driven by advances in models (including machine learning, deep learning, and large models) and computational power, enabling AI systems to perform complex tasks with unprecedented accuracy and speed. The importance of AI lies in its potential to solve complex problems, improve productivity, and drive economic growth (Wei et al. 2025). As a result, “Transformative AI” is coined to refer to AI systems that have the potential to cause a significant (often positive) impact on society, economy, or even humans (Banafa 2023; Wessel et al. 2025). Transformative AI refers to the effects the AI would have on humanity’s well-being, instead of specific capabilities the AI may have.</p>
+    
+    <p>As AI technologies continue to evolve, they promise to unlock new opportunities, foster innovation, and address global challenges (Mikalef and Gupta 2021). In particular, in online markets—a foundation of the digital economy—we posit that AI will bring transformative power to further enhance and even revolutionize the online market through enhancing personalization, optimizing operations, and improving human-platform interaction (Chen and Chan. 2024; Deng et al. 2023). With ongoing advancements, AI will further integrate into online markets, driving innovation and creating a more dynamic, efficient, and customer-centric digital shopping experience (Rai et al. 2019; Wang et al. 2025).</p>
+    
+    <p>In viewing this potential trend, this special issue calls for efforts from information systems and information management scholars on the study of the design, use, impact, and management of AI in online markets that may transform online markets that facilitate the exchange of products, services, innovations, and algorithms, among others. This special issue encourages research using different technical, empirical, or behavioral methods. We welcome research performed at the individual, group, organizational, and societal levels. We particularly welcome the studies that can bring insights to the future or AI in online markets, where the two powers join together.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>Models and algorithms that can bring a transformative impact on online markets</li>
+        
+        <li>Challenges &amp; solutions for online markets in the AI era</li>
+        
+        <li>Human-AI interaction in online markets</li>
+        
+        <li>Operational optimization in online markets with AI</li>
+        
+        <li>Impact of AI on consumer behavior and platform design</li>
+        
+        <li>Social, psychological, or economic implications of AI adoption in digital commerce</li>
+        
+        <li>Personalization and recommendation systems driven by AI</li>
+        
+        <li>Generative AI for content creation and presentation in e-commerce</li>
+        
+        <li>AI-enabled decision-making for consumers, sellers, and platform operators</li>
+        
+        <li>Business model innovations in AI-integrated online markets</li>
+        
+        <li>Ethical issues related to the implementation and use of AI in online markets</li>
+        
+        <li>Responsible and explainable AI in online market platforms</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>March 1, 2026: Submission system open</li>
+        
+        <li>June 1, 2026: Submission deadline</li>
+        
+        <li>September 1, 2026: First-round authors notification</li>
+        
+        <li>March 1, 2027: First-round revisions deadline</li>
+        
+        <li>May 1, 2027: Second round authors notification</li>
+        
+        <li>August 1, 2027: Second round revision deadline</li>
+        
+        <li>October 1, 2027: Final author notification</li>
+        
+        <li>December 1, 2027: Projected publication date</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Yanzhen Chen</strong>, HK University of Science and Technology</li>
+        
+        <li><strong>Wei Hu</strong>, Tongji University</li>
+        
+        <li><strong>Rain Kan</strong>, Indiana University</li>
+        
+        <li><strong>Akshat Lakhiwal</strong>, University of Georgia</li>
+        
+        <li><strong>Mengxiang Li</strong>, Hong Kong Baptist Univeristy</li>
+        
+        <li><strong>Yijing Li</strong>, Hong Kong Polytechnic University</li>
+        
+        <li><strong>Ben Liu</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Chewei Liu</strong>, Arizona State University</li>
+        
+        <li><strong>Fei Liu</strong>, Hong Kong Polytechnic University</li>
+        
+        <li><strong>Xiao Liu</strong>, Arizona State University</li>
+        
+        <li><strong>Yidi Liu</strong>, Chinese University of Hong Kong (SZ)</li>
+        
+        <li><strong>Shengjun Mao</strong>, University of Hong Kong</li>
+        
+        <li><strong>Boris Ng</strong>, Hong Kong Polytechnic University</li>
+        
+        <li><strong>Agrim Sachdeva</strong>, University of Arizona</li>
+        
+        <li><strong>Yani Shi</strong>, Southeast University</li>
+        
+        <li><strong>Jianshan Sun</strong>, Hefei University of Technology</li>
+        
+        <li><strong>Lei Wang</strong>, Indiana University</li>
+        
+        <li><strong>Yu Tong</strong>, Zhejiang University</li>
+        
+        <li><strong>Tracy Yang</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Sijia Zhou</strong>, Southeast University</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>Information and Management (IM)</author>
+        </item>
+    </channel>
+</rss>
