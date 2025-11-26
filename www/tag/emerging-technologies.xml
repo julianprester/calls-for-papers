@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: emerging technologies</title>
         <link>https://callsforpapers.org/tag/emerging-technologies</link>
         <description>Latest calls for papers tagged with 'emerging technologies'.</description>
-        <lastBuildDate>Tue, 25 Nov 2025 03:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 03:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,6 +14,139 @@
             <link>https://callsforpapers.org/tag/emerging-technologies</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
+        <item>
+            <title><![CDATA[Designing our Digital Futures: Challenging Current Assumptions and Envisioning the Future of IS Design and Development]]></title>
+            <link>https://callsforpapers.org/call/ejis-designing-our-digital-futures</link>
+            <guid>ejis-designing-our-digital-futures</guid>
+            <pubDate>Fri, 08 Aug 2025 04:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+    
+        
+        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
+        
+        <p><strong>Mahdi Fahmideh</strong>, University of Southern Queensland</p>
+        
+        <p><strong>Brian Fitzgerald</strong>, University of Limerick</p>
+        
+        <p><strong>Tabitha James</strong>, Virginia Tech</p>
+        
+        <p><strong>Kieran Conboy</strong>, University of Galway</p>
+        
+    
+    
+    <p>Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.</p>
+    
+    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective, examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
+    
+    
+    <h2>Potential topics</h2>
+    <ul>
+        
+        <li>The role of emerging technologies in shaping the future of IS design.</li>
+        
+        <li>The limits of current design and development methods.</li>
+        
+        <li>Design science beyond the science of the artificial.</li>
+        
+        <li>Design and development in an era of heightened responsibility.</li>
+        
+        <li>The impact of AI on any or all aspects of IS design and development.</li>
+        
+        <li>The future of traditional software designers and developers and if and how these roles will exist in the medium to long term.</li>
+        
+        <li>Emerging techniques for development e.g. continuous development, citizen development, ‘low code no code’.</li>
+        
+        <li>New ‘Promethean’ methods that encourage thinking about and designing distant digital futures.</li>
+        
+        <li>Challenging the problem-solving paradigm in designing IS solutions.</li>
+        
+        <li>Exemplars of IS design and development for digital futures.</li>
+        
+    </ul>
+    
+    
+    <h2>Timeline</h2>
+    <ul>
+        
+        <li>Invalid DateTime: Projected publication</li>
+        
+        <li>January 30, 2026: Initial paper submission deadline</li>
+        
+        <li>April 30, 2026: First round authors notification</li>
+        
+        <li>August 15, 2026: Invited revisions deadline</li>
+        
+        <li>November 30, 2026: Second round authors notification</li>
+        
+        <li>February 1, 2027: Final revision deadline</li>
+        
+        <li>April 1, 2027: Final authors notification</li>
+        
+    </ul>
+    
+    
+    <h2>Associate editors</h2>
+    <ul>
+        
+        <li><strong>Pär Ågerfalk</strong>, Uppsala University</li>
+        
+        <li><strong>David Agogo</strong>, University of Utah</li>
+        
+        <li><strong>Wasana Bandara</strong>, Queensland University of Technology</li>
+        
+        <li><strong>Richard Baskerville</strong>, Georgia State University</li>
+        
+        <li><strong>Laura Brandimarte</strong>, University of Arizona</li>
+        
+        <li><strong>Tone Bratteteig</strong>, University of Oslo</li>
+        
+        <li><strong>Noel Carroll</strong>, University of Galway</li>
+        
+        <li><strong>Shahla Ghobadi</strong>, University of Leeds</li>
+        
+        <li><strong>Asif Gill</strong>, University of Technology Sydney</li>
+        
+        <li><strong>Shirley Gregor</strong>, Australian National University</li>
+        
+        <li><strong>Samrat Gupta</strong>, IIM Ahmedabad</li>
+        
+        <li><strong>Alan Hevner</strong>, University of South Florida</li>
+        
+        <li><strong>Gwanhoo Lee</strong>, American University</li>
+        
+        <li><strong>Alexander Madche</strong>, Karlsruhe Institute of Technology</li>
+        
+        <li><strong>Sabine Matook</strong>, University of Queensland</li>
+        
+        <li><strong>Lorraine Morgan</strong>, University of Galway</li>
+        
+        <li><strong>Jeffrey Parsons</strong>, Memorial University of Newfoundland</li>
+        
+        <li><strong>Bala Ramesh</strong>, Georgia State University</li>
+        
+        <li><strong>Cynthia K. Riemenschneider</strong>, Baylor University</li>
+        
+        <li><strong>Sofia Schöbel</strong>, University of Osnabrück</li>
+        
+        <li><strong>Yash Shreshta</strong>, University of Lausanne</li>
+        
+        <li><strong>Thorsten Schoormann</strong>, Roskilde University</li>
+        
+        <li><strong>Klaas Jan Stol</strong>, University College Cork</li>
+        
+        <li><strong>Monica Chiarini Tremblay</strong>, William &amp; Mary</li>
+        
+        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
+        
+        <li><strong>Jan vom Brocke</strong>, University of Münster</li>
+        
+        <li><strong>Sofie Wass</strong>, University of Agder</li>
+        
+    </ul>
+    
+</div>]]></content:encoded>
+            <author>European Journal of Information Systems (EJIS)</author>
+        </item>
         <item>
             <title><![CDATA[Platform Partnerships]]></title>
             <link>https://callsforpapers.org/call/jsis-platform-partnerships</link>
