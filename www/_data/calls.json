@@ -5,7 +5,7 @@
     "metaTitle": "Transformative AI in Online Markets: Development, Impact, and the Road Ahead",
     "url": "https://www.sciencedirect.com/special-issue/327959/transformative-ai-in-online-markets-development-impact-and-the-road-ahead",
     "slug": "im-transformative-ai-in-online-markets-development-impact-and-the-road-ahead",
-    "contentHash": "b1a64594b273b7c26538cc37b84807812a85ae76e1588277f5d17fbd52a60735",
+    "contentHash": "c021856c30c6595f8a1a96dfb2a9d398b5beaaff2ac419648b22a37bbf2915c9",
     "title": "Transformative AI in Online Markets: Development, Impact, and the Road Ahead",
     "topics": [
       "Models and algorithms that can bring a transformative impact on online markets",
@@ -23,16 +23,16 @@
     ],
     "description": {
       "paragraphs": [
-        "With the proliferation of the internet and mobile technology in the past two decades (Chen et al. 2002), online markets and platforms have experienced exponential growth and become a cornerstone of modern commerce, transforming how businesses operate and how consumers engage with products and services (Feng et al. 2024; Phan and Vogel 2010). The development of the online market attracted significant attention from academia. As technology continues to advance, the online market will become even more integral to the global economy, driving innovation and competition across industries and bringing operational efficiency.",
-        "Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the boundaries of innovation and efficiency (Fügener et al. 2021; Lee et al. 2023; Noy and Zhang 2023). Its rapid development is driven by advances in models (including machine learning, deep learning, and large models) and computational power, enabling AI systems to perform complex tasks with unprecedented accuracy and speed. The importance of AI lies in its potential to solve complex problems, improve productivity, and drive economic growth (Wei et al. 2025). As a result, “Transformative AI” is coined to refer to AI systems that have the potential to cause a significant (often positive) impact on society, economy, or even humans (Banafa 2023; Wessel et al. 2025). Transformative AI refers to the effects the AI would have on humanity’s well-being, instead of specific capabilities the AI may have.",
-        "As AI technologies continue to evolve, they promise to unlock new opportunities, foster innovation, and address global challenges (Mikalef and Gupta 2021). In particular, in online markets—a foundation of the digital economy—we posit that AI will bring transformative power to further enhance and even revolutionize the online market through enhancing personalization, optimizing operations, and improving human-platform interaction (Chen and Chan. 2024; Deng et al. 2023). With ongoing advancements, AI will further integrate into online markets, driving innovation and creating a more dynamic, efficient, and customer-centric digital shopping experience (Rai et al. 2019; Wang et al. 2025).",
-        "In viewing this potential trend, this special issue calls for efforts from information systems and information management scholars on the study of the design, use, impact, and management of AI in online markets that may transform online markets that facilitate the exchange of products, services, innovations, and algorithms, among others. This special issue encourages research using different technical, empirical, or behavioral methods. We welcome research performed at the individual, group, organizational, and societal levels. We particularly welcome the studies that can bring insights to the future or AI in online markets, where the two powers join together."
+        "With the proliferation of the internet and mobile technology in the past two decades (Chen et al. 2002), online markets and platforms have experienced exponential growth and become a cornerstone of modern commerce, transforming how businesses operate and how consumers engage with products and services (Phan and Vogel 2010). The development of the online market attracted significant attention from academia.",
+        "Meanwhile, driven by advances in models (including machine learning, deep learning, and large models) and computational power, artificial Intelligence (AI) has emerged as a transformative force, reshaping organizations and innovations (Fügener et al. 2021; Lee et al. 2023). The importance of AI goes beyond the improvement in operational performance, such as in personalization, recommendation, and data processing, and lies in the potential to solve complex problems with significant impacts (Wei et al. 2025). The term “transformative AI” was coined to refer to such potential of AI to change society, economy, or even humans (Banafa 2023; Trammell and Korinek 2023; Wessel et al. 2025).",
+        "In particular, we posit that AI will bring transformative power to revolutionize the online market — a foundation of the digital economy. As AI technologies continue to evolve, they promise to unlock new opportunities, foster innovation, and address global challenges (Mikalef and Gupta 2021). With AI’s further integration into online markets, it may create a more dynamic, efficient, and customer-centric digital shopping experience (Deng et al. 2023; Rai et al. 2019; Wang et al. 2025).",
+        "In light of this potential, this special issue invites efforts from information systems scholars to study the design, use, impact, and management of AI that may transform online markets for exchanging products, services, innovations, and algorithms, among other things. This special issue encourages research using technical, empirical, or behavioral methods performed at individual, group, organizational, or societal levels. We particularly welcome the studies that can bring insights into the future of AI in online markets."
       ]
     },
     "tags": [
       "ai",
-      "online market",
-      "transformative technology"
+      "online markets",
+      "digital economy"
     ],
     "editors": [
       {
@@ -54,12 +54,24 @@
         "affiliation": "HK University of Science and Technology"
       },
       {
+        "name": "Ashish Gupta",
+        "affiliation": "Auburn University"
+      },
+      {
         "name": "Wei Hu",
         "affiliation": "Tongji University"
       },
       {
+        "name": "Araz Jabbari",
+        "affiliation": "Laval University"
+      },
+      {
         "name": "Rain Kan",
         "affiliation": "Indiana University"
+      },
+      {
+        "name": "Satish Krishnan",
+        "affiliation": "IIM Kozhikode"
       },
       {
         "name": "Akshat Lakhiwal",
@@ -67,7 +79,11 @@
       },
       {
         "name": "Mengxiang Li",
-        "affiliation": "Hong Kong Baptist Univeristy"
+        "affiliation": "Hong Kong Baptist University"
+      },
+      {
+        "name": "Guangrui (Kayla) Li",
+        "affiliation": "York University"
       },
       {
         "name": "Yijing Li",
@@ -106,24 +122,64 @@
         "affiliation": "University of Arizona"
       },
       {
+        "name": "Pankaj Setia",
+        "affiliation": "IIM Ahmedabad"
+      },
+      {
         "name": "Yani Shi",
         "affiliation": "Southeast University"
+      },
+      {
+        "name": "Anuragini Shirish",
+        "affiliation": "Institute Mines-Télécom"
+      },
+      {
+        "name": "Nichalin Summerfield",
+        "affiliation": "Umass Lowell"
       },
       {
         "name": "Jianshan Sun",
         "affiliation": "Hefei University of Technology"
       },
       {
-        "name": "Lei Wang",
-        "affiliation": "Indiana University"
+        "name": "Xue (Jane) Tan",
+        "affiliation": "Southern Methodist University"
+      },
+      {
+        "name": "Ching-I Teng",
+        "affiliation": "Chang Gung University"
       },
       {
         "name": "Yu Tong",
         "affiliation": "Zhejiang University"
       },
       {
+        "name": "Mochen Yang",
+        "affiliation": "University of Minnesota"
+      },
+      {
+        "name": "Lei Wang",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Samuel Fosso Wamba",
+        "affiliation": "Toulouse Business School"
+      },
+      {
         "name": "Tracy Yang",
         "affiliation": "City University of Hong Kong"
+      },
+      {
+        "name": "Niam Yaraghi",
+        "affiliation": "Miami University"
+      },
+      {
+        "name": "Dezhi (Denny) Yin",
+        "affiliation": "University of South Florida"
+      },
+      {
+        "name": "Mi Zhou",
+        "affiliation": "University of British Columbia"
       },
       {
         "name": "Sijia Zhou",
@@ -132,43 +188,48 @@
     ],
     "dates": [
       {
+        "date": "2025-11-23T12:00:00.000Z",
+        "description": "Call for papers announcement date for the special issue.",
+        "is_full_paper_submission_deadline": false
+      },
+      {
         "date": "2026-03-01T12:00:00.000Z",
-        "description": "Submission system open",
+        "description": "Submission system open.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2026-06-01T12:00:00.000Z",
-        "description": "Submission deadline",
+        "description": "Submission deadline for full papers.",
         "is_full_paper_submission_deadline": true
       },
       {
         "date": "2026-09-01T12:00:00.000Z",
-        "description": "First-round authors notification",
+        "description": "First-round authors notification.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-03-01T12:00:00.000Z",
-        "description": "First-round revisions deadline",
+        "description": "First-round revisions deadline.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-05-01T12:00:00.000Z",
-        "description": "Second round authors notification",
+        "description": "Second round authors notification.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-08-01T12:00:00.000Z",
-        "description": "Second round revision deadline",
+        "description": "Second round revision deadline.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-10-01T12:00:00.000Z",
-        "description": "Final author notification",
+        "description": "Final author notification.",
         "is_full_paper_submission_deadline": false
       },
       {
         "date": "2027-12-01T12:00:00.000Z",
-        "description": "Projected publication date",
+        "description": "Projected publication date.",
         "is_full_paper_submission_deadline": false
       }
     ],
@@ -1510,8 +1571,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-23T03:07:30.034Z"
+    "active": false,
+    "pubDate": "2025-03-23T03:07:30.034Z",
+    "gracePeriod": "2025-12-28T03:18:38.126Z"
   },
   {
     "journal": "Journal of Information Technology",
@@ -1610,6 +1672,65 @@
     "pubDate": "2025-03-13T10:51:27.457Z"
   },
   {
+    "journal": "The Journal of Strategic Information Systems",
+    "abbreviation": "jsis",
+    "metaTitle": "Call for Special Issue Review Articles",
+    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
+    "slug": "jsis-call-for-special-issue-review-articles",
+    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
+    "title": "Review Articles in the Realm of Strategic Information Systems",
+    "topics": [
+      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
+      "Synthesis of recent research and future inquiries",
+      "Established and emerging topics in strategic information systems",
+      "Research methods relevant to the context of strategic information systems"
+    ],
+    "description": {
+      "paragraphs": [
+        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
+        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
+        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
+      ]
+    },
+    "tags": [
+      "strategic information systems",
+      "review articles"
+    ],
+    "editors": [
+      {
+        "name": "Marco Marabelli",
+        "affiliation": "Bentley University"
+      },
+      {
+        "name": "Rohit Nishant",
+        "affiliation": "Queen's Business School"
+      },
+      {
+        "name": "Tuure Tuunanen",
+        "affiliation": "University of Jyväskylä"
+      },
+      {
+        "name": "Wenyu (Derek) Du",
+        "affiliation": "Beihang University"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": "2025-09-01T12:00:00.000Z",
+        "description": "Full draft of paper due",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-09-01T12:00:00.000Z",
+        "description": "Special issue published",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2025-03-13T10:47:42.901Z"
+  },
+  {
     "journal": "Information Systems Journal",
     "abbreviation": "isj",
     "metaTitle": "Understanding Resistance to Digital Transformation",
@@ -1695,67 +1816,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
-  },
-  {
-    "journal": "The Journal of Strategic Information Systems",
-    "abbreviation": "jsis",
-    "metaTitle": "Call for Special Issue Review Articles",
-    "url": "https://www.sciencedirect.com/special-issue/319736/call-for-special-issue-review-articles",
-    "slug": "jsis-call-for-special-issue-review-articles",
-    "contentHash": "320c058a49e69f33520288ed431ee862579534a11bc7d9cfd1a4ac873a1cb729",
-    "title": "Review Articles in the Realm of Strategic Information Systems",
-    "topics": [
-      "High-impact scholarly surveys of important research literatures in the strategic information systems domain",
-      "Synthesis of recent research and future inquiries",
-      "Established and emerging topics in strategic information systems",
-      "Research methods relevant to the context of strategic information systems"
-    ],
-    "description": {
-      "paragraphs": [
-        "The Journal of Strategic Information Systems dedicates an issue of JSIS each year to review articles in the realm of strategic information systems, broadly defined.",
-        "We are now inviting authors to submit review articles for the 2027 Review Issue. Papers should be submitted before 1 September 2025 via JSIS’s online submission portal. Submissions will be evaluated concerning the following criteria: relevance, scope of interest, organization and coherence, insight for future work, timeliness/contribution.",
-        "The review article should follow a logical structure, read clearly, and represent extant research in the topic area concerned. It should convey important implications for future research in strategic information systems."
-      ]
-    },
-    "tags": [
-      "strategic information systems",
-      "review articles"
-    ],
-    "editors": [
-      {
-        "name": "Marco Marabelli",
-        "affiliation": "Bentley University"
-      },
-      {
-        "name": "Rohit Nishant",
-        "affiliation": "Queen's Business School"
-      },
-      {
-        "name": "Tuure Tuunanen",
-        "affiliation": "University of Jyväskylä"
-      },
-      {
-        "name": "Wenyu (Derek) Du",
-        "affiliation": "Beihang University"
-      }
-    ],
-    "associate_editors": [],
-    "dates": [
-      {
-        "date": "2025-09-01T12:00:00.000Z",
-        "description": "Full draft of paper due",
-        "is_full_paper_submission_deadline": true
-      },
-      {
-        "date": "2027-09-01T12:00:00.000Z",
-        "description": "Special issue published",
-        "is_full_paper_submission_deadline": false
-      }
-    ],
-    "active": true,
-    "pubDate": "2025-03-13T10:47:42.901Z"
+    "active": false,
+    "pubDate": "2025-03-13T10:47:42.901Z",
+    "gracePeriod": "2025-12-28T03:18:38.126Z"
   },
   {
     "journal": "Information and Management",
@@ -2018,8 +2081,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-12-25T07:52:15.170Z"
+    "active": false,
+    "pubDate": "2024-12-25T07:52:15.170Z",
+    "gracePeriod": "2025-12-28T03:18:38.126Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -2942,8 +3006,9 @@
         "is_full_paper_submission_deadline": true
       }
     ],
-    "active": true,
-    "pubDate": "2024-07-18T10:34:43.000Z"
+    "active": false,
+    "pubDate": "2024-07-18T10:34:43.000Z",
+    "gracePeriod": "2025-12-28T03:18:38.126Z"
   },
   {
     "journal": "Decision Support Systems",
