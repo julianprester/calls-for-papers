@@ -2390,8 +2390,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-11-09T12:48:44.000Z"
+    "active": false,
+    "pubDate": "2024-11-09T12:48:44.000Z",
+    "gracePeriod": "2025-12-31T03:57:37.177Z"
   },
   {
     "journal": "Journal of Information Technology",
