@@ -2803,8 +2803,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2024-10-16T05:11:12.000Z"
+    "active": false,
+    "pubDate": "2024-10-16T05:11:12.000Z",
+    "gracePeriod": "2026-01-02T03:23:41.596Z"
   },
   {
     "journal": "Information and Organization",
@@ -5393,8 +5394,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2023-12-12T05:15:06.000Z"
+    "active": false,
+    "pubDate": "2023-12-12T05:15:06.000Z",
+    "gracePeriod": "2026-01-02T03:23:41.596Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
