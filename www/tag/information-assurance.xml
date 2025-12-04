@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: information assurance</title>
         <link>https://callsforpapers.org/tag/information-assurance</link>
         <description>Latest calls for papers tagged with 'information assurance'.</description>
-        <lastBuildDate>Wed, 03 Dec 2025 03:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 03:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -38,29 +38,29 @@
     
     <p>As society steps into the age of generative AI (GenAI), fresh challenges and opportunities are arising in the realms of information security, privacy, and quality. Questions have emerged regarding the role and intended/unintended consequences of GenAI in information assurance. GenAI is believed to pose a paradox, serving as a dual-edged sword in the realm of information assurance.</p>
     
-    <p>The emergence of GenAI is poised to exert a profound impact on assurance. On the one hand, GenAI has been recognized for its ability to bolster information assurance. On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. Tremendous new opportunities exist for information systems scholars to study information assurance issues within the context of GenAI, as traditional approaches may not work.</p>
+    <p>The emergence of GenAI is poised to exert a profound impact on assurance. On the one hand, GenAI has been recognized for its ability to bolster information assurance and has the potential to strengthen business defenses, accelerate security processes, and identify emerging threats as they arise. On the other hand, GenAI heightens the potency of existing threats, allows the fabrication of false information, fuels intellectual property theft, and poses challenges to governance and compliance. The 2024 February deepfake fraud incident in Hong Kong is a case in point.</p>
     
-    <p>This special issue seeks research that goes beyond simple applications of existing theories and methods from the cybersecurity literature in IS. We invite studies that explore the unique information assurance challenges in the realm of GenAI, calling for the development and application of new theories or methods.</p>
+    <p>Tremendous new opportunities exist for information systems scholars to study information assurance issues within the context of GenAI, as traditional approaches may not work. This special issue seeks research that goes beyond simple applications of existing theories and methods from the cybersecurity literature in IS. We invite studies that explore the unique information assurance challenges in the realm of GenAI, calling for the development and application of new theories or methods.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>Sophisticated human-deception attacks</li>
+        <li>Sophisticated human-deception attacks including vishing and deepfakes</li>
         
-        <li>Hallucination and confabulation</li>
+        <li>Hallucination and confabulation leading to misinformation</li>
         
-        <li>Intellectual property theft</li>
+        <li>Intellectual property theft from GenAI-generated content</li>
         
-        <li>Challenges in regulation and compliance</li>
+        <li>Regulation and compliance challenges with GenAI models</li>
         
-        <li>Unreliable training data</li>
+        <li>Unreliable training data and its impact on LLMs</li>
         
-        <li>Data poisoning</li>
+        <li>Data poisoning risks in AI models</li>
         
-        <li>Security leaks, inference attacks, and knowledge phishing</li>
+        <li>Security leaks and inference attacks related to GenAI</li>
         
-        <li>Prompt injections</li>
+        <li>Prompt injections and their implications</li>
         
     </ul>
     
@@ -69,10 +69,6 @@
     <ul>
         
         <li>January 20, 2025: Two-page abstracts due</li>
-        
-        <li>March 31, 2025: Feedback on abstracts</li>
-        
-        <li>July 11, 2025: Paper development workshop (virtual)</li>
         
         <li>October 31, 2025: First-round paper submission</li>
         
@@ -150,7 +146,19 @@
         
         <li><strong>Hong Xu</strong>, Hong Kong University of Science and Technology</li>
         
-        <li><strong>Atanu Lahiri</strong>, </li>
+        <li><strong>Atanu Lahiri</strong>, University of Texas at Dallas</li>
+        
+        <li><strong>Alvin Leung</strong>, City University of Hong Kong</li>
+        
+        <li><strong>Ting Li</strong>, Erasmus University</li>
+        
+        <li><strong>Heng Xu</strong>, University of Florida</li>
+        
+        <li><strong>Niam Yaraghi</strong>, University of Miami</li>
+        
+        <li><strong>Cathy Liu Yang</strong>, HEC Paris</li>
+        
+        <li><strong>Yingjie Zhang</strong>, Peking University</li>
         
     </ul>
     

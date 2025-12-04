@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Calls for Papers | MIS Quarterly</title>
-        <link>https://callsforpapers.org/journal/mis-quarterly</link>
-        <description>Latest calls for papers for MIS Quarterly.</description>
+        <title>Calls for Papers | Tag: security</title>
+        <link>https://callsforpapers.org/tag/security</link>
+        <description>Latest calls for papers tagged with 'security'.</description>
         <lastBuildDate>Thu, 04 Dec 2025 03:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
-            <title>Calls for Papers | MIS Quarterly</title>
+            <title>Calls for Papers | Tag: security</title>
             <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
-            <link>https://callsforpapers.org/journal/mis-quarterly</link>
+            <link>https://callsforpapers.org/tag/security</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
         <item>
@@ -159,109 +159,6 @@
         <li><strong>Cathy Liu Yang</strong>, HEC Paris</li>
         
         <li><strong>Yingjie Zhang</strong>, Peking University</li>
-        
-    </ul>
-    
-</div>]]></content:encoded>
-            <author>MIS Quarterly (MISQ)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Institutional Press in the Digital Age]]></title>
-            <link>https://callsforpapers.org/call/misq-the-institutional-press-in-the-digital-age</link>
-            <guid>misq-the-institutional-press-in-the-digital-age</guid>
-            <pubDate>Tue, 12 Dec 2023 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Ahmed Abbasi</strong>, University of Notre Dame</p>
-        
-        <p><strong>Brad N. Greenwood</strong>, George Mason University</p>
-        
-        <p><strong>Melissa Mazmanian</strong>, University of California, Irvine</p>
-        
-        <p><strong>Shaila Miranda</strong>, University of Arkansas</p>
-        
-        <p><strong>Robert Seamans</strong>, New York University</p>
-        
-    
-    
-    <p>&quot;The influence of the liberty of the press does not affect political opinions alone, but it extends to all the opinions of men, and it modifies customs as well as laws.&quot; (De Tocqueville, 1864, p. 230) Over the last 20 years, ongoing waves of digitalization have decimated the traditional business model of the news and fundamentally changed how the news, or more formally, the &#39;institutional press&#39;, works. Indeed, ever since reserved frequencies were gifted to television broadcasters in the 1950s, on the condition that they inform the public of current events, the subsidy underpinning newspapers and other forms of institutional media has slowly eroded.</p>
-    
-    <p>Like many other industries, the internet has accelerated this phenomenon. Not only has the hyper-targeted advertising facilitated by social media and other platforms functionally eroded the subsidy model to its breaking point, but the costless transmission of data facilitated by the internet has increased geographic scope of dominant players (e.g. The New York Times), permitting them to reach beyond their original markets and squeeze content producers across the globe.</p>
-    
-    <p>Against this backdrop, it is hard to overstate the importance of this &quot;crisis of the institutional press&quot; (Reese, 2020). The news provides our primary means for understanding the world around us. Societies desperately need a well-functioning institutional press to tackle the many societal, economic, and environmental challenges we all face.</p>
-    
-    <p>This failure to discuss the implications of the decline of institutional news media is troubling. Not only has the Fourth Estate historically served to counterbalance institutions with a monopoly on force and morality (e.g., the state and church), it has been a cornerstone of democratic republics for centuries. In 17th Century England, the philosopher John Locke railed against the Licensing and Press Act of 1662, claiming that &quot;gagging a man, for fear he should talk heresy or sedition, has no other ground than such as will make chains necessary.&quot; In the United States, James Madison declared the free press as &quot;the only effectual guardian of every other right.&quot;</p>
-    
-    <p>These claims are not idle musings. News media outlets have been shown to influence many societal outcomes, from government agendas to public opinion to voting behavior. The Fourth Estate mediates the attention granted to social movements and can influence the strategic management of organizations.</p>
-    
-    <p>Yet, seismic changes have assaulted the free press as we understand it. The late 20th century witnessed an increasing concentration in ownership of news outlets, leading to elevated reliance on advertising revenue that biased content. The recent history of the institutional press is interwoven with the history of digital technology</p>
-    
-    <p>Initially, the World Wide Web served largely as a vehicle for the dissemination of news produced by professional news organizations, extending their reach. In time, the ensuing competition for reader attention shifted the gatekeeping function previously served by professional news organizations to portals – or online content curators.</p>
-    
-    <p>Even more recently, society has witnessed a demonstrable shift towards the &quot;post-truth era,&quot; in which populist, tribalist, and anti- &quot;mainstream media&quot; rhetoric proliferates. Indeed, scholarship suggests that such rhetoric serves to further undermine public confidence in the institutional press, pushing large portions of the populace towards alternate media that eschew journalistic norms and evidence-based reporting. The purpose of this Special Issue is to address this gap in scholarship head on and to inform stakeholders such as media managers, social planners, legislators, trade associations, regulators, and journalists about how changes in institutional media are affecting society at the intersection of business, technology, and public policy.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>The Changing Nature of the Press</li>
-        
-        <li>Non-traditional Digital Era News Sources</li>
-        
-        <li>What Constitutes News in the Digital Era</li>
-        
-        <li>The Interaction of Social and Institutional Media</li>
-        
-        <li>Professional Standards and Gatekeeping</li>
-        
-        <li>Sociotechnical Approaches</li>
-        
-        <li>IT Artifacts for Aspirational Press</li>
-        
-        <li>News as a Dynamic Construct</li>
-        
-        <li>News as a Societal Information System</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>April 30, 2024: Abstract Deadline</li>
-        
-        <li>December 1, 2024: Submission Deadline</li>
-        
-        <li>May 15, 2026: Final Decisions</li>
-        
-    </ul>
-    
-    
-    <h2>Associate editors</h2>
-    <ul>
-        
-        <li><strong>Mike Ananny</strong>, University of Southern California, USA</li>
-        
-        <li><strong>Jens Foerderer</strong>, Technische Universität München, Germany</li>
-        
-        <li><strong>Anand Gopal</strong>, National Technical University of Singapore</li>
-        
-        <li><strong>Brent Kitchens</strong>, University of Virginia, USA</li>
-        
-        <li><strong>Gene Moo Lee</strong>, UBC Sauder School of Business, Canada</li>
-        
-        <li><strong>Attila Marton</strong>, Copenhagen Business School, Denmark</li>
-        
-        <li><strong>Jeffrey Nickerson</strong>, Stevens Institute of Technology, USA</li>
-        
-        <li><strong>Christopher Parker</strong>, American University, USA</li>
-        
-        <li><strong>Caitlin Petre</strong>, Rutgers University, USA</li>
-        
-        <li><strong>Christian Peukert</strong>, HEC Lausanne, Switzerland</li>
-        
-        <li><strong>Aleš Popovič</strong>, NEOMA Business School, France</li>
         
     </ul>
     
