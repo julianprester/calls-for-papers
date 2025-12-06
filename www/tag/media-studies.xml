@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Calls for Papers | Tag: journalism</title>
-        <link>https://callsforpapers.org/tag/journalism</link>
-        <description>Latest calls for papers tagged with 'journalism'.</description>
+        <title>Calls for Papers | Tag: media studies</title>
+        <link>https://callsforpapers.org/tag/media-studies</link>
+        <description>Latest calls for papers tagged with 'media studies'.</description>
         <lastBuildDate>Sat, 06 Dec 2025 03:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
-            <title>Calls for Papers | Tag: journalism</title>
+            <title>Calls for Papers | Tag: media studies</title>
             <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
-            <link>https://callsforpapers.org/tag/journalism</link>
+            <link>https://callsforpapers.org/tag/media-studies</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
         <item>
