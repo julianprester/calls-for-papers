@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: policy</title>
         <link>https://callsforpapers.org/tag/policy</link>
         <description>Latest calls for papers tagged with 'policy'.</description>
-        <lastBuildDate>Wed, 10 Dec 2025 03:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 03:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -36,59 +36,27 @@
     
     <p>Ethical tensions abound in relation to the pervasiveness of digital data and the widespread adoption of AI, including tensions between data privacy, fairness, and bias on the one hand, and business needs for using data for market and innovation purposes on the other. AI systems that increasingly replace cognitive tasks previously done by humans raise questions about deskilling and labor substitution and ultimately human dignity. While AI systems promise productivity gains and the potential to address key social and environmental issues, they also generate significant threats to sustainability and social challenges. Moreover, the responsibility of algorithms for the tasks they perform and the decisions they make is often not clear. The autonomy, interconnectedness, and increasing agency of digital technologies present challenges to established individualistic responsibility approaches since they make it difficult to attribute responsibility.</p>
     
-    <p>The tension between addressing ethical risks and encouraging innovation requires balancing data privacy, fairness, and bias concerns with business needs for competitiveness and value generation from digital data and AI systems. Ethical challenges have inspired regulatory and policy action around digital technologies, particularly with respect to data and AI. The United States National Artificial Intelligence Act of 2020 sets forth programs and activities and highlights values like trustworthiness; at the same time, it aims at creating competitive advantage for the US economy by aiming at creating an innovation ecosystem or fostering public-private partnership mechanisms. The European Union&#39;s AI Act embeds fundamental values as it seeks to accomplish &quot;a high level of protection of health, safety, fundamental rights&quot; and defines requirements for transparency monitoring, market surveillance, governance that provide legitimacy for the use of AI systems. In addition, it seeks to promote innovation by means of regulatory sandboxes to foster innovation. The tension between data privacy and use, for instance, is reflected in the General Data Protection Regulation which builds on privacy as a fundamental value.</p>
-    
-    <p>Regulatory responses involve institutional construction and ongoing institutional change, often requiring the deliberate coordination and action of change agents at different levels, including political, corporate, or non-governmental individuals and groups. These actors need to make sense of emerging technologies and their prospects to create policy and to regulate them. Rapid changes in the sociotechnical context fueled by the decentralized and immaterial nature of digital technologies require frequent updates and often render conventional approaches to setting regulation and policy slow and ineffective. This development has given rise to a move from established frameworks that focus on sanctioning undesired behaviors through stable, well-established structures, to regulatory and policy-focused frameworks that allow for more frequent updates and results in novel approaches to ensuring ethical technological advancement.</p>
-    
-    <p>Digital technologies serve a dual role—they are both the source of ethical concerns triggering regulatory change and a tool for implementing, monitoring, and updating policies and regulations, distinguishing &quot;regulation of technology&quot; from &quot;regulation through technology.&quot; Other regulatory approaches include market regulation through contracts, as well as self-regulation, the &quot;practice of industry taking the initiative to formulate and enforce rules and codes of conduct.&quot; Such soft-law approaches consist of &quot;non-binding norms of action, process, and behaviour, for whom sanctions of the formal regulatory type play no part.&quot; Beyond merely complying with regulations, many organizations are seeking to internalize ethical approaches to the governance of powerful digital technologies. Rules can even be implemented in software and thus allow for new forms of algorithmic regulation, highlighting how technology can be a carrier of institutional elements.</p>
-    
-    <p>Clearly, digital technology is not only an external agent that raises ethical concerns and triggers regulatory change. As a tool and agent, digital technologies can serve to implement, monitor, and update policies and regulations. Such tools help regulatory institutions achieve legitimacy and stability—for instance, when &quot;regtech&quot; monitors the implementation of a regulation, when smart contracts prevent post-hoc changes, or when a system&#39;s architecture prevents certain uses or nudges users towards preferred uses. Technology is not only the source of unanticipated challenges, but can also be part of the solution for regulatory problems, which marks the distinction between &quot;regulation of technology&quot; and &quot;regulation through technology.&quot;</p>
-    
-    <p>Ethical challenges as well as policy and regulatory change require organizational efforts to adopt and comply with new regulations and policies. This is challenging, since it requires organizational actors to make sense of and interpret the often-complex changes in the regulatory institutional environment and demands changes in organizational practices as well as technology architecture and implementation. For instance, the General Data Protection Regulation and subsequent European data regulations have had profound organizational impacts related to the implementation of technical solutions, adjustments of organizational structure, and strategic considerations about minimal compliance and full adoption. Further, organizations are not necessarily passive recipients of regulatory change and new policies, but they respond to regulatory pressures in different ways and actively take positions to influence and shape regulations and policy.</p>
-    
-    <p>The scholarly information systems community provides rich theoretical perspectives to study the institutional challenges around ethics, regulation, and policy. Specifically, the information systems field provides a sociotechnical foundation for understanding the ethical implications of digital technologies. Research is pointing to a host of ethical issues relating to contemporary digital technologies such as AI systems and information systems research is developing approaches for tackling these thorny issues. Organizations are increasingly being held accountable for ethical issues, and the field provides a foundation in organizational governance and in design of technology that can inform research into these issues. Further, the field has developed a rich body of literature regarding how digital technologies are implicated in institutional change, in general, including on how institutional elements, material elements, and enacted practices shape each other in various ways. Researchers have paid increasing attention to how these practices are related to the broader institutional context at the field-level, and recent work has focused on regulatory institutions in particular.</p>
-    
-    <p>Technology regulation and policy seeks to allow for innovation while mitigating the risk associated with those technologies. This special issue seeks sociotechnical research that draws on information systems insights to understand how ethical, regulatory, and policy issues evolve and are addressed; their impact on innovation and sustainability; effective regulatory design and governance; compliant technology design; and organizational adaptation under economic, ethical, environmental, and social considerations.</p>
+    <p>The tension between addressing ethical risks and encouraging innovation requires balancing data privacy, fairness, and bias concerns with business needs for competitiveness and value generation from digital data and AI systems. Ethical challenges have inspired regulatory and policy action around digital technologies, particularly with respect to data and AI. The United States National Artificial Intelligence Act of 2020 sets forth programs and activities and highlights values like trustworthiness; at the same time, it aims at creating competitive advantage for the US economy by aiming at creating an innovation ecosystem or fostering public-private partnership mechanisms. The European Union&#39;s AI Act embeds fundamental values as it seeks to accomplish &quot;a high level of protection of health, safety, fundamental rights&quot; and defines requirements for transparency monitoring, market surveillance, governance that provide legitimacy for the use of AI systems.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>Ethical issues with digital technologies and associated organizational governance: responsible AI, AI governance, data governance (privacy, security, bias, scrutability, etc.), guardrails</li>
+        <li>Technology/AI/data ethics</li>
         
-        <li>The emergence and change of norms and cultural values through emerging technologies and AI</li>
+        <li>Technology/AI/data regulation</li>
         
-        <li>Sustainable development and technology regulation: environmental, social, governance (ESG) issues and technology and organizations</li>
+        <li>Technology/AI/data policy</li>
         
-        <li>Digital, data, and technology policy: antecedents, processes, types, consequences, and decision making</li>
+        <li>Governance</li>
         
-        <li>Regulation of digital technologies, data, and artificial intelligence: design, institutional actors, drivers, and impacts</li>
+        <li>Organizational challenges in regulatory compliance</li>
         
-        <li>Legal technologies (&quot;Legal Tech&quot;) in regulatory and policy design</li>
+        <li>Value generation from digital data</li>
         
-        <li>The effectiveness of regulatory approaches such as risk-based regulation in the face of sociotechnical change</li>
+        <li>Sustainable development and technology regulation</li>
         
-        <li>Regulatory enforcement and compliance: regulatory technologies in organizations</li>
-        
-        <li>Design and impact of technologies for compliance and risk management practices (&quot;RegTech&quot;)</li>
-        
-        <li>Design and effects of technologies for supervisory activities (&quot;SupTech&quot;)</li>
-        
-        <li>Digital technologies as institutional carriers: Algorithmic regulation and regulation by architecture</li>
-        
-        <li>Data regulations (e.g., EU GDPR; Data Act; AI Act, etc.) and their impact on organizations, particularly in terms of innovation and entrepreneurship</li>
-        
-        <li>AI regulation, market transparency, and economic performance</li>
-        
-        <li>Regulatory transformations in data privacy and market competition</li>
-        
-        <li>Design, development, change, and governance practices associated with digital technologies</li>
-        
-        <li>Organizational adoption of technology regulation and policy: institutional legitimacy, signaling, trust, regulatory compliance</li>
-        
-        <li>Policy and decision analysis around regulations, organizational actions, and their implications</li>
-        
-        <li>Organizational institutionalism and digital technologies, data, and AI</li>
+        <li>Ethical challenges and governance</li>
         
     </ul>
     
