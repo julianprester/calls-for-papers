@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Calls for Papers | Information and Organization</title>
-        <link>https://callsforpapers.org/journal/information-and-organization</link>
-        <description>Latest calls for papers for Information and Organization.</description>
+        <title>Calls for Papers | Tag: technology adoption</title>
+        <link>https://callsforpapers.org/tag/technology-adoption</link>
+        <description>Latest calls for papers tagged with 'technology adoption'.</description>
         <lastBuildDate>Sun, 29 Mar 2026 04:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
-            <title>Calls for Papers | Information and Organization</title>
+            <title>Calls for Papers | Tag: technology adoption</title>
             <url>https://callsforpapers.org/public/favicon/android-chrome-96x96.png</url>
-            <link>https://callsforpapers.org/journal/information-and-organization</link>
+            <link>https://callsforpapers.org/tag/technology-adoption</link>
         </image>
         <copyright>Calls for Papers © 2025</copyright>
         <item>
@@ -83,72 +83,6 @@
         <li>June 15, 2028: Second round resubmissions</li>
         
         <li>October 1, 2028: Final papers selected &amp; editorial</li>
-        
-    </ul>
-    
-    
-</div>]]></content:encoded>
-            <author>Information and Organization (IO)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorithmic Assemblages—Fields, Ecosystems, and Platforms: An Interpretive Approach]]></title>
-            <link>https://callsforpapers.org/call/io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach</link>
-            <guid>io-algorithmic-assemblagesfields-ecosystems-and-platforms-an-interpretive-approach</guid>
-            <pubDate>Tue, 19 Aug 2025 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-    
-        
-        <p><strong>Timothy Hannigan</strong>, Telfer School of Business</p>
-        
-        <p><strong>P. Devereaux Jennings</strong>, Alberta School of Business</p>
-        
-        <p><strong>Shaila Miranda</strong>, Information Systems Sam M. Walton College of Business</p>
-        
-        <p><strong>Samer Faraj</strong>, Desautels Faculty of Management at McGill University</p>
-        
-    
-    
-    <p>This Special Issue is devoted to interpretive approaches to studying algorithmic assemblages constitutive of and by fields, ecosystems, and platforms and combining research from an organizational and information systems view about such organizing features and their dynamics. Information technologies have progressively enabled a shift in the locus of value creation, capture, and resource orchestration and the processes they entail from within organizations to more loosely coupled and emergently structured sociotechnical systems. The interpretive approach stems from the relational turn in organization theory and considers assemblages and algorithmic organizing as views of key constructs and their associated processes.</p>
-    
-    <p>To date, there has been less theory-building and empirical research connecting macro constructs with the micro-dynamics of these systems. It is particularly unclear how algorithmic technologies enable the interconnections of organizational ecosystems and facilitate legitimacy dynamics of institutional fields. Furthermore, it is not clear how algorithmic technologies circumscribe meanings across global fields and societies. The call for theory and research relies on relational approaches coming from both organization theory and information systems.</p>
-    
-    
-    <h2>Potential topics</h2>
-    <ul>
-        
-        <li>Interpretive approaches to algorithmic assemblages</li>
-        
-        <li>Relational approaches from organization theory</li>
-        
-        <li>The dynamics of algorithmic technologies in organizational ecosystems</li>
-        
-        <li>Legitimacy dynamics of institutional fields</li>
-        
-        <li>Impact of AI and blockchain on organizational structures and meanings</li>
-        
-        <li>Methodological frameworks for studying technology-mediated organizing</li>
-        
-    </ul>
-    
-    
-    <h2>Timeline</h2>
-    <ul>
-        
-        <li>May 15, 2026: Submission deadline for full papers</li>
-        
-        <li>September 15, 2026: First round reviews due</li>
-        
-        <li>October 31, 2026: First round decision letters sent out</li>
-        
-        <li>February 28, 2027: First round paper resubmissions</li>
-        
-        <li>May 31, 2027: Second round reviews due</li>
-        
-        <li>July 15, 2027: Second round decision letters sent out</li>
-        
-        <li>October 15, 2027: Second round paper resubmissions</li>
-        
-        <li>March 15, 2028: Final papers selected, introductory editorial paper written</li>
         
     </ul>
     

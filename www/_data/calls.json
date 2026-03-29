@@ -1,5 +1,106 @@
 [
   {
+    "journal": "Information and Organization",
+    "abbreviation": "io",
+    "metaTitle": "Hype Studies: A Research Agenda for Organizing in Digital Futures",
+    "url": "https://www.sciencedirect.com/special-issue/331903/hype-studies-a-research-agenda-for-organizing-in-digital-futures",
+    "slug": "io-hype-studies-a-research-agenda-for-organizing-in-digital-futures",
+    "contentHash": "b6e4bdff0d127594f8f769bb4efa9d76aea029673c2b385e60348e0bcd62f5af",
+    "title": "Hype Studies: A Research Agenda for Organizing in Digital Futures",
+    "topics": [
+      "Hype, decision-making, and organisational practice: How do organisations make technology adoption, investment, and procurement decisions amid competing and exaggerated claims?",
+      "Attention, legitimacy, and the mediation of technological futures: How is collective attention mobilised around particular technologies?",
+      "Intermediaries, promissory products, and the infrastructure of hype: How do industry analysts, consultants, investors, and media actors produce and evaluate hype?",
+      "Hype across time and the innovation lifecycle: How does hype’s role shift from early-stage field formation through market-making to organisational adoption?",
+      "Contestation, competition, and the politics of hype: How do actors challenge or reframe hyped claims?",
+      "Hype, wicked problems, and digital futures: How do hype dynamics interact with intractable or ‘wicked’ social problems?"
+    ],
+    "description": {
+      "paragraphs": [
+        "We are living through an era of ‘hyper-hype’. Generative AI, blockchain, the metaverse, and quantum computing arrive in successive waves, each reshaping how markets are formed, navigated, and contested. Hype is not incidental noise; it is a constitutive force of contemporary digital capitalism. Yet despite its pervasive influence, hype has rarely been examined as a phenomenon in its own right by information systems (IS) and organisation and management theory (OMT) scholars.",
+        "This Special Issue advances scholarly understanding of hype as a central yet under-examined phenomenon shaping the digital future. We invite contributions from IS, OMT and related fields, including Science & Technology Studies (STS), Economic Sociology, Market Studies, etc., that treat hype not as rhetorical excess to be dismissed, but as a patterned and consequential feature of contemporary digital innovation.",
+        "Hype is commonly defined as a surge in attention, excitement, and expectations, often surrounding emerging technologies, mobilised through promissory narratives. Its role and meaning vary across contexts: some view hype as dangerous, while others regard it as necessary or even desirable for innovation. Economic sociologists position hype as a driving force for capitalism itself, fuelling the ‘animal spirits’ of the economy through fictional expectations. We treat this ambivalence as a constitutive feature of hype, making it analytically interesting and empirically tractable. Rather than asking whether hype is good or bad, we ask how hype works: how it directs attention, mobilises resources, coordinates belief, structures decision-making under uncertainty, and shapes how digital futures are imagined and acted upon. We aim for a symmetrical approach, tracing how it produces effects in practice.",
+        "Hype is not merely a cultural or discursive overlay but a constitutive condition shaping organisational decisions about technology adoption, investment, governance, and digital transformation. Scholars have long examined closely related phenomena, including organising visions, management fashions, and future-oriented imaginaries. The concept of organising visions shows how interorganisational communities construct shared understandings that enable interpretation, legitimation, and resource mobilisation, while management fashion research highlights transitory waves of belief in novel and efficient technologies.",
+        "This positions IS & OMT scholars to examine how organisations work with hype, how they probe, qualify, hedge, and selectively stabilise hyped claims so uncertain digital futures become provisional commitments. This foregrounds decision-making under uncertainty and the growing operationalisation of hype: the tangible practices and evaluative infrastructures through which promissory claims are made actionable. These concerns align with a broader shift across multiple disciplines that treats the future not as a distant abstraction but as a site of practical engagement. Scholars in Future Studies have moved toward practice-oriented perspectives, tracing how entrepreneurs mobilise 'projective stories' to navigate disappointment. The critical question is not whether the future can be known, but how it is rendered actionable in the present. This reframing speaks directly to IS and OMT concerns about digital futures, in which expectations are increasingly packaged, priced, and systematically appraised through a growing 'market of expectations'.",
+        "At the same time, hype is not reducible to other future-oriented concepts. Whereas organising visions rely on shared meaning and relative interpretive stability to enable coordination and implementation, hype can thrive on ambiguity. It often gains traction precisely because it allows diverse audiences to project divergent expectations, interests, and imaginaries onto emerging technologies before stable interpretive communities have formed. We therefore anticipate that contributions to the special issue will clarify how hype intersects with, extends, and departs from more established concepts, specifying its distinctive dynamics and analytical value. Our goal is to contribute to an already emerging cross-disciplinary conversation. We invite work that helps articulate Hype Studies as a shared analytical space linking IS and OMT, STS, Economic Sociology, Market Studies, and related traditions. Our contribution is to draw these strands together more explicitly around hype, not as mere exaggeration, but as an evolving and institutionalised phenomenon that can be empirically traced over time."
+      ]
+    },
+    "tags": [
+      "hype",
+      "digital futures",
+      "technology adoption",
+      "digital innovation"
+    ],
+    "editors": [
+      {
+        "name": "Neil Pollock",
+        "affiliation": "University of Edinburgh"
+      },
+      {
+        "name": "Danielle Logue",
+        "affiliation": "UNSW Business School"
+      },
+      {
+        "name": "Harro van Lente",
+        "affiliation": "Maastricht University"
+      },
+      {
+        "name": "Marian Gatzweiler",
+        "affiliation": "University of Edinburgh"
+      }
+    ],
+    "associate_editors": [],
+    "dates": [
+      {
+        "date": null,
+        "description": "Paper Development Workshop",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-01-31T12:00:00.000Z",
+        "description": "Submission deadline",
+        "is_full_paper_submission_deadline": true
+      },
+      {
+        "date": "2027-05-15T12:00:00.000Z",
+        "description": "First round reviews due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-06-30T12:00:00.000Z",
+        "description": "First round decision letters",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2027-10-31T12:00:00.000Z",
+        "description": "First round resubmissions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2028-01-31T12:00:00.000Z",
+        "description": "Second round reviews due",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2028-03-15T12:00:00.000Z",
+        "description": "Second round decision letters",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2028-06-15T12:00:00.000Z",
+        "description": "Second round resubmissions",
+        "is_full_paper_submission_deadline": false
+      },
+      {
+        "date": "2028-10-01T12:00:00.000Z",
+        "description": "Final papers selected & editorial",
+        "is_full_paper_submission_deadline": false
+      }
+    ],
+    "active": true,
+    "pubDate": "2026-03-29T04:43:44.759Z"
+  },
+  {
     "journal": "MIS Quarterly",
     "abbreviation": "misq",
     "metaTitle": "Ethics, Regulation, and Policy",

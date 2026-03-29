@@ -4,7 +4,7 @@
         <title>Calls for Papers | Tag: digital futures</title>
         <link>https://callsforpapers.org/tag/digital-futures</link>
         <description>Latest calls for papers tagged with 'digital futures'.</description>
-        <lastBuildDate>Wed, 31 Dec 2025 03:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 04:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,42 +15,50 @@
         </image>
         <copyright>Calls for Papers © 2025</copyright>
         <item>
-            <title><![CDATA[Designing our Digital Futures: Challenging Current Assumptions and Envisioning the Future of IS Design and Development]]></title>
-            <link>https://callsforpapers.org/call/ejis-designing-our-digital-futures</link>
-            <guid>ejis-designing-our-digital-futures</guid>
-            <pubDate>Fri, 08 Aug 2025 04:14:37 GMT</pubDate>
+            <title><![CDATA[Hype Studies: A Research Agenda for Organizing in Digital Futures]]></title>
+            <link>https://callsforpapers.org/call/io-hype-studies-a-research-agenda-for-organizing-in-digital-futures</link>
+            <guid>io-hype-studies-a-research-agenda-for-organizing-in-digital-futures</guid>
+            <pubDate>Sun, 29 Mar 2026 04:43:44 GMT</pubDate>
             <content:encoded><![CDATA[<div>
     
         
-        <p><strong>Leona Chandra Kruse</strong>, University of Agder</p>
+        <p><strong>Neil Pollock</strong>, University of Edinburgh</p>
         
-        <p><strong>Mahdi Fahmideh</strong>, University of Southern Queensland</p>
+        <p><strong>Danielle Logue</strong>, UNSW Business School</p>
         
-        <p><strong>Brian Fitzgerald</strong>, University of Limerick</p>
+        <p><strong>Harro van Lente</strong>, Maastricht University</p>
         
-        <p><strong>Tabitha James</strong>, Virginia Tech</p>
-        
-        <p><strong>Kieran Conboy</strong>, University of Galway</p>
+        <p><strong>Marian Gatzweiler</strong>, University of Edinburgh</p>
         
     
     
-    <p>Information systems (IS) design and development, heretofore a core topic in the IS field, is arguably at a critical juncture as it faces challenges unlike ever before in its short history. On one hand, there have been significant technological advances in areas such as artificial intelligence, blockchain, quantum computing that potentially provide and require different ways of designing and developing. Complementing this, the ‘digital native’ consumers of new information systems seek rapid continuous delivery of large-scale information systems, tailored to individual needs while delivering responsibly on all aspects such as privacy, fairness and transparency.</p>
+    <p>We are living through an era of ‘hyper-hype’. Generative AI, blockchain, the metaverse, and quantum computing arrive in successive waves, each reshaping how markets are formed, navigated, and contested. Hype is not incidental noise; it is a constitutive force of contemporary digital capitalism. Yet despite its pervasive influence, hype has rarely been examined as a phenomenon in its own right by information systems (IS) and organisation and management theory (OMT) scholars.</p>
     
-    <p>At this critical juncture, the goal of this special issue is to consider the next generation of IS design and development. Looking at the present, we invite researchers to challenge the fundamental prevailing assumptions of the field embracing the ‘contrarian’ and ‘pragmatic’ perspectives that underpin the ethos of the European Journal of Information Systems. We welcome papers that question the logic, methods, and tools in contemporary IS design and address topics or take perspectives that some may find uncomfortable. We invite papers that explore alternative approaches and perspectives to the design of digital futures. In addition to examining the immediate future, we encourage researchers that take a ‘Promethean’ perspective, examining radically different ways of designing technology, and taking perspectives that are very different or even unrecognisable in comparison to those envisaged by current research and practice.</p>
+    <p>This Special Issue advances scholarly understanding of hype as a central yet under-examined phenomenon shaping the digital future. We invite contributions from IS, OMT and related fields, including Science &amp; Technology Studies (STS), Economic Sociology, Market Studies, etc., that treat hype not as rhetorical excess to be dismissed, but as a patterned and consequential feature of contemporary digital innovation.</p>
     
-    <p>We invite papers on any and all aspects of IS design and development, but below are some guiding themes related to the call.</p>
+    <p>Hype is commonly defined as a surge in attention, excitement, and expectations, often surrounding emerging technologies, mobilised through promissory narratives. Its role and meaning vary across contexts: some view hype as dangerous, while others regard it as necessary or even desirable for innovation. Economic sociologists position hype as a driving force for capitalism itself, fuelling the ‘animal spirits’ of the economy through fictional expectations. We treat this ambivalence as a constitutive feature of hype, making it analytically interesting and empirically tractable. Rather than asking whether hype is good or bad, we ask how hype works: how it directs attention, mobilises resources, coordinates belief, structures decision-making under uncertainty, and shapes how digital futures are imagined and acted upon. We aim for a symmetrical approach, tracing how it produces effects in practice.</p>
+    
+    <p>Hype is not merely a cultural or discursive overlay but a constitutive condition shaping organisational decisions about technology adoption, investment, governance, and digital transformation. Scholars have long examined closely related phenomena, including organising visions, management fashions, and future-oriented imaginaries. The concept of organising visions shows how interorganisational communities construct shared understandings that enable interpretation, legitimation, and resource mobilisation, while management fashion research highlights transitory waves of belief in novel and efficient technologies.</p>
+    
+    <p>This positions IS &amp; OMT scholars to examine how organisations work with hype, how they probe, qualify, hedge, and selectively stabilise hyped claims so uncertain digital futures become provisional commitments. This foregrounds decision-making under uncertainty and the growing operationalisation of hype: the tangible practices and evaluative infrastructures through which promissory claims are made actionable. These concerns align with a broader shift across multiple disciplines that treats the future not as a distant abstraction but as a site of practical engagement. Scholars in Future Studies have moved toward practice-oriented perspectives, tracing how entrepreneurs mobilise &#39;projective stories&#39; to navigate disappointment. The critical question is not whether the future can be known, but how it is rendered actionable in the present. This reframing speaks directly to IS and OMT concerns about digital futures, in which expectations are increasingly packaged, priced, and systematically appraised through a growing &#39;market of expectations&#39;.</p>
+    
+    <p>At the same time, hype is not reducible to other future-oriented concepts. Whereas organising visions rely on shared meaning and relative interpretive stability to enable coordination and implementation, hype can thrive on ambiguity. It often gains traction precisely because it allows diverse audiences to project divergent expectations, interests, and imaginaries onto emerging technologies before stable interpretive communities have formed. We therefore anticipate that contributions to the special issue will clarify how hype intersects with, extends, and departs from more established concepts, specifying its distinctive dynamics and analytical value. Our goal is to contribute to an already emerging cross-disciplinary conversation. We invite work that helps articulate Hype Studies as a shared analytical space linking IS and OMT, STS, Economic Sociology, Market Studies, and related traditions. Our contribution is to draw these strands together more explicitly around hype, not as mere exaggeration, but as an evolving and institutionalised phenomenon that can be empirically traced over time.</p>
     
     
     <h2>Potential topics</h2>
     <ul>
         
-        <li>The role of emerging technologies in shaping the future of IS design</li>
+        <li>Hype, decision-making, and organisational practice: How do organisations make technology adoption, investment, and procurement decisions amid competing and exaggerated claims?</li>
         
-        <li>The limits of current design and development methods</li>
+        <li>Attention, legitimacy, and the mediation of technological futures: How is collective attention mobilised around particular technologies?</li>
         
-        <li>Design science beyond the science of the artificial</li>
+        <li>Intermediaries, promissory products, and the infrastructure of hype: How do industry analysts, consultants, investors, and media actors produce and evaluate hype?</li>
         
-        <li>Design and development in an era of heightened responsibility</li>
+        <li>Hype across time and the innovation lifecycle: How does hype’s role shift from early-stage field formation through market-making to organisational adoption?</li>
+        
+        <li>Contestation, competition, and the politics of hype: How do actors challenge or reframe hyped claims?</li>
+        
+        <li>Hype, wicked problems, and digital futures: How do hype dynamics interact with intractable or ‘wicked’ social problems?</li>
         
     </ul>
     
@@ -58,84 +66,29 @@
     <h2>Timeline</h2>
     <ul>
         
-        <li>January 30, 2026: Initial paper submission deadline</li>
+        <li>Invalid DateTime: Paper Development Workshop</li>
         
-        <li>April 30, 2026: First round authors notification</li>
+        <li>January 31, 2027: Submission deadline</li>
         
-        <li>August 15, 2026: Invited revisions deadline</li>
+        <li>May 15, 2027: First round reviews due</li>
         
-        <li>November 30, 2026: Second round authors notification</li>
+        <li>June 30, 2027: First round decision letters</li>
         
-        <li>February 1, 2027: Final revision deadline</li>
+        <li>October 31, 2027: First round resubmissions</li>
         
-        <li>April 1, 2027: Final authors notification</li>
+        <li>January 31, 2028: Second round reviews due</li>
         
-        <li>June 1, 2027: Projected publication</li>
+        <li>March 15, 2028: Second round decision letters</li>
+        
+        <li>June 15, 2028: Second round resubmissions</li>
+        
+        <li>October 1, 2028: Final papers selected &amp; editorial</li>
         
     </ul>
     
-    
-    <h2>Associate editors</h2>
-    <ul>
-        
-        <li><strong>Pär Ågerfalk</strong>, Uppsala University</li>
-        
-        <li><strong>David Agogo</strong>, University of Utah</li>
-        
-        <li><strong>Wasana Bandara</strong>, Queensland University of Technology</li>
-        
-        <li><strong>Richard Baskerville</strong>, Georgia State University</li>
-        
-        <li><strong>Laura Brandimarte</strong>, University of Arizona</li>
-        
-        <li><strong>Tone Bratteteig</strong>, University of Oslo</li>
-        
-        <li><strong>Noel Carroll</strong>, University of Galway</li>
-        
-        <li><strong>Shahla Ghobadi</strong>, University of Leeds</li>
-        
-        <li><strong>Asif Gill</strong>, University of Technology Sydney</li>
-        
-        <li><strong>Shirley Gregor</strong>, Australian National University</li>
-        
-        <li><strong>Samrat Gupta</strong>, IIM Ahmedabad</li>
-        
-        <li><strong>Alan Hevner</strong>, University of South Florida</li>
-        
-        <li><strong>Gwanhoo Lee</strong>, American University</li>
-        
-        <li><strong>Alexander Madche</strong>, Karlsruhe Institute of Technology</li>
-        
-        <li><strong>Sabine Matook</strong>, University of Queensland</li>
-        
-        <li><strong>Lorraine Morgan</strong>, University of Galway</li>
-        
-        <li><strong>Jeffrey Parsons</strong>, Memorial University of Newfoundland</li>
-        
-        <li><strong>Bala Ramesh</strong>, Georgia State University</li>
-        
-        <li><strong>Cynthia K. Riemenschneider</strong>, Baylor University</li>
-        
-        <li><strong>Sofia Schöbel</strong>, University of Osnabrück</li>
-        
-        <li><strong>Yash Shreshta</strong>, University of Lausanne</li>
-        
-        <li><strong>Thorsten Schoormann</strong>, Roskilde University</li>
-        
-        <li><strong>Klaas Jan Stol</strong>, University College Cork</li>
-        
-        <li><strong>Monica Chiarini Tremblay</strong>, William &amp; Mary</li>
-        
-        <li><strong>Tuure Tuunanen</strong>, University of Jyväskylä</li>
-        
-        <li><strong>Jan vom Brocke</strong>, University of Münster</li>
-        
-        <li><strong>Sofie Wass</strong>, University of Agder</li>
-        
-    </ul>
     
 </div>]]></content:encoded>
-            <author>European Journal of Information Systems (EJIS)</author>
+            <author>Information and Organization (IO)</author>
         </item>
     </channel>
 </rss>
