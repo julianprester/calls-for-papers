@@ -5,31 +5,27 @@
     "metaTitle": "Hype Studies: A Research Agenda for Organizing in Digital Futures",
     "url": "https://www.sciencedirect.com/special-issue/331903/hype-studies-a-research-agenda-for-organizing-in-digital-futures",
     "slug": "io-hype-studies-a-research-agenda-for-organizing-in-digital-futures",
-    "contentHash": "f5a717f6d52139e1ea6535cf2d1be5045e66b9b4412f5e22bedce35d3d81f082",
+    "contentHash": "cc77382a9ffa160cf33c563af5829b830952b3cbad32e22f8a7a1b9aa839d816",
     "title": "Hype Studies: A Research Agenda for Organizing in Digital Futures",
     "topics": [
       "Hype, decision-making, and organisational practice: How do organisations make technology adoption, investment, and procurement decisions amid competing and exaggerated claims? How do decision-makers navigate uncertainty without settled evidence, learning to work through hype rather than despite it? How do organisations manage hype as both a resource and a liability?",
       "Attention, legitimacy, and the mediation of technological futures: How is collective attention mobilised around particular technologies, and what strategies amplify some digital futures while marginalising others? How do algorithms, platforms, and data infrastructures participate in generating, evaluating, and sustaining hype?",
-      "Intermediaries, promissory products, and the infrastructure of hype: How do industry analysts, consultants, investors, platform owners, and media actors produce, evaluate, and recalibrate hype? How do artefacts, hype cycles, benchmarks, and categories discipline, sequence, and translate expectations into provisional, testable commitments?",
+      "Intermediaries, promissory products, and the infrastructure of hype: How do industry analysts, consultants, investors, platform owners, and media actors produce, evaluate, and recalibrate hype? What forms of expertise underpin these activities?",
       "Hype across time and the innovation lifecycle: How does hype’s role shift from early-stage field formation through market-making to organisational adoption? How are expectations stabilised, revised, or abandoned as technologies mature?",
-      "Contestation, competition, and the politics of hype: How do actors challenge, deflate, or reframe hyped claims? How has hype become a site of mediated competition?",
-      "Hype, wicked problems, and digital futures: How do hype dynamics interact with intractable or ‘wicked’ social problems?"
+      "Contestation, competition, and the politics of hype: How do actors challenge, deflate, or reframe hyped claims, and what practices of organised scepticism emerge in response to inflated expectations?",
+      "Hype, wicked problems, and digital futures: How do hype dynamics interact with intractable or ‘wicked’ social problems where repeated failure produces low expectations and innovation inertia?"
     ],
     "description": {
       "paragraphs": [
         "We are living through an era of ‘hyper-hype’. Generative AI, blockchain, the metaverse, and quantum computing arrive in successive waves, each reshaping how markets are formed, navigated, and contested. Hype is not incidental noise; it is a constitutive force of contemporary digital capitalism. Yet despite its pervasive influence, hype has rarely been examined as a phenomenon in its own right by information systems (IS) and organisation and management theory (OMT) scholars.",
         "This Special Issue advances scholarly understanding of hype as a central yet under-examined phenomenon shaping the digital future. We invite contributions from IS, OMT and related fields, including Science & Technology Studies (STS), Economic Sociology, Market Studies, etc., that treat hype not as rhetorical excess to be dismissed, but as a patterned and consequential feature of contemporary digital innovation.",
-        "Hype is commonly defined as a surge in attention, excitement, and expectations, often surrounding emerging technologies, mobilised through promissory narratives. It is often treated as background noise to be filtered out or as a moral problem associated with boom-and-bust cycles. Its role and meaning vary across contexts: some view hype as dangerous, while others regard it as necessary or even desirable for innovation. Economic sociologists position hype as a driving force for capitalism itself, fuelling the ‘animal spirits’ of the economy through fictional expectations. We treat this ambivalence as a constitutive feature of hype, one that makes it analytically interesting and empirically tractable. Rather than asking whether hype is good or bad, we ask how hype works: how it directs attention, mobilises resources, coordinates belief, structures decision-making under uncertainty, and shapes how digital futures are imagined and acted upon.",
-        "Hype is not merely a cultural or discursive overlay but a constitutive condition shaping organisational decisions about technology adoption, investment, governance, and digital transformation. In this journal, scholars have long examined closely related phenomena, including organising visions, management fashions, and future-oriented imaginaries. This positions IS & OMT scholars well to examine how organisations work with hype, how they probe, qualify, hedge, and selectively stabilise hyped claims so uncertain digital futures become provisional commitments.",
-        "These concerns align with a broader shift across multiple disciplines that treats the future not as a distant abstraction but as a site of practical engagement. Scholars in Future Studies have moved toward practice-oriented perspectives, while others have traced how entrepreneurs mobilise 'projective stories' to navigate disappointment. The critical question is not whether the future can be known, but how it is rendered actionable in the present. This reframing speaks directly to IS and OMT concerns about digital futures, in which expectations are increasingly packaged, priced, and systematically appraised. At the same time, hype is not reducible to other future-oriented concepts. Whereas organising visions rely on shared meaning and relative interpretive stability, hype can thrive on ambiguity. We therefore anticipate that contributions to the special issue will clarify how hype intersects with, extends, and departs from more established concepts, specifying its distinctive dynamics and analytical value.",
-        "The sociology of expectations offers a foundational lens for studying hype, showing how expectations are performative: they generate commitments, obligations, and coordinated action among diverse actors. Key concepts include promise–requirement cycles, arenas of expectations, distinctions between hype enactors and hype selectors, and the shift from ‘hype in the wild’ to more structured forms of ‘tamed hype’. This literature has primarily developed in early-stage innovation contexts, yielding important insights but leaving open questions particularly salient for IS and OMT research, presenting opportunities for extension."
+        "Hype is commonly defined as a surge in attention, excitement, and expectations, often surrounding emerging technologies, mobilised through promissory narratives. Its role and meaning vary across contexts: some view hype as dangerous, while others regard it as necessary or even desirable for innovation. Economic sociologists position hype as a driving force for capitalism itself. We aim for a symmetrical approach, one that traces how hype produces effects in practice."
       ]
     },
     "tags": [
-      "hype",
+      "hype studies",
       "digital futures",
-      "organizational studies",
-      "innovation"
+      "innovation management"
     ],
     "editors": [
       {
