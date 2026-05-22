@@ -93,8 +93,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2026-03-29T04:43:44.759Z"
+    "active": false,
+    "pubDate": "2026-03-29T04:43:44.759Z",
+    "gracePeriod": "2026-06-21T06:17:11.011Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -531,8 +532,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-11-25T03:21:30.208Z"
+    "active": false,
+    "pubDate": "2025-11-25T03:21:30.208Z",
+    "gracePeriod": "2026-06-21T06:17:11.011Z"
   },
   {
     "journal": "Journal of Management Information Systems",
@@ -814,8 +816,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-11-20T03:16:48.664Z"
+    "active": false,
+    "pubDate": "2025-11-20T03:16:48.664Z",
+    "gracePeriod": "2026-06-21T06:17:11.011Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -983,8 +986,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-08-23T03:09:37.402Z"
+    "active": false,
+    "pubDate": "2025-08-23T03:09:37.402Z",
+    "gracePeriod": "2026-06-21T06:17:11.011Z"
   },
   {
     "journal": "Information and Organization",
@@ -1076,8 +1080,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-08-19T03:15:46.414Z"
+    "active": false,
+    "pubDate": "2025-08-19T03:15:46.414Z",
+    "gracePeriod": "2026-06-21T06:17:11.011Z"
   },
   {
     "journal": "European Journal of Information Systems",
