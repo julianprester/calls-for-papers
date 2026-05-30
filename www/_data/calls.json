@@ -532,9 +532,8 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": false,
-    "pubDate": "2025-11-25T03:21:30.208Z",
-    "gracePeriod": "2026-06-28T06:22:55.724Z"
+    "active": true,
+    "pubDate": "2025-11-25T03:21:30.208Z"
   },
   {
     "journal": "Journal of Management Information Systems",
