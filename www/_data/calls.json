@@ -6039,8 +6039,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2023-08-29T12:54:56.000Z"
+    "active": false,
+    "pubDate": "2023-08-29T12:54:56.000Z",
+    "gracePeriod": "2026-07-04T06:52:32.767Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -6225,8 +6226,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2023-06-13T12:46:46.000Z"
+    "active": false,
+    "pubDate": "2023-06-13T12:46:46.000Z",
+    "gracePeriod": "2026-07-04T06:52:32.767Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -6384,8 +6386,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2023-01-18T12:50:43.000Z"
+    "active": false,
+    "pubDate": "2023-01-18T12:50:43.000Z",
+    "gracePeriod": "2026-07-04T06:52:32.767Z"
   },
   {
     "journal": "MIS Quarterly",
@@ -6787,8 +6790,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2022-08-18T06:37:25.000Z"
+    "active": false,
+    "pubDate": "2022-08-18T06:37:25.000Z",
+    "gracePeriod": "2026-07-04T06:52:32.767Z"
   },
   {
     "journal": "Journal of the Association for Information Systems",
@@ -6951,8 +6955,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2022-04-27T06:37:25.000Z"
+    "active": false,
+    "pubDate": "2022-04-27T06:37:25.000Z",
+    "gracePeriod": "2026-07-04T06:52:32.767Z"
   },
   {
     "journal": "MIS Quarterly",
