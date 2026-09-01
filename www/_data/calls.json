@@ -618,8 +618,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-11-22T03:12:30.440Z"
+    "active": false,
+    "pubDate": "2025-11-22T03:12:30.440Z",
+    "gracePeriod": "2026-10-01T07:43:40.040Z"
   },
   {
     "journal": "The Journal of Strategic Information Systems",
@@ -1690,8 +1691,9 @@
         "is_full_paper_submission_deadline": false
       }
     ],
-    "active": true,
-    "pubDate": "2025-05-26T03:20:42.907Z"
+    "active": false,
+    "pubDate": "2025-05-26T03:20:42.907Z",
+    "gracePeriod": "2026-10-01T07:43:40.040Z"
   },
   {
     "journal": "Journal of Information Technology",
